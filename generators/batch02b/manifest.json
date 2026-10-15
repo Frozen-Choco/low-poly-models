@@ -1,0 +1,204 @@
+{
+  "revision": "02b-r5",
+  "review_status": "approved release; integration edits reviewed separately",
+  "files": [
+    {
+      "local_path": "assets/public_recycling_bin/back.jpg",
+      "repo_relative_path": "assets/street/public_recycling_bin/back.jpg",
+      "bytes": 75594,
+      "sha256": "1a970058ed7e8d19d9b7987dc705cce5a9a5d95973f3b59aea3386acf23d59c1"
+    },
+    {
+      "local_path": "assets/public_recycling_bin/close_up.jpg",
+      "repo_relative_path": "assets/street/public_recycling_bin/close_up.jpg",
+      "bytes": 130844,
+      "sha256": "3cdf73c123d7368fef849c0393c1fd79f8e580cea305d19bf5b4caffd550cb6b"
+    },
+    {
+      "local_path": "assets/public_recycling_bin/front_three_quarter.jpg",
+      "repo_relative_path": "assets/street/public_recycling_bin/front_three_quarter.jpg",
+      "bytes": 83565,
+      "sha256": "23c2481b9e3b3b89c90c471ff64bb12949a486f5ad261909aa9eb38648fcea98"
+    },
+    {
+      "local_path": "assets/public_recycling_bin/metadata.json",
+      "repo_relative_path": "assets/street/public_recycling_bin/metadata.json",
+      "bytes": 1604,
+      "sha256": "471ac732af919dc865bb6a2ef155f0e3b082d9d6e1c6cff81d5bdcff7234135a"
+    },
+    {
+      "local_path": "assets/public_recycling_bin/preview.jpg",
+      "repo_relative_path": "assets/street/public_recycling_bin/preview.jpg",
+      "bytes": 83565,
+      "sha256": "23c2481b9e3b3b89c90c471ff64bb12949a486f5ad261909aa9eb38648fcea98"
+    },
+    {
+      "local_path": "assets/public_recycling_bin/public_recycling_bin.blend",
+      "repo_relative_path": "assets/street/public_recycling_bin/public_recycling_bin.blend",
+      "bytes": 197255,
+      "sha256": "190d1134767a6965b9e71d00d5482ac35bd72d0a45afaea5cc7af6997c48db60"
+    },
+    {
+      "local_path": "assets/public_recycling_bin/public_recycling_bin.glb",
+      "repo_relative_path": "assets/street/public_recycling_bin/public_recycling_bin.glb",
+      "bytes": 773192,
+      "sha256": "bde6c2eb6ca82ffe7b951ee66531b7e1dbb822c8bd26565bc84bdd54ebe49b6b"
+    },
+    {
+      "local_path": "assets/public_recycling_bin/rear.jpg",
+      "repo_relative_path": "assets/street/public_recycling_bin/rear.jpg",
+      "bytes": 75594,
+      "sha256": "1a970058ed7e8d19d9b7987dc705cce5a9a5d95973f3b59aea3386acf23d59c1"
+    },
+    {
+      "local_path": "assets/railway_crossing_lowered/back.jpg",
+      "repo_relative_path": "assets/street/railway_crossing_lowered/back.jpg",
+      "bytes": 61203,
+      "sha256": "c8900d4e108f2e6f00bf9539f8e7806a09e0373800ca4f6c6bfe375a2c19178e"
+    },
+    {
+      "local_path": "assets/railway_crossing_lowered/close_up.jpg",
+      "repo_relative_path": "assets/street/railway_crossing_lowered/close_up.jpg",
+      "bytes": 101407,
+      "sha256": "050bdfbf0b4686a2deb5771bf04c8725ae62715dfd31a7063d533a2077649445"
+    },
+    {
+      "local_path": "assets/railway_crossing_lowered/front_three_quarter.jpg",
+      "repo_relative_path": "assets/street/railway_crossing_lowered/front_three_quarter.jpg",
+      "bytes": 59245,
+      "sha256": "9534d764e9f3c1b0c5f28e12093a257a909cd95dbdda36e152322510e542e170"
+    },
+    {
+      "local_path": "assets/railway_crossing_lowered/metadata.json",
+      "repo_relative_path": "assets/street/railway_crossing_lowered/metadata.json",
+      "bytes": 1783,
+      "sha256": "a232fb04f8f4de38c42c4b8aee9a54a343d41187713d723246f5b75a4b5a3169"
+    },
+    {
+      "local_path": "assets/railway_crossing_lowered/preview.jpg",
+      "repo_relative_path": "assets/street/railway_crossing_lowered/preview.jpg",
+      "bytes": 59245,
+      "sha256": "9534d764e9f3c1b0c5f28e12093a257a909cd95dbdda36e152322510e542e170"
+    },
+    {
+      "local_path": "assets/railway_crossing_lowered/railway_crossing_lowered.blend",
+      "repo_relative_path": "assets/street/railway_crossing_lowered/railway_crossing_lowered.blend",
+      "bytes": 315995,
+      "sha256": "9785c6d533c3f739576bc337dfc1d272cb957874808cfee71937be7ba899528c"
+    },
+    {
+      "local_path": "assets/railway_crossing_lowered/railway_crossing_lowered.glb",
+      "repo_relative_path": "assets/street/railway_crossing_lowered/railway_crossing_lowered.glb",
+      "bytes": 1431316,
+      "sha256": "a27e65c8f56820ab232e1370fe3061805bac0ca6032621b6c10bcda808e1a6a0"
+    },
+    {
+      "local_path": "assets/railway_crossing_lowered/rear.jpg",
+      "repo_relative_path": "assets/street/railway_crossing_lowered/rear.jpg",
+      "bytes": 61203,
+      "sha256": "c8900d4e108f2e6f00bf9539f8e7806a09e0373800ca4f6c6bfe375a2c19178e"
+    },
+    {
+      "local_path": "README.md",
+      "repo_relative_path": "generators/batch02b/README.md",
+      "bytes": 2671,
+      "sha256": "66313fb4d5be199e88f2bd45ee9860c3055b62f9d3230dafe3d6dd598405fba4"
+    },
+    {
+      "local_path": "bin_construction_audit.json",
+      "repo_relative_path": "generators/batch02b/bin_construction_audit.json",
+      "bytes": 2441,
+      "sha256": "a36f3948f198ff170ce57a6454bfbadfb496ab2f20709a9a40fcdaba247c68d8"
+    },
+    {
+      "local_path": "catalog.json",
+      "repo_relative_path": "generators/batch02b/catalog.json",
+      "bytes": 3586,
+      "sha256": "ee8402bffd707db7540e3b189a3a08804ab0ac138a4bdbfc0f74943f6af16f71"
+    },
+    {
+      "local_path": "crossing_construction_audit.json",
+      "repo_relative_path": "generators/batch02b/crossing_construction_audit.json",
+      "bytes": 6965,
+      "sha256": "2ab22900469dec12862046a927b5ce45d513422b9e169559118f4f7ef6a5baea"
+    },
+    {
+      "local_path": "docs/design-notes.md",
+      "repo_relative_path": "generators/batch02b/docs/design-notes.md",
+      "bytes": 3493,
+      "sha256": "2f2acfeb7815e6014bc03b09dedb6f6f1077464105db623deac1576828da2cea"
+    },
+    {
+      "local_path": "previews/context_alternate_light.jpg",
+      "repo_relative_path": "generators/batch02b/previews/context_alternate_light.jpg",
+      "bytes": 101994,
+      "sha256": "e3901b75437340cf8cc2972f28e49effd15e7103afb5ea84802b156bbe822470"
+    },
+    {
+      "local_path": "previews/context_daylight.jpg",
+      "repo_relative_path": "generators/batch02b/previews/context_daylight.jpg",
+      "bytes": 99263,
+      "sha256": "6ebb03c00dd863ebe811b39cc51da1e739bc317cfb98ae4cf06d857a33adb93c"
+    },
+    {
+      "local_path": "previews/context_review.blend",
+      "repo_relative_path": "generators/batch02b/previews/context_review.blend",
+      "bytes": 655377,
+      "sha256": "5e3e844ade13f48d210893b3e5ad30456b38bfeb02debe80a422d0d4acba1787"
+    },
+    {
+      "local_path": "previews/input_provenance.json",
+      "repo_relative_path": "generators/batch02b/previews/input_provenance.json",
+      "bytes": 263,
+      "sha256": "ce4c902783fc6b92276c38bf6afafa29c28b9c1434eec142863429888f3163e4"
+    },
+    {
+      "local_path": "scripts/audit_bin.py",
+      "repo_relative_path": "generators/batch02b/scripts/audit_bin.py",
+      "bytes": 2043,
+      "sha256": "7cf576ce9a5b12b050701d66d7f55371628951cc5ccdc9f00f0ccf1cdb8a5cec"
+    },
+    {
+      "local_path": "scripts/audit_crossing.py",
+      "repo_relative_path": "generators/batch02b/scripts/audit_crossing.py",
+      "bytes": 2001,
+      "sha256": "b5377d01774cc7e6aeade1a6efbd1e3e387154b24d1a43a0f8758a766eb488cb"
+    },
+    {
+      "local_path": "scripts/build_assets.py",
+      "repo_relative_path": "generators/batch02b/scripts/build_assets.py",
+      "bytes": 18805,
+      "sha256": "050af239e9d56aa6fd9cb5edd6a0f2db21e73b24f6462b4fb79fba2411a87671"
+    },
+    {
+      "local_path": "scripts/package_manifest.py",
+      "repo_relative_path": "generators/batch02b/scripts/package_manifest.py",
+      "bytes": 2311,
+      "sha256": "fcb14fa6b8f9414eec710e2611bc4a091d5131b630e065d95645ba3e89a47e84"
+    },
+    {
+      "local_path": "scripts/reframe_bin.py",
+      "repo_relative_path": "generators/batch02b/scripts/reframe_bin.py",
+      "bytes": 1302,
+      "sha256": "e406cd7a57834f25e08b9b01716c656a5a7e3b3740e49071cb8ff0460ec15576"
+    },
+    {
+      "local_path": "scripts/render_context.py",
+      "repo_relative_path": "generators/batch02b/scripts/render_context.py",
+      "bytes": 2763,
+      "sha256": "9ca3c73155869d31cc10ad9e1e2f045448732ec54424aa0cd2f778e64623e9f3"
+    },
+    {
+      "local_path": "scripts/validate_assets.py",
+      "repo_relative_path": "generators/batch02b/scripts/validate_assets.py",
+      "bytes": 2074,
+      "sha256": "73e9351dee0fc4b7c0e08d8b391531a3c0089b0617c120a09461f3d603f41506"
+    },
+    {
+      "local_path": "validation.json",
+      "repo_relative_path": "generators/batch02b/validation.json",
+      "bytes": 2521,
+      "sha256": "265be5e24135aa260087acd7b6652e61b008af32f2874ae5ff734db8e78864c1"
+    }
+  ]
+}

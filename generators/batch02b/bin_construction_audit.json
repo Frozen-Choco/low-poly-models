@@ -1,0 +1,106 @@
+{
+  "scope": "AABB overlap proxies for hinge mount-to-cabinet, leaves-to-seats and seat-to-door, plus true side-skin dimensions; not manufacturing clearances or manifold union checks. Hinge barrel/pin are separate visible hardware.",
+  "connection_proxies": [
+    {
+      "parts": [
+        "Fixed hinge mounting return",
+        "Side sheet folded return"
+      ],
+      "axis_overlap_m": [
+        0.02000001072883606,
+        0.0020000040531158447,
+        0.041999995708465576
+      ]
+    },
+    {
+      "parts": [
+        "Fixed hinge mounting return",
+        "Hinge attachment leaf"
+      ],
+      "axis_overlap_m": [
+        0.01600000262260437,
+        1.4901161193847656e-08,
+        0.041999995708465576
+      ]
+    },
+    {
+      "parts": [
+        "Hinge attachment leaf.001",
+        "Door hinge attachment seat"
+      ],
+      "axis_overlap_m": [
+        0.02000001072883606,
+        0.0010000169277191162,
+        0.041999995708465576
+      ]
+    },
+    {
+      "parts": [
+        "Door hinge attachment seat",
+        "Two millimetre painted door skin"
+      ],
+      "axis_overlap_m": [
+        0.02000001072883606,
+        0.0010000020265579224,
+        0.041999995708465576
+      ]
+    },
+    {
+      "parts": [
+        "Fixed hinge mounting return.001",
+        "Side sheet folded return"
+      ],
+      "axis_overlap_m": [
+        0.02000001072883606,
+        0.0020000040531158447,
+        0.04200005531311035
+      ]
+    },
+    {
+      "parts": [
+        "Fixed hinge mounting return.001",
+        "Hinge attachment leaf.002"
+      ],
+      "axis_overlap_m": [
+        0.01600000262260437,
+        1.4901161193847656e-08,
+        0.04200005531311035
+      ]
+    },
+    {
+      "parts": [
+        "Hinge attachment leaf.003",
+        "Door hinge attachment seat.001"
+      ],
+      "axis_overlap_m": [
+        0.02000001072883606,
+        0.0010000169277191162,
+        0.04200005531311035
+      ]
+    },
+    {
+      "parts": [
+        "Door hinge attachment seat.001",
+        "Two millimetre painted door skin"
+      ],
+      "axis_overlap_m": [
+        0.02000001072883606,
+        0.0010000020265579224,
+        0.04200005531311035
+      ]
+    }
+  ],
+  "all_tested_mount_pairs_overlap": true,
+  "side_skin_dimensions_m": [
+    [
+      0.0020000000949949026,
+      0.4399999976158142,
+      0.9399999976158142
+    ],
+    [
+      0.0020000000949949026,
+      0.4399999976158142,
+      0.9399999976158142
+    ]
+  ]
+}

@@ -1,6 +1,6 @@
 # Low-poly diorama models
 
-現実世界のジオラマに配置するための、形状の自然さと素材の違いを保った、軽量なオリジナル小物集です。第1セットは5モデル。
+現実世界のジオラマに配置するための、形状の自然さと素材の違いを保った、軽量なオリジナル小物集です。現在7モデル。目標は合計1,000モデルです。
 
 ## 制作基準
 
@@ -27,6 +27,8 @@
 | [オープンシェルフ](assets/furniture/open_shelf) | 968 | 86.1 KB | 99.8 KB | 0.905 × 0.35 × 1.51 |
 | [マグカップ](assets/household/mug) | 1,684 | 40.1 KB | 109.9 KB | 0.123 × 0.086 × 0.108 |
 | [横型信号機](assets/street/traffic_signal) | 7,078 | 295.0 KB | 143.4 KB | 1.415 × 0.57 × 4.9505 |
+| [踏切警報機・遮断機（下降）](assets/street/railway_crossing_lowered) | 40,296 | 1431.3 KB | 316.0 KB | 5.181 × 0.715 × 3.789 |
+| [公共用分別回収ボックス](assets/street/public_recycling_bin) | 14,708 | 773.2 KB | 197.3 KB | 0.480 × 0.489 × 1.018 |
 
 ## プレビューとファイル
 
@@ -66,9 +68,29 @@
 
 白色の塗装筐体・高粗さの金属支柱・暗い光学ベース・個別のLED配列・黒い保持リングを分けています。支柱はクロームのような強い鏡面反射を抑え、ライトは赤点灯／青・黄消灯を区別しています。フード付きの汎用モデルで、特定製品の複製ではありません。国内灯器の白い外装・LED配列の参考：[日本信号の製品写真](https://sales.signal.co.jp/traffic_signal/)。寸法・材質の参考：[日本通信電材の製品資料](https://www.nippon-tsushin.jp/wp/wp-content/themes/nippontsushin/file/business/electric/singou.pdf)。資料の製品はフードレスで、本モデルとは構造が異なります。
 
+## 独立レビュー済みの追加モデル
+
+次の2点は、形状・接続部・素材・別方向の照明・保存ファイル・生成コードを独立レビュー済みです。既存5点を、この新基準で一括承認したという意味ではありません。
+
+### 踏切警報機・遮断機（下降）
+
+![踏切警報機・遮断機（下降）](assets/street/railway_crossing_lowered/preview.jpg)
+
+[GLB](assets/street/railway_crossing_lowered/railway_crossing_lowered.glb) · [Blend](assets/street/railway_crossing_lowered/railway_crossing_lowered.blend) · [背面](assets/street/railway_crossing_lowered/back.jpg) · [接写](assets/street/railway_crossing_lowered/close_up.jpg)
+
+### 公共用分別回収ボックス
+
+![公共用分別回収ボックス](assets/street/public_recycling_bin/preview.jpg)
+
+[GLB](assets/street/public_recycling_bin/public_recycling_bin.glb) · [Blend](assets/street/public_recycling_bin/public_recycling_bin.blend) · [背面](assets/street/public_recycling_bin/back.jpg) · [接写](assets/street/public_recycling_bin/close_up.jpg)
+
+[昼光での配置確認](generators/batch02b/previews/context_daylight.jpg) · [別方向の照明](generators/batch02b/previews/context_alternate_light.jpg) · [再生成方法・制約](generators/batch02b/README.md)
+
+踏切は遮断棒を下げた片側ユニット、回収ボックスは屋根のある公共空間向けの静的モデルです。文脈画像は縮尺と材質を確認するための配置で、完成した写真風ジオラマではありません。
+
 ## 検証
 
-Blender 4.3.2で制作。保存した全 `.blend` を再度開き、各GLBを空のシーンへ読み込み直しました。三角形数と外接範囲の一致、頂点の数値異常、面積ゼロの三角形、ファイル容量を検証しています。結果は [validation.json](validation.json) を参照してください。
+Blender 4.3.2で制作。保存した全 `.blend` を再度開き、各GLBを空のシーンへ読み込み直しました。三角形数と外接範囲の一致、頂点の数値異常、面積ゼロの三角形、ファイル容量を検証しています。初期5点の結果は [validation.json](validation.json)、追加2点の結果は [batch02bの検証結果](generators/batch02b/validation.json) を参照してください。
 
 - GLBには照明・背景床・カメラを含みません。
 - Blendの `PREVIEW STUDIO` コレクションは通常のビューポートでは非表示です。モデルを別シーンへ移す際は `ASSET` コレクションを使ってください。
@@ -78,11 +100,11 @@ Blender 4.3.2で制作。保存した全 `.blend` を再度開き、各GLBを空
 
 ## 再生成
 
-Blender 4.3.2 と、プレビュー変換用の Python / Pillow を使用します。
+Blender 4.3.2 と、プレビュー変換用の Python / Pillow を使用します。以下は初期5点用の手順です。追加2点は [batch02bの再生成手順](generators/batch02b/README.md) を使用してください。
 
 ```sh
 blender -b --python scripts/build_assets.py
-blender -b --python scripts/validate_assets.py
+ONLY_ASSETS=oak_table,dining_chair,open_shelf,mug,traffic_signal blender -b --python scripts/validate_assets.py
 blender -b --python scripts/render_signal_detail.py
 python scripts/prepare_previews.py
 python scripts/inspect_materials.py
@@ -94,3 +116,4 @@ python scripts/update_catalog_readme.py
 ## ライセンス
 
 配布ライセンスは未設定です。公開リポジトリであることだけを、無制限の再利用許可とは扱わないでください。
+

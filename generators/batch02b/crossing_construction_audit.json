@@ -1,0 +1,330 @@
+{
+  "triangles_by_group": {
+    "Barrier assembly": 3912,
+    "Optics": 14332,
+    "Cable routing and clamps": 7476,
+    "Mast and base": 4480,
+    "Other hardware": 5600,
+    "Sun hoods": 2056,
+    "Lamp/sounder housings": 2440
+  },
+  "top_parts": [
+    [
+      3644,
+      "Continuous mast with alternating painted bands"
+    ],
+    [
+      2172,
+      "Four metre tapered lowered striped boom"
+    ],
+    [
+      2046,
+      "Convex red optical lens.001"
+    ],
+    [
+      2046,
+      "Convex red optical lens"
+    ],
+    [
+      1368,
+      "Continuous rear mast conduit with entry elbow"
+    ],
+    [
+      1032,
+      "Lamp cable from junction to gland.001"
+    ],
+    [
+      1032,
+      "Lamp cable from junction to gland"
+    ],
+    [
+      1028,
+      "Deep upper sun hood.001"
+    ],
+    [
+      1028,
+      "Deep upper sun hood"
+    ],
+    [
+      1024,
+      "Sounder rim"
+    ],
+    [
+      1024,
+      "Raised weatherproof lens bezel.001"
+    ],
+    [
+      1024,
+      "Raised weatherproof lens bezel"
+    ],
+    [
+      1024,
+      "Concentric Fresnel lens rib.007"
+    ],
+    [
+      1024,
+      "Concentric Fresnel lens rib.006"
+    ],
+    [
+      1024,
+      "Concentric Fresnel lens rib.005"
+    ],
+    [
+      1024,
+      "Concentric Fresnel lens rib.004"
+    ],
+    [
+      1024,
+      "Concentric Fresnel lens rib.003"
+    ],
+    [
+      1024,
+      "Concentric Fresnel lens rib.002"
+    ],
+    [
+      1024,
+      "Concentric Fresnel lens rib.001"
+    ],
+    [
+      1024,
+      "Concentric Fresnel lens rib"
+    ]
+  ],
+  "clamp_component_bounds_m": {
+    "Conduit saddle bridge leg": {
+      "min": [
+        -0.02199999988079071,
+        0.054999999701976776,
+        0.7850000262260437
+      ],
+      "max": [
+        -0.013999998569488525,
+        0.11500000208616257,
+        0.8149999976158142
+      ]
+    },
+    "Conduit saddle bridge leg.001": {
+      "min": [
+        0.013999998569488525,
+        0.054999999701976776,
+        0.7850000262260437
+      ],
+      "max": [
+        0.02199999988079071,
+        0.11500000208616257,
+        0.8149999976158142
+      ]
+    },
+    "Conduit saddle bridge leg.002": {
+      "min": [
+        -0.02199999988079071,
+        0.054999999701976776,
+        1.4350000619888306
+      ],
+      "max": [
+        -0.013999998569488525,
+        0.11500000208616257,
+        1.465000033378601
+      ]
+    },
+    "Conduit saddle bridge leg.003": {
+      "min": [
+        0.013999998569488525,
+        0.054999999701976776,
+        1.4350000619888306
+      ],
+      "max": [
+        0.02199999988079071,
+        0.11500000208616257,
+        1.465000033378601
+      ]
+    },
+    "Conduit saddle bridge leg.004": {
+      "min": [
+        -0.02199999988079071,
+        0.054999999701976776,
+        2.1049997806549072
+      ],
+      "max": [
+        -0.013999998569488525,
+        0.11500000208616257,
+        2.134999990463257
+      ]
+    },
+    "Conduit saddle bridge leg.005": {
+      "min": [
+        0.013999998569488525,
+        0.054999999701976776,
+        2.1049997806549072
+      ],
+      "max": [
+        0.02199999988079071,
+        0.11500000208616257,
+        2.134999990463257
+      ]
+    },
+    "Conduit saddle fastener": {
+      "min": [
+        -0.020000001415610313,
+        0.12400000542402267,
+        0.7960000038146973
+      ],
+      "max": [
+        -0.012000000104308128,
+        0.1300000101327896,
+        0.8040000200271606
+      ]
+    },
+    "Conduit saddle fastener.001": {
+      "min": [
+        0.012000000104308128,
+        0.12400000542402267,
+        0.7960000038146973
+      ],
+      "max": [
+        0.020000001415610313,
+        0.1300000101327896,
+        0.8040000200271606
+      ]
+    },
+    "Conduit saddle fastener.002": {
+      "min": [
+        -0.020000001415610313,
+        0.12400000542402267,
+        1.446000099182129
+      ],
+      "max": [
+        -0.012000000104308128,
+        0.1300000101327896,
+        1.4539999961853027
+      ]
+    },
+    "Conduit saddle fastener.003": {
+      "min": [
+        0.012000000104308128,
+        0.12400000542402267,
+        1.446000099182129
+      ],
+      "max": [
+        0.020000001415610313,
+        0.1300000101327896,
+        1.4539999961853027
+      ]
+    },
+    "Conduit saddle fastener.004": {
+      "min": [
+        -0.020000001415610313,
+        0.12400000542402267,
+        2.115999937057495
+      ],
+      "max": [
+        -0.012000000104308128,
+        0.1300000101327896,
+        2.123999834060669
+      ]
+    },
+    "Conduit saddle fastener.005": {
+      "min": [
+        0.012000000104308128,
+        0.12400000542402267,
+        2.115999937057495
+      ],
+      "max": [
+        0.020000001415610313,
+        0.1300000101327896,
+        2.123999834060669
+      ]
+    },
+    "Mast conduit clamp band": {
+      "min": [
+        -0.06800000369548798,
+        -0.06800000369548798,
+        0.7910000085830688
+      ],
+      "max": [
+        0.06800000369548798,
+        0.06800000369548798,
+        0.8090000152587891
+      ]
+    },
+    "Mast conduit clamp band.001": {
+      "min": [
+        -0.06800000369548798,
+        -0.06800000369548798,
+        1.4410001039505005
+      ],
+      "max": [
+        0.06800000369548798,
+        0.06800000369548798,
+        1.4589999914169312
+      ]
+    },
+    "Mast conduit clamp band.002": {
+      "min": [
+        -0.06800000369548798,
+        -0.06800000369548798,
+        2.110999822616577
+      ],
+      "max": [
+        0.06800000369548798,
+        0.06800000369548798,
+        2.128999948501587
+      ]
+    },
+    "Rear conduit retaining saddle": {
+      "min": [
+        -0.02250000089406967,
+        0.09849999845027924,
+        0.7825000286102295
+      ],
+      "max": [
+        0.02250000089406967,
+        0.12350000441074371,
+        0.8174999952316284
+      ]
+    },
+    "Rear conduit retaining saddle.001": {
+      "min": [
+        -0.02250000089406967,
+        0.09849999845027924,
+        1.4325000047683716
+      ],
+      "max": [
+        0.02250000089406967,
+        0.12350000441074371,
+        1.46750009059906
+      ]
+    },
+    "Rear conduit retaining saddle.002": {
+      "min": [
+        -0.02250000089406967,
+        0.09849999845027924,
+        2.1024999618530273
+      ],
+      "max": [
+        0.02250000089406967,
+        0.12350000441074371,
+        2.1374998092651367
+      ]
+    }
+  },
+  "contact_calculation": {
+    "mast_band_radius_m": 0.068,
+    "bridge_x_extent_abs_m": [
+      0.014,
+      0.022
+    ],
+    "bridge_y_extent_m": [
+      0.055,
+      0.115
+    ],
+    "bridge_front_outer_corner_radius_m": 0.059236812878479546,
+    "saddle_y_extent_m": [
+      0.0985,
+      0.1235
+    ],
+    "bridge_saddle_overlap_y_m": 0.0165,
+    "bridge_conduit_lateral_clearance_m": 0.003000000000000001,
+    "notes": "Bridge front corners lie inside band radius; bridge rear overlaps saddle by 16.5 mm. Branch cable ends overlap lower lamp-gland cylindrical bounds. Lower trunk end enters mast body. Fasteners overlap saddle rear."
+  }
+}

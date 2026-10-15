@@ -1,0 +1,48 @@
+{
+  "id": "public_recycling_bin",
+  "title_ja": "公共用分別回収ボックス",
+  "category": "street",
+  "glb_bytes": 773192,
+  "blend_bytes": 197255,
+  "units": "meters",
+  "front_blend": "-Y",
+  "up_blend": "Z",
+  "up_glb": "Y",
+  "origin": "ground at cabinet center",
+  "reference_urls": [
+    "https://www.teramoto.co.jp/products/10285/",
+    "https://www.teramoto.co.jp/trushbox_ft_series/"
+  ],
+  "notes": "Generic Japanese sheltered public-space can/bottle recycling cabinet, two genuine round insertion openings with deep chutes, inner liner, front locked service door, rear panel and feet. Original interpretation, not a product replica; pictograms only and no invented lettering. No waste contents. Fixed closed service door; editable separate parts.",
+  "blender_version": "4.3.2",
+  "textures": "none; all PBR materials embedded",
+  "review_status": "approved",
+  "triangles": 14708,
+  "zero_area_triangles": 0,
+  "finite_coordinates": true,
+  "bounds_min": [
+    -0.23999999463558197,
+    -0.2540000081062317,
+    0.0
+  ],
+  "bounds_max": [
+    0.23999999463558197,
+    0.23499999940395355,
+    1.0175000429153442
+  ],
+  "dimensions_m": [
+    0.47999998927116394,
+    0.48900000751018524,
+    1.0175000429153442
+  ],
+  "files_bytes": {
+    "preview.jpg": 83565,
+    "front_three_quarter.jpg": 83565,
+    "rear.jpg": 75594,
+    "back.jpg": 75594,
+    "close_up.jpg": 130844,
+    "public_recycling_bin.blend": 197255,
+    "public_recycling_bin.glb": 773192
+  },
+  "review_scope": "Independent multi-view/contextual-lighting, construction/material, saved-file and source-scope review."
+}

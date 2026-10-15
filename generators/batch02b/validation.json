@@ -1,0 +1,108 @@
+[
+  {
+    "asset": "public_recycling_bin",
+    "checks": {
+      "finite": true,
+      "no_degenerate_triangles": true,
+      "triangle_count_matches": true,
+      "dimensions_match": true,
+      "all_files_under_100MB": true,
+      "no_external_image_dependency": true,
+      "canonical_preview_aliases_match": true
+    },
+    "blend_reopened": {
+      "triangles": 14708,
+      "zero_area_triangles": 0,
+      "finite_coordinates": true,
+      "bounds_min": [
+        -0.23999999463558197,
+        -0.2540000081062317,
+        0.0
+      ],
+      "bounds_max": [
+        0.23999999463558197,
+        0.23499999940395355,
+        1.0175000429153442
+      ],
+      "dimensions_m": [
+        0.47999998927116394,
+        0.48900000751018524,
+        1.0175000429153442
+      ]
+    },
+    "glb_reimported": {
+      "triangles": 14708,
+      "zero_area_triangles": 0,
+      "finite_coordinates": true,
+      "bounds_min": [
+        -0.23999999463558197,
+        -0.2540000081062317,
+        0.0
+      ],
+      "bounds_max": [
+        0.23999999463558197,
+        0.23499999940395355,
+        1.0175000429153442
+      ],
+      "dimensions_m": [
+        0.47999998927116394,
+        0.48900000751018524,
+        1.0175000429153442
+      ]
+    },
+    "all_pass": true
+  },
+  {
+    "asset": "railway_crossing_lowered",
+    "checks": {
+      "finite": true,
+      "no_degenerate_triangles": true,
+      "triangle_count_matches": true,
+      "dimensions_match": true,
+      "all_files_under_100MB": true,
+      "no_external_image_dependency": true,
+      "canonical_preview_aliases_match": true
+    },
+    "blend_reopened": {
+      "triangles": 40296,
+      "zero_area_triangles": 0,
+      "finite_coordinates": true,
+      "bounds_min": [
+        -0.5110000371932983,
+        -0.42500001192092896,
+        0.0
+      ],
+      "bounds_max": [
+        4.670000076293945,
+        0.28999999165534973,
+        3.788802146911621
+      ],
+      "dimensions_m": [
+        5.181000113487244,
+        0.7150000035762787,
+        3.788802146911621
+      ]
+    },
+    "glb_reimported": {
+      "triangles": 40296,
+      "zero_area_triangles": 0,
+      "finite_coordinates": true,
+      "bounds_min": [
+        -0.5110000371932983,
+        -0.42500001192092896,
+        0.0
+      ],
+      "bounds_max": [
+        4.670000076293945,
+        0.28999999165534973,
+        3.788802146911621
+      ],
+      "dimensions_m": [
+        5.181000113487244,
+        0.7150000035762787,
+        3.788802146911621
+      ]
+    },
+    "all_pass": true
+  }
+]

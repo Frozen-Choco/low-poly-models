@@ -1,0 +1,49 @@
+{
+  "id": "railway_crossing_lowered",
+  "title_ja": "踏切警報機・遮断機（下降）",
+  "category": "street",
+  "glb_bytes": 1431316,
+  "blend_bytes": 315995,
+  "units": "meters",
+  "front_blend": "-Y",
+  "up_blend": "Z",
+  "up_glb": "Y",
+  "origin": "ground at mast center",
+  "reference_urls": [
+    "https://www.signal.co.jp/products/railway/faq/faq02/",
+    "https://www.kyosan.co.jp/product/pdf/signal06_01.pdf",
+    "https://www.mlit.go.jp/english/2006/h_railway_bureau/Laws_concerning/14.pdf"
+  ],
+  "notes": "One roadside warning mast with yellow-black crossmark, paired hooded red warning lamps, sounder, rear conduit, plus separate gray electric barrier pedestal and 4 m tapered striped boom. Static LOWERED horizontal state, left lamp red lit and right lamp dark. No animation, opposite gate, road, rails, direction arrow or emergency button. Generic inferred dimensions; not a measured product or safety-certified replica.",
+  "blender_version": "4.3.2",
+  "textures": "none; all PBR materials embedded",
+  "review_status": "approved",
+  "triangles": 40296,
+  "zero_area_triangles": 0,
+  "finite_coordinates": true,
+  "bounds_min": [
+    -0.5110000371932983,
+    -0.42500001192092896,
+    0.0
+  ],
+  "bounds_max": [
+    4.670000076293945,
+    0.28999999165534973,
+    3.788802146911621
+  ],
+  "dimensions_m": [
+    5.181000113487244,
+    0.7150000035762787,
+    3.788802146911621
+  ],
+  "files_bytes": {
+    "preview.jpg": 59245,
+    "railway_crossing_lowered.blend": 315995,
+    "front_three_quarter.jpg": 59245,
+    "rear.jpg": 61203,
+    "back.jpg": 61203,
+    "close_up.jpg": 101407,
+    "railway_crossing_lowered.glb": 1431316
+  },
+  "review_scope": "Independent multi-view/contextual-lighting, construction/material, saved-file and source-scope review."
+}
