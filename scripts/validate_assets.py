@@ -1,10 +1,11 @@
 """Reopen every blend and GLB, check geometry/bounds, and record file sizes."""
-import bpy,bmesh,json,math
+import bpy,bmesh,json,math,os
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 results=[]
 for blend in sorted((ROOT/'assets').rglob('*.blend')):
  slug=blend.stem;folder=blend.parent
+ if os.environ.get("ONLY_ASSETS") and slug not in os.environ["ONLY_ASSETS"].split(","):continue
  bpy.ops.wm.open_mainfile(filepath=str(blend))
  col=bpy.data.collections['ASSET | '+slug];obs=[o for o in col.objects if o.type=='MESH'];cleaned=0
  for ob in obs:
@@ -39,6 +40,8 @@ for blend in sorted((ROOT/'assets').rglob('*.blend')):
  result={'id':slug,'blend_reopened':True,'glb_reimported':True,'source':source,'imported':imp,'max_bounds_error_m':error,'merged_duplicate_vertices':cleaned,'glb_bytes':glb.stat().st_size,'blend_bytes':blend.stat().st_size,'under_100MB':True}
  results.append(result)
  meta=json.loads((folder/'metadata.json').read_text());meta['triangles']=source['triangles'];meta['glb_bytes']=result['glb_bytes'];meta['blend_bytes']=result['blend_bytes'];meta['validated']=True;(folder/'metadata.json').write_text(json.dumps(meta,ensure_ascii=False,indent=2)+'\n')
+if os.environ.get('ONLY_ASSETS') and (ROOT/'validation.json').exists():
+ old=json.loads((ROOT/'validation.json').read_text());ids={r['id'] for r in results};results=[r for r in old if r['id'] not in ids]+results
 (ROOT/'validation.json').write_text(json.dumps(results,ensure_ascii=False,indent=2)+'\n')
 catalog=[json.loads(p.read_text()) for p in sorted((ROOT/'assets').rglob('metadata.json'))];(ROOT/'catalog.json').write_text(json.dumps(catalog,ensure_ascii=False,indent=2)+'\n')
 print('VALIDATED_ALL',len(results))

@@ -9,8 +9,8 @@
   "origin": "ground plane; approximate footprint center (signal mast base)",
   "style": "lightweight geometry with smooth curved surfaces; solid-color materials; no image textures",
   "blender_version": "4.3.2",
-  "triangles": 5528,
-  "vertices": 2818,
+  "triangles": 7078,
+  "vertices": 6604,
   "dimensions_m": [
     1.415,
     0.57,
@@ -26,8 +26,12 @@
     0.18000000715255737,
     4.950500011444092
   ],
-  "notes": "Generic Japanese-style horizontal signal; all three lenses are colored, not an active traffic phase. Dimensions estimated; not an engineering specification.",
-  "glb_bytes": 187968,
-  "blend_bytes": 146309,
+  "notes": "Generic Japanese-style white hooded LED signal in red phase. Green and amber are dark. Matte galvanized mast, separate LED packages and lens retainers. Dimensions estimated; not an engineering specification.",
+  "reference_urls": [
+    "https://sales.signal.co.jp/traffic_signal/",
+    "https://www.nippon-tsushin.jp/wp/wp-content/themes/nippontsushin/file/business/electric/singou.pdf"
+  ],
+  "glb_bytes": 295028,
+  "blend_bytes": 143423,
   "validated": true
 }

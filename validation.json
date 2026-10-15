@@ -172,8 +172,8 @@
     "blend_reopened": true,
     "glb_reimported": true,
     "source": {
-      "mesh_count": 23,
-      "triangles": 5528,
+      "mesh_count": 35,
+      "triangles": 7078,
       "degenerate_triangles": 0,
       "finite_vertices": true,
       "min": [
@@ -188,8 +188,8 @@
       ]
     },
     "imported": {
-      "mesh_count": 23,
-      "triangles": 5528,
+      "mesh_count": 35,
+      "triangles": 7078,
       "degenerate_triangles": 0,
       "finite_vertices": true,
       "min": [
@@ -204,9 +204,9 @@
       ]
     },
     "max_bounds_error_m": 0.0,
-    "merged_duplicate_vertices": 8,
-    "glb_bytes": 187968,
-    "blend_bytes": 146309,
+    "merged_duplicate_vertices": 16,
+    "glb_bytes": 295028,
+    "blend_bytes": 143423,
     "under_100MB": true
   }
 ]

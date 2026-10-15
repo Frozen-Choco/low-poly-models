@@ -100,25 +100,47 @@ def mug():
   if ob.type=='MESH':ob.location.x-=.016
 
 def signal():
- concrete=material('Concrete base',(.35,.36,.33));pole=material('Galvanized pole',(.37,.42,.43),.65,.42)
+ # Generic Japanese-style hooded LED signal, red phase. Not a specific product replica.
+ concrete=material('Concrete base',(.35,.36,.33),0,.92)
+ pole=material('Matte galvanized steel',(.31,.325,.33),.35,.86)
+ pole.node_tree.nodes.get('Principled BSDF').inputs['Specular IOR Level'].default_value=.25
+ housing=material('Warm white outdoor powder coat',(.69,.70,.69),0,.62)
+ hood_inside=material('Dark visor interior',(.025,.028,.028),0,.84)
+ bezel=material('Black lens gasket',(.012,.015,.016),0,.72)
+ board=material('Dark optical array backing',(.009,.011,.012),0,.45)
+ fastener=material('Dull stainless fastener',(.18,.19,.19),.5,.72)
  box('Foundation block',(0,0,.13),(.36,.36,.26),concrete,.025)
  cylinder('Anchor plate',(0,0,.273),.16,.026,steel,8)
  for x in [-.095,.095]:
-  for y in [-.095,.095]:cylinder('Anchor bolt',(x,y,.30),.015,.03,pole,6)
+  for y in [-.095,.095]:cylinder('Anchor bolt',(x,y,.30),.015,.03,fastener,6)
  cylinder('Vertical mast',(0,0,2.60),.065,4.64,pole,48)
- cylinder('Mast cap',(0,0,4.933),.074,.035,steel,48)
- # Side-mounted cantilever makes pole visible behind the signal.
+ cylinder('Mast cap',(0,0,4.933),.074,.035,pole,48)
  beam('Horizontal mounting arm',(0,.04,4.67),(1.10,.04,4.67),.065,pole)
- for x in [.38,.92]:beam('Rear hanging bracket',(x,.04,4.67),(x,.04,4.43),.035,steel)
- box('Horizontal three-aspect housing',(.67,-.035,4.34),(1.13,.23,.38),teal,.045)
- lamps=[('Green',.30,(.025,.40,.24)),('Amber',.67,(.7,.24,.015)),('Red',1.04,(.55,.025,.02))]
- for name,x,rgb in lamps:
-  lens=material(name+' lens',rgb,0,.16)
-  bs=lens.node_tree.nodes.get('Principled BSDF');bs.inputs['Coat Weight'].default_value=.4;bs.inputs['Coat Roughness'].default_value=.1
-  cylinder(name+' rim',(x,-.163,4.34),.145,.028,steel,64,(math.pi/2,0,0))
-  bpy.ops.mesh.primitive_uv_sphere_add(segments=48,ring_count=12,location=(x,-.179,4.34));lens_ob=bpy.context.object;lens_ob.scale=(.124,.025,.124);bpy.ops.object.transform_apply(location=False,rotation=False,scale=True);assign(lens_ob,name+' convex lens',lens)
-  for face in lens_ob.data.polygons:face.use_smooth=True
-  # Open-bottom sun visor, with wall thickness and no front cap.
+ for x in [.38,.92]:beam('Rear hanging bracket',(x,.04,4.67),(x,.04,4.43),.035,fastener)
+ box('White horizontal signal housing',(.67,-.035,4.34),(1.13,.23,.38),housing,.035)
+ # Small cover fasteners add believable serviceable structure without a logo.
+ for x in [.14,1.20]:
+  for z in [4.205,4.475]:cylinder('Front cover screw',(x,-.153,z),.008,.006,fastener,12,(math.pi/2,0,0))
+ lamps=[('Green',.30,(.023,.033,.029),False),('Amber',.67,(.035,.030,.020),False),('Red',1.04,(.52,.015,.006),True)]
+ for name,x,rgb,lit in lamps:
+  diode=material(name+(' LED lit' if lit else ' LED off'),rgb,0,.32 if lit else .48)
+  if lit:
+   bs=diode.node_tree.nodes.get('Principled BSDF');bs.inputs['Emission Color'].default_value=(.8,.008,.002,1);bs.inputs['Emission Strength'].default_value=1.8
+  cylinder(name+' retaining gasket',(x,-.163,4.34),.145,.028,bezel,64,(math.pi/2,0,0))
+  cylinder(name+' optical backing',(x,-.181,4.34),.124,.008,board,64,(math.pi/2,0,0))
+  # Hex-packed visible LED faces, one combined mesh per lamp. Hidden package backs are omitted.
+  vv=[];ff=[];count=0;pitch=.015
+  for row in range(-9,10):
+   dz=row*pitch*math.sqrt(3)/2
+   for col in range(-9,10):
+    dx=(col+(.5 if row%2 else 0))*pitch
+    if dx*dx+dz*dz>.112**2:continue
+    base=len(vv);count+=1
+    for k in range(8):
+     t=2*math.pi*k/8;vv.append((x+dx+.0045*math.cos(t),-.190,4.34+dz+.0045*math.sin(t)))
+    ff.append(tuple(base+k for k in range(8)))
+  array=geom(name+' LED array',vv,ff,diode);array['led_count']=count;array['phase']='lit' if lit else 'off'
+  # Visor: white outer finish, dark interior, visible thin lip and open lower half.
   vv=[];nn=32
   for yy,r in [(-.17,.153),(-.39,.153),(-.39,.145),(-.17,.145)]:
    for i in range(nn+1):
@@ -127,11 +149,15 @@ def signal():
   for k in range(4):
    for i in range(nn):ff.append((k*(nn+1)+i,k*(nn+1)+i+1,((k+1)%4)*(nn+1)+i+1,((k+1)%4)*(nn+1)+i))
   ff += [(0,nn+1,2*(nn+1),3*(nn+1)),(nn,2*nn+1,3*nn+2,4*nn+3)]
-  visor=geom(name+' open sun visor',vv,ff,teal)
-  for face in visor.data.polygons:face.use_smooth=(face.index//nn in [0,2])
- # A rear service cover and cable, no emblem or manufacturer marks.
- box('Rear service panel',(.67,.09,4.34),(.39,.015,.25),steel,.01)
- cylinder('Rear conduit',(.10,.10,4.21),.019,.45,steel,24)
+  visor=geom(name+' white sun visor',vv,ff,housing);visor.data.materials.append(hood_inside)
+  for face in visor.data.polygons:
+   face.use_smooth=(face.index//nn in [0,2])
+   if face.index//nn==2:face.material_index=1
+ box('Rear service gasket',(.67,.089,4.34),(.41,.012,.27),bezel,.01)
+ box('Rear service panel',(.67,.099,4.34),(.39,.015,.25),housing,.01)
+ for x in [.50,.84]:
+  for z in [4.25,4.43]:cylinder('Rear service screw',(x,.109,z),.006,.004,fastener,12,(math.pi/2,0,0))
+ cylinder('Rear conduit',(.10,.10,4.21),.019,.45,pole,24)
 
 def evaluated_stats(obs):
  dg=bpy.context.evaluated_depsgraph_get();pts=[];tris=0;verts=0
@@ -179,7 +205,8 @@ def publish_local(slug,title,category,build):
  for view,offset in [('preview',(1.4,-1.8,1.1)),('back',(-1.4,1.8,1.0))]:
   cam.location=center+Vector(offset)*size;cam.rotation_euler=(center-cam.location).to_track_quat('-Z','Y').to_euler();scene.render.filepath=str(folder/(view+'.png'));bpy.ops.render.render(write_still=True)
  meta={'id':slug,'title_ja':title,'category':category,'units':'meter','up_axis_blend':'Z','up_axis_glb':'Y','front_blend':'-Y','origin':'ground plane; approximate footprint center (signal mast base)','style':'lightweight geometry with smooth curved surfaces; solid-color materials; no image textures','blender_version':bpy.app.version_string,**stats}
- if slug=='traffic_signal':meta['notes']='Generic Japanese-style horizontal signal; all three lenses are colored, not an active traffic phase. Dimensions estimated; not an engineering specification.'
+ if slug=='traffic_signal':meta['notes']='Generic Japanese-style white hooded LED signal in red phase. Green and amber are dark. Matte galvanized mast, separate LED packages and lens retainers. Dimensions estimated; not an engineering specification.'
+ if slug=='traffic_signal':meta['reference_urls']=['https://sales.signal.co.jp/traffic_signal/','https://www.nippon-tsushin.jp/wp/wp-content/themes/nippontsushin/file/business/electric/singou.pdf']
  if slug=='mug':meta['notes']='Open cavity with wall and bottom thickness; rounded C-shaped handle. Decorative model, not a fabrication-ready design.'
  (folder/'metadata.json').write_text(json.dumps(meta,ensure_ascii=False,indent=2)+'\n');CATALOG.append(meta)
  print('ASSET_COMPLETE',slug,stats,flush=True)

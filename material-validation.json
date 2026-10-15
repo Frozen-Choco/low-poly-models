@@ -12,7 +12,12 @@
         ],
         "metallicFactor": 0.15000000596046448,
         "roughnessFactor": 0.3799999952316284,
-        "extensions": {}
+        "extensions": {},
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
       },
       {
         "name": "Rubber feet",
@@ -24,7 +29,12 @@
         ],
         "metallicFactor": 0,
         "roughnessFactor": 0.6499999761581421,
-        "extensions": {}
+        "extensions": {},
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
       },
       {
         "name": "Warm oak",
@@ -36,7 +46,12 @@
         ],
         "metallicFactor": 0,
         "roughnessFactor": 0.4000000059604645,
-        "extensions": {}
+        "extensions": {},
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
       }
     ],
     "used_extensions": [],
@@ -55,7 +70,12 @@
         ],
         "metallicFactor": 0,
         "roughnessFactor": 0.6499999761581421,
-        "extensions": {}
+        "extensions": {},
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
       },
       {
         "name": "Warm oak",
@@ -67,7 +87,12 @@
         ],
         "metallicFactor": 0,
         "roughnessFactor": 0.4000000059604645,
-        "extensions": {}
+        "extensions": {},
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
       },
       {
         "name": "Oak edges",
@@ -79,7 +104,12 @@
         ],
         "metallicFactor": 0,
         "roughnessFactor": 0.47999998927116394,
-        "extensions": {}
+        "extensions": {},
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
       }
     ],
     "used_extensions": [],
@@ -98,7 +128,12 @@
         ],
         "metallicFactor": 0,
         "roughnessFactor": 0.6499999761581421,
-        "extensions": {}
+        "extensions": {},
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
       },
       {
         "name": "Warm oak",
@@ -110,7 +145,12 @@
         ],
         "metallicFactor": 0,
         "roughnessFactor": 0.4000000059604645,
-        "extensions": {}
+        "extensions": {},
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
       },
       {
         "name": "Charcoal coated steel",
@@ -122,7 +162,12 @@
         ],
         "metallicFactor": 0.15000000596046448,
         "roughnessFactor": 0.3799999952316284,
-        "extensions": {}
+        "extensions": {},
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
       }
     ],
     "used_extensions": [],
@@ -146,7 +191,12 @@
             "clearcoatFactor": 0.30000001192092896,
             "clearcoatRoughnessFactor": 0.12999999523162842
           }
-        }
+        },
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
       },
       {
         "name": "Warm porcelain",
@@ -163,7 +213,12 @@
             "clearcoatFactor": 0.30000001192092896,
             "clearcoatRoughnessFactor": 0.12999999523162842
           }
-        }
+        },
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
       }
     ],
     "used_extensions": [
@@ -175,33 +230,106 @@
     "id": "traffic_signal",
     "embedded_materials": [
       {
-        "name": "Amber lens",
+        "name": "Amber LED off",
         "baseColorFactor": [
-          0.699999988079071,
-          0.23999999463558197,
-          0.014999999664723873,
+          0.03500000014901161,
+          0.029999999329447746,
+          0.019999999552965164,
           1
         ],
         "metallicFactor": 0,
-        "roughnessFactor": 0.1599999964237213,
-        "extensions": {
-          "KHR_materials_clearcoat": {
-            "clearcoatFactor": 0.4000000059604645,
-            "clearcoatRoughnessFactor": 0.10000000149011612
-          }
-        }
+        "roughnessFactor": 0.47999998927116394,
+        "extensions": {},
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
       },
       {
-        "name": "Deep teal enamel",
+        "name": "Dark optical array backing",
         "baseColorFactor": [
-          0.1899999976158142,
-          0.23499999940395355,
-          0.20999999344348907,
+          0.008999999612569809,
+          0.010999999940395355,
+          0.012000000104308128,
           1
         ],
-        "metallicFactor": 0.15000000596046448,
-        "roughnessFactor": 0.3400000035762787,
-        "extensions": {}
+        "metallicFactor": 0,
+        "roughnessFactor": 0.44999998807907104,
+        "extensions": {},
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "Black lens gasket",
+        "baseColorFactor": [
+          0.012000000104308128,
+          0.014999999664723873,
+          0.01600000075995922,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.7200000286102295,
+        "extensions": {},
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "Warm white outdoor powder coat",
+        "baseColorFactor": [
+          0.6899999976158142,
+          0.699999988079071,
+          0.6899999976158142,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.6200000047683716,
+        "extensions": {},
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "Dark visor interior",
+        "baseColorFactor": [
+          0.02500000037252903,
+          0.02800000086426735,
+          0.02800000086426735,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.8399999737739563,
+        "extensions": {},
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "Dull stainless fastener",
+        "baseColorFactor": [
+          0.18000000715255737,
+          0.1899999976158142,
+          0.1899999976158142,
+          1
+        ],
+        "metallicFactor": 0.5,
+        "roughnessFactor": 0.7200000286102295,
+        "extensions": {},
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
       },
       {
         "name": "Charcoal coated steel",
@@ -213,19 +341,12 @@
         ],
         "metallicFactor": 0.15000000596046448,
         "roughnessFactor": 0.3799999952316284,
-        "extensions": {}
-      },
-      {
-        "name": "Galvanized pole",
-        "baseColorFactor": [
-          0.3700000047683716,
-          0.41999998688697815,
-          0.4300000071525574,
-          1
-        ],
-        "metallicFactor": 0.6499999761581421,
-        "roughnessFactor": 0.41999998688697815,
-        "extensions": {}
+        "extensions": {},
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
       },
       {
         "name": "Concrete base",
@@ -236,46 +357,77 @@
           1
         ],
         "metallicFactor": 0,
-        "roughnessFactor": 0.6499999761581421,
-        "extensions": {}
+        "roughnessFactor": 0.9200000166893005,
+        "extensions": {},
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
       },
       {
-        "name": "Green lens",
+        "name": "Green LED off",
         "baseColorFactor": [
-          0.02500000037252903,
-          0.4000000059604645,
-          0.23999999463558197,
+          0.023000000044703484,
+          0.032999999821186066,
+          0.028999999165534973,
           1
         ],
         "metallicFactor": 0,
-        "roughnessFactor": 0.1599999964237213,
-        "extensions": {
-          "KHR_materials_clearcoat": {
-            "clearcoatFactor": 0.4000000059604645,
-            "clearcoatRoughnessFactor": 0.10000000149011612
-          }
-        }
+        "roughnessFactor": 0.47999998927116394,
+        "extensions": {},
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
       },
       {
-        "name": "Red lens",
+        "name": "Matte galvanized steel",
         "baseColorFactor": [
-          0.550000011920929,
-          0.02500000037252903,
-          0.019999999552965164,
+          0.3100000023841858,
+          0.32499998807907104,
+          0.33000001311302185,
+          1
+        ],
+        "metallicFactor": 0.3499999940395355,
+        "roughnessFactor": 0.8600000143051147,
+        "extensions": {
+          "KHR_materials_specular": {
+            "specularFactor": 0.5
+          }
+        },
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "Red LED lit",
+        "baseColorFactor": [
+          0.5199999809265137,
+          0.014999999664723873,
+          0.006000000052154064,
           1
         ],
         "metallicFactor": 0,
-        "roughnessFactor": 0.1599999964237213,
+        "roughnessFactor": 0.3199999928474426,
         "extensions": {
-          "KHR_materials_clearcoat": {
-            "clearcoatFactor": 0.4000000059604645,
-            "clearcoatRoughnessFactor": 0.10000000149011612
+          "KHR_materials_emissive_strength": {
+            "emissiveStrength": 1.439999983310699
           }
-        }
+        },
+        "emissiveFactor": [
+          1,
+          0.010000000325962896,
+          0.002500000081490724
+        ]
       }
     ],
     "used_extensions": [
-      "KHR_materials_clearcoat"
+      "KHR_materials_emissive_strength",
+      "KHR_materials_specular"
     ],
     "external_buffers": false
   }
