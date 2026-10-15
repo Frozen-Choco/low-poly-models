@@ -26,12 +26,31 @@
     0.18000000715255737,
     4.950500011444092
   ],
-  "notes": "Generic Japanese-style white hooded LED signal in red phase. Green and amber are dark. Matte galvanized mast, separate LED packages and lens retainers. Dimensions estimated; not an engineering specification.",
+  "notes": "Generic Japanese-style hooded LED signal in red phase. Neutral subtly warm light-gray housing, non-chrome matte galvanized mast. Palette estimated from qualitative photographic reference, not measured albedo. Geometry and lamp layout unchanged.",
   "reference_urls": [
     "https://sales.signal.co.jp/traffic_signal/",
-    "https://www.nippon-tsushin.jp/wp/wp-content/themes/nippontsushin/file/business/electric/singou.pdf"
+    "https://www.nippon-tsushin.jp/wp/wp-content/themes/nippontsushin/file/business/electric/singou.pdf",
+    "https://www.police.pref.osaka.lg.jp/kotsu/kisei/shingouki/12111.html",
+    "https://www.police.pref.kanagawa.jp/kotsu/jutai/mesf3025.html",
+    "https://signallift1.com/traffic/tokyo/led/ns-horizontal/thin4_ed1151a/"
   ],
-  "glb_bytes": 295028,
-  "blend_bytes": 143423,
-  "validated": true
+  "glb_bytes": 295036,
+  "blend_bytes": 143649,
+  "validated": true,
+  "palette_revision": {
+    "housing_linear_rgb": [
+      0.43,
+      0.425,
+      0.415
+    ],
+    "mast_linear_rgb": [
+      0.34,
+      0.345,
+      0.35
+    ],
+    "housing_roughness": 0.72,
+    "mast_roughness": 0.86,
+    "mast_metallic": 0.35,
+    "geometry_sha256": "d699ef2edfb2183e1158cdb80e25e168de478443dfe14ff52b18f5e77009edef"
+  }
 }

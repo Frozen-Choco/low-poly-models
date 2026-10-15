@@ -102,9 +102,9 @@ def mug():
 def signal():
  # Generic Japanese-style hooded LED signal, red phase. Not a specific product replica.
  concrete=material('Concrete base',(.35,.36,.33),0,.92)
- pole=material('Matte galvanized steel',(.31,.325,.33),.35,.86)
+ pole=material('Matte galvanized steel',(.34,.345,.35),.35,.86)
  pole.node_tree.nodes.get('Principled BSDF').inputs['Specular IOR Level'].default_value=.25
- housing=material('Warm white outdoor powder coat',(.69,.70,.69),0,.62)
+ housing=material('Neutral light-gray outdoor powder coat',(.43,.425,.415),0,.72)
  hood_inside=material('Dark visor interior',(.025,.028,.028),0,.84)
  bezel=material('Black lens gasket',(.012,.015,.016),0,.72)
  board=material('Dark optical array backing',(.009,.011,.012),0,.45)
@@ -205,7 +205,7 @@ def publish_local(slug,title,category,build):
  for view,offset in [('preview',(1.4,-1.8,1.1)),('back',(-1.4,1.8,1.0))]:
   cam.location=center+Vector(offset)*size;cam.rotation_euler=(center-cam.location).to_track_quat('-Z','Y').to_euler();scene.render.filepath=str(folder/(view+'.png'));bpy.ops.render.render(write_still=True)
  meta={'id':slug,'title_ja':title,'category':category,'units':'meter','up_axis_blend':'Z','up_axis_glb':'Y','front_blend':'-Y','origin':'ground plane; approximate footprint center (signal mast base)','style':'lightweight geometry with smooth curved surfaces; solid-color materials; no image textures','blender_version':bpy.app.version_string,**stats}
- if slug=='traffic_signal':meta['notes']='Generic Japanese-style white hooded LED signal in red phase. Green and amber are dark. Matte galvanized mast, separate LED packages and lens retainers. Dimensions estimated; not an engineering specification.'
+ if slug=='traffic_signal':meta['notes']='Generic Japanese-style neutral light-gray hooded LED signal in red phase. Green and amber are dark. Matte galvanized mast, separate LED packages and lens retainers. Dimensions estimated; not an engineering specification.'
  if slug=='traffic_signal':meta['reference_urls']=['https://sales.signal.co.jp/traffic_signal/','https://www.nippon-tsushin.jp/wp/wp-content/themes/nippontsushin/file/business/electric/singou.pdf']
  if slug=='mug':meta['notes']='Open cavity with wall and bottom thickness; rounded C-shaped handle. Decorative model, not a fabrication-ready design.'
  (folder/'metadata.json').write_text(json.dumps(meta,ensure_ascii=False,indent=2)+'\n');CATALOG.append(meta)
