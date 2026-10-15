@@ -1,6 +1,12 @@
 # Low-poly diorama models
 
-現実世界のジオラマに配置するための、単色中心のオリジナル・ローポリ小物集です。第1セットは5モデル。
+現実世界のジオラマに配置するための、形状の自然さと素材の違いを保った、軽量なオリジナル小物集です。第1セットは5モデル。
+
+## 制作基準
+
+丸い物は自然に丸く見えるよう、曲面に必要な面数を配分します。陶器の釉薬、木材、塗装面、金属、ゴムの反射特性を分けています。日本にある物は、日本で見られる配色・形状・仕様を参考にします。
+
+[詳しい制作基準](docs/asset-standard.md) · [GLB内の材質検証](material-validation.json)
 
 ## 共通仕様
 
@@ -16,11 +22,11 @@
 
 | モデル | 三角形 | GLB | 編集用Blend | 寸法 X × Y × Z（m、Blender座標） |
 |---|---:|---:|---:|---|
-| [ダイニングチェア](assets/furniture/dining_chair) | 640 | 59.4 KB | 100.5 KB | 0.43 × 0.45073 × 0.88121 |
-| [木製テーブル](assets/furniture/oak_table) | 616 | 56.3 KB | 98.7 KB | 1.2 × 0.7 × 0.75 |
-| [オープンシェルフ](assets/furniture/open_shelf) | 968 | 86.1 KB | 99.7 KB | 0.905 × 0.35 × 1.51 |
-| [マグカップ](assets/household/mug) | 360 | 19.9 KB | 96.9 KB | 0.123 × 0.086 × 0.108 |
-| [横型信号機](assets/street/traffic_signal) | 1,132 | 81.0 KB | 108.6 KB | 1.415 × 0.57 × 4.9505 |
+| [ダイニングチェア](assets/furniture/dining_chair) | 640 | 57.6 KB | 100.1 KB | 0.43 × 0.45073 × 0.88121 |
+| [木製テーブル](assets/furniture/oak_table) | 616 | 56.3 KB | 99.2 KB | 1.2 × 0.7 × 0.75 |
+| [オープンシェルフ](assets/furniture/open_shelf) | 968 | 86.1 KB | 99.8 KB | 0.905 × 0.35 × 1.51 |
+| [マグカップ](assets/household/mug) | 1,684 | 40.1 KB | 109.9 KB | 0.123 × 0.086 × 0.108 |
+| [横型信号機](assets/street/traffic_signal) | 5,528 | 188.0 KB | 146.3 KB | 1.415 × 0.57 × 4.9505 |
 
 ## プレビューとファイル
 
@@ -54,6 +60,12 @@
 
 [GLB](assets/street/traffic_signal/traffic_signal.glb) · [Blend](assets/street/traffic_signal/traffic_signal.blend) · [背面画像](assets/street/traffic_signal/back.jpg) · [メタデータ](assets/street/traffic_signal/metadata.json)
 
+### 信号機の接写
+
+![信号機の曲面・レンズ・塗装](assets/street/traffic_signal/detail.jpg)
+
+塗装筐体・金属支柱・レンズの反射を分け、支柱やレンズの円周分割数を増やしています。フード付きの汎用モデルで、特定製品の複製ではありません。国内灯器の寸法・材質の参考：[日本通信電材の製品資料](https://www.nippon-tsushin.jp/wp/wp-content/themes/nippontsushin/file/business/electric/singou.pdf)。資料の製品はフードレスで、本モデルとは構造が異なります。
+
 ## 検証
 
 Blender 4.3.2で制作。保存した全 `.blend` を再度開き、各GLBを空のシーンへ読み込み直しました。三角形数と外接範囲の一致、頂点の数値異常、面積ゼロの三角形、ファイル容量を検証しています。結果は [validation.json](validation.json) を参照してください。
@@ -71,7 +83,10 @@ Blender 4.3.2 と、プレビュー変換用の Python / Pillow を使用しま�
 ```sh
 blender -b --python scripts/build_assets.py
 blender -b --python scripts/validate_assets.py
+blender -b --python scripts/render_signal_detail.py
 python scripts/prepare_previews.py
+python scripts/inspect_materials.py
+python scripts/update_catalog_readme.py
 ```
 
 再生成は既存のモデルファイルを書き換えます。手作業で編集したモデルは別名で保存してください。

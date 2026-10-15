@@ -14,7 +14,9 @@ def start():
  bpy.ops.object.select_all(action='SELECT');bpy.ops.object.delete(use_global=False)
  for block in list(bpy.data.materials):bpy.data.materials.remove(block)
  global oak,endgrain,steel,ivory,rubber,teal,terracotta
- oak=material('Warm oak',(.45,.245,.105));endgrain=material('Oak edges',(.30,.135,.045));steel=material('Charcoal coated steel',(.038,.052,.055),.25);ivory=material('Warm porcelain',(.77,.73,.63));rubber=material('Rubber feet',(.018,.023,.026));teal=material('Deep teal enamel',(.045,.15,.16),.2);terracotta=material('Terracotta glaze',(.48,.14,.073),0,.28)
+ oak=material('Warm oak',(.36,.175,.065),0,.40);endgrain=material('Oak edges',(.25,.10,.027),0,.48);steel=material('Charcoal coated steel',(.027,.034,.036),.15,.38);ivory=material('Warm porcelain',(.77,.73,.63),0,.24);rubber=material('Rubber feet',(.018,.023,.026));teal=material('Deep teal enamel',(.19,.235,.21),.15,.34);terracotta=material('Terracotta glaze',(.38,.075,.032),0,.20)
+ for ceramic in [terracotta,ivory]:
+  bs=ceramic.node_tree.nodes.get('Principled BSDF');bs.inputs['Coat Weight'].default_value=.3;bs.inputs['Coat Roughness'].default_value=.13;bs.inputs['IOR'].default_value=1.46
  scene=bpy.context.scene;scene.unit_settings.system='METRIC';scene.unit_settings.scale_length=1;scene.unit_settings.length_unit='METERS'
  bpy.context.scene['asset_convention']='Meters; Blender Z up, front -Y; origin at ground center. GLB standard Y up.'
 def assign(ob,name,mat):
@@ -24,9 +26,10 @@ def box(name,loc,scale,mat,bevel=0):
  if bevel:
   mo=ob.modifiers.new('Low-poly edge bevel','BEVEL');mo.width=bevel;mo.segments=1;bpy.context.view_layer.objects.active=ob;bpy.ops.object.modifier_apply(modifier=mo.name)
  return ob
-def cylinder(name,loc,r,depth,mat,n=12,rot=None):
+def cylinder(name,loc,r,depth,mat,n=32,rot=None):
  bpy.ops.mesh.primitive_cylinder_add(vertices=n,radius=r,depth=depth,location=loc);ob=bpy.context.object;assign(ob,name,mat)
  if rot:ob.rotation_euler=rot
+ for face in ob.data.polygons:face.use_smooth=(len(face.vertices)==4)
  return ob
 def beam(name,a,b,thickness,mat):
  a,b=Vector(a),Vector(b);ob=box(name,(a+b)/2,(thickness,thickness,(b-a).length),mat,.0015);ob.rotation_euler=(b-a).to_track_quat('Z','Y').to_euler();return ob
@@ -69,7 +72,7 @@ def shelf():
  beam('Rear diagonal B',(.425,.163,.15),(-.425,.163,1.43),.012,steel)
 
 def mug():
- n=16;verts=[]
+ n=64;verts=[]
  # Continuous closed cross-section of wall, lip, interior floor and underside.
  rings=[(.034,0),(.038,.005),(.043,.102),(.042,.108),(.037,.108),(.037,.102),(.032,.013),(.0,.013),(.0,0)]
  for r,z in rings:
@@ -77,18 +80,21 @@ def mug():
  faces=[]
  for k in range(len(rings)-1):
   for i in range(n):faces.append((k*n+i,k*n+(i+1)%n,(k+1)*n+(i+1)%n,(k+1)*n+i))
+ for i in range(n):faces.append(((len(rings)-1)*n+i,(len(rings)-1)*n+(i+1)%n,(i+1)%n,i))
  ob=geom('Mug with open cavity',verts,faces,terracotta);ob.data.materials.append(ivory)
  for p in ob.data.polygons:
-  if p.index//n>=4:p.material_index=1
+  if 4<=p.index//n<=6:p.material_index=1
+  p.use_smooth=(p.index//n in [0,1,2,4,5])
  # Faceted C-shaped handle: its endpoints meet the wall, not the interior.
- vv=[];ff=[];steps=12;sides=6
+ vv=[];ff=[];steps=32;sides=12
  for i in range(steps+1):
   a=math.radians(-100+200*i/steps);c=Vector((.045+.029*math.cos(a),0,.057+.034*math.sin(a)));normal=Vector((math.cos(a),0,math.sin(a)))
   for j in range(sides):
    t=2*math.pi*j/sides;p=c+normal*(.006*math.cos(t))+Vector((0,.006*math.sin(t),0));vv.append(tuple(p))
  for i in range(steps):
   for j in range(sides):ff.append((i*sides+j,i*sides+(j+1)%sides,(i+1)*sides+(j+1)%sides,(i+1)*sides+j))
- ff.extend([tuple(reversed(range(sides))),tuple(steps*sides+j for j in range(sides))]);geom('Faceted open handle',vv,ff,terracotta)
+ ff.extend([tuple(reversed(range(sides))),tuple(steps*sides+j for j in range(sides))]);handle=geom('Rounded open handle',vv,ff,terracotta)
+ for face in list(handle.data.polygons)[:-2]:face.use_smooth=True
  # Center total footprint on the ground origin while keeping transforms applied.
  for ob in list(bpy.context.scene.objects):
   if ob.type=='MESH':ob.location.x-=.016
@@ -99,19 +105,21 @@ def signal():
  cylinder('Anchor plate',(0,0,.273),.16,.026,steel,8)
  for x in [-.095,.095]:
   for y in [-.095,.095]:cylinder('Anchor bolt',(x,y,.30),.015,.03,pole,6)
- cylinder('Vertical mast',(0,0,2.60),.065,4.64,pole,12)
- cylinder('Mast cap',(0,0,4.933),.074,.035,steel,12)
+ cylinder('Vertical mast',(0,0,2.60),.065,4.64,pole,48)
+ cylinder('Mast cap',(0,0,4.933),.074,.035,steel,48)
  # Side-mounted cantilever makes pole visible behind the signal.
  beam('Horizontal mounting arm',(0,.04,4.67),(1.10,.04,4.67),.065,pole)
  for x in [.38,.92]:beam('Rear hanging bracket',(x,.04,4.67),(x,.04,4.43),.035,steel)
  box('Horizontal three-aspect housing',(.67,-.035,4.34),(1.13,.23,.38),teal,.045)
  lamps=[('Green',.30,(.025,.40,.24)),('Amber',.67,(.7,.24,.015)),('Red',1.04,(.55,.025,.02))]
  for name,x,rgb in lamps:
-  lens=material(name+' lens',rgb,0,.22)
-  cylinder(name+' rim',(x,-.163,4.34),.145,.028,steel,16,(math.pi/2,0,0))
-  cylinder(name+' lens',(x,-.182,4.34),.124,.012,lens,16,(math.pi/2,0,0))
+  lens=material(name+' lens',rgb,0,.16)
+  bs=lens.node_tree.nodes.get('Principled BSDF');bs.inputs['Coat Weight'].default_value=.4;bs.inputs['Coat Roughness'].default_value=.1
+  cylinder(name+' rim',(x,-.163,4.34),.145,.028,steel,64,(math.pi/2,0,0))
+  bpy.ops.mesh.primitive_uv_sphere_add(segments=48,ring_count=12,location=(x,-.179,4.34));lens_ob=bpy.context.object;lens_ob.scale=(.124,.025,.124);bpy.ops.object.transform_apply(location=False,rotation=False,scale=True);assign(lens_ob,name+' convex lens',lens)
+  for face in lens_ob.data.polygons:face.use_smooth=True
   # Open-bottom sun visor, with wall thickness and no front cap.
-  vv=[];nn=12
+  vv=[];nn=32
   for yy,r in [(-.17,.153),(-.39,.153),(-.39,.145),(-.17,.145)]:
    for i in range(nn+1):
     t=math.pi*i/nn;vv.append((x+r*math.cos(t),yy,4.34+r*math.sin(t)))
@@ -119,10 +127,11 @@ def signal():
   for k in range(4):
    for i in range(nn):ff.append((k*(nn+1)+i,k*(nn+1)+i+1,((k+1)%4)*(nn+1)+i+1,((k+1)%4)*(nn+1)+i))
   ff += [(0,nn+1,2*(nn+1),3*(nn+1)),(nn,2*nn+1,3*nn+2,4*nn+3)]
-  geom(name+' open sun visor',vv,ff,teal)
+  visor=geom(name+' open sun visor',vv,ff,teal)
+  for face in visor.data.polygons:face.use_smooth=(face.index//nn in [0,2])
  # A rear service cover and cable, no emblem or manufacturer marks.
  box('Rear service panel',(.67,.09,4.34),(.39,.015,.25),steel,.01)
- cylinder('Rear conduit',(.10,.10,4.21),.019,.45,steel,8)
+ cylinder('Rear conduit',(.10,.10,4.21),.019,.45,steel,24)
 
 def evaluated_stats(obs):
  dg=bpy.context.evaluated_depsgraph_get();pts=[];tris=0;verts=0
@@ -152,11 +161,11 @@ def publish_local(slug,title,category,build):
   for c in list(ob.users_collection):c.objects.unlink(ob)
   studio.objects.link(ob)
  bpy.ops.mesh.primitive_plane_add(size=size*200,location=(0,0,-.002));floor=bpy.context.object;floor.name='Preview ground';floor.data.materials.append(material('Studio sand',(.65,.63,.57)));studio_link(floor)
- for name,offset,power in [('Key',(-3,-4,6),600),('Fill',(4,-2,4),320),('Rim',(2,4,5),500)]:
-  bpy.ops.object.light_add(type='AREA',location=center+Vector(offset)*size);ob=bpy.context.object;ob.name=name;ob.data.energy=power*size*size;ob.data.shape='DISK';ob.data.size=size*4;ob.rotation_euler=(center-ob.location).to_track_quat('-Z','Y').to_euler();studio_link(ob)
+ for name,offset,power in [('Key',(-3,-4,6),500),('Fill',(4,-2,4),160),('Rim',(2,4,5),350)]:
+  bpy.ops.object.light_add(type='AREA',location=center+Vector(offset)*size);ob=bpy.context.object;ob.name=name;ob.data.energy=power*size*size;ob.data.shape='DISK';ob.data.size=size*2.5;ob.rotation_euler=(center-ob.location).to_track_quat('-Z','Y').to_euler();studio_link(ob)
  bpy.ops.object.camera_add(location=center+Vector((1.4,-1.8,1.1))*size);cam=bpy.context.object;cam.name='Preview camera';cam.data.type='ORTHO';cam.data.ortho_scale=size*1.65;cam.rotation_euler=(center-cam.location).to_track_quat('-Z','Y').to_euler();studio_link(cam);scene.camera=cam
- scene.world.use_nodes=True;scene.world.node_tree.nodes['Background'].inputs[0].default_value=(.75,.78,.83,1);scene.world.node_tree.nodes['Background'].inputs[1].default_value=.45
- scene.render.engine='CYCLES';scene.cycles.samples=32;scene.cycles.use_denoising=False;scene.render.resolution_x=900;scene.render.resolution_y=900;scene.render.resolution_percentage=100;scene.render.image_settings.file_format='PNG';scene.view_settings.view_transform='AgX'
+ scene.world.use_nodes=True;scene.world.node_tree.nodes['Background'].inputs[0].default_value=(.75,.78,.83,1);scene.world.node_tree.nodes['Background'].inputs[1].default_value=.25
+ scene.render.engine='CYCLES';scene.cycles.samples=96;scene.cycles.use_denoising=False;scene.render.resolution_x=900;scene.render.resolution_y=900;scene.render.resolution_percentage=100;scene.render.image_settings.file_format='PNG';scene.view_settings.view_transform='AgX'
  # Named metadata on root is useful without textures or brand-specific assets.
  root['title_ja']=title;root['category']=category;root['scale']='meters';root['design']='Original generic low-poly interpretation, not a measured replica.'
  bpy.ops.object.select_all(action='DESELECT');root.select_set(True);bpy.context.view_layer.objects.active=root
@@ -169,11 +178,13 @@ def publish_local(slug,title,category,build):
  studio.hide_viewport=False
  for view,offset in [('preview',(1.4,-1.8,1.1)),('back',(-1.4,1.8,1.0))]:
   cam.location=center+Vector(offset)*size;cam.rotation_euler=(center-cam.location).to_track_quat('-Z','Y').to_euler();scene.render.filepath=str(folder/(view+'.png'));bpy.ops.render.render(write_still=True)
- meta={'id':slug,'title_ja':title,'category':category,'units':'meter','up_axis_blend':'Z','up_axis_glb':'Y','front_blend':'-Y','origin':'ground plane; approximate footprint center (signal mast base)','style':'faceted low-poly, solid-color materials, no image textures','blender_version':bpy.app.version_string,**stats}
+ meta={'id':slug,'title_ja':title,'category':category,'units':'meter','up_axis_blend':'Z','up_axis_glb':'Y','front_blend':'-Y','origin':'ground plane; approximate footprint center (signal mast base)','style':'lightweight geometry with smooth curved surfaces; solid-color materials; no image textures','blender_version':bpy.app.version_string,**stats}
  if slug=='traffic_signal':meta['notes']='Generic Japanese-style horizontal signal; all three lenses are colored, not an active traffic phase. Dimensions estimated; not an engineering specification.'
- if slug=='mug':meta['notes']='Open cavity with wall and bottom thickness; faceted C-shaped handle. Decorative model, not a fabrication-ready design.'
+ if slug=='mug':meta['notes']='Open cavity with wall and bottom thickness; rounded C-shaped handle. Decorative model, not a fabrication-ready design.'
  (folder/'metadata.json').write_text(json.dumps(meta,ensure_ascii=False,indent=2)+'\n');CATALOG.append(meta)
  print('ASSET_COMPLETE',slug,stats,flush=True)
-for args in [('oak_table','木製テーブル','furniture',table),('dining_chair','ダイニングチェア','furniture',chair),('open_shelf','オープンシェルフ','furniture',shelf),('mug','マグカップ','household',mug),('traffic_signal','横型信号機','street',signal)]:publish_local(*args)
+for args in [('oak_table','木製テーブル','furniture',table),('dining_chair','ダイニングチェア','furniture',chair),('open_shelf','オープンシェルフ','furniture',shelf),('mug','マグカップ','household',mug),('traffic_signal','横型信号機','street',signal)]:
+ if not os.environ.get('ONLY_ASSETS') or args[0] in os.environ['ONLY_ASSETS'].split(','):publish_local(*args)
+CATALOG=[json.loads(p.read_text()) for p in sorted((ROOT/'assets').rglob('metadata.json'))]
 (ROOT/'catalog.json').write_text(json.dumps(CATALOG,ensure_ascii=False,indent=2)+'\n')
 print('BATCH_COMPLETE',flush=True)

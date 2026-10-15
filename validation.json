@@ -37,8 +37,8 @@
     },
     "max_bounds_error_m": 0.0,
     "merged_duplicate_vertices": 0,
-    "glb_bytes": 59412,
-    "blend_bytes": 100464,
+    "glb_bytes": 57632,
+    "blend_bytes": 100148,
     "under_100MB": true
   },
   {
@@ -79,8 +79,8 @@
     },
     "max_bounds_error_m": 0.0,
     "merged_duplicate_vertices": 0,
-    "glb_bytes": 56320,
-    "blend_bytes": 98659,
+    "glb_bytes": 56308,
+    "blend_bytes": 99184,
     "under_100MB": true
   },
   {
@@ -121,8 +121,8 @@
     },
     "max_bounds_error_m": 0.0,
     "merged_duplicate_vertices": 0,
-    "glb_bytes": 86108,
-    "blend_bytes": 99741,
+    "glb_bytes": 86120,
+    "blend_bytes": 99848,
     "under_100MB": true
   },
   {
@@ -131,7 +131,7 @@
     "glb_reimported": true,
     "source": {
       "mesh_count": 2,
-      "triangles": 360,
+      "triangles": 1684,
       "degenerate_triangles": 0,
       "finite_vertices": true,
       "min": [
@@ -147,7 +147,7 @@
     },
     "imported": {
       "mesh_count": 2,
-      "triangles": 360,
+      "triangles": 1684,
       "degenerate_triangles": 0,
       "finite_vertices": true,
       "min": [
@@ -162,9 +162,9 @@
       ]
     },
     "max_bounds_error_m": 0.0,
-    "merged_duplicate_vertices": 30,
-    "glb_bytes": 19860,
-    "blend_bytes": 96889,
+    "merged_duplicate_vertices": 126,
+    "glb_bytes": 40140,
+    "blend_bytes": 109865,
     "under_100MB": true
   },
   {
@@ -173,7 +173,7 @@
     "glb_reimported": true,
     "source": {
       "mesh_count": 23,
-      "triangles": 1132,
+      "triangles": 5528,
       "degenerate_triangles": 0,
       "finite_vertices": true,
       "min": [
@@ -189,7 +189,7 @@
     },
     "imported": {
       "mesh_count": 23,
-      "triangles": 1132,
+      "triangles": 5528,
       "degenerate_triangles": 0,
       "finite_vertices": true,
       "min": [
@@ -205,8 +205,8 @@
     },
     "max_bounds_error_m": 0.0,
     "merged_duplicate_vertices": 8,
-    "glb_bytes": 81044,
-    "blend_bytes": 108577,
+    "glb_bytes": 187968,
+    "blend_bytes": 146309,
     "under_100MB": true
   }
 ]

@@ -7,10 +7,10 @@
   "up_axis_glb": "Y",
   "front_blend": "-Y",
   "origin": "ground plane; approximate footprint center (signal mast base)",
-  "style": "faceted low-poly, solid-color materials, no image textures",
+  "style": "lightweight geometry with smooth curved surfaces; solid-color materials; no image textures",
   "blender_version": "4.3.2",
-  "triangles": 1132,
-  "vertices": 620,
+  "triangles": 5528,
+  "vertices": 2818,
   "dimensions_m": [
     1.415,
     0.57,
@@ -27,7 +27,7 @@
     4.950500011444092
   ],
   "notes": "Generic Japanese-style horizontal signal; all three lenses are colored, not an active traffic phase. Dimensions estimated; not an engineering specification.",
-  "glb_bytes": 81044,
-  "blend_bytes": 108577,
+  "glb_bytes": 187968,
+  "blend_bytes": 146309,
   "validated": true
 }

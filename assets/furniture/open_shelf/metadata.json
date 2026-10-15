@@ -7,7 +7,7 @@
   "up_axis_glb": "Y",
   "front_blend": "-Y",
   "origin": "ground plane; approximate footprint center (signal mast base)",
-  "style": "faceted low-poly, solid-color materials, no image textures",
+  "style": "lightweight geometry with smooth curved surfaces; solid-color materials; no image textures",
   "blender_version": "4.3.2",
   "triangles": 968,
   "vertices": 528,
@@ -26,7 +26,7 @@
     0.17499999701976776,
     1.5099999904632568
   ],
-  "glb_bytes": 86108,
-  "blend_bytes": 99741,
+  "glb_bytes": 86120,
+  "blend_bytes": 99848,
   "validated": true
 }
