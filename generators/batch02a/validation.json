@@ -1,0 +1,355 @@
+[
+  {
+    "id": "park_bench",
+    "blend_reopened": true,
+    "glb_reimported": true,
+    "bounds_max_error_m": 0.0,
+    "source": {
+      "triangles": 5800,
+      "degenerate_triangles": 0,
+      "finite_vertices": true,
+      "min": [
+        -0.8999999761581421,
+        -0.29999998211860657,
+        0.0
+      ],
+      "max": [
+        0.8999999761581421,
+        0.35069942474365234,
+        0.8647873401641846
+      ],
+      "meshes": 38
+    },
+    "imported": {
+      "triangles": 5800,
+      "degenerate_triangles": 0,
+      "finite_vertices": true,
+      "min": [
+        -0.8999999761581421,
+        -0.29999998211860657,
+        0.0
+      ],
+      "max": [
+        0.8999999761581421,
+        0.35069942474365234,
+        0.8647873401641846
+      ],
+      "meshes": 38
+    },
+    "packed_blend_images": true,
+    "embedded_glb_images": 3,
+    "glb_materials": [
+      {
+        "name": "Oiled outdoor timber",
+        "pbr": {
+          "baseColorTexture": {
+            "index": 0
+          },
+          "metallicFactor": 0,
+          "roughnessFactor": 0.5699999928474426
+        }
+      },
+      {
+        "name": "Oiled timber end grain",
+        "pbr": {
+          "baseColorTexture": {
+            "index": 1
+          },
+          "metallicFactor": 0,
+          "roughnessFactor": 0.6399999856948853
+        }
+      },
+      {
+        "name": "Dull galvanized fasteners",
+        "pbr": {
+          "baseColorTexture": {
+            "index": 2
+          },
+          "metallicFactor": 0.6499999761581421,
+          "roughnessFactor": 0.7400000095367432
+        }
+      },
+      {
+        "name": "Graphite powder coated steel",
+        "pbr": {
+          "baseColorFactor": [
+            0.054999999701976776,
+            0.057999998331069946,
+            0.06199999898672104,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.6800000071525574
+        }
+      },
+      {
+        "name": "Dark rubber foot pads",
+        "pbr": {
+          "baseColorFactor": [
+            0.020999999716877937,
+            0.02199999988079071,
+            0.024000000208616257,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.9200000166893005
+        }
+      }
+    ],
+    "files": {
+      "preview.jpg": {
+        "bytes": 100843,
+        "sha256": "a3c19d0167a263ffd99c84ba5efddf05d9c69e2a225197d56c75b7a031d835ae"
+      },
+      "back.jpg": {
+        "bytes": 101191,
+        "sha256": "500c12f77bcf1f9ea6a6c36dd6cb877146c0906d1666ed2a4150fe2cfecbbcba"
+      },
+      "endgrain.jpg": {
+        "bytes": 168370,
+        "sha256": "88c29498de473b58fd90367fc0e017ed2aa7fa8deb5e8a4eef0aec42a06522fc"
+      },
+      "park_bench.glb": {
+        "bytes": 458368,
+        "sha256": "064f932efe92b503e1c2c3151d1219227af5b2697420d6435bcb8bf9a9775131"
+      },
+      "park_bench.blend": {
+        "bytes": 400799,
+        "sha256": "681f1b0a724b422febdc21c69566d58ea29958588e0ebce433dcc8c06aebbaf7"
+      },
+      "detail.jpg": {
+        "bytes": 153699,
+        "sha256": "86eacdce37b272817c55f93605dfbd482f26444aa5a38f4ca9d2f1819035ec8b"
+      }
+    },
+    "passed": true
+  },
+  {
+    "id": "streetlight",
+    "blend_reopened": true,
+    "glb_reimported": true,
+    "bounds_max_error_m": 0.0,
+    "source": {
+      "triangles": 8428,
+      "degenerate_triangles": 0,
+      "finite_vertices": true,
+      "min": [
+        -0.15000000596046448,
+        -0.9750000238418579,
+        0.0
+      ],
+      "max": [
+        0.15000000596046448,
+        0.15000000596046448,
+        4.001999855041504
+      ],
+      "meshes": 41
+    },
+    "imported": {
+      "triangles": 8428,
+      "degenerate_triangles": 0,
+      "finite_vertices": true,
+      "min": [
+        -0.15000000596046448,
+        -0.9750000238418579,
+        0.0
+      ],
+      "max": [
+        0.15000000596046448,
+        0.15000000596046448,
+        4.001999855041504
+      ],
+      "meshes": 41
+    },
+    "packed_blend_images": true,
+    "embedded_glb_images": 1,
+    "glb_materials": [
+      {
+        "name": "Dull zinc hardware",
+        "pbr": {
+          "baseColorFactor": [
+            0.25,
+            0.25999999046325684,
+            0.27000001072883606,
+            1
+          ],
+          "metallicFactor": 0.6499999761581421,
+          "roughnessFactor": 0.75
+        }
+      },
+      {
+        "name": "Weathered galvanized steel",
+        "pbr": {
+          "baseColorTexture": {
+            "index": 0
+          },
+          "metallicFactor": 0.5799999833106995,
+          "roughnessFactor": 0.8199999928474426
+        }
+      },
+      {
+        "name": "Frosted polycarbonate diffuser",
+        "pbr": {
+          "baseColorFactor": [
+            0.7699999809265137,
+            0.7900000214576721,
+            0.800000011920929,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.33000001311302185
+        }
+      },
+      {
+        "name": "Light grey powder coated luminaire",
+        "pbr": {
+          "baseColorFactor": [
+            0.6399999856948853,
+            0.6499999761581421,
+            0.6600000262260437,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.6399999856948853
+        }
+      },
+      {
+        "name": "EPDM gasket",
+        "pbr": {
+          "baseColorFactor": [
+            0.017999999225139618,
+            0.01899999938905239,
+            0.019999999552965164,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.8999999761581421
+        }
+      }
+    ],
+    "files": {
+      "preview.jpg": {
+        "bytes": 42122,
+        "sha256": "684aa99a8913595d7d81c2716299def7e193a926210beed4bef1dab587208776"
+      },
+      "back.jpg": {
+        "bytes": 45791,
+        "sha256": "5b75550ed7537325c30f4e5473ccb58ea520877d0036d5d4fd3a0abc1a5d15dc"
+      },
+      "streetlight.blend": {
+        "bytes": 180761,
+        "sha256": "1a7ae10159c42584648960a7e949fec12a514074f62988c85a27d7bd4338b3bb"
+      },
+      "streetlight.glb": {
+        "bytes": 269884,
+        "sha256": "dca0b80d78e83f6b56019c9a2814fcd795ceb0145677f5ffeea20b1973e6cbae"
+      },
+      "detail.jpg": {
+        "bytes": 60442,
+        "sha256": "33aa72e99b718c74511bee126c23566a1dd8fd13617dde5a0e43ea5c8645b4ac"
+      }
+    },
+    "passed": true
+  },
+  {
+    "id": "traffic_cone",
+    "blend_reopened": true,
+    "glb_reimported": true,
+    "bounds_max_error_m": 0.0,
+    "source": {
+      "triangles": 4620,
+      "degenerate_triangles": 0,
+      "finite_vertices": true,
+      "min": [
+        -0.1899999976158142,
+        -0.1899999976158142,
+        0.0
+      ],
+      "max": [
+        0.1899999976158142,
+        0.1899999976158142,
+        0.699999988079071
+      ],
+      "meshes": 2
+    },
+    "imported": {
+      "triangles": 4620,
+      "degenerate_triangles": 0,
+      "finite_vertices": true,
+      "min": [
+        -0.1899999976158142,
+        -0.1899999976158142,
+        0.0
+      ],
+      "max": [
+        0.1899999976158142,
+        0.1899999976158142,
+        0.699999988079071
+      ],
+      "meshes": 2
+    },
+    "packed_blend_images": true,
+    "embedded_glb_images": 1,
+    "glb_materials": [
+      {
+        "name": "Safety red flexible PVC",
+        "pbr": {
+          "baseColorFactor": [
+            0.6700000166893005,
+            0.03500000014901161,
+            0.012000000104308128,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.4300000071525574
+        }
+      },
+      {
+        "name": "White reflective sleeve",
+        "pbr": {
+          "baseColorFactor": [
+            0.8199999928474426,
+            0.8299999833106995,
+            0.8199999928474426,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.3799999952316284
+        }
+      },
+      {
+        "name": "Heavy rubber ballast base",
+        "pbr": {
+          "baseColorTexture": {
+            "index": 0
+          },
+          "metallicFactor": 0,
+          "roughnessFactor": 0.9100000262260437
+        }
+      }
+    ],
+    "files": {
+      "preview.jpg": {
+        "bytes": 70832,
+        "sha256": "f93764dca4d5f42f094c9b768c3ff0970c4e2dec05db35f0e2c27d715b191fb3"
+      },
+      "back.jpg": {
+        "bytes": 77030,
+        "sha256": "d58ff6b2a2954eee4c87db658595924eb6945412c1a1f033d371ac87fc1d8e6b"
+      },
+      "traffic_cone.blend": {
+        "bytes": 179072,
+        "sha256": "d2545e88e3822911dc72cf92879adff4a05c4166120e1dd9991c5adec95ad508"
+      },
+      "detail.jpg": {
+        "bytes": 73433,
+        "sha256": "2a7f102d838f27ed7210a74e4c72727e9e1c6c20d02e5f044775356c0a2643f3"
+      },
+      "traffic_cone.glb": {
+        "bytes": 122564,
+        "sha256": "6a5a5f4066ee8bc1e9f10bda885aff2758b205fe77274a5f400f8d0196d135b6"
+      }
+    },
+    "passed": true
+  }
+]

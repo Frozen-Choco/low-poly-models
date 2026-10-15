@@ -1,0 +1,258 @@
+{
+  "revision": "02a-r3",
+  "status": "ready_for_independent_review_not_approved",
+  "files": [
+    {
+      "source": "assets/street/streetlight/streetlight.glb",
+      "repository_relative_path": "assets/street/streetlight/streetlight.glb",
+      "bytes": 269884,
+      "sha256": "dca0b80d78e83f6b56019c9a2814fcd795ceb0145677f5ffeea20b1973e6cbae"
+    },
+    {
+      "source": "assets/street/streetlight/streetlight.blend",
+      "repository_relative_path": "assets/street/streetlight/streetlight.blend",
+      "bytes": 180761,
+      "sha256": "1a7ae10159c42584648960a7e949fec12a514074f62988c85a27d7bd4338b3bb"
+    },
+    {
+      "source": "assets/street/streetlight/preview.jpg",
+      "repository_relative_path": "assets/street/streetlight/preview.jpg",
+      "bytes": 42122,
+      "sha256": "684aa99a8913595d7d81c2716299def7e193a926210beed4bef1dab587208776"
+    },
+    {
+      "source": "assets/street/streetlight/back.jpg",
+      "repository_relative_path": "assets/street/streetlight/back.jpg",
+      "bytes": 45791,
+      "sha256": "5b75550ed7537325c30f4e5473ccb58ea520877d0036d5d4fd3a0abc1a5d15dc"
+    },
+    {
+      "source": "assets/street/streetlight/detail.jpg",
+      "repository_relative_path": "assets/street/streetlight/detail.jpg",
+      "bytes": 60442,
+      "sha256": "33aa72e99b718c74511bee126c23566a1dd8fd13617dde5a0e43ea5c8645b4ac"
+    },
+    {
+      "source": "assets/street/streetlight/metadata.json",
+      "repository_relative_path": "assets/street/streetlight/metadata.json",
+      "bytes": 1805,
+      "sha256": "a82d6102fd8ae523da1c9334b6cdc93e7308803f86f5178af01aea2969d3498b"
+    },
+    {
+      "source": "assets/street/streetlight/validation.json",
+      "repository_relative_path": "assets/street/streetlight/validation.json",
+      "bytes": 2911,
+      "sha256": "973bbb3ae7dec514cb39a4db1135cb7737eb9ab0e0795ea7ad76281796d6fc5d"
+    },
+    {
+      "source": "assets/street/park_bench/park_bench.glb",
+      "repository_relative_path": "assets/street/park_bench/park_bench.glb",
+      "bytes": 458368,
+      "sha256": "064f932efe92b503e1c2c3151d1219227af5b2697420d6435bcb8bf9a9775131"
+    },
+    {
+      "source": "assets/street/park_bench/park_bench.blend",
+      "repository_relative_path": "assets/street/park_bench/park_bench.blend",
+      "bytes": 400799,
+      "sha256": "681f1b0a724b422febdc21c69566d58ea29958588e0ebce433dcc8c06aebbaf7"
+    },
+    {
+      "source": "assets/street/park_bench/preview.jpg",
+      "repository_relative_path": "assets/street/park_bench/preview.jpg",
+      "bytes": 100843,
+      "sha256": "a3c19d0167a263ffd99c84ba5efddf05d9c69e2a225197d56c75b7a031d835ae"
+    },
+    {
+      "source": "assets/street/park_bench/back.jpg",
+      "repository_relative_path": "assets/street/park_bench/back.jpg",
+      "bytes": 101191,
+      "sha256": "500c12f77bcf1f9ea6a6c36dd6cb877146c0906d1666ed2a4150fe2cfecbbcba"
+    },
+    {
+      "source": "assets/street/park_bench/detail.jpg",
+      "repository_relative_path": "assets/street/park_bench/detail.jpg",
+      "bytes": 153699,
+      "sha256": "86eacdce37b272817c55f93605dfbd482f26444aa5a38f4ca9d2f1819035ec8b"
+    },
+    {
+      "source": "assets/street/park_bench/metadata.json",
+      "repository_relative_path": "assets/street/park_bench/metadata.json",
+      "bytes": 2075,
+      "sha256": "619e722ffc5dd81a61c3f68e5a7b3f399385ab7604e346b6445c3cd0372eec95"
+    },
+    {
+      "source": "assets/street/park_bench/validation.json",
+      "repository_relative_path": "assets/street/park_bench/validation.json",
+      "bytes": 2897,
+      "sha256": "a820898e99600814da68c183d6776b715147fa731acf4f608995ad8d2b07e33e"
+    },
+    {
+      "source": "assets/street/traffic_cone/traffic_cone.glb",
+      "repository_relative_path": "assets/street/traffic_cone/traffic_cone.glb",
+      "bytes": 122564,
+      "sha256": "6a5a5f4066ee8bc1e9f10bda885aff2758b205fe77274a5f400f8d0196d135b6"
+    },
+    {
+      "source": "assets/street/traffic_cone/traffic_cone.blend",
+      "repository_relative_path": "assets/street/traffic_cone/traffic_cone.blend",
+      "bytes": 179072,
+      "sha256": "d2545e88e3822911dc72cf92879adff4a05c4166120e1dd9991c5adec95ad508"
+    },
+    {
+      "source": "assets/street/traffic_cone/preview.jpg",
+      "repository_relative_path": "assets/street/traffic_cone/preview.jpg",
+      "bytes": 70832,
+      "sha256": "f93764dca4d5f42f094c9b768c3ff0970c4e2dec05db35f0e2c27d715b191fb3"
+    },
+    {
+      "source": "assets/street/traffic_cone/back.jpg",
+      "repository_relative_path": "assets/street/traffic_cone/back.jpg",
+      "bytes": 77030,
+      "sha256": "d58ff6b2a2954eee4c87db658595924eb6945412c1a1f033d371ac87fc1d8e6b"
+    },
+    {
+      "source": "assets/street/traffic_cone/detail.jpg",
+      "repository_relative_path": "assets/street/traffic_cone/detail.jpg",
+      "bytes": 73433,
+      "sha256": "2a7f102d838f27ed7210a74e4c72727e9e1c6c20d02e5f044775356c0a2643f3"
+    },
+    {
+      "source": "assets/street/traffic_cone/metadata.json",
+      "repository_relative_path": "assets/street/traffic_cone/metadata.json",
+      "bytes": 1848,
+      "sha256": "9a3acef8f360c166c83c387ca24a66fbc98a564cfa433cda154c5084882df4e9"
+    },
+    {
+      "source": "assets/street/traffic_cone/validation.json",
+      "repository_relative_path": "assets/street/traffic_cone/validation.json",
+      "bytes": 2306,
+      "sha256": "af3f35f059936867d79a7bea36a1e7e641d613972f053c0422cd7ffd2e3fd9e7"
+    },
+    {
+      "source": "assets/street/park_bench/endgrain.jpg",
+      "repository_relative_path": "assets/street/park_bench/endgrain.jpg",
+      "bytes": 168370,
+      "sha256": "88c29498de473b58fd90367fc0e017ed2aa7fa8deb5e8a4eef0aec42a06522fc"
+    },
+    {
+      "source": "README.md",
+      "repository_relative_path": "generators/batch02a/README.md",
+      "bytes": 4925,
+      "sha256": "4177db0e227a99d4c685783fc608c688ef09d769353531c9e12f71f02cf1622b"
+    },
+    {
+      "source": "catalog.json",
+      "repository_relative_path": "generators/batch02a/catalog.json",
+      "bytes": 6055,
+      "sha256": "588e570d377c460e53456bacee583a8d5eae49189f09c40f0b61d11eedf7d89d"
+    },
+    {
+      "source": "validation.json",
+      "repository_relative_path": "generators/batch02a/validation.json",
+      "bytes": 8828,
+      "sha256": "460aa1b3dfa3df195e2f3f1c908722cdb5af41e27c2c73213efa29479f0baa53"
+    },
+    {
+      "source": "docs/asset-standard.md",
+      "repository_relative_path": "generators/batch02a/docs/asset-standard.md",
+      "bytes": 2967,
+      "sha256": "a8ef88a9747352eded7a51f088e8b5bf4d6e0fff2bd0c43fa5ec42e91770ecf3"
+    },
+    {
+      "source": "docs/reference-notes.md",
+      "repository_relative_path": "generators/batch02a/docs/reference-notes.md",
+      "bytes": 2596,
+      "sha256": "7bf9093c52d98d08cbaaa2b52fc7bcb700063bc62ad940832ed6fadc174dade4"
+    },
+    {
+      "source": "docs/construction-audit.md",
+      "repository_relative_path": "generators/batch02a/docs/construction-audit.md",
+      "bytes": 1378,
+      "sha256": "1e113106f0358d546e5d861e8991124adde834ba63e92005eb06696c21daf261"
+    },
+    {
+      "source": "scripts/build_assets.py",
+      "repository_relative_path": "generators/batch02a/scripts/build_assets.py",
+      "bytes": 14895,
+      "sha256": "96c0fc960150487247eaaf77228a2a2d1ebdc31a37b212fdb99b499fc198415b"
+    },
+    {
+      "source": "scripts/validate_assets.py",
+      "repository_relative_path": "generators/batch02a/scripts/validate_assets.py",
+      "bytes": 3064,
+      "sha256": "7605ce3ddab2edb2eabc51da69904bb36d8891a5aa7ad39481809d9af97e2d8c"
+    },
+    {
+      "source": "scripts/render_context.py",
+      "repository_relative_path": "generators/batch02a/scripts/render_context.py",
+      "bytes": 2404,
+      "sha256": "4cc08b6ec205df225a024d7636d558301aa7394d7aa00fd5b75d3a70a6e6e18f"
+    },
+    {
+      "source": "scripts/create_manifest.py",
+      "repository_relative_path": "generators/batch02a/scripts/create_manifest.py",
+      "bytes": 1759,
+      "sha256": "7d23cf4db4fed54f8482ea0376d7febe430338c8c6f1f5870d274137eefe89df"
+    },
+    {
+      "source": "scripts/test_published_layout.py",
+      "repository_relative_path": "generators/batch02a/scripts/test_published_layout.py",
+      "bytes": 1584,
+      "sha256": "e5d9e249e7de936e3d0c1c772d5115acd3b6884cc3c68ae7ee594688cfa8ea9d"
+    },
+    {
+      "source": "scripts/render_bench_endgrain.py",
+      "repository_relative_path": "generators/batch02a/scripts/render_bench_endgrain.py",
+      "bytes": 703,
+      "sha256": "73eeb6694b85a0e7970c5598c672cba7a1a7ef84d6cb8b5c33fb657c16f5f6c9"
+    },
+    {
+      "source": "context/daylight.jpg",
+      "repository_relative_path": "generators/batch02a/context/daylight.jpg",
+      "bytes": 89934,
+      "sha256": "5fb3b78fd58238bb896633ef957e41c046da6f89e8c7dfe9de5970796ecffd93"
+    },
+    {
+      "source": "context/alternate_light.jpg",
+      "repository_relative_path": "generators/batch02a/context/alternate_light.jpg",
+      "bytes": 94092,
+      "sha256": "36e0447ff59febb5059ec829bb0d62222ef5de6d2e4ebebf809e386e0e8c0cf1"
+    },
+    {
+      "source": "context/context.blend",
+      "repository_relative_path": "generators/batch02a/context/context.blend",
+      "bytes": 661456,
+      "sha256": "2a35aabfbe440702d634299139e182c86c69f9ebb23cf1622d4abe19ab0a7907"
+    },
+    {
+      "source": "Weathered_galvanized_steel.png",
+      "repository_relative_path": "generators/batch02a/Weathered_galvanized_steel.png",
+      "bytes": 18876,
+      "sha256": "92dff1db0d54a198a15c1281c810117b9c680bead35164903c3b0849e0a8e924"
+    },
+    {
+      "source": "Dull_galvanized_fasteners.png",
+      "repository_relative_path": "generators/batch02a/Dull_galvanized_fasteners.png",
+      "bytes": 19228,
+      "sha256": "f575e602671a8b70eab62a6d5a6cf2d6d37079f1bb34d0b862c5206219a4c6f3"
+    },
+    {
+      "source": "Heavy_rubber_ballast_base.png",
+      "repository_relative_path": "generators/batch02a/Heavy_rubber_ballast_base.png",
+      "bytes": 20900,
+      "sha256": "043c37f3532961f75438c914bc51da3bab2420139881f5676ec3ec75e00117b4"
+    },
+    {
+      "source": "timber_grain.png",
+      "repository_relative_path": "generators/batch02a/timber_grain.png",
+      "bytes": 234908,
+      "sha256": "ba7cec7960d7175f939a16773467b111d531277aae357058d4940d0d78d80df6"
+    },
+    {
+      "source": "timber_endgrain.png",
+      "repository_relative_path": "generators/batch02a/timber_endgrain.png",
+      "bytes": 17851,
+      "sha256": "49decb1df84dfd77d812e2a69f9dff9cd36a64877db9efac847d5f59b8ff8192"
+    }
+  ]
+}

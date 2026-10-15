@@ -1,0 +1,125 @@
+{
+  "id": "park_bench",
+  "blend_reopened": true,
+  "glb_reimported": true,
+  "bounds_max_error_m": 0.0,
+  "source": {
+    "triangles": 5800,
+    "degenerate_triangles": 0,
+    "finite_vertices": true,
+    "min": [
+      -0.8999999761581421,
+      -0.29999998211860657,
+      0.0
+    ],
+    "max": [
+      0.8999999761581421,
+      0.35069942474365234,
+      0.8647873401641846
+    ],
+    "meshes": 38
+  },
+  "imported": {
+    "triangles": 5800,
+    "degenerate_triangles": 0,
+    "finite_vertices": true,
+    "min": [
+      -0.8999999761581421,
+      -0.29999998211860657,
+      0.0
+    ],
+    "max": [
+      0.8999999761581421,
+      0.35069942474365234,
+      0.8647873401641846
+    ],
+    "meshes": 38
+  },
+  "packed_blend_images": true,
+  "embedded_glb_images": 3,
+  "glb_materials": [
+    {
+      "name": "Oiled outdoor timber",
+      "pbr": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.5699999928474426
+      }
+    },
+    {
+      "name": "Oiled timber end grain",
+      "pbr": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.6399999856948853
+      }
+    },
+    {
+      "name": "Dull galvanized fasteners",
+      "pbr": {
+        "baseColorTexture": {
+          "index": 2
+        },
+        "metallicFactor": 0.6499999761581421,
+        "roughnessFactor": 0.7400000095367432
+      }
+    },
+    {
+      "name": "Graphite powder coated steel",
+      "pbr": {
+        "baseColorFactor": [
+          0.054999999701976776,
+          0.057999998331069946,
+          0.06199999898672104,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.6800000071525574
+      }
+    },
+    {
+      "name": "Dark rubber foot pads",
+      "pbr": {
+        "baseColorFactor": [
+          0.020999999716877937,
+          0.02199999988079071,
+          0.024000000208616257,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.9200000166893005
+      }
+    }
+  ],
+  "files": {
+    "preview.jpg": {
+      "bytes": 100843,
+      "sha256": "a3c19d0167a263ffd99c84ba5efddf05d9c69e2a225197d56c75b7a031d835ae"
+    },
+    "back.jpg": {
+      "bytes": 101191,
+      "sha256": "500c12f77bcf1f9ea6a6c36dd6cb877146c0906d1666ed2a4150fe2cfecbbcba"
+    },
+    "endgrain.jpg": {
+      "bytes": 168370,
+      "sha256": "88c29498de473b58fd90367fc0e017ed2aa7fa8deb5e8a4eef0aec42a06522fc"
+    },
+    "park_bench.glb": {
+      "bytes": 458368,
+      "sha256": "064f932efe92b503e1c2c3151d1219227af5b2697420d6435bcb8bf9a9775131"
+    },
+    "park_bench.blend": {
+      "bytes": 400799,
+      "sha256": "681f1b0a724b422febdc21c69566d58ea29958588e0ebce433dcc8c06aebbaf7"
+    },
+    "detail.jpg": {
+      "bytes": 153699,
+      "sha256": "86eacdce37b272817c55f93605dfbd482f26444aa5a38f4ca9d2f1819035ec8b"
+    }
+  },
+  "passed": true
+}

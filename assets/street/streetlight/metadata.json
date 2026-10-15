@@ -1,0 +1,58 @@
+{
+  "id": "streetlight",
+  "units": "meters",
+  "dimensions_m": [
+    0.30000001192092896,
+    1.125,
+    4.001999855041504
+  ],
+  "bounds_min": [
+    -0.15000000596046448,
+    -0.9750000238418579,
+    0.0
+  ],
+  "bounds_max": [
+    0.15000000596046448,
+    0.15000000596046448,
+    4.001999855041504
+  ],
+  "triangles": 8428,
+  "origin": "Ground plane at mast base center",
+  "front_blend": "-Y",
+  "up_axis_blend": "Z",
+  "up_axis_glb": "Y",
+  "reference_urls": [
+    "https://www.iwasaki.co.jp/lighting/road_tunnel/anticrime/"
+  ],
+  "references_checked": "2026-10-15",
+  "design": "Original generic interpretation, estimated dimensions; not a replica or fabrication specification.",
+  "material_notes": "Neutral lighting; original packed 128px galvanized finish, restrained metallic roughness, powder coat, EPDM seal and frosted polycarbonate.",
+  "limitations": "Unlit luminaire. No buried foundation, wiring or engineering internals. Estimated dimensions; no compliance claims.",
+  "files": {
+    "preview.jpg": {
+      "bytes": 42122,
+      "sha256": "684aa99a8913595d7d81c2716299def7e193a926210beed4bef1dab587208776"
+    },
+    "back.jpg": {
+      "bytes": 45791,
+      "sha256": "5b75550ed7537325c30f4e5473ccb58ea520877d0036d5d4fd3a0abc1a5d15dc"
+    },
+    "streetlight.blend": {
+      "bytes": 180761,
+      "sha256": "1a7ae10159c42584648960a7e949fec12a514074f62988c85a27d7bd4338b3bb"
+    },
+    "streetlight.glb": {
+      "bytes": 269884,
+      "sha256": "dca0b80d78e83f6b56019c9a2814fcd795ceb0145677f5ffeea20b1973e6cbae"
+    },
+    "detail.jpg": {
+      "bytes": 60442,
+      "sha256": "33aa72e99b718c74511bee126c23566a1dd8fd13617dde5a0e43ea5c8645b4ac"
+    }
+  },
+  "validated": true,
+  "title_ja": "\u8857\u8def\u706f",
+  "category": "street",
+  "glb_bytes": 269884,
+  "blend_bytes": 180761
+}

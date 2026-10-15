@@ -1,0 +1,63 @@
+{
+  "id": "park_bench",
+  "units": "meters",
+  "dimensions_m": [
+    1.7999999523162842,
+    0.6506993770599365,
+    0.8647873401641846
+  ],
+  "bounds_min": [
+    -0.8999999761581421,
+    -0.29999998211860657,
+    0.0
+  ],
+  "bounds_max": [
+    0.8999999761581421,
+    0.35069942474365234,
+    0.8647873401641846
+  ],
+  "triangles": 5800,
+  "origin": "Ground plane at bench footprint center",
+  "front_blend": "-Y",
+  "up_axis_blend": "Z",
+  "up_axis_glb": "Y",
+  "reference_urls": [
+    "https://townscape.kotobuki.co.jp/product/bench/",
+    "https://townscape.kotobuki.co.jp/catalogs/images/KTB-42.pdf"
+  ],
+  "references_checked": "2026-10-15",
+  "design": "Original generic interpretation, estimated dimensions; not a replica or fabrication specification.",
+  "material_notes": "Original packed 1024x256 irregular timber fibers and separate 128px end grain, graphite powder-coated steel, dull galvanized fixing heads and rubber isolation pads.",
+  "limitations": "Estimated dimensions; no structural certification. Underside fastening internals omitted. Wood grain is a compact original approximation.",
+  "files": {
+    "preview.jpg": {
+      "bytes": 100843,
+      "sha256": "a3c19d0167a263ffd99c84ba5efddf05d9c69e2a225197d56c75b7a031d835ae"
+    },
+    "back.jpg": {
+      "bytes": 101191,
+      "sha256": "500c12f77bcf1f9ea6a6c36dd6cb877146c0906d1666ed2a4150fe2cfecbbcba"
+    },
+    "endgrain.jpg": {
+      "bytes": 168370,
+      "sha256": "88c29498de473b58fd90367fc0e017ed2aa7fa8deb5e8a4eef0aec42a06522fc"
+    },
+    "park_bench.glb": {
+      "bytes": 458368,
+      "sha256": "064f932efe92b503e1c2c3151d1219227af5b2697420d6435bcb8bf9a9775131"
+    },
+    "park_bench.blend": {
+      "bytes": 400799,
+      "sha256": "681f1b0a724b422febdc21c69566d58ea29958588e0ebce433dcc8c06aebbaf7"
+    },
+    "detail.jpg": {
+      "bytes": 153699,
+      "sha256": "86eacdce37b272817c55f93605dfbd482f26444aa5a38f4ca9d2f1819035ec8b"
+    }
+  },
+  "validated": true,
+  "title_ja": "\u516c\u5712\u30d9\u30f3\u30c1",
+  "category": "street",
+  "glb_bytes": 458368,
+  "blend_bytes": 400799
+}

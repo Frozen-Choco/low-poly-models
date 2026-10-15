@@ -1,0 +1,58 @@
+{
+  "id": "traffic_cone",
+  "units": "meters",
+  "dimensions_m": [
+    0.3799999952316284,
+    0.3799999952316284,
+    0.699999988079071
+  ],
+  "bounds_min": [
+    -0.1899999976158142,
+    -0.1899999976158142,
+    0.0
+  ],
+  "bounds_max": [
+    0.1899999976158142,
+    0.1899999976158142,
+    0.699999988079071
+  ],
+  "triangles": 4620,
+  "origin": "Ground plane at square base center",
+  "front_blend": "-Y",
+  "up_axis_blend": "Z",
+  "up_axis_glb": "Y",
+  "reference_urls": [
+    "https://www.sanko-kk.co.jp/products/safety/corn/"
+  ],
+  "references_checked": "2026-10-15",
+  "design": "Original generic interpretation, estimated dimensions; not a replica or fabrication specification.",
+  "material_notes": "Red flexible PVC, white reflective-sheet PBR approximation, packed original 128px dark rubber ballast finish.",
+  "limitations": "Bands use standard PBR approximation, not retroreflection. Solid ballast base makes this prop non-stackable. Not a certified traffic control product. Estimated dimensions.",
+  "files": {
+    "preview.jpg": {
+      "bytes": 70832,
+      "sha256": "f93764dca4d5f42f094c9b768c3ff0970c4e2dec05db35f0e2c27d715b191fb3"
+    },
+    "back.jpg": {
+      "bytes": 77030,
+      "sha256": "d58ff6b2a2954eee4c87db658595924eb6945412c1a1f033d371ac87fc1d8e6b"
+    },
+    "traffic_cone.blend": {
+      "bytes": 179072,
+      "sha256": "d2545e88e3822911dc72cf92879adff4a05c4166120e1dd9991c5adec95ad508"
+    },
+    "detail.jpg": {
+      "bytes": 73433,
+      "sha256": "2a7f102d838f27ed7210a74e4c72727e9e1c6c20d02e5f044775356c0a2643f3"
+    },
+    "traffic_cone.glb": {
+      "bytes": 122564,
+      "sha256": "6a5a5f4066ee8bc1e9f10bda885aff2758b205fe77274a5f400f8d0196d135b6"
+    }
+  },
+  "validated": true,
+  "title_ja": "\u4e09\u89d2\u30b3\u30fc\u30f3",
+  "category": "street",
+  "glb_bytes": 122564,
+  "blend_bytes": 179072
+}
