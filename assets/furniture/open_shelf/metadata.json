@@ -1,0 +1,32 @@
+{
+  "id": "open_shelf",
+  "title_ja": "オープンシェルフ",
+  "category": "furniture",
+  "units": "meter",
+  "up_axis_blend": "Z",
+  "up_axis_glb": "Y",
+  "front_blend": "-Y",
+  "origin": "ground plane; approximate footprint center (signal mast base)",
+  "style": "faceted low-poly, solid-color materials, no image textures",
+  "blender_version": "4.3.2",
+  "triangles": 968,
+  "vertices": 528,
+  "dimensions_m": [
+    0.905,
+    0.35,
+    1.51
+  ],
+  "bounds_min": [
+    -0.45250001549720764,
+    -0.17499999701976776,
+    0.0
+  ],
+  "bounds_max": [
+    0.45250001549720764,
+    0.17499999701976776,
+    1.5099999904632568
+  ],
+  "glb_bytes": 86108,
+  "blend_bytes": 99741,
+  "validated": true
+}

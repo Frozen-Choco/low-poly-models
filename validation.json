@@ -1,0 +1,212 @@
+[
+  {
+    "id": "dining_chair",
+    "blend_reopened": true,
+    "glb_reimported": true,
+    "source": {
+      "mesh_count": 16,
+      "triangles": 640,
+      "degenerate_triangles": 0,
+      "finite_vertices": true,
+      "min": [
+        -0.2150000035762787,
+        -0.22450000047683716,
+        0.0
+      ],
+      "max": [
+        0.2150000035762787,
+        0.22623315453529358,
+        0.8812131881713867
+      ]
+    },
+    "imported": {
+      "mesh_count": 16,
+      "triangles": 640,
+      "degenerate_triangles": 0,
+      "finite_vertices": true,
+      "min": [
+        -0.2150000035762787,
+        -0.22450000047683716,
+        0.0
+      ],
+      "max": [
+        0.2150000035762787,
+        0.22623315453529358,
+        0.8812131881713867
+      ]
+    },
+    "max_bounds_error_m": 0.0,
+    "merged_duplicate_vertices": 0,
+    "glb_bytes": 59412,
+    "blend_bytes": 100464,
+    "under_100MB": true
+  },
+  {
+    "id": "oak_table",
+    "blend_reopened": true,
+    "glb_reimported": true,
+    "source": {
+      "mesh_count": 14,
+      "triangles": 616,
+      "degenerate_triangles": 0,
+      "finite_vertices": true,
+      "min": [
+        -0.6000000238418579,
+        -0.3499999940395355,
+        0.0
+      ],
+      "max": [
+        0.6000000238418579,
+        0.3499999940395355,
+        0.75
+      ]
+    },
+    "imported": {
+      "mesh_count": 14,
+      "triangles": 616,
+      "degenerate_triangles": 0,
+      "finite_vertices": true,
+      "min": [
+        -0.6000000238418579,
+        -0.3499999940395355,
+        0.0
+      ],
+      "max": [
+        0.6000000238418579,
+        0.3499999940395355,
+        0.75
+      ]
+    },
+    "max_bounds_error_m": 0.0,
+    "merged_duplicate_vertices": 0,
+    "glb_bytes": 56320,
+    "blend_bytes": 98659,
+    "under_100MB": true
+  },
+  {
+    "id": "open_shelf",
+    "blend_reopened": true,
+    "glb_reimported": true,
+    "source": {
+      "mesh_count": 22,
+      "triangles": 968,
+      "degenerate_triangles": 0,
+      "finite_vertices": true,
+      "min": [
+        -0.45250001549720764,
+        -0.17499999701976776,
+        0.0
+      ],
+      "max": [
+        0.45250001549720764,
+        0.17499999701976776,
+        1.5099999904632568
+      ]
+    },
+    "imported": {
+      "mesh_count": 22,
+      "triangles": 968,
+      "degenerate_triangles": 0,
+      "finite_vertices": true,
+      "min": [
+        -0.45250001549720764,
+        -0.17499999701976776,
+        0.0
+      ],
+      "max": [
+        0.45250001549720764,
+        0.17499999701976776,
+        1.5099999904632568
+      ]
+    },
+    "max_bounds_error_m": 0.0,
+    "merged_duplicate_vertices": 0,
+    "glb_bytes": 86108,
+    "blend_bytes": 99741,
+    "under_100MB": true
+  },
+  {
+    "id": "mug",
+    "blend_reopened": true,
+    "glb_reimported": true,
+    "source": {
+      "mesh_count": 2,
+      "triangles": 360,
+      "degenerate_triangles": 0,
+      "finite_vertices": true,
+      "min": [
+        -0.05900000035762787,
+        -0.0430000014603138,
+        0.0
+      ],
+      "max": [
+        0.06399999558925629,
+        0.0430000014603138,
+        0.1080000028014183
+      ]
+    },
+    "imported": {
+      "mesh_count": 2,
+      "triangles": 360,
+      "degenerate_triangles": 0,
+      "finite_vertices": true,
+      "min": [
+        -0.05900000035762787,
+        -0.0430000014603138,
+        0.0
+      ],
+      "max": [
+        0.06399999558925629,
+        0.0430000014603138,
+        0.1080000028014183
+      ]
+    },
+    "max_bounds_error_m": 0.0,
+    "merged_duplicate_vertices": 30,
+    "glb_bytes": 19860,
+    "blend_bytes": 96889,
+    "under_100MB": true
+  },
+  {
+    "id": "traffic_signal",
+    "blend_reopened": true,
+    "glb_reimported": true,
+    "source": {
+      "mesh_count": 23,
+      "triangles": 1132,
+      "degenerate_triangles": 0,
+      "finite_vertices": true,
+      "min": [
+        -0.18000000715255737,
+        -0.38999998569488525,
+        0.0
+      ],
+      "max": [
+        1.2350000143051147,
+        0.18000000715255737,
+        4.950500011444092
+      ]
+    },
+    "imported": {
+      "mesh_count": 23,
+      "triangles": 1132,
+      "degenerate_triangles": 0,
+      "finite_vertices": true,
+      "min": [
+        -0.18000000715255737,
+        -0.38999998569488525,
+        0.0
+      ],
+      "max": [
+        1.2350000143051147,
+        0.18000000715255737,
+        4.950500011444092
+      ]
+    },
+    "max_bounds_error_m": 0.0,
+    "merged_duplicate_vertices": 8,
+    "glb_bytes": 81044,
+    "blend_bytes": 108577,
+    "under_100MB": true
+  }
+]

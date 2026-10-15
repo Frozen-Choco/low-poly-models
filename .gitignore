@@ -1,0 +1,8 @@
+*.blend1
+*.blend2
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+# PNGs are intermediate renders; compact JPEG previews are tracked.
+assets/**/*.png

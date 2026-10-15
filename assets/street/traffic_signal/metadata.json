@@ -1,0 +1,33 @@
+{
+  "id": "traffic_signal",
+  "title_ja": "横型信号機",
+  "category": "street",
+  "units": "meter",
+  "up_axis_blend": "Z",
+  "up_axis_glb": "Y",
+  "front_blend": "-Y",
+  "origin": "ground plane; approximate footprint center (signal mast base)",
+  "style": "faceted low-poly, solid-color materials, no image textures",
+  "blender_version": "4.3.2",
+  "triangles": 1132,
+  "vertices": 620,
+  "dimensions_m": [
+    1.415,
+    0.57,
+    4.9505
+  ],
+  "bounds_min": [
+    -0.18000000715255737,
+    -0.38999998569488525,
+    0.0
+  ],
+  "bounds_max": [
+    1.2350000143051147,
+    0.18000000715255737,
+    4.950500011444092
+  ],
+  "notes": "Generic Japanese-style horizontal signal; all three lenses are colored, not an active traffic phase. Dimensions estimated; not an engineering specification.",
+  "glb_bytes": 81044,
+  "blend_bytes": 108577,
+  "validated": true
+}

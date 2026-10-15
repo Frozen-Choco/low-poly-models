@@ -1,0 +1,164 @@
+[
+  {
+    "id": "dining_chair",
+    "title_ja": "ダイニングチェア",
+    "category": "furniture",
+    "units": "meter",
+    "up_axis_blend": "Z",
+    "up_axis_glb": "Y",
+    "front_blend": "-Y",
+    "origin": "ground plane; approximate footprint center (signal mast base)",
+    "style": "faceted low-poly, solid-color materials, no image textures",
+    "blender_version": "4.3.2",
+    "triangles": 640,
+    "vertices": 352,
+    "dimensions_m": [
+      0.43,
+      0.45073,
+      0.88121
+    ],
+    "bounds_min": [
+      -0.2150000035762787,
+      -0.22450000047683716,
+      0.0
+    ],
+    "bounds_max": [
+      0.2150000035762787,
+      0.22623315453529358,
+      0.8812131881713867
+    ],
+    "glb_bytes": 59412,
+    "blend_bytes": 100464,
+    "validated": true
+  },
+  {
+    "id": "oak_table",
+    "title_ja": "木製テーブル",
+    "category": "furniture",
+    "units": "meter",
+    "up_axis_blend": "Z",
+    "up_axis_glb": "Y",
+    "front_blend": "-Y",
+    "origin": "ground plane; approximate footprint center (signal mast base)",
+    "style": "faceted low-poly, solid-color materials, no image textures",
+    "blender_version": "4.3.2",
+    "triangles": 616,
+    "vertices": 336,
+    "dimensions_m": [
+      1.2,
+      0.7,
+      0.75
+    ],
+    "bounds_min": [
+      -0.6000000238418579,
+      -0.3499999940395355,
+      0.0
+    ],
+    "bounds_max": [
+      0.6000000238418579,
+      0.3499999940395355,
+      0.75
+    ],
+    "glb_bytes": 56320,
+    "blend_bytes": 98659,
+    "validated": true
+  },
+  {
+    "id": "open_shelf",
+    "title_ja": "オープンシェルフ",
+    "category": "furniture",
+    "units": "meter",
+    "up_axis_blend": "Z",
+    "up_axis_glb": "Y",
+    "front_blend": "-Y",
+    "origin": "ground plane; approximate footprint center (signal mast base)",
+    "style": "faceted low-poly, solid-color materials, no image textures",
+    "blender_version": "4.3.2",
+    "triangles": 968,
+    "vertices": 528,
+    "dimensions_m": [
+      0.905,
+      0.35,
+      1.51
+    ],
+    "bounds_min": [
+      -0.45250001549720764,
+      -0.17499999701976776,
+      0.0
+    ],
+    "bounds_max": [
+      0.45250001549720764,
+      0.17499999701976776,
+      1.5099999904632568
+    ],
+    "glb_bytes": 86108,
+    "blend_bytes": 99741,
+    "validated": true
+  },
+  {
+    "id": "mug",
+    "title_ja": "マグカップ",
+    "category": "household",
+    "units": "meter",
+    "up_axis_blend": "Z",
+    "up_axis_glb": "Y",
+    "front_blend": "-Y",
+    "origin": "ground plane; approximate footprint center (signal mast base)",
+    "style": "faceted low-poly, solid-color materials, no image textures",
+    "blender_version": "4.3.2",
+    "triangles": 360,
+    "vertices": 222,
+    "dimensions_m": [
+      0.123,
+      0.086,
+      0.108
+    ],
+    "bounds_min": [
+      -0.05900000035762787,
+      -0.0430000014603138,
+      0.0
+    ],
+    "bounds_max": [
+      0.06399999558925629,
+      0.0430000014603138,
+      0.1080000028014183
+    ],
+    "notes": "Open cavity with wall and bottom thickness; faceted C-shaped handle. Decorative model, not a fabrication-ready design.",
+    "glb_bytes": 19860,
+    "blend_bytes": 96889,
+    "validated": true
+  },
+  {
+    "id": "traffic_signal",
+    "title_ja": "横型信号機",
+    "category": "street",
+    "units": "meter",
+    "up_axis_blend": "Z",
+    "up_axis_glb": "Y",
+    "front_blend": "-Y",
+    "origin": "ground plane; approximate footprint center (signal mast base)",
+    "style": "faceted low-poly, solid-color materials, no image textures",
+    "blender_version": "4.3.2",
+    "triangles": 1132,
+    "vertices": 620,
+    "dimensions_m": [
+      1.415,
+      0.57,
+      4.9505
+    ],
+    "bounds_min": [
+      -0.18000000715255737,
+      -0.38999998569488525,
+      0.0
+    ],
+    "bounds_max": [
+      1.2350000143051147,
+      0.18000000715255737,
+      4.950500011444092
+    ],
+    "notes": "Generic Japanese-style horizontal signal; all three lenses are colored, not an active traffic phase. Dimensions estimated; not an engineering specification.",
+    "glb_bytes": 81044,
+    "blend_bytes": 108577,
+    "validated": true
+  }
+]

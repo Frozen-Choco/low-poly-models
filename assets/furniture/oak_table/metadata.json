@@ -1,0 +1,32 @@
+{
+  "id": "oak_table",
+  "title_ja": "木製テーブル",
+  "category": "furniture",
+  "units": "meter",
+  "up_axis_blend": "Z",
+  "up_axis_glb": "Y",
+  "front_blend": "-Y",
+  "origin": "ground plane; approximate footprint center (signal mast base)",
+  "style": "faceted low-poly, solid-color materials, no image textures",
+  "blender_version": "4.3.2",
+  "triangles": 616,
+  "vertices": 336,
+  "dimensions_m": [
+    1.2,
+    0.7,
+    0.75
+  ],
+  "bounds_min": [
+    -0.6000000238418579,
+    -0.3499999940395355,
+    0.0
+  ],
+  "bounds_max": [
+    0.6000000238418579,
+    0.3499999940395355,
+    0.75
+  ],
+  "glb_bytes": 56320,
+  "blend_bytes": 98659,
+  "validated": true
+}

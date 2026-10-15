@@ -1,0 +1,33 @@
+{
+  "id": "mug",
+  "title_ja": "マグカップ",
+  "category": "household",
+  "units": "meter",
+  "up_axis_blend": "Z",
+  "up_axis_glb": "Y",
+  "front_blend": "-Y",
+  "origin": "ground plane; approximate footprint center (signal mast base)",
+  "style": "faceted low-poly, solid-color materials, no image textures",
+  "blender_version": "4.3.2",
+  "triangles": 360,
+  "vertices": 222,
+  "dimensions_m": [
+    0.123,
+    0.086,
+    0.108
+  ],
+  "bounds_min": [
+    -0.05900000035762787,
+    -0.0430000014603138,
+    0.0
+  ],
+  "bounds_max": [
+    0.06399999558925629,
+    0.0430000014603138,
+    0.1080000028014183
+  ],
+  "notes": "Open cavity with wall and bottom thickness; faceted C-shaped handle. Decorative model, not a fabrication-ready design.",
+  "glb_bytes": 19860,
+  "blend_bytes": 96889,
+  "validated": true
+}

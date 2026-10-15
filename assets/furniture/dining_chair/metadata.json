@@ -1,0 +1,32 @@
+{
+  "id": "dining_chair",
+  "title_ja": "ダイニングチェア",
+  "category": "furniture",
+  "units": "meter",
+  "up_axis_blend": "Z",
+  "up_axis_glb": "Y",
+  "front_blend": "-Y",
+  "origin": "ground plane; approximate footprint center (signal mast base)",
+  "style": "faceted low-poly, solid-color materials, no image textures",
+  "blender_version": "4.3.2",
+  "triangles": 640,
+  "vertices": 352,
+  "dimensions_m": [
+    0.43,
+    0.45073,
+    0.88121
+  ],
+  "bounds_min": [
+    -0.2150000035762787,
+    -0.22450000047683716,
+    0.0
+  ],
+  "bounds_max": [
+    0.2150000035762787,
+    0.22623315453529358,
+    0.8812131881713867
+  ],
+  "glb_bytes": 59412,
+  "blend_bytes": 100464,
+  "validated": true
+}
