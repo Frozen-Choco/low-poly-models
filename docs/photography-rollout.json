@@ -17,15 +17,15 @@
     "open_shelf",
     "park_bench",
     "public_recycling_bin",
-    "railway_crossing_lowered"
+    "railway_crossing_lowered",
+    "stainless_kitchen_kettle",
+    "steel_roadside_bollard"
   ],
   "pending_assets": [
     "traffic_signal",
     "streetlight",
     "traffic_cone",
-    "stainless_kitchen_kettle",
     "wooden_cutting_board",
-    "steel_roadside_bollard",
     "taped_shipping_box"
   ],
   "scope": "Current canonical asset photographs only; historical generator evidence retained."

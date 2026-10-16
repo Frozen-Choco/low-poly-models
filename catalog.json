@@ -656,19 +656,27 @@
     ],
     "construction": "Fore-aft XZ arch; coaxial X pivots; separate fixed shoulders/cheeks and moving metal tangs. Lateral folding, Y-axis pouring. Loose lid requires retention; no safety certification.",
     "files_bytes": {
-      "preview.jpg": 103555,
-      "front_three_quarter.jpg": 103555,
-      "rear.jpg": 103846,
-      "side.jpg": 113164,
-      "back.jpg": 103846,
-      "close_up.jpg": 113379,
+      "preview.jpg": 144296,
+      "front_three_quarter.jpg": 144296,
+      "rear.jpg": 114891,
+      "side.jpg": 86588,
+      "back.jpg": 145032,
+      "close_up.jpg": 200071,
       "stainless_kitchen_kettle.blend": 285665,
-      "top.jpg": 95661,
+      "top.jpg": 133478,
       "stainless_kitchen_kettle.glb": 527668
     },
     "title_ja": "ステンレス製やかん",
     "glb_bytes": 527668,
-    "blend_bytes": 285665
+    "blend_bytes": 285665,
+    "photography": {
+      "standard": "preview_standard_v1",
+      "resolution": [
+        1200,
+        1200
+      ],
+      "record": "generators/preview_standard_v1/published/stainless_kitchen_kettle.json"
+    }
   },
   {
     "id": "wooden_cutting_board",
@@ -864,19 +872,27 @@
       0.9499999657273293
     ],
     "files_bytes": {
-      "preview.jpg": 56265,
-      "front_three_quarter.jpg": 56265,
-      "rear.jpg": 56159,
+      "preview.jpg": 85200,
+      "front_three_quarter.jpg": 85200,
+      "rear.jpg": 51784,
       "steel_roadside_bollard.blend": 2328152,
       "steel_roadside_bollard.glb": 2578260,
-      "side.jpg": 50564,
-      "back.jpg": 56159,
-      "close_up.jpg": 132184,
-      "underside.jpg": 62121
+      "side.jpg": 51968,
+      "back.jpg": 85167,
+      "close_up.jpg": 126260,
+      "underside.jpg": 109439
     },
     "title_ja": "鋼製車止め",
     "glb_bytes": 2578260,
-    "blend_bytes": 2328152
+    "blend_bytes": 2328152,
+    "photography": {
+      "standard": "preview_standard_v1",
+      "resolution": [
+        1200,
+        1200
+      ],
+      "record": "generators/preview_standard_v1/published/steel_roadside_bollard.json"
+    }
   },
   {
     "id": "a4_clipboard",

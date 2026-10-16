@@ -1,0 +1,613 @@
+{
+  "asset": "stainless_kitchen_kettle",
+  "photography_version": "preview-standard-v1",
+  "input": {
+    "id": "stainless_kitchen_kettle",
+    "repo_path": "assets/household/stainless_kitchen_kettle/stainless_kitchen_kettle.glb",
+    "sha256": "65d88ddaa096caec12eb7d180fca754b485ef4dcd34148069c564ae74b387539",
+    "git_sha": "558851cacd573e5f26393f975c73388372e57a77"
+  },
+  "reproduction_renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "reproduction_spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "detail_targets_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+  "provenance_note": "Original producer hashes are retained. The portable reproduction renderer uses the same photographic code and effective per-view configuration; scheduling, cache checks and descriptive metadata are excluded. Camera/light values and input/output hashes are recorded for verification.",
+  "outputs": [
+    {
+      "path": "assets/household/stainless_kitchen_kettle/back.jpg",
+      "sha256": "2249b2b069387bc5595b6b8225b9e823324cd9c92ac263690dd426d93ae97d99",
+      "bytes": 145032,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "back",
+      "original_render_record": {
+        "input_sha256": "65d88ddaa096caec12eb7d180fca754b485ef4dcd34148069c564ae74b387539",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 771.8707918099972,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 7.117145898764071,
+        "source_bounds": [
+          [
+            -0.0989999994635582,
+            -0.0989999994635582,
+            0.0
+          ],
+          [
+            0.18201151490211487,
+            0.0989999994635582,
+            0.26899999380111694
+          ]
+        ],
+        "camera_location": [
+          -6.425356864929199,
+          6.299370288848877,
+          5.324950695037842
+        ],
+        "camera_rotation": [
+          1.099881887435913,
+          -3.120215907870261e-08,
+          -2.356194496154785
+        ],
+        "ortho_scale": 2.468895196914673,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          1.6487845182418823,
+          1.9751161336898804
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              2.9999990463256836,
+              4.000000476837158,
+              5.000000953674316
+            ],
+            "rotation": [
+              0.8605252504348755,
+              -5.3626809659590435e-08,
+              2.498091697692871
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              -4.0,
+              1.000000238418579,
+              2.9999992847442627
+            ],
+            "rotation": [
+              1.061960220336914,
+              7.993252637561454e-08,
+              -1.8157751560211182
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -1.0000001192092896,
+              -3.999999761581421,
+              4.0
+            ],
+            "rotation": [
+              0.895831286907196,
+              -1.1136975786030234e-09,
+              -0.24497871100902557
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 0.9999999879288831
+      }
+    },
+    {
+      "path": "assets/household/stainless_kitchen_kettle/close_up.jpg",
+      "sha256": "48ea241c4f7dd00d13ecc5d73d64ecfc4b9e0ec7e0848e281cd7fb19bc84a436",
+      "bytes": 200071,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "close_up",
+      "original_render_record": {
+        "input_sha256": "65d88ddaa096caec12eb7d180fca754b485ef4dcd34148069c564ae74b387539",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 771.6685451060039,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 7.117145898764071,
+        "source_bounds": [
+          [
+            -0.0989999994635582,
+            -0.0989999994635582,
+            0.0
+          ],
+          [
+            0.18201151490211487,
+            0.0989999994635582,
+            0.26899999380111694
+          ]
+        ],
+        "camera_location": [
+          5.099771976470947,
+          -5.395174980163574,
+          7.567230701446533
+        ],
+        "camera_rotation": [
+          0.8671573400497437,
+          -4.843969136913984e-08,
+          0.7853981852531433
+        ],
+        "ortho_scale": 1.2507755756378174,
+        "focus": {
+          "purpose": "Lid seat/vent and handle pivot hardware",
+          "mesh_name_contains": [
+            "domed lid",
+            "insulated knob",
+            "shoulder mounting",
+            "hinge cheek",
+            "handle tang",
+            "hinge pin"
+          ],
+          "direction": [
+            1,
+            -1,
+            1.2
+          ]
+        },
+        "focus_projected_width_height": [
+          1.000620424747467,
+          0.8973541557788849
+        ],
+        "full_object_fit": false,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              -3.6727681159973145,
+              -3.3272316455841064,
+              5.054094314575195
+            ],
+            "rotation": [
+              0.8510550856590271,
+              -5.418687720748494e-08,
+              -0.8466706275939941
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              3.5994746685028076,
+              -0.5994746685028076,
+              3.760328769683838
+            ],
+            "rotation": [
+              0.8674976825714111,
+              8.608893153905228e-09,
+              1.415344476699829
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              0.5442279577255249,
+              4.4557719230651855,
+              3.428734064102173
+            ],
+            "rotation": [
+              1.0293395519256592,
+              8.853857735857673e-08,
+              3.0303802490234375
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 1.8891034238933706
+      }
+    },
+    {
+      "path": "assets/household/stainless_kitchen_kettle/front_three_quarter.jpg",
+      "sha256": "5eb27413615dd213b777d9320063c8ab3dddb7c8e9748918b613a335ba4b053e",
+      "bytes": 144296,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": "assets/household/stainless_kitchen_kettle/preview.jpg",
+      "render_view": "preview",
+      "original_render_record": {
+        "input_sha256": "65d88ddaa096caec12eb7d180fca754b485ef4dcd34148069c564ae74b387539",
+        "renderer_sha256": "e2bfa766cf9759321d2d51798e1fa821fe71ca47aff614331029cf200efe3ca0",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "1081dc5aa041e31e35fcc4997509460644ac00a7ff5ad809edee0a879fbcbd63",
+        "elapsed_seconds": 786.0565983230008,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "camera_location": [
+          6.238563060760498,
+          -6.3645501136779785,
+          5.49385929107666
+        ],
+        "camera_rotation": [
+          1.099881887435913,
+          -5.99824687697037e-08,
+          0.7853981852531433
+        ],
+        "ortho_scale": 2.468895196914673
+      }
+    },
+    {
+      "path": "assets/household/stainless_kitchen_kettle/preview.jpg",
+      "sha256": "5eb27413615dd213b777d9320063c8ab3dddb7c8e9748918b613a335ba4b053e",
+      "bytes": 144296,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "preview",
+      "original_render_record": {
+        "input_sha256": "65d88ddaa096caec12eb7d180fca754b485ef4dcd34148069c564ae74b387539",
+        "renderer_sha256": "e2bfa766cf9759321d2d51798e1fa821fe71ca47aff614331029cf200efe3ca0",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "1081dc5aa041e31e35fcc4997509460644ac00a7ff5ad809edee0a879fbcbd63",
+        "elapsed_seconds": 786.0565983230008,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "camera_location": [
+          6.238563060760498,
+          -6.3645501136779785,
+          5.49385929107666
+        ],
+        "camera_rotation": [
+          1.099881887435913,
+          -5.99824687697037e-08,
+          0.7853981852531433
+        ],
+        "ortho_scale": 2.468895196914673
+      }
+    },
+    {
+      "path": "assets/household/stainless_kitchen_kettle/rear.jpg",
+      "sha256": "cc23eea25d2aa4fdaacb7305486d7aa70d6ee6aca79b1a9f9c28eaca3e13e465",
+      "bytes": 114891,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "rear",
+      "original_render_record": {
+        "input_sha256": "65d88ddaa096caec12eb7d180fca754b485ef4dcd34148069c564ae74b387539",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 157.14239120099955,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 7.117145898764071,
+        "source_bounds": [
+          [
+            -0.0989999994635582,
+            -0.0989999994635582,
+            0.0
+          ],
+          [
+            0.18201151490211487,
+            0.0989999994635582,
+            0.26899999380111694
+          ]
+        ],
+        "camera_location": [
+          -5.960453819398026e-08,
+          10.0,
+          0.9572553634643555
+        ],
+        "camera_rotation": [
+          -1.570796251296997,
+          3.141592502593994,
+          -0.0
+        ],
+        "ortho_scale": 2.500000238418579,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          2.0000001192092896,
+          1.9145123958587646
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              4.949746608734131,
+              2.4643406867980957,
+              4.239148139953613
+            ],
+            "rotation": [
+              1.009339451789856,
+              -6.179396194738729e-08,
+              2.0514585971832275
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              -2.1213204860687256,
+              4.077500343322754,
+              1.1735769510269165
+            ],
+            "rotation": [
+              1.47627854347229,
+              4.6657358865331844e-08,
+              -2.673337697982788
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -3.535534620285034,
+              -0.5099250078201294,
+              4.631254196166992
+            ],
+            "rotation": [
+              0.7390650510787964,
+              -1.1492829798953608e-08,
+              -1.4600355625152588
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": [
+          184,
+          184,
+          184
+        ],
+        "floor_hidden": true,
+        "closeup_magnification_vs_full_fit": 0.9999999642372166
+      }
+    },
+    {
+      "path": "assets/household/stainless_kitchen_kettle/side.jpg",
+      "sha256": "e9a871295f9e8ab63251290764d48d1626accda68532fdee3290f917d0d4296f",
+      "bytes": 86588,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "side",
+      "original_render_record": {
+        "input_sha256": "65d88ddaa096caec12eb7d180fca754b485ef4dcd34148069c564ae74b387539",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 121.34653041400452,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 7.117145898764071,
+        "source_bounds": [
+          [
+            -0.0989999994635582,
+            -0.0989999994635582,
+            0.0
+          ],
+          [
+            0.18201151490211487,
+            0.0989999994635582,
+            0.26899999380111694
+          ]
+        ],
+        "camera_location": [
+          10.0,
+          4.76837158203125e-07,
+          0.9572557210922241
+        ],
+        "camera_rotation": [
+          1.5707963705062866,
+          -0.0,
+          1.5707963705062866
+        ],
+        "ortho_scale": 2.3931403160095215,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          1.4091949462890625,
+          1.9145123362541199
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              2.4643406867980957,
+              -4.949747085571289,
+              4.239147663116455
+            ],
+            "rotation": [
+              1.009339690208435,
+              1.93114324531507e-09,
+              0.4806620478630066
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              4.077499866485596,
+              2.1213204860687256,
+              1.1735775470733643
+            ],
+            "rotation": [
+              1.4762787818908691,
+              -3.4131744541809894e-08,
+              2.0390515327453613
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -0.5099251866340637,
+              3.535534143447876,
+              4.631255149841309
+            ],
+            "rotation": [
+              0.7390648722648621,
+              -5.0699753728622454e-08,
+              -3.030831813812256
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": [
+          184,
+          184,
+          184
+        ],
+        "floor_hidden": true,
+        "closeup_magnification_vs_full_fit": 1.0000000435862986
+      }
+    },
+    {
+      "path": "assets/household/stainless_kitchen_kettle/top.jpg",
+      "sha256": "971a77a1996de988b3d4182b5bc115a1ac107c1ff3c3a59d130d1e3c1fb39d58",
+      "bytes": 133478,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "top",
+      "original_render_record": {
+        "input_sha256": "65d88ddaa096caec12eb7d180fca754b485ef4dcd34148069c564ae74b387539",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 774.0812092069973,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 7.117145898764071,
+        "source_bounds": [
+          [
+            -0.0989999994635582,
+            -0.0989999994635582,
+            0.0
+          ],
+          [
+            0.18201151490211487,
+            0.0989999994635582,
+            0.26899999380111694
+          ]
+        ],
+        "camera_location": [
+          0.0,
+          0.0,
+          10.957256317138672
+        ],
+        "camera_rotation": [
+          0.0,
+          -0.0,
+          0.0
+        ],
+        "ortho_scale": 2.5,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          2.0,
+          1.4091949462890625
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              -4.949747085571289,
+              3.2818915843963623,
+              3.4215962886810303
+            ],
+            "rotation": [
+              1.1686614751815796,
+              -2.7843867655974464e-07,
+              -2.1877758502960205
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              2.1213204860687256,
+              0.21632155776023865,
+              5.034756660461426
+            ],
+            "rotation": [
+              0.4770045876502991,
+              -7.713562411026942e-08,
+              1.7778332233428955
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              3.535534143447876,
+              3.6739988327026367,
+              0.44733095169067383
+            ],
+            "rotation": [
+              1.6453208923339844,
+              -3.9816232089151526e-08,
+              2.4055869579315186
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 1.0
+      }
+    }
+  ]
+}

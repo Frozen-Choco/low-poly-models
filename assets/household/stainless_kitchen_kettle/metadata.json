@@ -37,17 +37,25 @@
   ],
   "construction": "Fore-aft XZ arch; coaxial X pivots; separate fixed shoulders/cheeks and moving metal tangs. Lateral folding, Y-axis pouring. Loose lid requires retention; no safety certification.",
   "files_bytes": {
-    "preview.jpg": 103555,
-    "front_three_quarter.jpg": 103555,
-    "rear.jpg": 103846,
-    "side.jpg": 113164,
-    "back.jpg": 103846,
-    "close_up.jpg": 113379,
+    "preview.jpg": 144296,
+    "front_three_quarter.jpg": 144296,
+    "rear.jpg": 114891,
+    "side.jpg": 86588,
+    "back.jpg": 145032,
+    "close_up.jpg": 200071,
     "stainless_kitchen_kettle.blend": 285665,
-    "top.jpg": 95661,
+    "top.jpg": 133478,
     "stainless_kitchen_kettle.glb": 527668
   },
   "title_ja": "ステンレス製やかん",
   "glb_bytes": 527668,
-  "blend_bytes": 285665
+  "blend_bytes": 285665,
+  "photography": {
+    "standard": "preview_standard_v1",
+    "resolution": [
+      1200,
+      1200
+    ],
+    "record": "generators/preview_standard_v1/published/stainless_kitchen_kettle.json"
+  }
 }

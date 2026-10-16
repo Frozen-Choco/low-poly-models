@@ -33,17 +33,25 @@
     0.9499999657273293
   ],
   "files_bytes": {
-    "preview.jpg": 56265,
-    "front_three_quarter.jpg": 56265,
-    "rear.jpg": 56159,
+    "preview.jpg": 85200,
+    "front_three_quarter.jpg": 85200,
+    "rear.jpg": 51784,
     "steel_roadside_bollard.blend": 2328152,
     "steel_roadside_bollard.glb": 2578260,
-    "side.jpg": 50564,
-    "back.jpg": 56159,
-    "close_up.jpg": 132184,
-    "underside.jpg": 62121
+    "side.jpg": 51968,
+    "back.jpg": 85167,
+    "close_up.jpg": 126260,
+    "underside.jpg": 109439
   },
   "title_ja": "鋼製車止め",
   "glb_bytes": 2578260,
-  "blend_bytes": 2328152
+  "blend_bytes": 2328152,
+  "photography": {
+    "standard": "preview_standard_v1",
+    "resolution": [
+      1200,
+      1200
+    ],
+    "record": "generators/preview_standard_v1/published/steel_roadside_bollard.json"
+  }
 }

@@ -1,0 +1,755 @@
+{
+  "asset": "steel_roadside_bollard",
+  "photography_version": "preview-standard-v1",
+  "input": {
+    "id": "steel_roadside_bollard",
+    "repo_path": "assets/street/steel_roadside_bollard/steel_roadside_bollard.glb",
+    "sha256": "381aef5ecaca4db5afc13b1d48c953e9e0be3bc91fcdfe1ad3c5c7d5372a9e6a",
+    "git_sha": "42a457f28e856e7506eeebf5ff3280e1c3842fa2"
+  },
+  "reproduction_renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "reproduction_spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "detail_targets_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+  "provenance_note": "Original producer hashes are retained. The portable reproduction renderer uses the same photographic code and effective per-view configuration; scheduling, cache checks and descriptive metadata are excluded. Camera/light values and input/output hashes are recorded for verification.",
+  "outputs": [
+    {
+      "path": "assets/street/steel_roadside_bollard/back.jpg",
+      "sha256": "445f6080d2b0c92dfcb4a6dab919e29128317bccdde000d6e5abac6e9040e6a8",
+      "bytes": 85167,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "back",
+      "original_render_record": {
+        "input_sha256": "381aef5ecaca4db5afc13b1d48c953e9e0be3bc91fcdfe1ad3c5c7d5372a9e6a",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 614.0250809149948,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 2.1052631843123084,
+        "source_bounds": [
+          [
+            -0.09000000357627869,
+            -0.09000000357627869,
+            -0.10000000149011612
+          ],
+          [
+            0.09000000357627869,
+            0.09000000357627869,
+            0.8499999642372131
+          ]
+        ],
+        "camera_location": [
+          -6.310849666595459,
+          6.310851573944092,
+          5.510787010192871
+        ],
+        "camera_rotation": [
+          1.0998820066452026,
+          1.1037879943387452e-07,
+          -2.3561947345733643
+        ],
+        "ortho_scale": 2.382378578186035,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          0.5280642509460449,
+          1.9059028625488281
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              2.999999761581421,
+              3.999999523162842,
+              5.000001430511475
+            ],
+            "rotation": [
+              0.8605252504348755,
+              -5.99574647708323e-08,
+              2.498091697692871
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              -4.000000476837158,
+              1.0000011920928955,
+              2.9999985694885254
+            ],
+            "rotation": [
+              1.0619604587554932,
+              9.89387904937189e-10,
+              -1.8157753944396973
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -1.0000020265579224,
+              -3.999999523162842,
+              4.0
+            ],
+            "rotation": [
+              0.895831286907196,
+              2.379176855527021e-08,
+              -0.24497920274734497
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 1.0
+      }
+    },
+    {
+      "path": "assets/street/steel_roadside_bollard/close_up.jpg",
+      "sha256": "c48a2bd7ddbff9b9b6914e4e4a6d23c73be72ad7ab94bc205335c6824a22b52d",
+      "bytes": 126260,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "close_up",
+      "original_render_record": {
+        "input_sha256": "381aef5ecaca4db5afc13b1d48c953e9e0be3bc91fcdfe1ad3c5c7d5372a9e6a",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 825.9304858030009,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 2.1052631843123084,
+        "source_bounds": [
+          [
+            -0.09000000357627869,
+            -0.09000000357627869,
+            -0.10000000149011612
+          ],
+          [
+            0.09000000357627869,
+            0.09000000357627869,
+            0.8499999642372131
+          ]
+        ],
+        "camera_location": [
+          3.8131425380706787,
+          -6.536816596984863,
+          6.852606296539307
+        ],
+        "camera_rotation": [
+          0.8583571314811707,
+          4.571613487769355e-08,
+          0.5280744433403015
+        ],
+        "ortho_scale": 0.6578947305679321,
+        "focus": {
+          "purpose": "Flange, weld and bored anchor fasteners",
+          "target_m": [
+            0,
+            0,
+            0.05
+          ],
+          "span_m": 0.25,
+          "direction": [
+            0.7,
+            -1.2,
+            1.2
+          ]
+        },
+        "focus_projected_width_height": [
+          0.5111280083656311,
+          1.688993513584137
+        ],
+        "full_object_fit": false,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              -4.41160774230957,
+              -2.260683536529541,
+              5.053027153015137
+            ],
+            "rotation": [
+              0.8516272902488708,
+              1.1731479787613353e-07,
+              -1.1116877794265747
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              3.3210623264312744,
+              -1.4832030534744263,
+              3.7875893115997314
+            ],
+            "rotation": [
+              0.8603981733322144,
+              -3.9327915146714076e-08,
+              1.1624621152877808
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              1.6545199155807495,
+              4.180424213409424,
+              3.40553879737854
+            ],
+            "rotation": [
+              1.0348472595214844,
+              4.823706944989681e-08,
+              2.777158737182617
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 3.2090877064141057
+      }
+    },
+    {
+      "path": "assets/street/steel_roadside_bollard/front_three_quarter.jpg",
+      "sha256": "95c4797846b39201ed5c4c930b2902745aecdd3b735b93bfa92b3e25e33948c8",
+      "bytes": 85200,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": "assets/street/steel_roadside_bollard/preview.jpg",
+      "render_view": "preview",
+      "original_render_record": {
+        "input_sha256": "381aef5ecaca4db5afc13b1d48c953e9e0be3bc91fcdfe1ad3c5c7d5372a9e6a",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 611.8818519039996,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 2.1052631843123084,
+        "source_bounds": [
+          [
+            -0.09000000357627869,
+            -0.09000000357627869,
+            -0.10000000149011612
+          ],
+          [
+            0.09000000357627869,
+            0.09000000357627869,
+            0.8499999642372131
+          ]
+        ],
+        "camera_location": [
+          6.310851097106934,
+          -6.310850143432617,
+          5.510787487030029
+        ],
+        "camera_rotation": [
+          1.099881887435913,
+          -1.1680641165412453e-07,
+          0.7853983044624329
+        ],
+        "ortho_scale": 2.382378578186035,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          0.5280642807483673,
+          1.905902922153473
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              -2.9999990463256836,
+              -4.000000953674316,
+              5.000000476837158
+            ],
+            "rotation": [
+              0.8605254888534546,
+              7.73745867377329e-09,
+              -0.6435010433197021
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              4.000000476837158,
+              -0.9999997615814209,
+              2.999999523162842
+            ],
+            "rotation": [
+              1.061960220336914,
+              9.897669173142276e-08,
+              1.3258179426193237
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              0.9999995827674866,
+              3.999999761581421,
+              4.000000953674316
+            ],
+            "rotation": [
+              0.8958309888839722,
+              -5.2051913002060246e-08,
+              2.8966140747070312
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 1.0000000312737054
+      }
+    },
+    {
+      "path": "assets/street/steel_roadside_bollard/preview.jpg",
+      "sha256": "95c4797846b39201ed5c4c930b2902745aecdd3b735b93bfa92b3e25e33948c8",
+      "bytes": 85200,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "preview",
+      "original_render_record": {
+        "input_sha256": "381aef5ecaca4db5afc13b1d48c953e9e0be3bc91fcdfe1ad3c5c7d5372a9e6a",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 611.8818519039996,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 2.1052631843123084,
+        "source_bounds": [
+          [
+            -0.09000000357627869,
+            -0.09000000357627869,
+            -0.10000000149011612
+          ],
+          [
+            0.09000000357627869,
+            0.09000000357627869,
+            0.8499999642372131
+          ]
+        ],
+        "camera_location": [
+          6.310851097106934,
+          -6.310850143432617,
+          5.510787487030029
+        ],
+        "camera_rotation": [
+          1.099881887435913,
+          -1.1680641165412453e-07,
+          0.7853983044624329
+        ],
+        "ortho_scale": 2.382378578186035,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          0.5280642807483673,
+          1.905902922153473
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              -2.9999990463256836,
+              -4.000000953674316,
+              5.000000476837158
+            ],
+            "rotation": [
+              0.8605254888534546,
+              7.73745867377329e-09,
+              -0.6435010433197021
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              4.000000476837158,
+              -0.9999997615814209,
+              2.999999523162842
+            ],
+            "rotation": [
+              1.061960220336914,
+              9.897669173142276e-08,
+              1.3258179426193237
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              0.9999995827674866,
+              3.999999761581421,
+              4.000000953674316
+            ],
+            "rotation": [
+              0.8958309888839722,
+              -5.2051913002060246e-08,
+              2.8966140747070312
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 1.0000000312737054
+      }
+    },
+    {
+      "path": "assets/street/steel_roadside_bollard/rear.jpg",
+      "sha256": "4a91da315ade048ec1136533f5971b6d40b607a653c20d40d35ed9a0ff58ca6b",
+      "bytes": 51784,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "rear",
+      "original_render_record": {
+        "input_sha256": "381aef5ecaca4db5afc13b1d48c953e9e0be3bc91fcdfe1ad3c5c7d5372a9e6a",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 47.3712954060029,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 2.1052631843123084,
+        "source_bounds": [
+          [
+            -0.09000000357627869,
+            -0.09000000357627869,
+            -0.10000000149011612
+          ],
+          [
+            0.09000000357627869,
+            0.09000000357627869,
+            0.8499999642372131
+          ]
+        ],
+        "camera_location": [
+          -1.1920918296937089e-07,
+          10.0,
+          0.9999992847442627
+        ],
+        "camera_rotation": [
+          -1.570796251296997,
+          3.141592502593994,
+          -0.0
+        ],
+        "ortho_scale": 2.5,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          0.3789474070072174,
+          2.0
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              4.949746608734131,
+              2.4449477195739746,
+              4.243801116943359
+            ],
+            "rotation": [
+              1.009339690208435,
+              1.5022574473277928e-07,
+              2.0514585971832275
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              -2.1213204860687256,
+              4.058107376098633,
+              1.1782294511795044
+            ],
+            "rotation": [
+              1.47627854347229,
+              4.6657358865331844e-08,
+              -2.673337697982788
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -3.535534620285034,
+              -0.5293179750442505,
+              4.63590669631958
+            ],
+            "rotation": [
+              0.7390650510787964,
+              -1.1492829798953608e-08,
+              -1.4600355625152588
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": [
+          184,
+          184,
+          184
+        ],
+        "floor_hidden": true,
+        "closeup_magnification_vs_full_fit": 1.0
+      }
+    },
+    {
+      "path": "assets/street/steel_roadside_bollard/side.jpg",
+      "sha256": "0ef902449c75f4b9ab1d4fd06e33ae869966da0318f1975b461c9faff3bfcff1",
+      "bytes": 51968,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "side",
+      "original_render_record": {
+        "input_sha256": "381aef5ecaca4db5afc13b1d48c953e9e0be3bc91fcdfe1ad3c5c7d5372a9e6a",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 49.42241553399799,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 2.1052631843123084,
+        "source_bounds": [
+          [
+            -0.09000000357627869,
+            -0.09000000357627869,
+            -0.10000000149011612
+          ],
+          [
+            0.09000000357627869,
+            0.09000000357627869,
+            0.8499999642372131
+          ]
+        ],
+        "camera_location": [
+          10.0,
+          4.3958425521850586e-07,
+          0.9999995231628418
+        ],
+        "camera_rotation": [
+          1.5707963705062866,
+          -0.0,
+          1.5707963705062866
+        ],
+        "ortho_scale": 2.5,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          0.3789474219083786,
+          2.0
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              2.4449477195739746,
+              -4.949747085571289,
+              4.243800163269043
+            ],
+            "rotation": [
+              1.009339690208435,
+              1.93114324531507e-09,
+              0.4806620478630066
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              4.058106899261475,
+              2.1213204860687256,
+              1.1782300472259521
+            ],
+            "rotation": [
+              1.4762787818908691,
+              -3.4131744541809894e-08,
+              2.0390515327453613
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -0.5293181538581848,
+              3.535534143447876,
+              4.635907173156738
+            ],
+            "rotation": [
+              0.7390648722648621,
+              -5.26910390874491e-08,
+              -3.030831813812256
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": [
+          184,
+          184,
+          184
+        ],
+        "floor_hidden": true,
+        "closeup_magnification_vs_full_fit": 1.0
+      }
+    },
+    {
+      "path": "assets/street/steel_roadside_bollard/underside.jpg",
+      "sha256": "21e6f259580cc4077d54ba4bfd2ecaa9ea667c5c1d4e6a71f74bb979798610ba",
+      "bytes": 109439,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "underside",
+      "original_render_record": {
+        "input_sha256": "381aef5ecaca4db5afc13b1d48c953e9e0be3bc91fcdfe1ad3c5c7d5372a9e6a",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 583.2102164130047,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 2.1052631843123084,
+        "source_bounds": [
+          [
+            -0.09000000357627869,
+            -0.09000000357627869,
+            -0.10000000149011612
+          ],
+          [
+            0.09000000357627869,
+            0.09000000357627869,
+            0.8499999642372131
+          ]
+        ],
+        "camera_location": [
+          -8.046627613111923e-07,
+          -8.046626476243546e-07,
+          -9.0
+        ],
+        "camera_rotation": [
+          8.742277657347586e-08,
+          3.1415927410125732,
+          -8.742277657347586e-08
+        ],
+        "ortho_scale": 0.47368431091308594,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          0.3789474368095398,
+          0.3789474368095398
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              4.949747085571289,
+              3.2437996864318848,
+              -1.444948434829712
+            ],
+            "rotation": [
+              1.9729316234588623,
+              4.891452931587992e-08,
+              2.1877756118774414
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              -2.1213207244873047,
+              0.1782298982143402,
+              -3.0581068992614746
+            ],
+            "rotation": [
+              2.66458797454834,
+              2.0277128953694046e-07,
+              -1.7778328657150269
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -3.535533905029297,
+              3.6359076499938965,
+              1.5293182134628296
+            ],
+            "rotation": [
+              1.4962716102600098,
+              -1.0442674636124138e-07,
+              -2.4055871963500977
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": [
+          184,
+          184,
+          184
+        ],
+        "floor_hidden": true,
+        "closeup_magnification_vs_full_fit": 0.9999999685419997
+      }
+    }
+  ]
+}
