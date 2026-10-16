@@ -1,0 +1,17 @@
+{
+  "source_blend_sha256": "c0d3fbd9c6c9107aaefdd9fd8fdaf932f7fb1fbd9bec24f903562a20893230a3",
+  "source_glb_sha256": "0fe9726f84f4aaf1bdfcad064d209f367adb11a762ab52c87ee57f5088dcbf06",
+  "render_engine": "Cycles",
+  "samples": 32,
+  "threads": 2,
+  "resolution": [
+    1000,
+    1000
+  ],
+  "pose_coordinates": "Blender Z-up meters",
+  "cutaway_hidden": [
+    "Two millimetre folded side sheet.001",
+    "Side sheet folded return.002",
+    "Side sheet folded return.003"
+  ]
+}

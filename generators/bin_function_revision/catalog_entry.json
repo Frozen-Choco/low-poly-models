@@ -1,0 +1,17 @@
+{
+  "id": "public_recycling_bin",
+  "title_ja": "公共用分別回収ボックス",
+  "category": "street",
+  "dimensions_m": [
+    0.47999998927116394,
+    0.48900000751018524,
+    1.0175000429153442
+  ],
+  "triangles": 22240,
+  "glb_bytes": 1127408,
+  "blend_bytes": 216585,
+  "preview": "assets/street/public_recycling_bin/preview.jpg",
+  "back": "assets/street/public_recycling_bin/back.jpg",
+  "glb": "assets/street/public_recycling_bin/public_recycling_bin.glb",
+  "blend": "assets/street/public_recycling_bin/public_recycling_bin.blend"
+}

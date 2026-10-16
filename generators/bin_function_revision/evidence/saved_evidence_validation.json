@@ -1,0 +1,26 @@
+{
+  "service_open.blend": {
+    "sha256": "e8dd5eaa65f400f87c05fa231741b21df37911cc4e35e72c99de812c745f2556",
+    "meshes": 75,
+    "maximum_bound_difference_m": 5.960464477539063e-08,
+    "pose_matches_intended_transforms": true
+  },
+  "service_open.glb": {
+    "sha256": "0bc02954d9f0bda8a1c0d5973cbda8a3ee6d42b04075551ab74fc5e32ea99f78",
+    "meshes": 75,
+    "maximum_bound_difference_m": 5.960464477539063e-08,
+    "pose_matches_intended_transforms": true
+  },
+  "liner_removed.blend": {
+    "sha256": "9398d8c5d9f753547f17f93268f2806eb7794ff0f1680b2bc0cede0992d3365f",
+    "meshes": 75,
+    "maximum_bound_difference_m": 5.960464477539063e-08,
+    "pose_matches_intended_transforms": true
+  },
+  "liner_removed.glb": {
+    "sha256": "0e3d8a9d106ae0b36921d45787ede72ea0dbe5058fe57193678d842b7d78f0be",
+    "meshes": 75,
+    "maximum_bound_difference_m": 5.960464477539063e-08,
+    "pose_matches_intended_transforms": true
+  }
+}

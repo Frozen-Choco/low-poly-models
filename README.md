@@ -28,7 +28,7 @@
 | [マグカップ](assets/household/mug) | 1,684 | 40.1 KB | 110.3 KB | 0.123 × 0.086 × 0.108 |
 | [横型信号機](assets/street/traffic_signal) | 10,522 | 379.9 KB | 190.1 KB | 1.4150 × 0.5896 × 4.9505 |
 | [踏切警報機・遮断機（下降）](assets/street/railway_crossing_lowered) | 42,452 | 1494.4 KB | 325.6 KB | 5.2810 × 0.7150 × 3.7888 |
-| [公共用分別回収ボックス](assets/street/public_recycling_bin) | 14,708 | 773.2 KB | 197.3 KB | 0.480 × 0.489 × 1.018 |
+| [公共用分別回収ボックス](assets/street/public_recycling_bin) | 22,240 | 1127.4 KB | 216.6 KB | 0.4800 × 0.4890 × 1.0175 |
 
 ## プレビューとファイル
 
@@ -177,3 +177,11 @@ python scripts/update_catalog_readme.py
 [現行の修正内容・生成手順](generators/street_attachment_revision/docs/attachment-revision.md)
 
 信号機・踏切の再生成はこの修正版を使用してください。ルートscriptsおよびgenerators/batch02b内の該当モデルの手順・検証画像は旧版履歴です。現行モデルを上書きする用途には使用しないでください。
+
+## 分別回収ボックスの支持・回収動作修正
+
+筐体と台座、内部容器と底板の支持接触を修正しました。実物のサービス手順・容器寸法を参考に内部容器と扉の構造を見直し、ラッチと扉を開け、容器を少し持ち上げて引き出す全経路を保存モデルで独立確認しています。内部容器は手で支える前提で、閉じた静的モデルを納品しています。実物の容量・耐候性・構造安全性の認証ではありません。
+
+[現行の生成手順・サービス確認](generators/bin_function_revision/README.md) · [底面](assets/street/public_recycling_bin/underside.jpg)
+
+generators/batch02bにある旧回収ボックスの生成・検証内容は履歴です。現在の回収ボックスの再生成には修正版を使用してください。

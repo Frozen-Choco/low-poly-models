@@ -2,22 +2,23 @@
   "id": "public_recycling_bin",
   "title_ja": "公共用分別回収ボックス",
   "category": "street",
-  "glb_bytes": 773192,
-  "blend_bytes": 197255,
+  "glb_bytes": 1127408,
+  "blend_bytes": 216585,
   "units": "meters",
   "front_blend": "-Y",
   "up_blend": "Z",
   "up_glb": "Y",
   "origin": "ground at cabinet center",
   "reference_urls": [
-    "https://www.teramoto.co.jp/products/10285/",
-    "https://www.teramoto.co.jp/trushbox_ft_series/"
+    "https://www.teramoto.co.jp/products/7306/",
+    "https://www.teramoto.co.jp/trushbox_ft_series/",
+    "https://www.teramoto.co.jp/trashbox_ft_touchless_support/howtouse/"
   ],
-  "notes": "Generic Japanese sheltered public-space can/bottle recycling cabinet, two genuine round insertion openings with deep chutes, inner liner, front locked service door, rear panel and feet. Original interpretation, not a product replica; pictograms only and no invented lettering. No waste contents. Fixed closed service door; editable separate parts.",
+  "notes": "Generic sheltered-space can/bottle mixed recycling cabinet. Static closed deliverable; editable door, quarter-turn latch and 525mm liner. Both chutes feed one liner. Service proof is supplied separately. Original inferred dimensions and hardware; not a manufacturer replica or safety certification.",
   "blender_version": "4.3.2",
   "textures": "none; all PBR materials embedded",
-  "review_status": "approved",
-  "triangles": 14708,
+  "review_status": "independently reviewed exact production binary hashes; static and service geometry checks passed",
+  "triangles": 22240,
   "zero_area_triangles": 0,
   "finite_coordinates": true,
   "bounds_min": [
@@ -36,13 +37,32 @@
     1.0175000429153442
   ],
   "files_bytes": {
-    "preview.jpg": 83565,
-    "front_three_quarter.jpg": 83565,
-    "rear.jpg": 75594,
-    "back.jpg": 75594,
-    "close_up.jpg": 130844,
-    "public_recycling_bin.blend": 197255,
-    "public_recycling_bin.glb": 773192
+    "preview.jpg": 97201,
+    "front_three_quarter.jpg": 97201,
+    "rear.jpg": 90850,
+    "back.jpg": 90850,
+    "close_up.jpg": 145655,
+    "public_recycling_bin.blend": 216585,
+    "public_recycling_bin.glb": 1127408,
+    "underside.jpg": 62555
   },
-  "review_scope": "Independent multi-view/contextual-lighting, construction/material, saved-file and source-scope review."
+  "revision": "bin_function_revision",
+  "source": "generators/bin_function_revision/scripts/build_bin.py",
+  "service_door_pivot_m": [
+    -0.224,
+    -0.248,
+    0
+  ],
+  "service_door_open_degrees": 110,
+  "liner_height_m": 0.525,
+  "sha256": {
+    "blend": "c0d3fbd9c6c9107aaefdd9fd8fdaf932f7fb1fbd9bec24f903562a20893230a3",
+    "glb": "0fe9726f84f4aaf1bdfcad064d209f367adb11a762ab52c87ee57f5088dcbf06"
+  },
+  "limitations": [
+    "Generic inferred design, not a brand replica",
+    "One mixed can/bottle collection stream",
+    "Static closed production files; service poses supplied separately",
+    "No manufacturing, structural, accessibility, weatherproofing or installation certification"
+  ]
 }

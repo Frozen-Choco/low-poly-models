@@ -1,0 +1,224 @@
+{
+  "revision": "bin_function_revision",
+  "production_state": "closed static",
+  "canonical_asset": "assets/street/public_recycling_bin",
+  "files": [
+    {
+      "relative_path": "README.md",
+      "repository_path": "generators/bin_function_revision/README.md",
+      "bytes": 2370,
+      "sha256": "a18ef7d42e8abcd479c892f0e8609d889ca0b9e42593feea857a6d2667fdc79c"
+    },
+    {
+      "relative_path": "assets/public_recycling_bin/back.jpg",
+      "repository_path": "assets/street/public_recycling_bin/back.jpg",
+      "bytes": 90850,
+      "sha256": "db8ea7fdb42dcf7589ed56d571667bd8be72c64981c49bb86fc1fb49b786d211"
+    },
+    {
+      "relative_path": "assets/public_recycling_bin/close_up.jpg",
+      "repository_path": "assets/street/public_recycling_bin/close_up.jpg",
+      "bytes": 145655,
+      "sha256": "6f11eaf52c5ee9335b626f5406a2fea0943d206d81d9c3b39991c13edf95c516"
+    },
+    {
+      "relative_path": "assets/public_recycling_bin/front_three_quarter.jpg",
+      "repository_path": "assets/street/public_recycling_bin/front_three_quarter.jpg",
+      "bytes": 97201,
+      "sha256": "5228d50b649a5a0157607452eb48ce12b1375c3a01e3a7cae70e6e17e1ce9400"
+    },
+    {
+      "relative_path": "assets/public_recycling_bin/metadata.json",
+      "repository_path": "assets/street/public_recycling_bin/metadata.json",
+      "bytes": 2326,
+      "sha256": "f4ec9c969ff196fa2bbb37271130685f82944f13dba9a8255e2e13825adb4732"
+    },
+    {
+      "relative_path": "assets/public_recycling_bin/preview.jpg",
+      "repository_path": "assets/street/public_recycling_bin/preview.jpg",
+      "bytes": 97201,
+      "sha256": "5228d50b649a5a0157607452eb48ce12b1375c3a01e3a7cae70e6e17e1ce9400"
+    },
+    {
+      "relative_path": "assets/public_recycling_bin/public_recycling_bin.blend",
+      "repository_path": "assets/street/public_recycling_bin/public_recycling_bin.blend",
+      "bytes": 216585,
+      "sha256": "c0d3fbd9c6c9107aaefdd9fd8fdaf932f7fb1fbd9bec24f903562a20893230a3"
+    },
+    {
+      "relative_path": "assets/public_recycling_bin/public_recycling_bin.glb",
+      "repository_path": "assets/street/public_recycling_bin/public_recycling_bin.glb",
+      "bytes": 1127408,
+      "sha256": "0fe9726f84f4aaf1bdfcad064d209f367adb11a762ab52c87ee57f5088dcbf06"
+    },
+    {
+      "relative_path": "assets/public_recycling_bin/rear.jpg",
+      "repository_path": "assets/street/public_recycling_bin/rear.jpg",
+      "bytes": 90850,
+      "sha256": "db8ea7fdb42dcf7589ed56d571667bd8be72c64981c49bb86fc1fb49b786d211"
+    },
+    {
+      "relative_path": "assets/public_recycling_bin/underside.jpg",
+      "repository_path": "assets/street/public_recycling_bin/underside.jpg",
+      "bytes": 62555,
+      "sha256": "e6d9a2fcc8933a397fb7212eab368302572b3d21c499bdd56b8122b3a4f9fd1d"
+    },
+    {
+      "relative_path": "catalog_entry.json",
+      "repository_path": "generators/bin_function_revision/catalog_entry.json",
+      "bytes": 547,
+      "sha256": "6011bba6f6811da23dd096a0dbdfa15bf0dae71f62f9e75ffc2a706fefb3c87a"
+    },
+    {
+      "relative_path": "docs/construction-and-references.md",
+      "repository_path": "generators/bin_function_revision/docs/construction-and-references.md",
+      "bytes": 4538,
+      "sha256": "1df00fb552fc26d351fc3c76239be00ffbc0124cf2ed767204ec94c40e0ac771"
+    },
+    {
+      "relative_path": "evidence/baseline_frozen_hashes.json",
+      "repository_path": "generators/bin_function_revision/evidence/baseline_frozen_hashes.json",
+      "bytes": 6077,
+      "sha256": "a6d4db42f655dc8184c0ee58cc4cbc514ac305932d28011af9d7511c5aa373b2"
+    },
+    {
+      "relative_path": "evidence/context_alternate_light.jpg",
+      "repository_path": "generators/bin_function_revision/evidence/context_alternate_light.jpg",
+      "bytes": 194339,
+      "sha256": "53610d7f1c05da91b0507eab041789e622d9632b0d17022ff5f81a870f2f85c5"
+    },
+    {
+      "relative_path": "evidence/context_daylight.jpg",
+      "repository_path": "generators/bin_function_revision/evidence/context_daylight.jpg",
+      "bytes": 230455,
+      "sha256": "9c9e44cb29db7b0dd5c2b1bef9ec906d854625abea02218b57008380381c5fca"
+    },
+    {
+      "relative_path": "evidence/context_review.blend",
+      "repository_path": "generators/bin_function_revision/evidence/context_review.blend",
+      "bytes": 224504,
+      "sha256": "338a9bc1fc634b6e6a6f5737b4c7af8e5728cb9c7eb25cdd204448f08f08e18b"
+    },
+    {
+      "relative_path": "evidence/geometry_validation.json",
+      "repository_path": "generators/bin_function_revision/evidence/geometry_validation.json",
+      "bytes": 1085,
+      "sha256": "c8b8652189b7d678e0497b942b2c388ffe050e47c37f8c18ba7feef599f8634a"
+    },
+    {
+      "relative_path": "evidence/liner_removed.blend",
+      "repository_path": "generators/bin_function_revision/evidence/liner_removed.blend",
+      "bytes": 213041,
+      "sha256": "9398d8c5d9f753547f17f93268f2806eb7794ff0f1680b2bc0cede0992d3365f"
+    },
+    {
+      "relative_path": "evidence/liner_removed.glb",
+      "repository_path": "generators/bin_function_revision/evidence/liner_removed.glb",
+      "bytes": 1128516,
+      "sha256": "0e3d8a9d106ae0b36921d45787ede72ea0dbe5058fe57193678d842b7d78f0be"
+    },
+    {
+      "relative_path": "evidence/liner_removed.jpg",
+      "repository_path": "generators/bin_function_revision/evidence/liner_removed.jpg",
+      "bytes": 115449,
+      "sha256": "d19b117af4540badc35b9d1f95b8fcee06ae7dc430cde285920b17d0d8da02dd"
+    },
+    {
+      "relative_path": "evidence/render_provenance.json",
+      "repository_path": "generators/bin_function_revision/evidence/render_provenance.json",
+      "bytes": 478,
+      "sha256": "9d8bd33fbcc649da9908b9279c089d73220d7ef31b53b798b442f6be6c38a680"
+    },
+    {
+      "relative_path": "evidence/saved_evidence_validation.json",
+      "repository_path": "generators/bin_function_revision/evidence/saved_evidence_validation.json",
+      "bytes": 933,
+      "sha256": "dd6537a425c57bbcdf1deb6cb7dce154edede5d8168e82e544433ad7fed9188c"
+    },
+    {
+      "relative_path": "evidence/service_cutaway.jpg",
+      "repository_path": "generators/bin_function_revision/evidence/service_cutaway.jpg",
+      "bytes": 126120,
+      "sha256": "69e90a342b8523118f3090767f4aa967ba34386cdf85eda1907520c3ff16e9d3"
+    },
+    {
+      "relative_path": "evidence/service_open.blend",
+      "repository_path": "generators/bin_function_revision/evidence/service_open.blend",
+      "bytes": 213038,
+      "sha256": "e8dd5eaa65f400f87c05fa231741b21df37911cc4e35e72c99de812c745f2556"
+    },
+    {
+      "relative_path": "evidence/service_open.glb",
+      "repository_path": "generators/bin_function_revision/evidence/service_open.glb",
+      "bytes": 1128464,
+      "sha256": "0bc02954d9f0bda8a1c0d5973cbda8a3ee6d42b04075551ab74fc5e32ea99f78"
+    },
+    {
+      "relative_path": "evidence/service_open.jpg",
+      "repository_path": "generators/bin_function_revision/evidence/service_open.jpg",
+      "bytes": 114129,
+      "sha256": "ee48ed23dca782f8cbd5a71925b63124dfd4eff35b8e93380bcb75f9443e272b"
+    },
+    {
+      "relative_path": "evidence/service_validation.json",
+      "repository_path": "generators/bin_function_revision/evidence/service_validation.json",
+      "bytes": 45067,
+      "sha256": "ea841300c6bfeb5470a7afcda56a83ea9b0b837873739b76d16cd9311afbffe6"
+    },
+    {
+      "relative_path": "evidence/validation_blend.json",
+      "repository_path": "generators/bin_function_revision/evidence/validation_blend.json",
+      "bytes": 20562,
+      "sha256": "e730cb6e1ffa319ec7c1ad638996891906df95ec9167868185e116ce5ddf88cf"
+    },
+    {
+      "relative_path": "evidence/validation_glb.json",
+      "repository_path": "generators/bin_function_revision/evidence/validation_glb.json",
+      "bytes": 20560,
+      "sha256": "e0eb4fd1e03075657e42fa5ea1a4dc928dc7452861f0ba94386fc08d5ec84638"
+    },
+    {
+      "relative_path": "scripts/base_geometry.py",
+      "repository_path": "generators/bin_function_revision/scripts/base_geometry.py",
+      "bytes": 17709,
+      "sha256": "35e9b94018e11d9b350f3d1acbf372a444246c24eed91884ec0a67b5bf5f32fb"
+    },
+    {
+      "relative_path": "scripts/build_bin.py",
+      "repository_path": "generators/bin_function_revision/scripts/build_bin.py",
+      "bytes": 5273,
+      "sha256": "e6999325e383a82f6ff1168fa1f7a4c63b3fc0c431674ea8e3a9c117675ad13d"
+    },
+    {
+      "relative_path": "scripts/package_manifest.py",
+      "repository_path": "generators/bin_function_revision/scripts/package_manifest.py",
+      "bytes": 3545,
+      "sha256": "733cefd0dc0aac95bc73fe7543378b6028685901e176f3a8ebbd7f263c584641"
+    },
+    {
+      "relative_path": "scripts/render_evidence.py",
+      "repository_path": "generators/bin_function_revision/scripts/render_evidence.py",
+      "bytes": 4346,
+      "sha256": "86d0b9e7b9eddeb65589bfbe965e728e79054d855c7e4e1cf37c0d853dd1a8fa"
+    },
+    {
+      "relative_path": "scripts/validate_evidence.py",
+      "repository_path": "generators/bin_function_revision/scripts/validate_evidence.py",
+      "bytes": 1984,
+      "sha256": "02ecbf6aa514b033c604a5c21cadc3b8e74d7d247af20d9168caffaed565d726"
+    },
+    {
+      "relative_path": "scripts/validate_geometry.py",
+      "repository_path": "generators/bin_function_revision/scripts/validate_geometry.py",
+      "bytes": 1501,
+      "sha256": "a5de2d2748e671f02b9e8308c11c806e504f774817fed20fa8d833802f64c7e6"
+    },
+    {
+      "relative_path": "scripts/verify_service.py",
+      "repository_path": "generators/bin_function_revision/scripts/verify_service.py",
+      "bytes": 5350,
+      "sha256": "1251a9fc009987de072b82be0f8be5f77d4473e588dc76f814b9056cfabf7977"
+    }
+  ],
+  "excluded": "Private manufacturer reference images, logs and Python caches"
+}

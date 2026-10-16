@@ -1,0 +1,48 @@
+{
+  "blend": {
+    "sha256": "c0d3fbd9c6c9107aaefdd9fd8fdaf932f7fb1fbd9bec24f903562a20893230a3",
+    "triangles": 22240,
+    "zero_area_triangles": 0,
+    "finite_coordinates": true,
+    "bounds_min": [
+      -0.23999999463558197,
+      -0.2540000081062317,
+      0.0
+    ],
+    "bounds_max": [
+      0.23999999463558197,
+      0.23499999940395355,
+      1.0175000429153442
+    ],
+    "dimensions_m": [
+      0.47999998927116394,
+      0.48900000751018524,
+      1.0175000429153442
+    ],
+    "mesh_count": 75,
+    "external_textures": []
+  },
+  "glb": {
+    "sha256": "0fe9726f84f4aaf1bdfcad064d209f367adb11a762ab52c87ee57f5088dcbf06",
+    "triangles": 22240,
+    "zero_area_triangles": 0,
+    "finite_coordinates": true,
+    "bounds_min": [
+      -0.23999999463558197,
+      -0.2540000081062317,
+      0.0
+    ],
+    "bounds_max": [
+      0.23999999463558197,
+      0.23499999940395355,
+      1.0175000429153442
+    ],
+    "dimensions_m": [
+      0.47999998927116394,
+      0.48900000751018524,
+      1.0175000429153442
+    ],
+    "mesh_count": 75,
+    "external_textures": []
+  }
+}
