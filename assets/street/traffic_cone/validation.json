@@ -1,101 +1,139 @@
 {
-  "id": "traffic_cone",
+  "revision": "cone-functional-r1",
   "blend_reopened": true,
   "glb_reimported": true,
-  "bounds_max_error_m": 0.0,
-  "source": {
-    "triangles": 4620,
-    "degenerate_triangles": 0,
+  "blend": {
+    "triangles": 12288,
+    "zero_area_triangles": 0,
     "finite_vertices": true,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.002793142901845139,
     "min": [
-      -0.1899999976158142,
-      -0.1899999976158142,
+      -0.18000000715255737,
+      -0.18000000715255737,
       0.0
     ],
     "max": [
-      0.1899999976158142,
-      0.1899999976158142,
+      0.18000000715255737,
+      0.18000000715255737,
       0.699999988079071
-    ],
-    "meshes": 2
+    ]
   },
-  "imported": {
-    "triangles": 4620,
-    "degenerate_triangles": 0,
+  "imported_glb": {
+    "triangles": 12288,
+    "zero_area_triangles": 0,
     "finite_vertices": true,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.002793142901845041,
     "min": [
-      -0.1899999976158142,
-      -0.1899999976158142,
+      -0.18000000715255737,
+      -0.18000000715255737,
       0.0
     ],
     "max": [
-      0.1899999976158142,
-      0.1899999976158142,
+      0.18000000715255737,
+      0.18000000715255737,
       0.699999988079071
-    ],
-    "meshes": 2
+    ]
   },
-  "packed_blend_images": true,
-  "embedded_glb_images": 1,
-  "glb_materials": [
+  "raw_glb_vertex_seam_topology": {
+    "triangles": 12288,
+    "zero_area_triangles": 0,
+    "finite_vertices": true,
+    "nonmanifold_edges": 10120,
+    "signed_volume_m3": 0.002793142901845041,
+    "min": [
+      -0.18000000715255737,
+      -0.18000000715255737,
+      0.0
+    ],
+    "max": [
+      0.18000000715255737,
+      0.18000000715255737,
+      0.699999988079071
+    ]
+  },
+  "coincident_seam_vertices_welded_for_geometric_tests": 6456,
+  "max_bounds_error_m": 0.0,
+  "open_bottom_axis_first_hit_m": 0.6959999203681946,
+  "axis_hit_explanation": "Ray starts 0.1 m below the cone; the first surface is the inner closed top cap at 0.696 m. No base cap blocks the cavity.",
+  "nesting_pitch_m": 0.04,
+  "instance_offsets_m": [
+    0,
+    0.04,
+    0.08
+  ],
+  "radial_clearance": [
     {
-      "name": "Safety red flexible PVC",
-      "pbr": {
-        "baseColorFactor": [
-          0.6700000166893005,
-          0.03500000014901161,
-          0.012000000104308128,
-          1
-        ],
-        "metallicFactor": 0,
-        "roughnessFactor": 0.4300000071525574
-      }
+      "vertical_offset_m": 0.04,
+      "minimum_sampled_radial_clearance_m": 0.0011905125479699241,
+      "at_global_height_m": 0.6999989999999999,
+      "angle_rad": 0.016362461737446838,
+      "height_samples": 1029,
+      "angular_samples_per_height": 3
     },
     {
-      "name": "White reflective sleeve",
-      "pbr": {
-        "baseColorFactor": [
-          0.8199999928474426,
-          0.8299999833106995,
-          0.8199999928474426,
-          1
-        ],
-        "metallicFactor": 0,
-        "roughnessFactor": 0.3799999952316284
-      }
-    },
-    {
-      "name": "Heavy rubber ballast base",
-      "pbr": {
-        "baseColorTexture": {
-          "index": 0
-        },
-        "metallicFactor": 0,
-        "roughnessFactor": 0.9100000262260437
-      }
+      "vertical_offset_m": 0.08,
+      "minimum_sampled_radial_clearance_m": 0.008752001405767172,
+      "at_global_height_m": 0.6999989999999999,
+      "angle_rad": 0.016362461737446838,
+      "height_samples": 1029,
+      "angular_samples_per_height": 3
     }
   ],
-  "files": {
-    "preview.jpg": {
-      "bytes": 70832,
-      "sha256": "f93764dca4d5f42f094c9b768c3ff0970c4e2dec05db35f0e2c27d715b191fb3"
+  "exact_intersections": [
+    {
+      "vertical_offset_m": 0.04,
+      "exact_boolean_intersection_volume_m3": 0.0,
+      "contact_or_residual_faces": 0
     },
-    "back.jpg": {
-      "bytes": 77030,
-      "sha256": "d58ff6b2a2954eee4c87db658595924eb6945412c1a1f033d371ac87fc1d8e6b"
-    },
-    "traffic_cone.blend": {
-      "bytes": 179072,
-      "sha256": "d2545e88e3822911dc72cf92879adff4a05c4166120e1dd9991c5adec95ad508"
-    },
-    "detail.jpg": {
-      "bytes": 73433,
-      "sha256": "2a7f102d838f27ed7210a74e4c72727e9e1c6c20d02e5f044775356c0a2643f3"
-    },
-    "traffic_cone.glb": {
-      "bytes": 122564,
-      "sha256": "6a5a5f4066ee8bc1e9f10bda885aff2758b205fe77274a5f400f8d0196d135b6"
+    {
+      "vertical_offset_m": 0.08,
+      "exact_boolean_intersection_volume_m3": 0.0,
+      "contact_or_residual_faces": 0
     }
+  ],
+  "stack_support_contacts": [
+    {
+      "x_m": 0.13930003589374987,
+      "y_m": 0.13930003589374987,
+      "lower_land_top_m": 0.03999999910593033,
+      "upper_base_underside_local_m": 0.0,
+      "gap_at_stack_pitch_m": 8.940696724635266e-10
+    },
+    {
+      "x_m": -0.13930003589374987,
+      "y_m": 0.13930003589374987,
+      "lower_land_top_m": 0.03999999910593033,
+      "upper_base_underside_local_m": 0.0,
+      "gap_at_stack_pitch_m": 8.940696724635266e-10
+    },
+    {
+      "x_m": -0.1393000358937499,
+      "y_m": -0.13930003589374987,
+      "lower_land_top_m": 0.03999999910593033,
+      "upper_base_underside_local_m": 0.0,
+      "gap_at_stack_pitch_m": 8.940696724635266e-10
+    },
+    {
+      "x_m": 0.13930003589374984,
+      "y_m": -0.1393000358937499,
+      "lower_land_top_m": 0.03999999910593033,
+      "upper_base_underside_local_m": 0.0,
+      "gap_at_stack_pitch_m": 8.940696724635266e-10
+    }
+  ],
+  "solid_volume_sanity": {
+    "enclosed_material_volume_m3": 0.002793142901845041,
+    "assumed_density_kg_per_m3": [
+      1200,
+      1600
+    ],
+    "estimated_mass_range_kg": [
+      3.3517714822140494,
+      4.469028642952066
+    ],
+    "density_status": "Illustrative assumed range for filled/flexible PVC, not measured for this model. Actual reference product mass is 3.5 kg; no modeled mass certification."
   },
-  "passed": true
+  "scope": "Rigid geometric fit only; no material elasticity, loading, friction or real-product tolerance certification."
 }

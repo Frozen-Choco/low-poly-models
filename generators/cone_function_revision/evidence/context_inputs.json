@@ -1,0 +1,40 @@
+{
+  "inputs": [
+    {
+      "asset": "streetlight",
+      "canonical_path": "assets/street/streetlight/streetlight.glb",
+      "sha256": "dca0b80d78e83f6b56019c9a2814fcd795ceb0145677f5ffeea20b1973e6cbae",
+      "bytes": 269884,
+      "translation_m": [
+        -1.6,
+        0.55,
+        0
+      ]
+    },
+    {
+      "asset": "park_bench",
+      "canonical_path": "assets/street/park_bench/park_bench.glb",
+      "sha256": "064f932efe92b503e1c2c3151d1219227af5b2697420d6435bcb8bf9a9775131",
+      "bytes": 458368,
+      "translation_m": [
+        0.2,
+        0.45,
+        0
+      ]
+    },
+    {
+      "asset": "traffic_cone",
+      "canonical_path": "assets/street/traffic_cone/traffic_cone.glb",
+      "sha256": "6d9500c674f3aadb539665ad04c470ba27a5108774045a391e5ce30054af9286",
+      "bytes": 495528,
+      "translation_m": [
+        1.2,
+        -0.75,
+        0
+      ]
+    }
+  ],
+  "scale": "meters, imported without resizing",
+  "lighting": "neutral daylight and alternate area-light direction",
+  "scope": "Exact revised cone with already-reviewed streetlight and park bench; context scene only, not a new production asset."
+}

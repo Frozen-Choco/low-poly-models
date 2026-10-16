@@ -1,0 +1,207 @@
+{
+  "revision": "cone-functional-r1",
+  "status": "ready_for_independent_review",
+  "asset_ids": [
+    "traffic_cone"
+  ],
+  "files": [
+    {
+      "source": "assets/street/traffic_cone/traffic_cone.glb",
+      "repository_path": "assets/street/traffic_cone/traffic_cone.glb",
+      "bytes": 495528,
+      "sha256": "6d9500c674f3aadb539665ad04c470ba27a5108774045a391e5ce30054af9286",
+      "source_root": "asset_output_root"
+    },
+    {
+      "source": "assets/street/traffic_cone/traffic_cone.blend",
+      "repository_path": "assets/street/traffic_cone/traffic_cone.blend",
+      "bytes": 335289,
+      "sha256": "6e6878c13e1f1fd905e084c75d3b7ff53d9d3f2bfb34a3fbf5e5e22901bd903b",
+      "source_root": "asset_output_root"
+    },
+    {
+      "source": "assets/street/traffic_cone/preview.jpg",
+      "repository_path": "assets/street/traffic_cone/preview.jpg",
+      "bytes": 96243,
+      "sha256": "7bbe8f6187c9a4f21f9525604edb514055a309b1a45a591b17d67a4acc452ca3",
+      "source_root": "asset_output_root"
+    },
+    {
+      "source": "assets/street/traffic_cone/back.jpg",
+      "repository_path": "assets/street/traffic_cone/back.jpg",
+      "bytes": 99989,
+      "sha256": "7674f587c8b772e20a74440420a929acf1fd50dc1e90f4e6dd51ae25d54415d8",
+      "source_root": "asset_output_root"
+    },
+    {
+      "source": "assets/street/traffic_cone/detail.jpg",
+      "repository_path": "assets/street/traffic_cone/detail.jpg",
+      "bytes": 94726,
+      "sha256": "4087bd652cfed9af60912586d8286cfb9ae6a67e8311f21e3332e3fabcc6a97c",
+      "source_root": "asset_output_root"
+    },
+    {
+      "source": "assets/street/traffic_cone/underside.jpg",
+      "repository_path": "assets/street/traffic_cone/underside.jpg",
+      "bytes": 84627,
+      "sha256": "696fc09b4a41cd42990f1d993fd40f6e75c7cd15f1b1fc6e51d6a5220aa02e60",
+      "source_root": "asset_output_root"
+    },
+    {
+      "source": "assets/street/traffic_cone/underside_axial.jpg",
+      "repository_path": "assets/street/traffic_cone/underside_axial.jpg",
+      "bytes": 163554,
+      "sha256": "ca00efdd338d87fda0af1e4d44813316c85b4939f92196b379efc13d8572528f",
+      "source_root": "asset_output_root"
+    },
+    {
+      "source": "assets/street/traffic_cone/metadata.json",
+      "repository_path": "assets/street/traffic_cone/metadata.json",
+      "bytes": 2412,
+      "sha256": "2ff523a0a2488b6da32df256129f681bcefaea75eff129aca757191a505edfd3",
+      "source_root": "asset_output_root"
+    },
+    {
+      "source": "assets/street/traffic_cone/validation.json",
+      "repository_path": "assets/street/traffic_cone/validation.json",
+      "bytes": 3917,
+      "sha256": "a2318710da7ef4a8c2e337369cb3f9c2d4e8c48e7979c3a1bb966c35f3ea2a1e",
+      "source_root": "asset_output_root"
+    },
+    {
+      "source": "README.md",
+      "repository_path": "generators/cone_function_revision/README.md",
+      "bytes": 2203,
+      "sha256": "65449b3a5592566883ce1ec5939693fc5b3d371124f1c06d0457baf2b575070a",
+      "source_root": "generator_root"
+    },
+    {
+      "source": "docs/construction-and-references.md",
+      "repository_path": "generators/cone_function_revision/docs/construction-and-references.md",
+      "bytes": 3917,
+      "sha256": "2e23076f9d25dd34a2ef37dd2277f1ae01f54990c8ef916affe144b3766c9689",
+      "source_root": "generator_root"
+    },
+    {
+      "source": "recycled_pvc.png",
+      "repository_path": "generators/cone_function_revision/recycled_pvc.png",
+      "bytes": 14100,
+      "sha256": "ef9c3831304f8e4351b77a63154ecde24c2325b10946b3ae77cc4cdace45e94e",
+      "source_root": "generator_root"
+    },
+    {
+      "source": "scripts/build_cone.py",
+      "repository_path": "generators/cone_function_revision/scripts/build_cone.py",
+      "bytes": 10219,
+      "sha256": "5df96a17f84df582e15608725c22569e24343e49b953eda5bca7114ec8bbafcd",
+      "source_root": "generator_root"
+    },
+    {
+      "source": "scripts/validate_and_demonstrate.py",
+      "repository_path": "generators/cone_function_revision/scripts/validate_and_demonstrate.py",
+      "bytes": 9038,
+      "sha256": "34cf1a3a3f8d82274784db1a593d597a042580678fa123f6e6b429382289ac6f",
+      "source_root": "generator_root"
+    },
+    {
+      "source": "scripts/verify_evidence.py",
+      "repository_path": "generators/cone_function_revision/scripts/verify_evidence.py",
+      "bytes": 2834,
+      "sha256": "f09b41f49fe0df73bf6d49cf5cb1e566f9fc3ccc10131993794255fd25570143",
+      "source_root": "generator_root"
+    },
+    {
+      "source": "scripts/create_manifest.py",
+      "repository_path": "generators/cone_function_revision/scripts/create_manifest.py",
+      "bytes": 2052,
+      "sha256": "9e925694ce5a25e00e3e3cd66153e5e23550888cd22996fc680fef07d16012c5",
+      "source_root": "generator_root"
+    },
+    {
+      "source": "evidence/nested_three.glb",
+      "repository_path": "generators/cone_function_revision/evidence/nested_three.glb",
+      "bytes": 456000,
+      "sha256": "4d9eb6e95a2978e616f148644f45b617f48979ee8b35372bad5e196d32cbdc5d",
+      "source_root": "generator_root"
+    },
+    {
+      "source": "evidence/nested_three.blend",
+      "repository_path": "generators/cone_function_revision/evidence/nested_three.blend",
+      "bytes": 423281,
+      "sha256": "7694c890e22353880b4395f687f942786ece8400910e980c1b586764e539e6d9",
+      "source_root": "generator_root"
+    },
+    {
+      "source": "evidence/nested_three.jpg",
+      "repository_path": "generators/cone_function_revision/evidence/nested_three.jpg",
+      "bytes": 100041,
+      "sha256": "89038571839ec5c1dc5f711403aee5a33eeee5f06c264b2ca21a2722f686dac4",
+      "source_root": "generator_root"
+    },
+    {
+      "source": "evidence/nested_section.blend",
+      "repository_path": "generators/cone_function_revision/evidence/nested_section.blend",
+      "bytes": 285165,
+      "sha256": "25d66ed1a6a8314671dd264aa9357049632664e9aefc4369924c3d732d85acc4",
+      "source_root": "generator_root"
+    },
+    {
+      "source": "evidence/nested_section.jpg",
+      "repository_path": "generators/cone_function_revision/evidence/nested_section.jpg",
+      "bytes": 117712,
+      "sha256": "7ee7abdba765496050835dc85b8d4d45c5c9fa0279906a58b2ef0e15750e9e82",
+      "source_root": "generator_root"
+    },
+    {
+      "source": "evidence/nested_neck_clearance.jpg",
+      "repository_path": "generators/cone_function_revision/evidence/nested_neck_clearance.jpg",
+      "bytes": 178526,
+      "sha256": "17c4ae1b10610eb6a6b94db02c196ee5b00a55b4f1a2657645c1e386432f57ba",
+      "source_root": "generator_root"
+    },
+    {
+      "source": "evidence/saved_evidence_validation.json",
+      "repository_path": "generators/cone_function_revision/evidence/saved_evidence_validation.json",
+      "bytes": 3194,
+      "sha256": "3187e47fe6d36ec31320ffce78d3e4fbc1fe0d74b7f384133108e72861c235ec",
+      "source_root": "generator_root"
+    },
+    {
+      "source": "scripts/render_context.py",
+      "repository_path": "generators/cone_function_revision/scripts/render_context.py",
+      "bytes": 3315,
+      "sha256": "8d113193c36fca4b05f59d85c50b25baf559bc021b691ba93d0b103631c7f5ba",
+      "source_root": "generator_root"
+    },
+    {
+      "source": "evidence/context.blend",
+      "repository_path": "generators/cone_function_revision/evidence/context.blend",
+      "bytes": 907104,
+      "sha256": "d971cb813b945f4857f15292b01f240f55c23aa843c08dae93a335b51fde0888",
+      "source_root": "generator_root"
+    },
+    {
+      "source": "evidence/context_daylight.jpg",
+      "repository_path": "generators/cone_function_revision/evidence/context_daylight.jpg",
+      "bytes": 97955,
+      "sha256": "81326a0dbf21e832d695f072e32dd126fe7966f78e17fd0679b06a1cee71076e",
+      "source_root": "generator_root"
+    },
+    {
+      "source": "evidence/context_alternate_light.jpg",
+      "repository_path": "generators/cone_function_revision/evidence/context_alternate_light.jpg",
+      "bytes": 102247,
+      "sha256": "a8371ad0f544317d4efc0cbdc2b8ad792c3aac5e751da5c1e6e3c428499108e0",
+      "source_root": "generator_root"
+    },
+    {
+      "source": "evidence/context_inputs.json",
+      "repository_path": "generators/cone_function_revision/evidence/context_inputs.json",
+      "bytes": 1137,
+      "sha256": "b6e82381afa6e71102916df8e0d5551cbb105735f1949c84ca4c833de0857f1d",
+      "source_root": "generator_root"
+    }
+  ],
+  "total_bytes": 4096325,
+  "note": "Replacing canonical traffic_cone requires parent integration approval. Prior frozen batch is unchanged. Manifest excludes itself and transient render logs/Blender backup files."
+}

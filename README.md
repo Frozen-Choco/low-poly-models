@@ -128,9 +128,9 @@ python scripts/update_catalog_readme.py
 
 - [公園ベンチ](assets/street/park_bench)：5,800三角形、GLB 458,368 bytes
 - [街路灯](assets/street/streetlight)：8,428三角形、GLB 269,884 bytes
-- [三角コーン](assets/street/traffic_cone)：4,620三角形、GLB 122,564 bytes
+- [三角コーン](assets/street/traffic_cone)：12,288三角形、GLB 495,528 bytes（[現行検証](generators/cone_function_revision/README.md)）
 
-街灯は消灯状態です。コーンは底部の重りが一体の積み重ね不可モデルで、白帯は通常のPBR材質による表現です。専用の再帰反射シェーダーは使用していません。
+街灯は消灯状態です。コーンは底面が開いた中空・積み重ね可能モデルに修正済みです。白帯は通常のPBR材質による表現です。専用の再帰反射シェーダーは使用していません。
 
 [生成・検証手順](generators/batch02a/README.md) · [検証結果](generators/batch02a/validation.json)
 
@@ -145,3 +145,11 @@ python scripts/update_catalog_readme.py
 汎用的な清潔な小物です。木目は近似表現で、接写向けの細かな摩耗は含みません。確認画像には若干のサンプリングノイズがあります。
 
 [生成・検証手順](generators/batch03a/README.md) · [検証結果](generators/batch03a/validation.json)
+
+## 三角コーンの構造修正
+
+メーカーの底面写真・積み重ね構造を調査し、底を塞いでいた旧モデルを修正しました。連続した中空の殻と開いた底面を持ち、3個の積み重ねで接触支持と干渉のない隙間を独立検証しています。寸法・肉厚・積み重ね間隔の一部は設計上の推定で、変形・摩擦・荷重は物理シミュレーションしていません。
+
+[底面](assets/street/traffic_cone/underside.jpg) · [現行の生成・検証手順](generators/cone_function_revision/README.md)
+
+コーンの再生成には上記の修正版を使用してください。generators/batch02a 内のコーン生成手順・カタログ・検証画像は旧版の履歴であり、現在のコーンを上書きする用途には使用しないでください。現在の成果物情報はルートcatalog.jsonを参照してください。

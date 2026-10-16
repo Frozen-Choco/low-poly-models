@@ -404,61 +404,65 @@
   },
   {
     "id": "traffic_cone",
+    "title_ja": "中空・積み重ね可能な三角コーン",
+    "category": "street",
     "units": "meters",
     "dimensions_m": [
-      0.3799999952316284,
-      0.3799999952316284,
-      0.699999988079071
+      0.36,
+      0.36,
+      0.7
     ],
-    "bounds_min": [
-      -0.1899999976158142,
-      -0.1899999976158142,
-      0.0
-    ],
-    "bounds_max": [
-      0.1899999976158142,
-      0.1899999976158142,
-      0.699999988079071
-    ],
-    "triangles": 4620,
-    "origin": "Ground plane at square base center",
-    "front_blend": "-Y",
+    "triangles": 12288,
+    "origin": "Ground plane at base center",
     "up_axis_blend": "Z",
     "up_axis_glb": "Y",
+    "front_blend": "-Y",
+    "construction": "One continuous manifold solid with open underside, flared annular base bore, nominal 3.2 mm radial shell wall and closed 4 mm top cap; four integrated stacking lands set a 40 mm pitch.",
+    "functional_claim_scope": "Three-instance rigid geometry nesting demonstrated and checked. Design estimates, not measured product tolerances, load certification or manufacturing approval.",
+    "limitations": "Standard PBR reflective band approximation, not optical retroreflection. Original generic design rather than a brand replica. Real flexible PVC deformation, friction and load behavior are not simulated.",
     "reference_urls": [
-      "https://www.sanko-kk.co.jp/products/safety/corn/"
+      "https://www.idc-daiichi.co.jp/products/smartcone/",
+      "https://www.idc-daiichi.co.jp/wp/wp-content/uploads/2025/07/smartcone-06.png",
+      "https://www.idc-daiichi.co.jp/products/pvcecocone/",
+      "https://topsplan-kanto.jp/rental/ks0070.html"
     ],
-    "references_checked": "2026-10-15",
-    "design": "Original generic interpretation, estimated dimensions; not a replica or fabrication specification.",
-    "material_notes": "Red flexible PVC, white reflective-sheet PBR approximation, packed original 128px dark rubber ballast finish.",
-    "limitations": "Bands use standard PBR approximation, not retroreflection. Solid ballast base makes this prop non-stackable. Not a certified traffic control product. Estimated dimensions.",
+    "reference_checked": "2026-10-16",
+    "revision": "cone-functional-r1",
+    "glb_bytes": 495528,
+    "blend_bytes": 335289,
+    "validated": true,
+    "stack_pitch_m": 0.04,
+    "min_tested_shell_clearance_m": 0.0011905125479699241,
     "files": {
       "preview.jpg": {
-        "bytes": 70832,
-        "sha256": "f93764dca4d5f42f094c9b768c3ff0970c4e2dec05db35f0e2c27d715b191fb3"
+        "bytes": 96243,
+        "sha256": "7bbe8f6187c9a4f21f9525604edb514055a309b1a45a591b17d67a4acc452ca3"
       },
       "back.jpg": {
-        "bytes": 77030,
-        "sha256": "d58ff6b2a2954eee4c87db658595924eb6945412c1a1f033d371ac87fc1d8e6b"
+        "bytes": 99989,
+        "sha256": "7674f587c8b772e20a74440420a929acf1fd50dc1e90f4e6dd51ae25d54415d8"
       },
       "traffic_cone.blend": {
-        "bytes": 179072,
-        "sha256": "d2545e88e3822911dc72cf92879adff4a05c4166120e1dd9991c5adec95ad508"
+        "bytes": 335289,
+        "sha256": "6e6878c13e1f1fd905e084c75d3b7ff53d9d3f2bfb34a3fbf5e5e22901bd903b"
+      },
+      "underside_axial.jpg": {
+        "bytes": 163554,
+        "sha256": "ca00efdd338d87fda0af1e4d44813316c85b4939f92196b379efc13d8572528f"
       },
       "detail.jpg": {
-        "bytes": 73433,
-        "sha256": "2a7f102d838f27ed7210a74e4c72727e9e1c6c20d02e5f044775356c0a2643f3"
+        "bytes": 94726,
+        "sha256": "4087bd652cfed9af60912586d8286cfb9ae6a67e8311f21e3332e3fabcc6a97c"
       },
       "traffic_cone.glb": {
-        "bytes": 122564,
-        "sha256": "6a5a5f4066ee8bc1e9f10bda885aff2758b205fe77274a5f400f8d0196d135b6"
+        "bytes": 495528,
+        "sha256": "6d9500c674f3aadb539665ad04c470ba27a5108774045a391e5ce30054af9286"
+      },
+      "underside.jpg": {
+        "bytes": 84627,
+        "sha256": "696fc09b4a41cd42990f1d993fd40f6e75c7cd15f1b1fc6e51d6a5220aa02e60"
       }
-    },
-    "validated": true,
-    "title_ja": "三角コーン",
-    "category": "street",
-    "glb_bytes": 122564,
-    "blend_bytes": 179072
+    }
   },
   {
     "id": "ceramic_rice_bowl",
