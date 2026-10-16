@@ -1,0 +1,47 @@
+{
+  "id": "whole_red_apple",
+  "title_ja": "赤いりんご",
+  "category": "food",
+  "units": "meters",
+  "origin": "support plane",
+  "front_blend": "-Y",
+  "up_blend": "Z",
+  "up_glb": "Y",
+  "design": "Original generic food; plausible artist chosen dimensions; not a brand replica",
+  "license": "Original geometry and baked procedural texture pixels",
+  "review_status": "approved independent reference-grounded review",
+  "blender_version": "4.3.2",
+  "glb_bytes": 1658932,
+  "blend_bytes": 1693509,
+  "triangles": 9673,
+  "zero_area_triangles": 0,
+  "bounds_min": [
+    -0.0416816771030426,
+    -0.04225699603557587,
+    0.0
+  ],
+  "bounds_max": [
+    0.04268902912735939,
+    0.042159345000982285,
+    0.0793127566576004
+  ],
+  "dimensions_m": [
+    0.08437070623040199,
+    0.08441634103655815,
+    0.0793127566576004
+  ],
+  "mesh_objects": 8,
+  "files_bytes": {
+    "preview.jpg": 133508,
+    "alternate_light.jpg": 155117,
+    "front_three_quarter.jpg": 133508,
+    "rear.jpg": 123646,
+    "side.jpg": 137005,
+    "whole_red_apple.glb": 1658932,
+    "back.jpg": 123646,
+    "close_up.jpg": 164706,
+    "underside_detail.jpg": 152508,
+    "whole_red_apple.blend": 1693509,
+    "underside.jpg": 75671
+  }
+}

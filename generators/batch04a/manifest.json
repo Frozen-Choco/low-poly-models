@@ -1,0 +1,162 @@
+{
+  "revision": "04a-r1",
+  "review_status": "approved independent reference-grounded review; apple only",
+  "files": [
+    {
+      "local_path": "assets/whole_red_apple/alternate_light.jpg",
+      "repo_relative_path": "assets/food/whole_red_apple/alternate_light.jpg",
+      "bytes": 155117,
+      "sha256": "5c0a620bc28f53d1e944cb53ea7776fedba8ab0c6e9540a048d21633a64bc67a"
+    },
+    {
+      "local_path": "assets/whole_red_apple/back.jpg",
+      "repo_relative_path": "assets/food/whole_red_apple/back.jpg",
+      "bytes": 123646,
+      "sha256": "2b4c0c75243cef9ba8ad8c4f30f28232aba3ddf3447f17caa729c585dd08edf3"
+    },
+    {
+      "local_path": "assets/whole_red_apple/close_up.jpg",
+      "repo_relative_path": "assets/food/whole_red_apple/close_up.jpg",
+      "bytes": 164706,
+      "sha256": "ad6c4d64a174f50d821d31d4d25673dfb8f5581df18335b8818426215f888417"
+    },
+    {
+      "local_path": "assets/whole_red_apple/front_three_quarter.jpg",
+      "repo_relative_path": "assets/food/whole_red_apple/front_three_quarter.jpg",
+      "bytes": 133508,
+      "sha256": "e55c6798e72a0c3f09ded649edfce91ebb2d6c20060369b1c33f546d7ff81c56"
+    },
+    {
+      "local_path": "assets/whole_red_apple/metadata.json",
+      "repo_relative_path": "assets/food/whole_red_apple/metadata.json",
+      "bytes": 1216,
+      "sha256": "9356e3ef521e05771fb175487e1ccbe4aa3abd962df0b081b682a91f7c24954b"
+    },
+    {
+      "local_path": "assets/whole_red_apple/preview.jpg",
+      "repo_relative_path": "assets/food/whole_red_apple/preview.jpg",
+      "bytes": 133508,
+      "sha256": "e55c6798e72a0c3f09ded649edfce91ebb2d6c20060369b1c33f546d7ff81c56"
+    },
+    {
+      "local_path": "assets/whole_red_apple/rear.jpg",
+      "repo_relative_path": "assets/food/whole_red_apple/rear.jpg",
+      "bytes": 123646,
+      "sha256": "2b4c0c75243cef9ba8ad8c4f30f28232aba3ddf3447f17caa729c585dd08edf3"
+    },
+    {
+      "local_path": "assets/whole_red_apple/side.jpg",
+      "repo_relative_path": "assets/food/whole_red_apple/side.jpg",
+      "bytes": 137005,
+      "sha256": "c196f5031d3a3a875598a64002f3f14210f2384b030924b904a795eabffb7c43"
+    },
+    {
+      "local_path": "assets/whole_red_apple/underside.jpg",
+      "repo_relative_path": "assets/food/whole_red_apple/underside.jpg",
+      "bytes": 75671,
+      "sha256": "719b3b268ca4a863caa92268f66c3adeb5bd174bd16531d1b35f750e5b822bc9"
+    },
+    {
+      "local_path": "assets/whole_red_apple/underside_detail.jpg",
+      "repo_relative_path": "assets/food/whole_red_apple/underside_detail.jpg",
+      "bytes": 152508,
+      "sha256": "1d8fa90339fb617e08c5bd1c31ca8cdeab710071a8932f2c3482051d5e75d846"
+    },
+    {
+      "local_path": "assets/whole_red_apple/whole_red_apple.blend",
+      "repo_relative_path": "assets/food/whole_red_apple/whole_red_apple.blend",
+      "bytes": 1693509,
+      "sha256": "e529738e75454dbbe6e1a187488c485dd137502f1a0837f247b5c38e8484413d"
+    },
+    {
+      "local_path": "assets/whole_red_apple/whole_red_apple.glb",
+      "repo_relative_path": "assets/food/whole_red_apple/whole_red_apple.glb",
+      "bytes": 1658932,
+      "sha256": "3979de95c9dd638cf00b14083185433c5f683c830a9b948c8182cb7eec70df54"
+    },
+    {
+      "local_path": "README.md",
+      "repo_relative_path": "generators/batch04a/README.md",
+      "bytes": 1997,
+      "sha256": "c2149e9b6de109e123502ebf5dc5b97a15cbdf0cece488cf3a3cbfd100dfee76"
+    },
+    {
+      "local_path": "catalog.json",
+      "repo_relative_path": "generators/batch04a/catalog.json",
+      "bytes": 1314,
+      "sha256": "2e9639e32b47228e0d2ed9df14cab4c4932a6c2b340bdbdb6ec3254ccdc1a7d9"
+    },
+    {
+      "local_path": "docs/design-notes.md",
+      "repo_relative_path": "generators/batch04a/docs/design-notes.md",
+      "bytes": 1627,
+      "sha256": "c907a300a0687914bceb4acf28a3efca8f25689475cc30183eb7b380a2f630ac"
+    },
+    {
+      "local_path": "docs/reference-assessment.md",
+      "repo_relative_path": "generators/batch04a/docs/reference-assessment.md",
+      "bytes": 4441,
+      "sha256": "7175e7be5686683910338812e415bba19fe6d32867ea9c5c41de7941feee8869"
+    },
+    {
+      "local_path": "previews/context_alternate_light.jpg",
+      "repo_relative_path": "generators/batch04a/previews/context_alternate_light.jpg",
+      "bytes": 143300,
+      "sha256": "531f29793ba3e62e85f363671a8d6941462aab1e4fcc2056b8d46e9b8800076f"
+    },
+    {
+      "local_path": "previews/context_daylight.jpg",
+      "repo_relative_path": "generators/batch04a/previews/context_daylight.jpg",
+      "bytes": 122088,
+      "sha256": "715f19fcf4539b4c337155dc22e43c98144fecfe966c2943c266a6a3dc7007a6"
+    },
+    {
+      "local_path": "previews/context_review.blend",
+      "repo_relative_path": "generators/batch04a/previews/context_review.blend",
+      "bytes": 4669394,
+      "sha256": "c3449324b59dc6119fee59ab6cd0c0adee0adfb4401a066de2a9d92506b1dc3e"
+    },
+    {
+      "local_path": "previews/input_provenance.json",
+      "repo_relative_path": "generators/batch04a/previews/input_provenance.json",
+      "bytes": 179,
+      "sha256": "d22dc0a51c33703b2cbb605a82cfa69d396cdde09d00444c176b845abe5a7770"
+    },
+    {
+      "local_path": "scripts/build_assets.py",
+      "repo_relative_path": "generators/batch04a/scripts/build_assets.py",
+      "bytes": 12145,
+      "sha256": "c1f9759c3d45351bc9727344d27c5c7686840f051a9a741430b3a8dff5aa3849"
+    },
+    {
+      "local_path": "scripts/common.py",
+      "repo_relative_path": "generators/batch04a/scripts/common.py",
+      "bytes": 5896,
+      "sha256": "5d104f49bb3f01c778f19eb5a0e010050a8426466e24c3c638bd4c6b86bb8e87"
+    },
+    {
+      "local_path": "scripts/package_manifest.py",
+      "repo_relative_path": "generators/batch04a/scripts/package_manifest.py",
+      "bytes": 1737,
+      "sha256": "a0bd6b7ca6f4ff681aa496749423748e069a64b1be476284650e3500cab2830a"
+    },
+    {
+      "local_path": "scripts/render_apple.py",
+      "repo_relative_path": "generators/batch04a/scripts/render_apple.py",
+      "bytes": 151,
+      "sha256": "0cede51e834b14072929049e2c138f62079822e6bf385f853951d4a344c4321b"
+    },
+    {
+      "local_path": "scripts/validate_and_context.py",
+      "repo_relative_path": "generators/batch04a/scripts/validate_and_context.py",
+      "bytes": 3515,
+      "sha256": "20520456a18c9fd6ae1222e403dd6f1faf41813784ece04257b75de94f38da5e"
+    },
+    {
+      "local_path": "validation.json",
+      "repo_relative_path": "generators/batch04a/validation.json",
+      "bytes": 1232,
+      "sha256": "fb80573e6ac7adf28a2bdc8c4aff22f9d4a56a8d168dcbd5aa034fc5ad1e6c45"
+    }
+  ]
+}

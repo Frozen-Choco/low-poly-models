@@ -1,0 +1,56 @@
+[
+  {
+    "asset": "whole_red_apple",
+    "blend": {
+      "triangles": 9673,
+      "zero_area_triangles": 0,
+      "bounds_min": [
+        -0.0416816771030426,
+        -0.04225699603557587,
+        0.0
+      ],
+      "bounds_max": [
+        0.04268902912735939,
+        0.042159345000982285,
+        0.0793127566576004
+      ],
+      "dimensions_m": [
+        0.08437070623040199,
+        0.08441634103655815,
+        0.0793127566576004
+      ],
+      "mesh_objects": 8
+    },
+    "glb": {
+      "triangles": 9673,
+      "zero_area_triangles": 0,
+      "bounds_min": [
+        -0.0416816771030426,
+        -0.04225699603557587,
+        0.0
+      ],
+      "bounds_max": [
+        0.04268902912735939,
+        0.042159345000982285,
+        0.0793127566576004
+      ],
+      "dimensions_m": [
+        0.08437070623040199,
+        0.08441634103655815,
+        0.0793127566576004
+      ],
+      "mesh_objects": 8
+    },
+    "checks": {
+      "finite_coordinates": true,
+      "triangle_count_matches": true,
+      "no_degenerate_triangles": true,
+      "dimensions_match": true,
+      "parts_match": true,
+      "self_contained_images": true,
+      "under_100MB": true,
+      "canonical_aliases": true
+    },
+    "all_pass": true
+  }
+]
