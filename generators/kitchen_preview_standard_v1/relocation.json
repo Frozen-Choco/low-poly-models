@@ -1,0 +1,239 @@
+{
+  "scope": "Path-only relocation; original records preserved unmodified, exact pixels/models copied. No rerender claimed at packaged destinations.",
+  "assets": [
+    {
+      "asset": "stainless_ladle",
+      "original_input_path": "assets/stainless_ladle/stainless_ladle.glb",
+      "packaged_input_path": "assets/kitchen/stainless_ladle/stainless_ladle.glb",
+      "input_sha256": "e391824379ed009735dd8a5575cff53235133b534b714073d9907d33ed363882",
+      "views": [
+        {
+          "view": "preview",
+          "packaged_image": "assets/kitchen/stainless_ladle/preview.jpg",
+          "sha256": "5d265912f64a9ee31ae24d2a841b80b3df7ee8741f1546a313d7572658a57523",
+          "original_record": "generators/kitchen_preview_standard_v1/records/stainless_ladle/preview.json"
+        },
+        {
+          "view": "back",
+          "packaged_image": "assets/kitchen/stainless_ladle/back.jpg",
+          "sha256": "ecf4cfa4d51babf38f3997577203e7630f24160c67b36fca83b569f00536ef29",
+          "original_record": "generators/kitchen_preview_standard_v1/records/stainless_ladle/back.json"
+        },
+        {
+          "view": "front",
+          "packaged_image": "assets/kitchen/stainless_ladle/front.jpg",
+          "sha256": "60998914f49355c9e4d7acbbc08d73864ee0518a4ea7e306b00ffb4ca481e756",
+          "original_record": "generators/kitchen_preview_standard_v1/records/stainless_ladle/front.json"
+        },
+        {
+          "view": "rear",
+          "packaged_image": "assets/kitchen/stainless_ladle/rear.jpg",
+          "sha256": "97b7658383098f67baac1616b8c5706e1a1a72419dc580d62ebca69a502f1396",
+          "original_record": "generators/kitchen_preview_standard_v1/records/stainless_ladle/rear.json"
+        },
+        {
+          "view": "side",
+          "packaged_image": "assets/kitchen/stainless_ladle/side.jpg",
+          "sha256": "f844c69ca04ee6e99a959ba51fb9f1d0f35686a0a94df7f9b6e4fff0302ffc1b",
+          "original_record": "generators/kitchen_preview_standard_v1/records/stainless_ladle/side.json"
+        },
+        {
+          "view": "left",
+          "packaged_image": "assets/kitchen/stainless_ladle/left.jpg",
+          "sha256": "03a0d8812684f585a08049a5257d73c063d8c69d59a69e36741c08d4ea4967d9",
+          "original_record": "generators/kitchen_preview_standard_v1/records/stainless_ladle/left.json"
+        },
+        {
+          "view": "top",
+          "packaged_image": "assets/kitchen/stainless_ladle/top.jpg",
+          "sha256": "f33eac22378ae714dbececcc08d46da5741d8989be18937beb77517c9a390f73",
+          "original_record": "generators/kitchen_preview_standard_v1/records/stainless_ladle/top.json"
+        },
+        {
+          "view": "underside",
+          "packaged_image": "assets/kitchen/stainless_ladle/underside.jpg",
+          "sha256": "c3d8a330a34e50749d126cd2928614f9fa43e8ebafcc3ec3a9398543049c70a8",
+          "original_record": "generators/kitchen_preview_standard_v1/records/stainless_ladle/underside.json"
+        },
+        {
+          "view": "close_up",
+          "packaged_image": "assets/kitchen/stainless_ladle/close_up.jpg",
+          "sha256": "0d1be451f734d4ddc5d80223b70a7797d67b06b1742f82be1073cc453928bbd2",
+          "original_record": "generators/kitchen_preview_standard_v1/records/stainless_ladle/close_up.json"
+        },
+        {
+          "view": "underside_detail",
+          "packaged_image": "assets/kitchen/stainless_ladle/underside_detail.jpg",
+          "sha256": "051d43005aea63ecb4bffc3beb8cd51683f7732072f7a8ac5c5e2f884511ddcc",
+          "original_record": "generators/kitchen_preview_standard_v1/records/stainless_ladle/underside_detail.json"
+        },
+        {
+          "view": "alternate_light",
+          "packaged_image": "assets/kitchen/stainless_ladle/alternate_light.jpg",
+          "sha256": "1e16bba147109809750d021ce7351b9101a80a02eb4595a9d36ecde4d89af707",
+          "original_record": "generators/kitchen_preview_standard_v1/records/stainless_ladle/alternate_light.json"
+        },
+        {
+          "view": "hook_detail",
+          "packaged_image": "assets/kitchen/stainless_ladle/hook_detail.jpg",
+          "sha256": "33045a54a380b74fc25f0fbfa304e7cd8cbfa413bac8cd75b3271d64d5a3b1cb",
+          "original_record": "generators/kitchen_preview_standard_v1/records/stainless_ladle/hook_detail.json"
+        }
+      ]
+    },
+    {
+      "asset": "stainless_perforated_colander",
+      "original_input_path": "assets/stainless_perforated_colander/stainless_perforated_colander.glb",
+      "packaged_input_path": "assets/kitchen/stainless_perforated_colander/stainless_perforated_colander.glb",
+      "input_sha256": "b93b5b057140061dd04c00a0634ae9100f90c468dba1ad648edf171928e2c017",
+      "views": [
+        {
+          "view": "preview",
+          "packaged_image": "assets/kitchen/stainless_perforated_colander/preview.jpg",
+          "sha256": "fa25baf140ba76a95f4f80962aff96a8bc7e35cda6fdc5a15cb9f587d6c8892f",
+          "original_record": "generators/kitchen_preview_standard_v1/records/stainless_perforated_colander/preview.json"
+        },
+        {
+          "view": "back",
+          "packaged_image": "assets/kitchen/stainless_perforated_colander/back.jpg",
+          "sha256": "22555c25060838b16164495457bca3b1109515a6c65098e16cd0b35019a5b8ed",
+          "original_record": "generators/kitchen_preview_standard_v1/records/stainless_perforated_colander/back.json"
+        },
+        {
+          "view": "front",
+          "packaged_image": "assets/kitchen/stainless_perforated_colander/front.jpg",
+          "sha256": "bff894c61ab3b9947f6e0d493f5ceab8da95d24594de14c4553406c9e73ac72b",
+          "original_record": "generators/kitchen_preview_standard_v1/records/stainless_perforated_colander/front.json"
+        },
+        {
+          "view": "rear",
+          "packaged_image": "assets/kitchen/stainless_perforated_colander/rear.jpg",
+          "sha256": "905d7b7781ad86032ff4946acb97ed4c7e2bf8d79ce588e03b424025bbc3e968",
+          "original_record": "generators/kitchen_preview_standard_v1/records/stainless_perforated_colander/rear.json"
+        },
+        {
+          "view": "side",
+          "packaged_image": "assets/kitchen/stainless_perforated_colander/side.jpg",
+          "sha256": "5fa63ac96aa7f685782a56c2ee91b445e23f2886189e63f20fbf49cb6e59a323",
+          "original_record": "generators/kitchen_preview_standard_v1/records/stainless_perforated_colander/side.json"
+        },
+        {
+          "view": "left",
+          "packaged_image": "assets/kitchen/stainless_perforated_colander/left.jpg",
+          "sha256": "b9aa325c3a6ff574016923bba37b28f9a876560e610c5a354b9737d49ffc9854",
+          "original_record": "generators/kitchen_preview_standard_v1/records/stainless_perforated_colander/left.json"
+        },
+        {
+          "view": "top",
+          "packaged_image": "assets/kitchen/stainless_perforated_colander/top.jpg",
+          "sha256": "94cb62dbd5a4605093930269ad85d2d19ce9eb393ed1f85c2cd35ab706cc35e3",
+          "original_record": "generators/kitchen_preview_standard_v1/records/stainless_perforated_colander/top.json"
+        },
+        {
+          "view": "underside",
+          "packaged_image": "assets/kitchen/stainless_perforated_colander/underside.jpg",
+          "sha256": "46fa651ea6c8d945130dba3e113caf769478856328be41e09cdef035b49b482d",
+          "original_record": "generators/kitchen_preview_standard_v1/records/stainless_perforated_colander/underside.json"
+        },
+        {
+          "view": "close_up",
+          "packaged_image": "assets/kitchen/stainless_perforated_colander/close_up.jpg",
+          "sha256": "a6d4eb2c5f466c492b570f170f06207fad0075fb83c00f1b8ef94b64eeb4c37e",
+          "original_record": "generators/kitchen_preview_standard_v1/records/stainless_perforated_colander/close_up.json"
+        },
+        {
+          "view": "underside_detail",
+          "packaged_image": "assets/kitchen/stainless_perforated_colander/underside_detail.jpg",
+          "sha256": "ac29c30d5501f5a3c56e1ba4d5f227aad98d8c6bee4b204a944b178555b08fce",
+          "original_record": "generators/kitchen_preview_standard_v1/records/stainless_perforated_colander/underside_detail.json"
+        },
+        {
+          "view": "alternate_light",
+          "packaged_image": "assets/kitchen/stainless_perforated_colander/alternate_light.jpg",
+          "sha256": "539c78d4fca477c2b6090471f016b3d5e9cf172b351d814d25128482dd354e8e",
+          "original_record": "generators/kitchen_preview_standard_v1/records/stainless_perforated_colander/alternate_light.json"
+        }
+      ]
+    },
+    {
+      "asset": "wood_cooking_spatula",
+      "original_input_path": "assets/wood_cooking_spatula/wood_cooking_spatula.glb",
+      "packaged_input_path": "assets/kitchen/wood_cooking_spatula/wood_cooking_spatula.glb",
+      "input_sha256": "f361a45154afd0313aa772e7ab6aeb12a5b9b59b8fc3815de6d690f71d254b1e",
+      "views": [
+        {
+          "view": "preview",
+          "packaged_image": "assets/kitchen/wood_cooking_spatula/preview.jpg",
+          "sha256": "d9754c40744b155767dfd08a1a6226b15f773997eb71fb87cc59c22735a4422f",
+          "original_record": "generators/kitchen_preview_standard_v1/records/wood_cooking_spatula/preview.json"
+        },
+        {
+          "view": "back",
+          "packaged_image": "assets/kitchen/wood_cooking_spatula/back.jpg",
+          "sha256": "4dc53a4118eaa14a29322b7cfb07245326ad55b16a1aae57b1ec3c9bd123b71a",
+          "original_record": "generators/kitchen_preview_standard_v1/records/wood_cooking_spatula/back.json"
+        },
+        {
+          "view": "front",
+          "packaged_image": "assets/kitchen/wood_cooking_spatula/front.jpg",
+          "sha256": "b19019a337c9debd1c3440f7395bbd2e0887cee8bab16702bff60c97b2aea361",
+          "original_record": "generators/kitchen_preview_standard_v1/records/wood_cooking_spatula/front.json"
+        },
+        {
+          "view": "rear",
+          "packaged_image": "assets/kitchen/wood_cooking_spatula/rear.jpg",
+          "sha256": "103b5f94a2816b43bd884a31fa1e5f64c26ac6d57d81bb417c86dd62d6165d69",
+          "original_record": "generators/kitchen_preview_standard_v1/records/wood_cooking_spatula/rear.json"
+        },
+        {
+          "view": "side",
+          "packaged_image": "assets/kitchen/wood_cooking_spatula/side.jpg",
+          "sha256": "793f8e8d274c909da9478c2daae794362d483f49baf96200ffde1aa39fcc8380",
+          "original_record": "generators/kitchen_preview_standard_v1/records/wood_cooking_spatula/side.json"
+        },
+        {
+          "view": "left",
+          "packaged_image": "assets/kitchen/wood_cooking_spatula/left.jpg",
+          "sha256": "fd88d42b56c2d2cc19ba26f122517d1070acf8a08b08022d89fae2f1a932c866",
+          "original_record": "generators/kitchen_preview_standard_v1/records/wood_cooking_spatula/left.json"
+        },
+        {
+          "view": "top",
+          "packaged_image": "assets/kitchen/wood_cooking_spatula/top.jpg",
+          "sha256": "7a857518e2dd76988b6b9fe214a104ad55b97dfa5d7eefc829148bf67fe24c63",
+          "original_record": "generators/kitchen_preview_standard_v1/records/wood_cooking_spatula/top.json"
+        },
+        {
+          "view": "underside",
+          "packaged_image": "assets/kitchen/wood_cooking_spatula/underside.jpg",
+          "sha256": "1478eb0f53e28c2cae0f04bd942e2d3dfbe90e8f3b4eb1e1fe8e77647eaf8a5d",
+          "original_record": "generators/kitchen_preview_standard_v1/records/wood_cooking_spatula/underside.json"
+        },
+        {
+          "view": "close_up",
+          "packaged_image": "assets/kitchen/wood_cooking_spatula/close_up.jpg",
+          "sha256": "fe4bc88e8701958a0aff5e23c951dcc3f43218f5a2791cc1b85a59b66c9c0db2",
+          "original_record": "generators/kitchen_preview_standard_v1/records/wood_cooking_spatula/close_up.json"
+        },
+        {
+          "view": "underside_detail",
+          "packaged_image": "assets/kitchen/wood_cooking_spatula/underside_detail.jpg",
+          "sha256": "77f2987cc48d8dec57054b7143c27fa3f0c2690d1bf096eb31598b38909f3685",
+          "original_record": "generators/kitchen_preview_standard_v1/records/wood_cooking_spatula/underside_detail.json"
+        },
+        {
+          "view": "alternate_light",
+          "packaged_image": "assets/kitchen/wood_cooking_spatula/alternate_light.jpg",
+          "sha256": "9baf88c4b5d2b6a86d0864e1e032702d70b7e07acce52520c3d41e723f0f42af",
+          "original_record": "generators/kitchen_preview_standard_v1/records/wood_cooking_spatula/alternate_light.json"
+        },
+        {
+          "view": "hanging_detail",
+          "packaged_image": "assets/kitchen/wood_cooking_spatula/hanging_detail.jpg",
+          "sha256": "96b751847f3c61a617a75bbf5e8b7632c1082b6a42b3aaddb71849192d17fc88",
+          "original_record": "generators/kitchen_preview_standard_v1/records/wood_cooking_spatula/hanging_detail.json"
+        }
+      ]
+    }
+  ]
+}

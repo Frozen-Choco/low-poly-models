@@ -1,0 +1,10 @@
+# City bicycle final staged package PASS
+Reviewed 2026-10-16 11:05 UTC. Scope: bicycle asset within lowpoly_batch06a/release_candidate, not publication authorization or whole transport-batch approval.
+
+Saved Blend SHA256 2ff20d1a2ecb22ec08582b8f65c80d3a89606891bfa9cbbcfc8bec71b3af9c6b; GLB SHA256 81d041e09a867838f1ca844935f4d7d3cdd5061fd4d99c591a8e47f2fa716cbd. Structural evidence: ../attachments/final_structural_review.md and audit.json. All intended support graph contacts and expanded obstacle checks pass, within documented sampled-pose/static scope.
+
+All twelve final-source canonical photographs individually inspected: preview,back,front,rear,side,left,top,underside,close_up,underside_detail,drivetrain_detail,alternate_light. No remaining visible mechanical, framing or material blockers. Alternate-light reviewed from staged file. Exact current image hashes checked against original records and relocation map; image bytes unchanged during staging. All 1200x1200, sample ceiling512, adaptive threshold.005, correct input GLB, immutable common renderer cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d and spec380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa. See bicycle_package_checks.json.
+
+Staged source scripts match maker source byte-for-byte; relative config import and documented separate reproduction output path are consistent. Metadata binds actual final source hashes and triangle count84,500. Build-time 'unreviewed' status is explicitly explained in README; this independent review is release acceptance. REFERENCES_AND_LIMITATIONS.md retains manufacturer sources and rear cable deformation, spring/stand, inferred dimensions and sampled-geometry limitations. No claim of engineering certification.
+
+Current 39-file manifest checked without mismatches/extras; SHA2568a1a7bc3e8fefc233b7f6000851099e4e647f1df85556ceb74744c91c2388161. Subsequent cart staging will change whole-package manifest; bicycle approval remains bound to the above models and verified photographs. Cart full canonical review is still pending.

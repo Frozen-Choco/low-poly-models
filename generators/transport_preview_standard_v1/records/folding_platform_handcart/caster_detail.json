@@ -1,0 +1,111 @@
+{
+  "asset": "folding_platform_handcart",
+  "view": "caster_detail",
+  "input_repo_path": "assets/folding_platform_handcart/folding_platform_handcart.glb",
+  "input_sha256": "1bc50047268f503b979d48c4914555185fd79b661204add44e955e48a2b57ec3",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "c4043d49a92dbcf92f42294bd7fe55f50ec85c164b149e8f9df550ed2c0706b8",
+  "closeup_magnification_vs_full_fit": 4.441917075760021,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch06a/generators/preview_standard_v1/repo/assets/folding_platform_handcart/caster_detail.jpg",
+  "output_sha256": "10543ebff7a4619c6507a1c2d46750ec5997a339e14ac8811d227740ba3b5ddb",
+  "bytes": 248133,
+  "elapsed_seconds": 1078.3187748300006,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 2.247191047355422,
+  "source_bounds": [
+    [
+      -0.24500000476837158,
+      -0.36500000953674316,
+      0.0
+    ],
+    [
+      0.24500000476837158,
+      0.36500000953674316,
+      0.8899999856948853
+    ]
+  ],
+  "camera_location": [
+    7.201890468597412,
+    -7.365935325622559,
+    2.8789584636688232
+  ],
+  "camera_rotation": [
+    1.2951536178588867,
+    -9.685066260090025e-08,
+    0.7853983044624329
+  ],
+  "ortho_scale": 0.6460674405097961,
+  "focus": {
+    "direction": [
+      1,
+      -1,
+      0.4
+    ],
+    "target_m": [
+      0.177,
+      -0.25,
+      0.07
+    ],
+    "span_m": 0.23,
+    "purpose": "Swivel kingpin, supported axle and ground-contact tire"
+  },
+  "focus_projected_width_height": [
+    1.931328535079956,
+    2.295822396874428
+  ],
+  "full_object_fit": false,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        -2.4606926441192627,
+        -4.539307117462158,
+        4.786778450012207
+      ],
+      "rotation": [
+        0.9035283327102661,
+        -1.832099982834734e-08,
+        -0.48597437143325806
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        4.226891994476318,
+        -1.2268913984298706,
+        2.2759785652160645
+      ],
+      "rotation": [
+        1.2317378520965576,
+        6.446465050657935e-08,
+        1.2819993495941162
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        1.4401136636734009,
+        3.5598859786987305,
+        4.354591369628906
+      ],
+      "rotation": [
+        0.8080163598060608,
+        3.2682933692740335e-08,
+        2.7431411743164062
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": null,
+  "floor_hidden": false,
+  "diagnostic_only": false
+}

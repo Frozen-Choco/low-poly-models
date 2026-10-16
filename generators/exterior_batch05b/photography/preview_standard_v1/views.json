@@ -1,0 +1,28 @@
+{
+  "roadside_convex_mirror": [
+    "preview",
+    "back",
+    "side",
+    "underside",
+    "close_up",
+    "alternate_light",
+    "bracket_detail"
+  ],
+  "outdoor_ac_condenser": [
+    "preview",
+    "back",
+    "side",
+    "underside",
+    "close_up",
+    "alternate_light",
+    "service_detail"
+  ],
+  "street_drain_grate": [
+    "preview",
+    "back",
+    "side",
+    "underside",
+    "close_up",
+    "alternate_light"
+  ]
+}

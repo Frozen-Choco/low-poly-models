@@ -1,0 +1,110 @@
+{
+  "asset": "street_drain_grate",
+  "view": "close_up",
+  "input_repo_path": "assets/street_drain_grate/street_drain_grate.glb",
+  "input_sha256": "aa6512473410997360453f5b91ca2888ae3230f2b924a73295f507d935a7c704",
+  "input_git_sha": "011751fffc65d068bd1532407cdb4cc0e44c94b2",
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "4bb6b310d7d5433951aa1bd69ceb6a1104ac10284b2a05bceec510e164ff7a65",
+  "closeup_magnification_vs_full_fit": 3.1745682394517414,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch05b/photography/preview_standard_v1/repo/assets/street_drain_grate/close_up.jpg",
+  "output_sha256": "8d87e1a2d0f61a62a0f231b244b4d913f4b59e1b0dccb665997c48f0b9b92252",
+  "bytes": 309669,
+  "elapsed_seconds": 1125.079258326,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 3.1746031986312504,
+  "source_bounds": [
+    [
+      -0.3149999976158142,
+      -0.2150000035762787,
+      0.0
+    ],
+    [
+      0.3149999976158142,
+      0.2150000035762787,
+      0.03799999877810478
+    ]
+  ],
+  "camera_location": [
+    4.271885395050049,
+    -5.374699115753174,
+    7.353294849395752
+  ],
+  "camera_rotation": [
+    0.756281316280365,
+    -4.1777088455319245e-08,
+    0.5585995316505432
+  ],
+  "ortho_scale": 0.9523809552192688,
+  "focus": {
+    "direction": [
+      0.5,
+      -0.8,
+      1
+    ],
+    "target_m": [
+      0.2,
+      0.14,
+      0.025
+    ],
+    "span_m": 0.24
+  },
+  "focus_projected_width_height": [
+    2.4187186658382416,
+    1.6944772601127625
+  ],
+  "full_object_fit": false,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        -4.726475715637207,
+        -1.7768034934997559,
+        4.9494757652282715
+      ],
+      "rotation": [
+        0.863149106502533,
+        -3.412722549001046e-08,
+        -1.1690484285354614
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        3.038308620452881,
+        -0.8587937355041504,
+        4.019217014312744
+      ],
+      "rotation": [
+        0.7799330949783325,
+        -9.353287566682411e-08,
+        1.2517051696777344
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        1.2361328601837158,
+        4.693018913269043,
+        3.055088520050049
+      ],
+      "rotation": [
+        1.100638747215271,
+        -3.228105072139442e-08,
+        2.8506929874420166
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": null,
+  "floor_hidden": false,
+  "diagnostic_only": false
+}

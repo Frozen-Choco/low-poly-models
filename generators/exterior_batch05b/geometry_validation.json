@@ -1,0 +1,312 @@
+[
+  {
+    "id": "roadside_convex_mirror",
+    "formats": {
+      "blend": {
+        "file": "assets/roadside_convex_mirror/roadside_convex_mirror.blend",
+        "sha256": "c92f640b579af793b537870422b2a4dc9de3c50a55ae893b741b47a49a356e0b",
+        "bytes": 273397,
+        "statistics": {
+          "triangles": 15008,
+          "zero_area_triangles": 0,
+          "bounds_min": [
+            -0.31200000643730164,
+            -0.04500000178813934,
+            0.0
+          ],
+          "bounds_max": [
+            0.31200000643730164,
+            0.32999998331069946,
+            2.9119999408721924
+          ],
+          "dimensions_m": [
+            0.6240000128746033,
+            0.3749999850988388,
+            2.9119999408721924
+          ],
+          "mesh_objects": 22
+        },
+        "checks": {
+          "finite_coordinates": true,
+          "no_degenerate_triangles": true,
+          "under_100MB": true,
+          "self_contained_materials": true,
+          "convex_face_center_projects_forward": true,
+          "optical_normal_center_faces_outward": true,
+          "optical_normals_across_disc_face_outward": true,
+          "pole_embedded_in_footing": true,
+          "two_actual_open_pole_collars": true
+        },
+        "measured": {
+          "face_center_y": -0.020550012588500977,
+          "face_near_edge_y": -0.0019990503787994385
+        },
+        "pass": true
+      },
+      "glb": {
+        "file": "assets/roadside_convex_mirror/roadside_convex_mirror.glb",
+        "sha256": "b27e36c54a446f4628faa7283b3cc075d908b18a709c803b15857d135f9efabf",
+        "bytes": 429724,
+        "statistics": {
+          "triangles": 15008,
+          "zero_area_triangles": 0,
+          "bounds_min": [
+            -0.31200000643730164,
+            -0.04500000178813934,
+            0.0
+          ],
+          "bounds_max": [
+            0.31200000643730164,
+            0.32999998331069946,
+            2.9119999408721924
+          ],
+          "dimensions_m": [
+            0.6240000128746033,
+            0.3749999850988388,
+            2.9119999408721924
+          ],
+          "mesh_objects": 22
+        },
+        "checks": {
+          "finite_coordinates": true,
+          "no_degenerate_triangles": true,
+          "under_100MB": true,
+          "self_contained_materials": true,
+          "convex_face_center_projects_forward": true,
+          "optical_normal_center_faces_outward": true,
+          "optical_normals_across_disc_face_outward": true,
+          "pole_embedded_in_footing": true,
+          "two_actual_open_pole_collars": true
+        },
+        "measured": {
+          "face_center_y": -0.020550012588500977,
+          "face_near_edge_y": -0.0019990503787994385
+        },
+        "pass": true
+      }
+    },
+    "roundtrip_matches": true
+  },
+  {
+    "id": "outdoor_ac_condenser",
+    "formats": {
+      "blend": {
+        "file": "assets/outdoor_ac_condenser/outdoor_ac_condenser.blend",
+        "sha256": "c5ce6880d446524ffe37e51e0a1ab4e3691513b251746ddab9f4563d77d8484a",
+        "bytes": 326993,
+        "statistics": {
+          "triangles": 44932,
+          "zero_area_triangles": 0,
+          "bounds_min": [
+            -0.3700000047683716,
+            -0.2150000035762787,
+            0.0
+          ],
+          "bounds_max": [
+            0.5080000162124634,
+            0.42900002002716064,
+            0.6559999585151672
+          ],
+          "dimensions_m": [
+            0.878000020980835,
+            0.6440000236034393,
+            0.6559999585151672
+          ],
+          "mesh_objects": 205
+        },
+        "checks": {
+          "finite_coordinates": true,
+          "no_degenerate_triangles": true,
+          "under_100MB": true,
+          "self_contained_materials": true,
+          "four_feet_contact_pan": true,
+          "motor_has_fixed_support": true,
+          "fan_guard_clearance": true,
+          "base_has_true_drain_hole": true,
+          "rear_intake_true_gaps": true,
+          "left_intake_true_gaps": true,
+          "front_discharge_has_open_path": true,
+          "two_service_connections": true,
+          "pipes_retain_circular_cross_sections": true,
+          "gentle_pipe_bends": true,
+          "paired_pipes_do_not_intersect": true
+        },
+        "measured": {
+          "foot_to_pan_gap_m": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "fan_guard_clearance_m": 0.060815319418907166,
+          "pipe_cross_section_radius_range_m": [
+            0.012999979830395159,
+            0.013000015615519885
+          ],
+          "pipe_minimum_sampled_bend_radius_m": 0.03999694736259833,
+          "pipe_surface_gap_m": 0.017684139608772586
+        },
+        "pass": true
+      },
+      "glb": {
+        "file": "assets/outdoor_ac_condenser/outdoor_ac_condenser.glb",
+        "sha256": "5282d8b036aa185dc1e975b899f59a56bbd0c0df96526cb9e6b52c35a92119ce",
+        "bytes": 1841464,
+        "statistics": {
+          "triangles": 44932,
+          "zero_area_triangles": 0,
+          "bounds_min": [
+            -0.3700000047683716,
+            -0.2150000035762787,
+            0.0
+          ],
+          "bounds_max": [
+            0.5080000162124634,
+            0.42900002002716064,
+            0.6559999585151672
+          ],
+          "dimensions_m": [
+            0.878000020980835,
+            0.6440000236034393,
+            0.6559999585151672
+          ],
+          "mesh_objects": 205
+        },
+        "checks": {
+          "finite_coordinates": true,
+          "no_degenerate_triangles": true,
+          "under_100MB": true,
+          "self_contained_materials": true,
+          "four_feet_contact_pan": true,
+          "motor_has_fixed_support": true,
+          "fan_guard_clearance": true,
+          "base_has_true_drain_hole": true,
+          "rear_intake_true_gaps": true,
+          "left_intake_true_gaps": true,
+          "front_discharge_has_open_path": true,
+          "two_service_connections": true,
+          "pipes_retain_circular_cross_sections": true,
+          "gentle_pipe_bends": true,
+          "paired_pipes_do_not_intersect": true
+        },
+        "measured": {
+          "foot_to_pan_gap_m": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "fan_guard_clearance_m": 0.06081530451774597,
+          "pipe_cross_section_radius_range_m": [
+            0.012999979830395159,
+            0.013000015615519885
+          ],
+          "pipe_minimum_sampled_bend_radius_m": 0.03999694736259833,
+          "pipe_surface_gap_m": 0.017684139608772586
+        },
+        "pass": true
+      }
+    },
+    "roundtrip_matches": true
+  },
+  {
+    "id": "street_drain_grate",
+    "formats": {
+      "blend": {
+        "file": "assets/street_drain_grate/street_drain_grate.blend",
+        "sha256": "5e00805f8ba6a9b272f389e8229d02cb51dc908a7be859b9f0aea76635abacec",
+        "bytes": 588688,
+        "statistics": {
+          "triangles": 25980,
+          "zero_area_triangles": 0,
+          "bounds_min": [
+            -0.3149999976158142,
+            -0.2150000035762787,
+            0.0
+          ],
+          "bounds_max": [
+            0.3149999976158142,
+            0.2150000035762787,
+            0.03799999877810478
+          ],
+          "dimensions_m": [
+            0.6299999952316284,
+            0.4300000071525574,
+            0.03799999877810478
+          ],
+          "mesh_objects": 2
+        },
+        "checks": {
+          "finite_coordinates": true,
+          "no_degenerate_triangles": true,
+          "under_100MB": true,
+          "self_contained_materials": true,
+          "grid_seated": true,
+          "all_42_bearing_end_contacts": true,
+          "bar_ends_reach_end_bands": true,
+          "through_drainage_slots": true,
+          "hook_shaft_fits_slot": true,
+          "panel_inside_frame_clearance": true,
+          "no_floor_under_grate": true,
+          "two_welded_assemblies": true,
+          "grid_closed_manifold": true,
+          "frame_closed_manifold": true
+        },
+        "measured": {
+          "bearing_seat_gap_m": 3.799796102765818e-10,
+          "central_through_apertures_tested": 108,
+          "clear_slot_width_m": 0.0247
+        },
+        "pass": true
+      },
+      "glb": {
+        "file": "assets/street_drain_grate/street_drain_grate.glb",
+        "sha256": "aa6512473410997360453f5b91ca2888ae3230f2b924a73295f507d935a7c704",
+        "bytes": 1439716,
+        "statistics": {
+          "triangles": 25980,
+          "zero_area_triangles": 0,
+          "bounds_min": [
+            -0.3149999976158142,
+            -0.2150000035762787,
+            0.0
+          ],
+          "bounds_max": [
+            0.3149999976158142,
+            0.2150000035762787,
+            0.03799999877810478
+          ],
+          "dimensions_m": [
+            0.6299999952316284,
+            0.4300000071525574,
+            0.03799999877810478
+          ],
+          "mesh_objects": 2
+        },
+        "checks": {
+          "finite_coordinates": true,
+          "no_degenerate_triangles": true,
+          "under_100MB": true,
+          "self_contained_materials": true,
+          "grid_seated": true,
+          "all_42_bearing_end_contacts": true,
+          "bar_ends_reach_end_bands": true,
+          "through_drainage_slots": true,
+          "hook_shaft_fits_slot": true,
+          "panel_inside_frame_clearance": true,
+          "no_floor_under_grate": true,
+          "two_welded_assemblies": true,
+          "grid_closed_manifold": true,
+          "frame_closed_manifold": true
+        },
+        "measured": {
+          "bearing_seat_gap_m": 3.799796102765818e-10,
+          "central_through_apertures_tested": 108,
+          "clear_slot_width_m": 0.0247
+        },
+        "pass": true
+      }
+    },
+    "roundtrip_matches": true
+  }
+]

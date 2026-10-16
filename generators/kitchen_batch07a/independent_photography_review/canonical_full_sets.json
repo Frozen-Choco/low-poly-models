@@ -1,0 +1,526 @@
+{
+  "decision": "PASS",
+  "sets": {
+    "stainless_ladle": {
+      "decision": "PASS",
+      "source_glb_sha256": "e391824379ed009735dd8a5575cff53235133b534b714073d9907d33ed363882",
+      "view_count": 12,
+      "individual_pixel_review": true,
+      "findings": "All12images individually viewed. Hero/back/alternate present coherent satin steel and full silhouette. Genuine axial front/rear show bowl overlap rather than mislabeled three-quarter views; lateral profiles show continuous neck and open hook. Top and unobstructed underside clarify sheet structure. Bowl/neck, exterior and hook details cover actual mechanical features without loss of critical feature to crop. Camera semantics,80percent full-fit framing,1200pxJPGs, exact model/settings/renderer/detail-plan/image hashes and floor hiding verified. No remaining blockers.",
+      "views": [
+        {
+          "view": "alternate_light",
+          "image_path": "lowpoly_batch07a/generators/preview_standard_v1/repo/assets/stainless_ladle/alternate_light.jpg",
+          "sha256": "1e16bba147109809750d021ce7351b9101a80a02eb4595a9d36ecde4d89af707",
+          "bytes": 106200,
+          "record_path": "lowpoly_batch07a/generators/preview_standard_v1/records/stainless_ladle/alternate_light.json",
+          "record_sha256": "8c53e4ca059aff6289e0da814de72883193e0633c36fece2abeb083a97e29ef9",
+          "full_object_fit": true,
+          "focus": "full object",
+          "floor_hidden": false
+        },
+        {
+          "view": "back",
+          "image_path": "lowpoly_batch07a/generators/preview_standard_v1/repo/assets/stainless_ladle/back.jpg",
+          "sha256": "ecf4cfa4d51babf38f3997577203e7630f24160c67b36fca83b569f00536ef29",
+          "bytes": 94136,
+          "record_path": "lowpoly_batch07a/generators/preview_standard_v1/records/stainless_ladle/back.json",
+          "record_sha256": "2f8119d47dc659eb42f27666a5a6347abf5f090c7e061b9838303d434ab7ad37",
+          "full_object_fit": true,
+          "focus": "full object",
+          "floor_hidden": false
+        },
+        {
+          "view": "close_up",
+          "image_path": "lowpoly_batch07a/generators/preview_standard_v1/repo/assets/stainless_ladle/close_up.jpg",
+          "sha256": "0d1be451f734d4ddc5d80223b70a7797d67b06b1742f82be1073cc453928bbd2",
+          "bytes": 141622,
+          "record_path": "lowpoly_batch07a/generators/preview_standard_v1/records/stainless_ladle/close_up.json",
+          "record_sha256": "058055483049258e1288bc5edeb5deaab810ef70324ce48942a20659cc285a88",
+          "full_object_fit": false,
+          "focus": {
+            "direction": [
+              2,
+              -3,
+              2
+            ],
+            "target_m": [
+              0,
+              -0.016,
+              0.036
+            ],
+            "span_m": 0.11,
+            "purpose": "Open liquid-holding bowl and continuous flared neck"
+          },
+          "floor_hidden": false
+        },
+        {
+          "view": "front",
+          "image_path": "lowpoly_batch07a/generators/preview_standard_v1/repo/assets/stainless_ladle/front.jpg",
+          "sha256": "60998914f49355c9e4d7acbbc08d73864ee0518a4ea7e306b00ffb4ca481e756",
+          "bytes": 187630,
+          "record_path": "lowpoly_batch07a/generators/preview_standard_v1/records/stainless_ladle/front.json",
+          "record_sha256": "73b77dc867796a53395ac6d9b7e594db6002da3000102e694ed3a4798f9fac49",
+          "full_object_fit": true,
+          "focus": "full object",
+          "floor_hidden": true
+        },
+        {
+          "view": "hook_detail",
+          "image_path": "lowpoly_batch07a/generators/preview_standard_v1/repo/assets/stainless_ladle/hook_detail.jpg",
+          "sha256": "33045a54a380b74fc25f0fbfa304e7cd8cbfa413bac8cd75b3271d64d5a3b1cb",
+          "bytes": 85566,
+          "record_path": "lowpoly_batch07a/generators/preview_standard_v1/records/stainless_ladle/hook_detail.json",
+          "record_sha256": "ff3b03b29e8d512df290a1114c1cd55599ac124cae9feb109f21d61b35e9f540",
+          "full_object_fit": false,
+          "focus": {
+            "direction": [
+              3,
+              0,
+              0.5
+            ],
+            "target_m": [
+              0,
+              -0.25,
+              0.012
+            ],
+            "span_m": 0.07,
+            "purpose": "True returned hanging hook throat and sheet thickness"
+          },
+          "floor_hidden": false
+        },
+        {
+          "view": "left",
+          "image_path": "lowpoly_batch07a/generators/preview_standard_v1/repo/assets/stainless_ladle/left.jpg",
+          "sha256": "03a0d8812684f585a08049a5257d73c063d8c69d59a69e36741c08d4ea4967d9",
+          "bytes": 49273,
+          "record_path": "lowpoly_batch07a/generators/preview_standard_v1/records/stainless_ladle/left.json",
+          "record_sha256": "146d350150dac6df7f93594efb7b1c95c86872d6baf53fb8f92adce9b63892ce",
+          "full_object_fit": true,
+          "focus": "full object",
+          "floor_hidden": true
+        },
+        {
+          "view": "preview",
+          "image_path": "lowpoly_batch07a/generators/preview_standard_v1/repo/assets/stainless_ladle/preview.jpg",
+          "sha256": "5d265912f64a9ee31ae24d2a841b80b3df7ee8741f1546a313d7572658a57523",
+          "bytes": 104341,
+          "record_path": "lowpoly_batch07a/generators/preview_standard_v1/records/stainless_ladle/preview.json",
+          "record_sha256": "5bc6954cc408f45bdff3845a83fdb6c4ba8faf46dcaf2e3812c9bb003e199e2a",
+          "full_object_fit": true,
+          "focus": "full object",
+          "floor_hidden": false
+        },
+        {
+          "view": "rear",
+          "image_path": "lowpoly_batch07a/generators/preview_standard_v1/repo/assets/stainless_ladle/rear.jpg",
+          "sha256": "97b7658383098f67baac1616b8c5706e1a1a72419dc580d62ebca69a502f1396",
+          "bytes": 99698,
+          "record_path": "lowpoly_batch07a/generators/preview_standard_v1/records/stainless_ladle/rear.json",
+          "record_sha256": "23fcc6fab8ef5a2c5b84bc8c821bc0a0b306d034ccee0b020eb6da5255e5690b",
+          "full_object_fit": true,
+          "focus": "full object",
+          "floor_hidden": true
+        },
+        {
+          "view": "side",
+          "image_path": "lowpoly_batch07a/generators/preview_standard_v1/repo/assets/stainless_ladle/side.jpg",
+          "sha256": "f844c69ca04ee6e99a959ba51fb9f1d0f35686a0a94df7f9b6e4fff0302ffc1b",
+          "bytes": 49168,
+          "record_path": "lowpoly_batch07a/generators/preview_standard_v1/records/stainless_ladle/side.json",
+          "record_sha256": "de1ebccaa5406437b3a37d2d1f5bd51babe20ab83fcd9daa463b93195c26f7d2",
+          "full_object_fit": true,
+          "focus": "full object",
+          "floor_hidden": true
+        },
+        {
+          "view": "top",
+          "image_path": "lowpoly_batch07a/generators/preview_standard_v1/repo/assets/stainless_ladle/top.jpg",
+          "sha256": "f33eac22378ae714dbececcc08d46da5741d8989be18937beb77517c9a390f73",
+          "bytes": 88931,
+          "record_path": "lowpoly_batch07a/generators/preview_standard_v1/records/stainless_ladle/top.json",
+          "record_sha256": "9793e89e5c0d7e95787ec1c34ffbfc8d12cbb500ca1a9010a469d39da217b56e",
+          "full_object_fit": true,
+          "focus": "full object",
+          "floor_hidden": false
+        },
+        {
+          "view": "underside",
+          "image_path": "lowpoly_batch07a/generators/preview_standard_v1/repo/assets/stainless_ladle/underside.jpg",
+          "sha256": "c3d8a330a34e50749d126cd2928614f9fa43e8ebafcc3ec3a9398543049c70a8",
+          "bytes": 55998,
+          "record_path": "lowpoly_batch07a/generators/preview_standard_v1/records/stainless_ladle/underside.json",
+          "record_sha256": "a27bb3c7861f0d1abf7a0cfb4a0408c0beccbf99724fbcdfc3361b3aa3eb9151",
+          "full_object_fit": true,
+          "focus": "full object",
+          "floor_hidden": true
+        },
+        {
+          "view": "underside_detail",
+          "image_path": "lowpoly_batch07a/generators/preview_standard_v1/repo/assets/stainless_ladle/underside_detail.jpg",
+          "sha256": "051d43005aea63ecb4bffc3beb8cd51683f7732072f7a8ac5c5e2f884511ddcc",
+          "bytes": 72161,
+          "record_path": "lowpoly_batch07a/generators/preview_standard_v1/records/stainless_ladle/underside_detail.json",
+          "record_sha256": "4ed4a15f6554f8d0e3132d2167eac051e89c2e339d499743694c1490e05f2c4a",
+          "full_object_fit": false,
+          "focus": {
+            "direction": [
+              1,
+              1,
+              -2
+            ],
+            "target_m": [
+              0,
+              -0.015,
+              0.03
+            ],
+            "span_m": 0.12,
+            "purpose": "Continuous exterior cup and neck support"
+          },
+          "floor_hidden": true
+        }
+      ]
+    },
+    "stainless_perforated_colander": {
+      "decision": "PASS",
+      "source_glb_sha256": "b93b5b057140061dd04c00a0634ae9100f90c468dba1ad648edf171928e2c017",
+      "view_count": 11,
+      "individual_pixel_review": true,
+      "findings": "All11images individually inspected. Corrected sheet-web normals remain smooth across hero/back/alternate, top, axial sides and unobstructed underside; true bores and integral rolled rim stay legible, with no embossed pillowing. Base drainage field and transition clearly covered in underside detail. Axial silhouettes are intentionally similar due to rotational geometry, not mislabeled camera copies. Metallic response, coherent neutral background and full-fit margins pass. Exact hashes, camera directions, image dimensions and records verified.",
+      "views": [
+        {
+          "view": "alternate_light",
+          "image_path": "lowpoly_batch07a/generators/preview_standard_v1/repo/assets/stainless_perforated_colander/alternate_light.jpg",
+          "sha256": "539c78d4fca477c2b6090471f016b3d5e9cf172b351d814d25128482dd354e8e",
+          "bytes": 231004,
+          "record_path": "lowpoly_batch07a/generators/preview_standard_v1/records/stainless_perforated_colander/alternate_light.json",
+          "record_sha256": "bb5642de6b3a0784751c9a61d58ac648ead6e3c7877f4fcbb9a0cad08f6bd873",
+          "full_object_fit": true,
+          "focus": "full object",
+          "floor_hidden": false
+        },
+        {
+          "view": "back",
+          "image_path": "lowpoly_batch07a/generators/preview_standard_v1/repo/assets/stainless_perforated_colander/back.jpg",
+          "sha256": "22555c25060838b16164495457bca3b1109515a6c65098e16cd0b35019a5b8ed",
+          "bytes": 216884,
+          "record_path": "lowpoly_batch07a/generators/preview_standard_v1/records/stainless_perforated_colander/back.json",
+          "record_sha256": "659e32303758fd6ad2233c605839ed176952ddde77101b2df40f89e23ef3991e",
+          "full_object_fit": true,
+          "focus": "full object",
+          "floor_hidden": false
+        },
+        {
+          "view": "close_up",
+          "image_path": "lowpoly_batch07a/generators/preview_standard_v1/repo/assets/stainless_perforated_colander/close_up.jpg",
+          "sha256": "a6d4eb2c5f466c492b570f170f06207fad0075fb83c00f1b8ef94b64eeb4c37e",
+          "bytes": 297310,
+          "record_path": "lowpoly_batch07a/generators/preview_standard_v1/records/stainless_perforated_colander/close_up.json",
+          "record_sha256": "1cdbd8e4eee8e57928914295a0472cd0a87d46196c1e98292dc256229a6e3b9c",
+          "full_object_fit": false,
+          "focus": {
+            "direction": [
+              2,
+              -2,
+              2
+            ],
+            "target_m": [
+              0.065,
+              -0.065,
+              0.045
+            ],
+            "span_m": 0.12,
+            "purpose": "True punched holes, smooth sheet and integral rolled lip"
+          },
+          "floor_hidden": false
+        },
+        {
+          "view": "front",
+          "image_path": "lowpoly_batch07a/generators/preview_standard_v1/repo/assets/stainless_perforated_colander/front.jpg",
+          "sha256": "bff894c61ab3b9947f6e0d493f5ceab8da95d24594de14c4553406c9e73ac72b",
+          "bytes": 144801,
+          "record_path": "lowpoly_batch07a/generators/preview_standard_v1/records/stainless_perforated_colander/front.json",
+          "record_sha256": "605f6dc2ff66b3150872e79500a6042877e00436287608d966d8f6170e008d8e",
+          "full_object_fit": true,
+          "focus": "full object",
+          "floor_hidden": true
+        },
+        {
+          "view": "left",
+          "image_path": "lowpoly_batch07a/generators/preview_standard_v1/repo/assets/stainless_perforated_colander/left.jpg",
+          "sha256": "b9aa325c3a6ff574016923bba37b28f9a876560e610c5a354b9737d49ffc9854",
+          "bytes": 145171,
+          "record_path": "lowpoly_batch07a/generators/preview_standard_v1/records/stainless_perforated_colander/left.json",
+          "record_sha256": "ff5c489a2f239fcc9a23269f6f4f868cfa19a5b3f515ce97e6abc4796925ff3d",
+          "full_object_fit": true,
+          "focus": "full object",
+          "floor_hidden": true
+        },
+        {
+          "view": "preview",
+          "image_path": "lowpoly_batch07a/generators/preview_standard_v1/repo/assets/stainless_perforated_colander/preview.jpg",
+          "sha256": "fa25baf140ba76a95f4f80962aff96a8bc7e35cda6fdc5a15cb9f587d6c8892f",
+          "bytes": 216909,
+          "record_path": "lowpoly_batch07a/generators/preview_standard_v1/records/stainless_perforated_colander/preview.json",
+          "record_sha256": "3f138e3977e4befc393d419ccc7e8669689902bdf22882c8a57529ce68ebd995",
+          "full_object_fit": true,
+          "focus": "full object",
+          "floor_hidden": false
+        },
+        {
+          "view": "rear",
+          "image_path": "lowpoly_batch07a/generators/preview_standard_v1/repo/assets/stainless_perforated_colander/rear.jpg",
+          "sha256": "905d7b7781ad86032ff4946acb97ed4c7e2bf8d79ce588e03b424025bbc3e968",
+          "bytes": 144809,
+          "record_path": "lowpoly_batch07a/generators/preview_standard_v1/records/stainless_perforated_colander/rear.json",
+          "record_sha256": "a9a2f3fddb75ecf34383e6da9997d13126f46466fed81eddab6dfbaf4b3e3667",
+          "full_object_fit": true,
+          "focus": "full object",
+          "floor_hidden": true
+        },
+        {
+          "view": "side",
+          "image_path": "lowpoly_batch07a/generators/preview_standard_v1/repo/assets/stainless_perforated_colander/side.jpg",
+          "sha256": "5fa63ac96aa7f685782a56c2ee91b445e23f2886189e63f20fbf49cb6e59a323",
+          "bytes": 145179,
+          "record_path": "lowpoly_batch07a/generators/preview_standard_v1/records/stainless_perforated_colander/side.json",
+          "record_sha256": "f102a65d35e4d6da4148f2806773689774c9da36cbfd80a3a56d8d701e14c2a9",
+          "full_object_fit": true,
+          "focus": "full object",
+          "floor_hidden": true
+        },
+        {
+          "view": "top",
+          "image_path": "lowpoly_batch07a/generators/preview_standard_v1/repo/assets/stainless_perforated_colander/top.jpg",
+          "sha256": "94cb62dbd5a4605093930269ad85d2d19ce9eb393ed1f85c2cd35ab706cc35e3",
+          "bytes": 371856,
+          "record_path": "lowpoly_batch07a/generators/preview_standard_v1/records/stainless_perforated_colander/top.json",
+          "record_sha256": "cea0e3988030b236035d1e895c9944c59988def3209b481d54f4ce3519ed9137",
+          "full_object_fit": true,
+          "focus": "full object",
+          "floor_hidden": false
+        },
+        {
+          "view": "underside",
+          "image_path": "lowpoly_batch07a/generators/preview_standard_v1/repo/assets/stainless_perforated_colander/underside.jpg",
+          "sha256": "46fa651ea6c8d945130dba3e113caf769478856328be41e09cdef035b49b482d",
+          "bytes": 305276,
+          "record_path": "lowpoly_batch07a/generators/preview_standard_v1/records/stainless_perforated_colander/underside.json",
+          "record_sha256": "9b42faf508d8ff2353f2a04885d40ff2587d59aaaee767443abb6663becb9036",
+          "full_object_fit": true,
+          "focus": "full object",
+          "floor_hidden": true
+        },
+        {
+          "view": "underside_detail",
+          "image_path": "lowpoly_batch07a/generators/preview_standard_v1/repo/assets/stainless_perforated_colander/underside_detail.jpg",
+          "sha256": "ac29c30d5501f5a3c56e1ba4d5f227aad98d8c6bee4b204a944b178555b08fce",
+          "bytes": 367766,
+          "record_path": "lowpoly_batch07a/generators/preview_standard_v1/records/stainless_perforated_colander/underside_detail.json",
+          "record_sha256": "6070fd3b70df8daf733bc78331526bd48662516688d876bdefdbb722e639a40c",
+          "full_object_fit": false,
+          "focus": {
+            "direction": [
+              1,
+              -1,
+              -3
+            ],
+            "target_m": [
+              0,
+              0,
+              0.006
+            ],
+            "span_m": 0.13,
+            "purpose": "Perforated flat base and drainage transition"
+          },
+          "floor_hidden": true
+        }
+      ]
+    },
+    "wood_cooking_spatula": {
+      "decision": "PASS",
+      "source_glb_sha256": "f361a45154afd0313aa772e7ab6aeb12a5b9b59b8fc3815de6d690f71d254b1e",
+      "view_count": 12,
+      "individual_pixel_review": true,
+      "findings": "All12images individually inspected. Corrected sole-UV mapping yields restrained readable longitudinal fibers throughout broad faces, grip and details; pale rubberwood remains consistent in alternate lighting. Scraping taper, asymmetric paddle, rounded cap and true wall-lined bore all legible. Axial views are genuinely axial; unobstructed underside and its detail reveal continuous carved body. No clipped critical feature or remaining material blocker. All source/settings/renderer/detail/image/record hashes, camera directions,1200pxJPEGs and80percent full-fit framing verified.",
+      "views": [
+        {
+          "view": "alternate_light",
+          "image_path": "lowpoly_batch07a/generators/preview_standard_v1/repo/assets/wood_cooking_spatula/alternate_light.jpg",
+          "sha256": "9baf88c4b5d2b6a86d0864e1e032702d70b7e07acce52520c3d41e723f0f42af",
+          "bytes": 88179,
+          "record_path": "lowpoly_batch07a/generators/preview_standard_v1/records/wood_cooking_spatula/alternate_light.json",
+          "record_sha256": "7c6521f48d0ce0a93180dff33998e4977eb1d77c300923fa9fba33cf65b786be",
+          "full_object_fit": true,
+          "focus": "full object",
+          "floor_hidden": false
+        },
+        {
+          "view": "back",
+          "image_path": "lowpoly_batch07a/generators/preview_standard_v1/repo/assets/wood_cooking_spatula/back.jpg",
+          "sha256": "4dc53a4118eaa14a29322b7cfb07245326ad55b16a1aae57b1ec3c9bd123b71a",
+          "bytes": 84032,
+          "record_path": "lowpoly_batch07a/generators/preview_standard_v1/records/wood_cooking_spatula/back.json",
+          "record_sha256": "6cb267cd2a541cea7da4d316c51401b138015f2328389dc31cf185a1a38a136b",
+          "full_object_fit": true,
+          "focus": "full object",
+          "floor_hidden": false
+        },
+        {
+          "view": "close_up",
+          "image_path": "lowpoly_batch07a/generators/preview_standard_v1/repo/assets/wood_cooking_spatula/close_up.jpg",
+          "sha256": "fe4bc88e8701958a0aff5e23c951dcc3f43218f5a2791cc1b85a59b66c9c0db2",
+          "bytes": 94938,
+          "record_path": "lowpoly_batch07a/generators/preview_standard_v1/records/wood_cooking_spatula/close_up.json",
+          "record_sha256": "90516678b9196a31604d0a489183bbb5d63c6d736ecef7b3d1ea6e81938c27b6",
+          "full_object_fit": false,
+          "focus": {
+            "direction": [
+              2,
+              -2,
+              0.5
+            ],
+            "target_m": [
+              0,
+              -0.11,
+              0.005
+            ],
+            "span_m": 0.09,
+            "purpose": "Thin scraping edge and natural subtle rubberwood grain"
+          },
+          "floor_hidden": false
+        },
+        {
+          "view": "front",
+          "image_path": "lowpoly_batch07a/generators/preview_standard_v1/repo/assets/wood_cooking_spatula/front.jpg",
+          "sha256": "b19019a337c9debd1c3440f7395bbd2e0887cee8bab16702bff60c97b2aea361",
+          "bytes": 59804,
+          "record_path": "lowpoly_batch07a/generators/preview_standard_v1/records/wood_cooking_spatula/front.json",
+          "record_sha256": "b1330d0a02364f3e17b1d252c2c25674cf42fa3aa241aaa4529280843a4ccd23",
+          "full_object_fit": true,
+          "focus": "full object",
+          "floor_hidden": true
+        },
+        {
+          "view": "hanging_detail",
+          "image_path": "lowpoly_batch07a/generators/preview_standard_v1/repo/assets/wood_cooking_spatula/hanging_detail.jpg",
+          "sha256": "96b751847f3c61a617a75bbf5e8b7632c1082b6a42b3aaddb71849192d17fc88",
+          "bytes": 111625,
+          "record_path": "lowpoly_batch07a/generators/preview_standard_v1/records/wood_cooking_spatula/hanging_detail.json",
+          "record_sha256": "5a16642dbfa19caa8d466b2f49461a0069b42450d2c23d5c8d036b533d6669d4",
+          "full_object_fit": false,
+          "focus": {
+            "direction": [
+              1,
+              -1,
+              3
+            ],
+            "target_m": [
+              0,
+              0.13,
+              0.007
+            ],
+            "span_m": 0.04,
+            "purpose": "True hanging bore and rounded rectangular handle cap"
+          },
+          "floor_hidden": false
+        },
+        {
+          "view": "left",
+          "image_path": "lowpoly_batch07a/generators/preview_standard_v1/repo/assets/wood_cooking_spatula/left.jpg",
+          "sha256": "fd88d42b56c2d2cc19ba26f122517d1070acf8a08b08022d89fae2f1a932c866",
+          "bytes": 49871,
+          "record_path": "lowpoly_batch07a/generators/preview_standard_v1/records/wood_cooking_spatula/left.json",
+          "record_sha256": "532577846c172489934d674c5f8102a239834ec97d8e9c237512a42220851d9e",
+          "full_object_fit": true,
+          "focus": "full object",
+          "floor_hidden": true
+        },
+        {
+          "view": "preview",
+          "image_path": "lowpoly_batch07a/generators/preview_standard_v1/repo/assets/wood_cooking_spatula/preview.jpg",
+          "sha256": "d9754c40744b155767dfd08a1a6226b15f773997eb71fb87cc59c22735a4422f",
+          "bytes": 84459,
+          "record_path": "lowpoly_batch07a/generators/preview_standard_v1/records/wood_cooking_spatula/preview.json",
+          "record_sha256": "1b7c72026699fb9305fffd7945297b8992504647a080982e8fd6a3e83f86f433",
+          "full_object_fit": true,
+          "focus": "full object",
+          "floor_hidden": false
+        },
+        {
+          "view": "rear",
+          "image_path": "lowpoly_batch07a/generators/preview_standard_v1/repo/assets/wood_cooking_spatula/rear.jpg",
+          "sha256": "103b5f94a2816b43bd884a31fa1e5f64c26ac6d57d81bb417c86dd62d6165d69",
+          "bytes": 60724,
+          "record_path": "lowpoly_batch07a/generators/preview_standard_v1/records/wood_cooking_spatula/rear.json",
+          "record_sha256": "dcd974c050099f11f5078a40a1c6ad0d5e30c26eadd3c47fd53de07ba76512e5",
+          "full_object_fit": true,
+          "focus": "full object",
+          "floor_hidden": true
+        },
+        {
+          "view": "side",
+          "image_path": "lowpoly_batch07a/generators/preview_standard_v1/repo/assets/wood_cooking_spatula/side.jpg",
+          "sha256": "793f8e8d274c909da9478c2daae794362d483f49baf96200ffde1aa39fcc8380",
+          "bytes": 49730,
+          "record_path": "lowpoly_batch07a/generators/preview_standard_v1/records/wood_cooking_spatula/side.json",
+          "record_sha256": "1ddb159c559ca5807be37b298d3d2a9365fddbf24b0c8f2fea0b23774499e516",
+          "full_object_fit": true,
+          "focus": "full object",
+          "floor_hidden": true
+        },
+        {
+          "view": "top",
+          "image_path": "lowpoly_batch07a/generators/preview_standard_v1/repo/assets/wood_cooking_spatula/top.jpg",
+          "sha256": "7a857518e2dd76988b6b9fe214a104ad55b97dfa5d7eefc829148bf67fe24c63",
+          "bytes": 83237,
+          "record_path": "lowpoly_batch07a/generators/preview_standard_v1/records/wood_cooking_spatula/top.json",
+          "record_sha256": "bcaaf1c66ec38ba886c0646f4046ffb4f48831148e7f3b0f3219a7d6f0ab654d",
+          "full_object_fit": true,
+          "focus": "full object",
+          "floor_hidden": false
+        },
+        {
+          "view": "underside",
+          "image_path": "lowpoly_batch07a/generators/preview_standard_v1/repo/assets/wood_cooking_spatula/underside.jpg",
+          "sha256": "1478eb0f53e28c2cae0f04bd942e2d3dfbe90e8f3b4eb1e1fe8e77647eaf8a5d",
+          "bytes": 56085,
+          "record_path": "lowpoly_batch07a/generators/preview_standard_v1/records/wood_cooking_spatula/underside.json",
+          "record_sha256": "e18cd6eb575b244004cd00e2b98a827e963b4c40a709c03551e2b6b1be5717f9",
+          "full_object_fit": true,
+          "focus": "full object",
+          "floor_hidden": true
+        },
+        {
+          "view": "underside_detail",
+          "image_path": "lowpoly_batch07a/generators/preview_standard_v1/repo/assets/wood_cooking_spatula/underside_detail.jpg",
+          "sha256": "77f2987cc48d8dec57054b7143c27fa3f0c2690d1bf096eb31598b38909f3685",
+          "bytes": 109385,
+          "record_path": "lowpoly_batch07a/generators/preview_standard_v1/records/wood_cooking_spatula/underside_detail.json",
+          "record_sha256": "3ea549e470722f5eec74b40fd99e9e3090df714ef039b881db43dc63985188f2",
+          "full_object_fit": false,
+          "focus": {
+            "direction": [
+              1,
+              -1,
+              -3
+            ],
+            "target_m": [
+              0,
+              -0.09,
+              0.005
+            ],
+            "span_m": 0.12,
+            "purpose": "Smooth solid wood underside and tapered paddle"
+          },
+          "floor_hidden": true
+        }
+      ]
+    }
+  },
+  "publication_approved": false,
+  "package_approved": false,
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "settings_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "total_approved_images": 35
+}

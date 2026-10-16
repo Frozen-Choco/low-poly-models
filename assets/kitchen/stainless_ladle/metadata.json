@@ -1,0 +1,73 @@
+{
+  "references": [
+    "https://www.muji.com/sg/products/cmdty/detail/4550002882761"
+  ],
+  "source_length_m": 0.27,
+  "inferred": [
+    "0.9mm gauge",
+    "74mm bowl width and24mm depth",
+    "13mm grip and6mm hook bend radius",
+    "Resting table pose, not upright unsupported pose"
+  ],
+  "id": "stainless_ladle",
+  "revision": 5,
+  "dimensions_m": [
+    0.07579927891492844,
+    0.25825916056055576,
+    0.07582569122314453
+  ],
+  "bounds_min": [
+    -0.03789963945746422,
+    -0.25712794065475464,
+    0.0
+  ],
+  "bounds_max": [
+    0.03789963945746422,
+    0.0011312199058011174,
+    0.07582569122314453
+  ],
+  "triangles": 13172,
+  "mesh_objects": 1,
+  "units": "meter",
+  "up_axis_blend": "Z",
+  "up_axis_glb": "Y",
+  "files": {
+    "blend": {
+      "bytes": 284127,
+      "sha256": "5f765de78e29a387274e571f34017b3ee3a0d250fb8376c0d8a42e5e26b49e29"
+    },
+    "glb": {
+      "bytes": 238584,
+      "sha256": "e391824379ed009735dd8a5575cff53235133b534b714073d9907d33ed363882"
+    }
+  },
+  "structural_approval": "../../../generators/kitchen_batch07a/independent_geometry_review/approval.json",
+  "title_ja": "お玉",
+  "photography": {
+    "standard": "preview_standard_v1",
+    "status": "Canonical photographs independently reviewed; exact delivered bytes verified",
+    "views": [
+      "preview",
+      "back",
+      "front",
+      "rear",
+      "side",
+      "left",
+      "top",
+      "underside",
+      "close_up",
+      "underside_detail",
+      "alternate_light",
+      "hook_detail"
+    ],
+    "records": "../../../generators/kitchen_preview_standard_v1/records/stainless_ladle"
+  },
+  "independent_review": {
+    "technical_status": "approved",
+    "scope": "Static visual diorama asset; bounded geometry checks, not engineering certification",
+    "report": "reviews/reviewed_eight/kitchen_package_acceptance.json",
+    "report_sha256": "c4c21310ea3165788610ee2e15952e706613c6ea1e732bd9280798c59bb438c6",
+    "path_base": "repository root",
+    "source_package_manifest_sha256": "6a947eeaedbce2bc515b71e472c366501ef255e9bf846a645f578fd29ed34262"
+  }
+}

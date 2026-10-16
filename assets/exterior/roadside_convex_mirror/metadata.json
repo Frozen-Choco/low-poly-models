@@ -1,0 +1,73 @@
+{
+  "id": "roadside_convex_mirror",
+  "title_ja": "カーブミラー",
+  "category": "exterior",
+  "units": "meters",
+  "origin": "Grade plane at Z=0 below mirror face; pole and footing center X=0,Y=0.16 m",
+  "front_blend": "-Y",
+  "up_blend": "Z",
+  "up_glb": "Y",
+  "design": "Original unbranded generic diorama prop; not a dimension-perfect product replica or certified equipment.",
+  "license": "Original geometry and PBR materials. No reference images embedded.",
+  "review_status": "Independently approved for bounded static diorama scope",
+  "review_standard_revision": "2026-10-16 real-world construction and use",
+  "blender_version": "4.3.2",
+  "glb_bytes": 429724,
+  "blend_bytes": 273397,
+  "preview": "preview.jpg",
+  "back": "back.jpg",
+  "triangles": 15008,
+  "zero_area_triangles": 0,
+  "bounds_min": [
+    -0.31200000643730164,
+    -0.04500000178813934,
+    0.0
+  ],
+  "bounds_max": [
+    0.31200000643730164,
+    0.32999998331069946,
+    2.9119999408721924
+  ],
+  "dimensions_m": [
+    0.6240000128746033,
+    0.3749999850988388,
+    2.9119999408721924
+  ],
+  "mesh_objects": 22,
+  "preview_standard": "preview_standard_v1",
+  "references": [
+    "https://tsubame-shinko.co.jp/wp-content/uploads/2022/10/G600-TD-Z36.pdf"
+  ],
+  "functional_validation_files": [
+    "generators/exterior_batch05b/geometry_validation.json",
+    "generators/exterior_batch05b/previews/installed_use_validation.json"
+  ],
+  "view_files": [
+    "preview.jpg",
+    "back.jpg",
+    "side.jpg",
+    "underside.jpg",
+    "close_up.jpg",
+    "alternate_light.jpg",
+    "bracket_detail.jpg"
+  ],
+  "glb_sha256": "b27e36c54a446f4628faa7283b3cc075d908b18a709c803b15857d135f9efabf",
+  "blend_sha256": "c92f640b579af793b537870422b2a4dc9de3c50a55ae893b741b47a49a356e0b",
+  "photography_config": "generators/exterior_batch05b/photography/preview_standard_v1",
+  "view_semantics": {
+    "preview": "standard front three-quarter",
+    "back": "opposing three-quarter",
+    "side": "axial side",
+    "underside": "axial bottom",
+    "close_up": "declared functional detail target",
+    "alternate_light": "standard preview under second lighting direction"
+  },
+  "independent_review": {
+    "technical_status": "approved",
+    "scope": "Static visual diorama asset; bounded geometry checks, not engineering certification",
+    "report": "reviews/reviewed_eight/exterior_final_approval.json",
+    "report_sha256": "fe69dbaea167d5586233c9be16ac516b092b2e123cd06908027a98fdaf0b16f4",
+    "path_base": "repository root",
+    "source_package_manifest_sha256": "aa2429348834d2b3882ae447abb98188f210c968641fc51fdeaf5d1ce5798747"
+  }
+}

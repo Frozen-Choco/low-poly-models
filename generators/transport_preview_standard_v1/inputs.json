@@ -1,0 +1,16 @@
+[
+  {
+    "id": "city_bicycle",
+    "repo_path": "assets/vehicles/city_bicycle/city_bicycle.glb",
+    "sha256": "81d041e09a867838f1ca844935f4d7d3cdd5061fd4d99c591a8e47f2fa716cbd",
+    "git_sha": null,
+    "provenance": "Original authored asset; local release candidate, not published"
+  },
+  {
+    "id": "folding_platform_handcart",
+    "repo_path": "assets/vehicles/folding_platform_handcart/folding_platform_handcart.glb",
+    "sha256": "1bc50047268f503b979d48c4914555185fd79b661204add44e955e48a2b57ec3",
+    "git_sha": null,
+    "provenance": "Original authored asset; local release candidate, not published"
+  }
+]

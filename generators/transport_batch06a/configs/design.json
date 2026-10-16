@@ -1,0 +1,188 @@
+{
+  "schema": "batch06a-design-v1",
+  "units": "metres",
+  "axes": {
+    "x": "rider/cart right",
+    "y": "rear (forward is -Y)",
+    "z": "up"
+  },
+  "bike": {
+    "slug": "city_bicycle",
+    "official_envelope_m": [
+      0.575,
+      1.82
+    ],
+    "rear_axle": [
+      0,
+      0.57,
+      0.33
+    ],
+    "front_axle": [
+      0,
+      -0.59,
+      0.33
+    ],
+    "tire_radius": 0.33,
+    "tire_half_width": 0.0175,
+    "rim_radius": 0.299,
+    "bottom_bracket": [
+      0,
+      0.12,
+      0.285
+    ],
+    "chainline_x": 0.079,
+    "chain_pitch": 0.0127,
+    "chainring_teeth": 31,
+    "rear_teeth": 16,
+    "crank_length": 0.165,
+    "crank_x": 0.106,
+    "pedal_half_width": 0.047,
+    "head_lower": [
+      0,
+      -0.44,
+      0.67
+    ],
+    "head_upper": [
+      0,
+      -0.37,
+      0.88
+    ],
+    "saddle_height": 0.82,
+    "park_rear_lift": 0.014,
+    "stand_foot_half_width": 0.155,
+    "stand_foot_y": 0.5,
+    "steer_test_degrees": [
+      -25,
+      -15,
+      0,
+      15,
+      25
+    ],
+    "crank_test_degrees": [
+      0,
+      45,
+      90,
+      135,
+      180,
+      225,
+      270,
+      315
+    ],
+    "inferred": [
+      "Wheelbase, bead/tire section profile, tube sections and frame bends",
+      "16T rear sprocket and hidden chain routing; 31T front is sourced",
+      "Stand spread, parked rear lift and spring geometry",
+      "36-spoke crossed lacing simplified as thin static rods",
+      "Rear brake interior, bearings and ring-lock internals omitted"
+    ]
+  },
+  "cart": {
+    "slug": "folding_platform_handcart",
+    "deck_size": [
+      0.49,
+      0.73
+    ],
+    "deck_top": 0.17,
+    "deck_thickness": 0.035,
+    "wheel_radius": 0.05,
+    "wheel_half_width": 0.014,
+    "caster_x": 0.177,
+    "caster_y": 0.255,
+    "swivel_offset": 0.026,
+    "caster_mount_z": 0.135,
+    "handle_tube_radius": 0.014,
+    "handle_half_width": 0.183,
+    "handle_top": 0.89,
+    "hinge_pivot": [
+      0,
+      0.31,
+      0.235
+    ],
+    "handle_lower_z": 0.219,
+    "lock_slot_upper_yz": [
+      0.274,
+      0.21
+    ],
+    "lock_slot_lower_yz": [
+      0.266,
+      0.186
+    ],
+    "lock_pin_radius": 0.004,
+    "slot_radius": 0.0052,
+    "cheek_x_offsets": [
+      -0.02,
+      0.02
+    ],
+    "fold_test_degrees": [
+      0,
+      15,
+      30,
+      45,
+      60,
+      75,
+      90
+    ],
+    "swivel_test_degrees": [
+      0,
+      15,
+      30,
+      45,
+      60,
+      75,
+      90,
+      105,
+      120,
+      135,
+      150,
+      165,
+      180,
+      195,
+      210,
+      225,
+      240,
+      255,
+      270,
+      285,
+      300,
+      315,
+      330,
+      345
+    ],
+    "inferred": [
+      "Generic underside rib pattern and local attachment boss dimensions",
+      "Generic lock tongue/notch and spring not exact manufacturer patented construction",
+      "Front swivel/rear fixed arrangement follows component family and visual catalogue, not engineering assembly drawing",
+      "Wheel axle bearings not simulated"
+    ],
+    "lock_tongue_outline_yz": [
+      [
+        0.265,
+        0.219
+      ],
+      [
+        0.289,
+        0.202
+      ],
+      [
+        0.302,
+        0.214
+      ],
+      [
+        0.325,
+        0.223
+      ],
+      [
+        0.325,
+        0.245
+      ],
+      [
+        0.302,
+        0.25
+      ],
+      [
+        0.282,
+        0.232
+      ]
+    ]
+  }
+}

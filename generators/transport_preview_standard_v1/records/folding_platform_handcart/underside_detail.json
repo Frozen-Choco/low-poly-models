@@ -1,0 +1,115 @@
+{
+  "asset": "folding_platform_handcart",
+  "view": "underside_detail",
+  "input_repo_path": "assets/folding_platform_handcart/folding_platform_handcart.glb",
+  "input_sha256": "1bc50047268f503b979d48c4914555185fd79b661204add44e955e48a2b57ec3",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "c4043d49a92dbcf92f42294bd7fe55f50ec85c164b149e8f9df550ed2c0706b8",
+  "closeup_magnification_vs_full_fit": 1.0111072805504824,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch06a/generators/preview_standard_v1/repo/assets/folding_platform_handcart/underside_detail.jpg",
+  "output_sha256": "1024130e0715811980e7dc646d40ca9aa1bc8d2c3e58f5988c71d74a74e34f0c",
+  "bytes": 164122,
+  "elapsed_seconds": 284.1665303919999,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 2.247191047355422,
+  "source_bounds": [
+    [
+      -0.24500000476837158,
+      -0.36500000953674316,
+      0.0
+    ],
+    [
+      0.24500000476837158,
+      0.36500000953674316,
+      0.8899999856948853
+    ]
+  ],
+  "camera_location": [
+    5.773502349853516,
+    -5.773502349853516,
+    -5.548783302307129
+  ],
+  "camera_rotation": [
+    2.1862761974334717,
+    -1.394660102960188e-07,
+    0.7853983044624329
+  ],
+  "ortho_scale": 2.3876404762268066,
+  "focus": {
+    "direction": [
+      1,
+      -1,
+      -1
+    ],
+    "target_m": [
+      0,
+      0,
+      0.1
+    ],
+    "span_m": 0.85,
+    "purpose": "Underdeck ribs and fixed/swivel caster construction"
+  },
+  "focus_projected_width_height": [
+    1.931328535079956,
+    1.8947115540504456
+  ],
+  "full_object_fit": false,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        -0.7641315460205078,
+        -6.235867023468018,
+        2.236959457397461
+      ],
+      "rotation": [
+        1.3604966402053833,
+        -7.494503684313258e-09,
+        -0.08949272334575653
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        3.9157114028930664,
+        -0.9157103300094604,
+        -1.197425127029419
+      ],
+      "rotation": [
+        2.021772623062134,
+        -6.544961195231735e-08,
+        1.3081048727035522
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        3.678750991821289,
+        1.321249008178711,
+        4.274308204650879
+      ],
+      "rotation": [
+        0.86786288022995,
+        3.74082187448721e-09,
+        1.8559722900390625
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": [
+    184,
+    184,
+    184
+  ],
+  "floor_hidden": true,
+  "diagnostic_only": false
+}

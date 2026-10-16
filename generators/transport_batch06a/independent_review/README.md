@@ -1,0 +1,3 @@
+# Independent evidence
+
+These reports and scripts are exact copies of independent review artifacts. The original scripts retain their actual workspace paths; they are archival evidence, not falsely claimed to be directly runnable after relocation. The portable maker scripts in ../scripts provide saved-file geometry and bounded-pose replay. To rerun a reviewer script separately, copy it to a temporary directory and map its R/A/output roots to the packaged repository and desired output; preserve the original archived copy. Original asset locations lowpoly_batch06a/assets/SLUG map to assets/vehicles/SLUG in this package. Original photo paths map through the per-asset photography relocation manifests. No reviewer script is invoked automatically.

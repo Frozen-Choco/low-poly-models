@@ -1,0 +1,102 @@
+{
+  "asset": "outdoor_ac_condenser",
+  "view": "underside",
+  "input_repo_path": "assets/outdoor_ac_condenser/outdoor_ac_condenser.glb",
+  "input_sha256": "5282d8b036aa185dc1e975b899f59a56bbd0c0df96526cb9e6b52c35a92119ce",
+  "input_git_sha": "aa2d7f1590d4db9f3709a827ef96f91875b4f844",
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "4bb6b310d7d5433951aa1bd69ceb6a1104ac10284b2a05bceec510e164ff7a65",
+  "closeup_magnification_vs_full_fit": 0.9999999701976776,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch05b/photography/preview_standard_v1/repo/assets/outdoor_ac_condenser/underside.jpg",
+  "output_sha256": "ac356490900d06c4dcbad63fb1aefd1bf76f625e7f13a49037525e22a19b22e7",
+  "bytes": 69928,
+  "elapsed_seconds": 233.31660511800146,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 2.277904273585041,
+  "source_bounds": [
+    [
+      -0.3700000047683716,
+      -0.2150000035762787,
+      0.0
+    ],
+    [
+      0.5080000162124634,
+      0.42900002002716064,
+      0.6559999585151672
+    ]
+  ],
+  "camera_location": [
+    -9.83476752480783e-07,
+    -8.642672355563263e-07,
+    -9.252847671508789
+  ],
+  "camera_rotation": [
+    8.742277657347586e-08,
+    3.1415927410125732,
+    -8.742277657347586e-08
+  ],
+  "ortho_scale": 2.5,
+  "focus": "full object",
+  "focus_projected_width_height": [
+    1.9999999403953552,
+    1.4669705033302307
+  ],
+  "full_object_fit": true,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        4.949747085571289,
+        3.469125747680664,
+        -1.8125131130218506
+      ],
+      "rotation": [
+        1.9729316234588623,
+        4.891452931587992e-08,
+        2.1877756118774414
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        -2.1213207244873047,
+        0.40355584025382996,
+        -3.4256718158721924
+      ],
+      "rotation": [
+        2.66458797454834,
+        2.0277128953694046e-07,
+        -1.7778328657150269
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        -3.535533905029297,
+        3.861233711242676,
+        1.161753535270691
+      ],
+      "rotation": [
+        1.4962716102600098,
+        -1.0442674636124138e-07,
+        -2.4055871963500977
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": [
+    184,
+    184,
+    184
+  ],
+  "floor_hidden": true,
+  "diagnostic_only": false
+}

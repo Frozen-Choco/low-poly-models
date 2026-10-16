@@ -1,0 +1,73 @@
+{
+  "id": "outdoor_ac_condenser",
+  "title_ja": "室外機",
+  "category": "exterior",
+  "units": "meters",
+  "origin": "Ground plane at Z=0 below cabinet center; supports included",
+  "front_blend": "-Y",
+  "up_blend": "Z",
+  "up_glb": "Y",
+  "design": "Original unbranded generic diorama prop; not a dimension-perfect product replica or certified equipment.",
+  "license": "Original geometry and PBR materials. No reference images embedded.",
+  "review_status": "Independently approved for bounded static diorama scope",
+  "review_standard_revision": "2026-10-16 real-world construction and use",
+  "blender_version": "4.3.2",
+  "glb_bytes": 1841464,
+  "blend_bytes": 326993,
+  "preview": "preview.jpg",
+  "back": "back.jpg",
+  "triangles": 44932,
+  "zero_area_triangles": 0,
+  "bounds_min": [
+    -0.3700000047683716,
+    -0.2150000035762787,
+    0.0
+  ],
+  "bounds_max": [
+    0.5080000162124634,
+    0.42900002002716064,
+    0.6559999585151672
+  ],
+  "dimensions_m": [
+    0.878000020980835,
+    0.6440000236034393,
+    0.6559999585151672
+  ],
+  "mesh_objects": 205,
+  "references": [
+    "https://www.daikin.ie/content/dam/document-library/installation-manuals/ac/split/rxf-f/RXF20-42F_Installation%20manual_3PEN748643-15S_English.pdf"
+  ],
+  "functional_validation_files": [
+    "generators/exterior_batch05b/geometry_validation.json",
+    "generators/exterior_batch05b/previews/installed_use_validation.json"
+  ],
+  "view_files": [
+    "preview.jpg",
+    "back.jpg",
+    "side.jpg",
+    "underside.jpg",
+    "close_up.jpg",
+    "alternate_light.jpg",
+    "service_detail.jpg"
+  ],
+  "glb_sha256": "5282d8b036aa185dc1e975b899f59a56bbd0c0df96526cb9e6b52c35a92119ce",
+  "blend_sha256": "c5ce6880d446524ffe37e51e0a1ab4e3691513b251746ddab9f4563d77d8484a",
+  "preview_standard": "preview_standard_v1",
+  "photography_config": "generators/exterior_batch05b/photography/preview_standard_v1",
+  "view_semantics": {
+    "preview": "standard front three-quarter",
+    "back": "opposing three-quarter",
+    "side": "axial side",
+    "underside": "axial bottom",
+    "close_up": "declared functional detail target",
+    "alternate_light": "standard preview under second lighting direction"
+  },
+  "independent_review": {
+    "technical_status": "approved",
+    "scope": "Static visual diorama asset; bounded geometry checks, not engineering certification",
+    "report": "reviews/reviewed_eight/exterior_final_approval.json",
+    "report_sha256": "fe69dbaea167d5586233c9be16ac516b092b2e123cd06908027a98fdaf0b16f4",
+    "path_base": "repository root",
+    "source_package_manifest_sha256": "aa2429348834d2b3882ae447abb98188f210c968641fc51fdeaf5d1ce5798747"
+  }
+}

@@ -1,0 +1,3922 @@
+{
+  "blend": {
+    "obstacle_checks": {
+      "rear_frame_tire": [],
+      "front_frame_tire": [],
+      "rear_supports_spokes": [],
+      "rear_auxiliary_tire": []
+    },
+    "sha256": "2ff20d1a2ecb22ec08582b8f65c80d3a89606891bfa9cbbcfc8bec71b3af9c6b",
+    "bytes": 6054520,
+    "rows": [
+      {
+        "joint": "basket rear to basket",
+        "part": "Basket rear bracket -1",
+        "nearest": [
+          {
+            "target": "Basket horizontal grid 4",
+            "distance_m": 1.759346923790872e-05,
+            "surface_contacts": 28
+          },
+          {
+            "target": "Basket side upright -1 10",
+            "distance_m": 6.344409484881908e-05,
+            "surface_contacts": 22
+          },
+          {
+            "target": "Basket end upright 1 0",
+            "distance_m": 6.344409484881908e-05,
+            "surface_contacts": 22
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "basket rear to basket",
+        "part": "Basket rear bracket clamp -1",
+        "nearest": [
+          {
+            "target": "Basket side upright -1 10",
+            "distance_m": 0.0018031711224466562,
+            "surface_contacts": 20
+          },
+          {
+            "target": "Basket end upright 1 0",
+            "distance_m": 0.0018031711224466562,
+            "surface_contacts": 20
+          },
+          {
+            "target": "Basket horizontal grid 4",
+            "distance_m": 0.006380915176123381,
+            "surface_contacts": 20
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "basket rear to basket",
+        "part": "Basket rear bracket clamp screw -1",
+        "nearest": [
+          {
+            "target": "Basket horizontal grid 4",
+            "distance_m": 0.0013938953634351492,
+            "surface_contacts": 25
+          },
+          {
+            "target": "Basket side upright -1 10",
+            "distance_m": 0.005532509181648493,
+            "surface_contacts": 32
+          },
+          {
+            "target": "Basket end upright 1 0",
+            "distance_m": 0.005532509181648493,
+            "surface_contacts": 32
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "basket rear to basket",
+        "part": "Basket rear bracket 1",
+        "nearest": [
+          {
+            "target": "Basket horizontal grid 4",
+            "distance_m": 1.7565504094818607e-05,
+            "surface_contacts": 28
+          },
+          {
+            "target": "Basket side upright 1 10",
+            "distance_m": 6.390521593857557e-05,
+            "surface_contacts": 22
+          },
+          {
+            "target": "Basket end upright 1 12",
+            "distance_m": 6.390521593857557e-05,
+            "surface_contacts": 22
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "basket rear to basket",
+        "part": "Basket rear bracket clamp 1",
+        "nearest": [
+          {
+            "target": "Basket side upright 1 10",
+            "distance_m": 0.0018032097723335028,
+            "surface_contacts": 20
+          },
+          {
+            "target": "Basket end upright 1 12",
+            "distance_m": 0.0018032097723335028,
+            "surface_contacts": 20
+          },
+          {
+            "target": "Basket horizontal grid 4",
+            "distance_m": 0.006380915176123381,
+            "surface_contacts": 20
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "basket rear to basket",
+        "part": "Basket rear bracket clamp screw 1",
+        "nearest": [
+          {
+            "target": "Basket horizontal grid 4",
+            "distance_m": 0.0013938595075160265,
+            "surface_contacts": 26
+          },
+          {
+            "target": "Basket side upright 1 10",
+            "distance_m": 0.005532560404390097,
+            "surface_contacts": 32
+          },
+          {
+            "target": "Basket end upright 1 12",
+            "distance_m": 0.005532560404390097,
+            "surface_contacts": 32
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "basket rear to head",
+        "part": "Basket rear bracket -1",
+        "nearest": [
+          {
+            "target": "Continuous fork steerer",
+            "distance_m": 0.00027426666929386556,
+            "surface_contacts": 17
+          },
+          {
+            "target": "Head tube",
+            "distance_m": 0.01745537854731083,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Handlebar stem extension",
+            "distance_m": 0.042109791189432144,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "basket rear to head",
+        "part": "Basket rear bracket clamp -1",
+        "nearest": [
+          {
+            "target": "Head tube",
+            "distance_m": 0.20468397438526154,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Continuous fork steerer",
+            "distance_m": 0.21114835143089294,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Handlebar stem extension",
+            "distance_m": 0.24351628124713898,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": false
+      },
+      {
+        "joint": "basket rear to head",
+        "part": "Basket rear bracket clamp screw -1",
+        "nearest": [
+          {
+            "target": "Head tube",
+            "distance_m": 0.20603665709495544,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Continuous fork steerer",
+            "distance_m": 0.21248319745063782,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Handlebar stem extension",
+            "distance_m": 0.24462160468101501,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": false
+      },
+      {
+        "joint": "basket rear to head",
+        "part": "Basket rear bracket 1",
+        "nearest": [
+          {
+            "target": "Continuous fork steerer",
+            "distance_m": 0.00027426984161138535,
+            "surface_contacts": 17
+          },
+          {
+            "target": "Head tube",
+            "distance_m": 0.01745537854731083,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Handlebar stem extension",
+            "distance_m": 0.042109791189432144,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "basket rear to head",
+        "part": "Basket rear bracket clamp 1",
+        "nearest": [
+          {
+            "target": "Head tube",
+            "distance_m": 0.20468397438526154,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Continuous fork steerer",
+            "distance_m": 0.21114835143089294,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Handlebar stem extension",
+            "distance_m": 0.24351628124713898,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": false
+      },
+      {
+        "joint": "basket rear to head",
+        "part": "Basket rear bracket clamp screw 1",
+        "nearest": [
+          {
+            "target": "Head tube",
+            "distance_m": 0.20603665709495544,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Continuous fork steerer",
+            "distance_m": 0.21248319745063782,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Handlebar stem extension",
+            "distance_m": 0.24462160468101501,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": false
+      },
+      {
+        "joint": "basket axle stay to floor",
+        "part": "Basket axle mounting stay -1",
+        "nearest": [
+          {
+            "target": "Basket floor crossrib -0.68",
+            "distance_m": 0.00033805600833147764,
+            "surface_contacts": 9
+          },
+          {
+            "target": "Basket floor longitudinal -0.12",
+            "distance_m": 0.007201419677585363,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Basket floor longitudinal -0.08",
+            "distance_m": 0.020585140213370323,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "basket axle stay to floor",
+        "part": "Basket axle mounting stay 1",
+        "nearest": [
+          {
+            "target": "Basket floor crossrib -0.68",
+            "distance_m": 0.00033810280729085207,
+            "surface_contacts": 9
+          },
+          {
+            "target": "Basket floor longitudinal 0.12",
+            "distance_m": 0.007201419677585363,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Basket floor longitudinal 0.08",
+            "distance_m": 0.020585140213370323,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "basket axle stay to axle",
+        "part": "Basket axle mounting stay -1",
+        "nearest": [
+          {
+            "target": "Front wheel axle nut -1",
+            "distance_m": 0.00017156824469566345,
+            "surface_contacts": 18
+          },
+          {
+            "target": "Front wheel continuous axle",
+            "distance_m": 0.00046332902275025845,
+            "surface_contacts": 32
+          },
+          {
+            "target": "Front dropout plate -1",
+            "distance_m": 0.009816762059926987,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "basket axle stay to axle",
+        "part": "Basket axle mounting stay 1",
+        "nearest": [
+          {
+            "target": "Front wheel axle nut 1",
+            "distance_m": 0.00017156824469566345,
+            "surface_contacts": 18
+          },
+          {
+            "target": "Front wheel continuous axle",
+            "distance_m": 0.0004633205244317651,
+            "surface_contacts": 32
+          },
+          {
+            "target": "Front dropout plate 1",
+            "distance_m": 0.009816762059926987,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "Front mudguard stay to fender",
+        "part": "Front mudguard stay -1 0.25",
+        "nearest": [
+          {
+            "target": "Front curved steel fender",
+            "distance_m": 2.462524025759194e-05,
+            "surface_contacts": 21
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "Front mudguard stay to fender",
+        "part": "Front mudguard stay -1 2.85",
+        "nearest": [
+          {
+            "target": "Front curved steel fender",
+            "distance_m": 1.3624979146698024e-05,
+            "surface_contacts": 19
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "Front mudguard stay to fender",
+        "part": "Front mudguard stay 1 0.25",
+        "nearest": [
+          {
+            "target": "Front curved steel fender",
+            "distance_m": 2.462622433085926e-05,
+            "surface_contacts": 21
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "Front mudguard stay to fender",
+        "part": "Front mudguard stay 1 2.85",
+        "nearest": [
+          {
+            "target": "Front curved steel fender",
+            "distance_m": 1.3574291187978815e-05,
+            "surface_contacts": 19
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "Front mudguard stay to axle",
+        "part": "Front mudguard stay -1 0.25",
+        "nearest": [
+          {
+            "target": "Front wheel axle nut -1",
+            "distance_m": 0.0013121329247951508,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Front wheel continuous axle",
+            "distance_m": 0.0017805915558710694,
+            "surface_contacts": 22
+          },
+          {
+            "target": "Front dropout plate -1",
+            "distance_m": 0.004931801464408636,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "Front mudguard stay to axle",
+        "part": "Front mudguard stay -1 2.85",
+        "nearest": [
+          {
+            "target": "Front wheel axle nut -1",
+            "distance_m": 0.0013121329247951508,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Front wheel continuous axle",
+            "distance_m": 0.001775300712324679,
+            "surface_contacts": 22
+          },
+          {
+            "target": "Front dropout plate -1",
+            "distance_m": 0.004931626841425896,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "Front mudguard stay to axle",
+        "part": "Front mudguard stay 1 0.25",
+        "nearest": [
+          {
+            "target": "Front wheel axle nut 1",
+            "distance_m": 0.0013121329247951508,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Front wheel continuous axle",
+            "distance_m": 0.001780583173967898,
+            "surface_contacts": 22
+          },
+          {
+            "target": "Front dropout plate 1",
+            "distance_m": 0.004931801464408636,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "Front mudguard stay to axle",
+        "part": "Front mudguard stay 1 2.85",
+        "nearest": [
+          {
+            "target": "Front wheel axle nut 1",
+            "distance_m": 0.0013121329247951508,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Front wheel continuous axle",
+            "distance_m": 0.001775273121893406,
+            "surface_contacts": 22
+          },
+          {
+            "target": "Front dropout plate 1",
+            "distance_m": 0.004931626841425896,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "Rear mudguard stay to fender",
+        "part": "Rear mudguard stay -1 0.12",
+        "nearest": [
+          {
+            "target": "Rear curved steel fender",
+            "distance_m": 5.478479215526022e-05,
+            "surface_contacts": 21
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "Rear mudguard stay to fender",
+        "part": "Rear mudguard stay -1 2.9",
+        "nearest": [
+          {
+            "target": "Rear curved steel fender",
+            "distance_m": 5.115665044286288e-05,
+            "surface_contacts": 21
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "Rear mudguard stay to fender",
+        "part": "Rear mudguard stay 1 0.12",
+        "nearest": [
+          {
+            "target": "Rear curved steel fender",
+            "distance_m": 5.478676030179486e-05,
+            "surface_contacts": 21
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "Rear mudguard stay to fender",
+        "part": "Rear mudguard stay 1 2.9",
+        "nearest": [
+          {
+            "target": "Rear curved steel fender",
+            "distance_m": 5.1154685934307054e-05,
+            "surface_contacts": 21
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "Rear mudguard stay to axle",
+        "part": "Rear mudguard stay -1 0.12",
+        "nearest": [
+          {
+            "target": "Rear wheel axle nut -1",
+            "distance_m": 0.0003177560865879059,
+            "surface_contacts": 14
+          },
+          {
+            "target": "Rear wheel continuous axle",
+            "distance_m": 0.0017616760451346636,
+            "surface_contacts": 20
+          },
+          {
+            "target": "Rear dropout plate -1",
+            "distance_m": 0.0035287460777908564,
+            "surface_contacts": 4
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "Rear mudguard stay to axle",
+        "part": "Rear mudguard stay -1 2.9",
+        "nearest": [
+          {
+            "target": "Rear wheel axle nut -1",
+            "distance_m": 0.0003177560865879059,
+            "surface_contacts": 16
+          },
+          {
+            "target": "Rear wheel continuous axle",
+            "distance_m": 0.0017780028283596039,
+            "surface_contacts": 22
+          },
+          {
+            "target": "Rear dropout plate -1",
+            "distance_m": 0.003527912078425288,
+            "surface_contacts": 16
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "Rear mudguard stay to axle",
+        "part": "Rear mudguard stay 1 0.12",
+        "nearest": [
+          {
+            "target": "Rear wheel axle nut 1",
+            "distance_m": 0.0003177560865879059,
+            "surface_contacts": 14
+          },
+          {
+            "target": "Rear wheel continuous axle",
+            "distance_m": 0.0017616760451346636,
+            "surface_contacts": 20
+          },
+          {
+            "target": "Rear dropout plate 1",
+            "distance_m": 0.0035287460777908564,
+            "surface_contacts": 4
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "Rear mudguard stay to axle",
+        "part": "Rear mudguard stay 1 2.9",
+        "nearest": [
+          {
+            "target": "Rear wheel axle nut 1",
+            "distance_m": 0.0003177560865879059,
+            "surface_contacts": 16
+          },
+          {
+            "target": "Rear wheel continuous axle",
+            "distance_m": 0.0017779957270249724,
+            "surface_contacts": 22
+          },
+          {
+            "target": "Rear dropout plate 1",
+            "distance_m": 0.003527912078425288,
+            "surface_contacts": 16
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "carrier axle strut to axle",
+        "part": "Carrier axle strut -1",
+        "nearest": [
+          {
+            "target": "Rear wheel continuous axle",
+            "distance_m": 2.6065858037327416e-05,
+            "surface_contacts": 33
+          },
+          {
+            "target": "Rear wheel axle nut -1",
+            "distance_m": 0.0002780407667160034,
+            "surface_contacts": 18
+          },
+          {
+            "target": "Stand pivot sleeve -1",
+            "distance_m": 0.0007219463586807251,
+            "surface_contacts": 16
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "carrier axle strut to axle",
+        "part": "Carrier axle strut 1",
+        "nearest": [
+          {
+            "target": "Rear wheel continuous axle",
+            "distance_m": 2.6132269340450875e-05,
+            "surface_contacts": 33
+          },
+          {
+            "target": "Rear wheel axle nut 1",
+            "distance_m": 0.0002780407667160034,
+            "surface_contacts": 18
+          },
+          {
+            "target": "Stand pivot sleeve 1",
+            "distance_m": 0.0007219463586807251,
+            "surface_contacts": 16
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "carrier frame strut to frame",
+        "part": "Carrier frame strut -1",
+        "nearest": [
+          {
+            "target": "Seatpost collar",
+            "distance_m": 7.078173803165555e-05,
+            "surface_contacts": 34
+          },
+          {
+            "target": "Seat tube",
+            "distance_m": 0.0018099788576364517,
+            "surface_contacts": 21
+          },
+          {
+            "target": "Seatstay -1",
+            "distance_m": 0.006021951790899038,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "carrier frame strut to frame",
+        "part": "Carrier frame strut 1",
+        "nearest": [
+          {
+            "target": "Seatpost collar",
+            "distance_m": 7.078173803165555e-05,
+            "surface_contacts": 34
+          },
+          {
+            "target": "Seat tube",
+            "distance_m": 0.001809977926313877,
+            "surface_contacts": 21
+          },
+          {
+            "target": "Seatstay 1",
+            "distance_m": 0.006021966226398945,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "carrier strut to rack",
+        "part": "Carrier axle strut -1",
+        "nearest": [
+          {
+            "target": "Rear carrier perimeter",
+            "distance_m": 7.728795753791928e-05,
+            "surface_contacts": 17
+          },
+          {
+            "target": "Carrier crossbar 0.77",
+            "distance_m": 0.005526568740606308,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Carrier crossbar 0.71",
+            "distance_m": 0.04228632524609566,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "carrier strut to rack",
+        "part": "Carrier frame strut -1",
+        "nearest": [
+          {
+            "target": "Carrier crossbar 0.39",
+            "distance_m": 0.0,
+            "surface_contacts": 13
+          },
+          {
+            "target": "Rear carrier perimeter",
+            "distance_m": 0.00014312918938230723,
+            "surface_contacts": 18
+          },
+          {
+            "target": "Carrier crossbar 0.47",
+            "distance_m": 0.07376845180988312,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "carrier strut to rack",
+        "part": "Carrier axle strut 1",
+        "nearest": [
+          {
+            "target": "Rear carrier perimeter",
+            "distance_m": 5.173872341401875e-05,
+            "surface_contacts": 17
+          },
+          {
+            "target": "Carrier crossbar 0.77",
+            "distance_m": 0.005526568740606308,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Carrier crossbar 0.71",
+            "distance_m": 0.04228632524609566,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "carrier strut to rack",
+        "part": "Carrier frame strut 1",
+        "nearest": [
+          {
+            "target": "Carrier crossbar 0.39",
+            "distance_m": 0.0,
+            "surface_contacts": 13
+          },
+          {
+            "target": "Rear carrier perimeter",
+            "distance_m": 0.0001430474512744695,
+            "surface_contacts": 18
+          },
+          {
+            "target": "Carrier crossbar 0.47",
+            "distance_m": 0.07376845180988312,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "saddle rail to saddle",
+        "part": "Saddle supporting rail -1",
+        "nearest": [
+          {
+            "target": "Sculpted padded saddle",
+            "distance_m": 5.617690476356074e-05,
+            "surface_contacts": 33
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "saddle rail to saddle",
+        "part": "Saddle supporting rail 1",
+        "nearest": [
+          {
+            "target": "Sculpted padded saddle",
+            "distance_m": 3.770178955164738e-05,
+            "surface_contacts": 31
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "saddle rail to clamp",
+        "part": "Saddle supporting rail -1",
+        "nearest": [
+          {
+            "target": "Saddle rail clamp",
+            "distance_m": 4.928503039991483e-05,
+            "surface_contacts": 10
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "saddle rail to clamp",
+        "part": "Saddle supporting rail 1",
+        "nearest": [
+          {
+            "target": "Saddle rail clamp",
+            "distance_m": 4.9290330935036764e-05,
+            "surface_contacts": 10
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "saddle clamp to post",
+        "part": "Saddle rail clamp",
+        "nearest": [
+          {
+            "target": "Seatpost",
+            "distance_m": 0.010000010021030903,
+            "surface_contacts": 98
+          },
+          {
+            "target": "Seatpost collar",
+            "distance_m": 0.06940890848636627,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "ring lock mounts to frame",
+        "part": "Ring lock frame clamp -1",
+        "nearest": [
+          {
+            "target": "Ring lock clamp seatstay bridge -1",
+            "distance_m": 0.0011691389372572303,
+            "surface_contacts": 18
+          },
+          {
+            "target": "Ring lock clamp seatstay bridge 1",
+            "distance_m": 0.06964228302240372,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "ring lock mounts to frame",
+        "part": "Ring lock frame clamp 1",
+        "nearest": [
+          {
+            "target": "Ring lock clamp seatstay bridge 1",
+            "distance_m": 0.0011691625695675611,
+            "surface_contacts": 18
+          },
+          {
+            "target": "Ring lock clamp seatstay bridge -1",
+            "distance_m": 0.06964228302240372,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "ring lock mounts to housing",
+        "part": "Ring lock frame clamp -1",
+        "nearest": [
+          {
+            "target": "Rear ring lock open shackle housing",
+            "distance_m": 0.0007825794746167958,
+            "surface_contacts": 41
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "ring lock mounts to housing",
+        "part": "Ring lock frame clamp 1",
+        "nearest": [
+          {
+            "target": "Rear ring lock open shackle housing",
+            "distance_m": 0.0007825794746167958,
+            "surface_contacts": 41
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "stand leg to hinge",
+        "part": "Paired stand leg -1",
+        "nearest": [
+          {
+            "target": "Stand pivot sleeve -1",
+            "distance_m": 6.158649921417236e-05,
+            "surface_contacts": 38
+          },
+          {
+            "target": "Stand pivot sleeve 1",
+            "distance_m": 0.13525766134262085,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "stand leg to hinge",
+        "part": "Paired stand leg 1",
+        "nearest": [
+          {
+            "target": "Stand pivot sleeve 1",
+            "distance_m": 6.158649921417236e-05,
+            "surface_contacts": 38
+          },
+          {
+            "target": "Stand pivot sleeve -1",
+            "distance_m": 0.13525766134262085,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "stand leg to foot",
+        "part": "Paired stand leg -1",
+        "nearest": [
+          {
+            "target": "Stand ground shoe -1",
+            "distance_m": 5.027465522289276e-05,
+            "surface_contacts": 18
+          },
+          {
+            "target": "Stand ground shoe 1",
+            "distance_m": 0.2729271352291107,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "stand leg to foot",
+        "part": "Paired stand leg 1",
+        "nearest": [
+          {
+            "target": "Stand ground shoe 1",
+            "distance_m": 5.027466613682918e-05,
+            "surface_contacts": 18
+          },
+          {
+            "target": "Stand ground shoe -1",
+            "distance_m": 0.2729271352291107,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "stand hinge to axle",
+        "part": "Stand pivot sleeve -1",
+        "nearest": [
+          {
+            "target": "Rear dropout plate -1",
+            "distance_m": 0.007999993860721588,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Rear wheel axle nut -1",
+            "distance_m": 0.00800116453319788,
+            "surface_contacts": 6
+          },
+          {
+            "target": "Rear wheel continuous axle",
+            "distance_m": 0.011500367894768715,
+            "surface_contacts": 24
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "stand hinge to axle",
+        "part": "Stand pivot sleeve 1",
+        "nearest": [
+          {
+            "target": "Rear dropout plate 1",
+            "distance_m": 0.007999993860721588,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Rear wheel axle nut 1",
+            "distance_m": 0.00800116453319788,
+            "surface_contacts": 6
+          },
+          {
+            "target": "Rear wheel continuous axle",
+            "distance_m": 0.01150042749941349,
+            "surface_contacts": 24
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "stand brace/tab to leg",
+        "part": "Stand transverse brace",
+        "nearest": [
+          {
+            "target": "Paired stand leg -1",
+            "distance_m": 0.00017024589760694653,
+            "surface_contacts": 28
+          },
+          {
+            "target": "Paired stand leg 1",
+            "distance_m": 0.00017024693079292774,
+            "surface_contacts": 28
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "stand brace/tab to leg",
+        "part": "Stand left foot press tab",
+        "nearest": [
+          {
+            "target": "Paired stand leg -1",
+            "distance_m": 0.00010538623610045761,
+            "surface_contacts": 28
+          },
+          {
+            "target": "Paired stand leg 1",
+            "distance_m": 0.26957371830940247,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "stand stop to stationary structure",
+        "part": "Stand stationary stop",
+        "nearest": [
+          {
+            "target": "Stand pivot sleeve -1",
+            "distance_m": 0.0009999945759773254,
+            "surface_contacts": 19
+          },
+          {
+            "target": "Rear wheel axle nut -1",
+            "distance_m": 0.007719489745795727,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Rear dropout plate -1",
+            "distance_m": 0.018000006675720215,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "front caliper support to fork",
+        "part": "Front caliper mounting bolt",
+        "nearest": [
+          {
+            "target": "Continuous fork steerer",
+            "distance_m": 0.0003071708488278091,
+            "surface_contacts": 34
+          },
+          {
+            "target": "Fork crown bridge",
+            "distance_m": 0.0012742594117298722,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "front caliper support to fork",
+        "part": "Front caliper crown mounting bridge",
+        "nearest": [
+          {
+            "target": "Continuous fork steerer",
+            "distance_m": 0.0,
+            "surface_contacts": 11
+          },
+          {
+            "target": "Fork crown bridge",
+            "distance_m": 0.006855187937617302,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "front pad to arm",
+        "part": "Front rim brake pad -1",
+        "nearest": [
+          {
+            "target": "Front caliper arm -1",
+            "distance_m": 0.007560852449387312,
+            "surface_contacts": 8
+          },
+          {
+            "target": "Front caliper arm 1",
+            "distance_m": 0.031057661399245262,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "front pad to arm",
+        "part": "Front rim brake pad 1",
+        "nearest": [
+          {
+            "target": "Front caliper arm 1",
+            "distance_m": 0.007560852449387312,
+            "surface_contacts": 8
+          },
+          {
+            "target": "Front caliper arm -1",
+            "distance_m": 0.031057661399245262,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "dynamo clamp to fork",
+        "part": "Dynamo fork clamp",
+        "nearest": [
+          {
+            "target": "Swept fork blade -1",
+            "distance_m": 0.0004860202025156468,
+            "surface_contacts": 18
+          },
+          {
+            "target": "Swept fork blade 1",
+            "distance_m": 0.07003776729106903,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "dynamo clamp to body",
+        "part": "Dynamo fork clamp",
+        "nearest": [
+          {
+            "target": "Block dynamo body",
+            "distance_m": 0.005922072101384401,
+            "surface_contacts": 22
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "rear brake reaction to clamp",
+        "part": "Rear brake reaction arm",
+        "nearest": [
+          {
+            "target": "Brake reaction chainstay clamp",
+            "distance_m": 0.004499997943639755,
+            "surface_contacts": 18
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "rear brake clamp to stay",
+        "part": "Brake reaction chainstay clamp",
+        "nearest": [
+          {
+            "target": "Curved chainstay -1",
+            "distance_m": 0.00198097201064229,
+            "surface_contacts": 34
+          },
+          {
+            "target": "Curved chainstay 1",
+            "distance_m": 0.08532766997814178,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "stand spring to fixed hook",
+        "part": "Stand return spring visual only",
+        "nearest": [
+          {
+            "target": "Stand spring fixed upper hook",
+            "distance_m": 4.870718839811161e-05,
+            "surface_contacts": 21
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "fixed hook to stop",
+        "part": "Stand spring fixed upper hook",
+        "nearest": [
+          {
+            "target": "Stand stationary stop",
+            "distance_m": 0.0025527775287628174,
+            "surface_contacts": 12
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "stand spring to moving hook",
+        "part": "Stand return spring visual only",
+        "nearest": [
+          {
+            "target": "Stand spring moving lower hook",
+            "distance_m": 1.2578204405144788e-05,
+            "surface_contacts": 22
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "moving hook to stand",
+        "part": "Stand spring moving lower hook",
+        "nearest": [
+          {
+            "target": "Paired stand leg -1",
+            "distance_m": 0.005442227236926556,
+            "surface_contacts": 18
+          },
+          {
+            "target": "Paired stand leg 1",
+            "distance_m": 0.1805172711610794,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "stand lock lever to pivot",
+        "part": "Stand lock lever",
+        "nearest": [
+          {
+            "target": "Stand lock lever pivot fastener",
+            "distance_m": 4.984833594789961e-06,
+            "surface_contacts": 7
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "stand lock lever to pivot",
+        "part": "Stand lock lever pivot fastener",
+        "nearest": [],
+        "any_surface_contact": false
+      },
+      {
+        "joint": "lever pivot to sleeve",
+        "part": "Stand lock lever pivot fastener",
+        "nearest": [
+          {
+            "target": "Stand pivot sleeve -1",
+            "distance_m": 0.0001690216304268688,
+            "surface_contacts": 18
+          },
+          {
+            "target": "Stand pivot sleeve 1",
+            "distance_m": 0.14299999177455902,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "ring lock bridge to stay",
+        "part": "Ring lock clamp seatstay bridge -1",
+        "nearest": [
+          {
+            "target": "Seatstay -1",
+            "distance_m": 0.0048851496540009975,
+            "surface_contacts": 26
+          },
+          {
+            "target": "Seatstay 1",
+            "distance_m": 0.06543601304292679,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "ring lock bridge to stay",
+        "part": "Ring lock clamp seatstay bridge 1",
+        "nearest": [
+          {
+            "target": "Seatstay 1",
+            "distance_m": 0.004885296802967787,
+            "surface_contacts": 26
+          },
+          {
+            "target": "Seatstay -1",
+            "distance_m": 0.06543601304292679,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "frame seatstay to seat tube",
+        "part": "Seatstay -1",
+        "nearest": [
+          {
+            "target": "Seat tube",
+            "distance_m": 6.962971383472905e-05,
+            "surface_contacts": 14
+          },
+          {
+            "target": "Seatpost collar",
+            "distance_m": 0.006631822790950537,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "frame seatstay to seat tube",
+        "part": "Seatstay 1",
+        "nearest": [
+          {
+            "target": "Seat tube",
+            "distance_m": 6.9786561653018e-05,
+            "surface_contacts": 14
+          },
+          {
+            "target": "Seatpost collar",
+            "distance_m": 0.006631831638514996,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "frame main tube to head",
+        "part": "Low step continuous curved main frame",
+        "nearest": [
+          {
+            "target": "Head tube",
+            "distance_m": 3.9838709199102595e-05,
+            "surface_contacts": 63
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "fork blade to crown",
+        "part": "Swept fork blade -1",
+        "nearest": [
+          {
+            "target": "Fork crown bridge",
+            "distance_m": 0.00029121339321136475,
+            "surface_contacts": 29
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "fork blade to crown",
+        "part": "Swept fork blade 1",
+        "nearest": [
+          {
+            "target": "Fork crown bridge",
+            "distance_m": 0.00029121339321136475,
+            "surface_contacts": 29
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "front dropout to fork",
+        "part": "Front dropout plate -1",
+        "nearest": [
+          {
+            "target": "Swept fork blade -1",
+            "distance_m": 0.00033208096283487976,
+            "surface_contacts": 50
+          },
+          {
+            "target": "Swept fork blade 1",
+            "distance_m": 0.08696936815977097,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "front dropout to fork",
+        "part": "Front dropout plate 1",
+        "nearest": [
+          {
+            "target": "Swept fork blade 1",
+            "distance_m": 0.0003321037220302969,
+            "surface_contacts": 50
+          },
+          {
+            "target": "Swept fork blade -1",
+            "distance_m": 0.08696936815977097,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "rear dropout to stays",
+        "part": "Rear dropout plate -1",
+        "nearest": [
+          {
+            "target": "Seatstay -1",
+            "distance_m": 0.00034491310361772776,
+            "surface_contacts": 34
+          },
+          {
+            "target": "Curved chainstay -1",
+            "distance_m": 0.00047812648699618876,
+            "surface_contacts": 26
+          },
+          {
+            "target": "Curved chainstay 1",
+            "distance_m": 0.10248136520385742,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "rear dropout to stays",
+        "part": "Rear dropout plate 1",
+        "nearest": [
+          {
+            "target": "Seatstay 1",
+            "distance_m": 0.00034491310361772776,
+            "surface_contacts": 34
+          },
+          {
+            "target": "Curved chainstay 1",
+            "distance_m": 0.00047818224993534386,
+            "surface_contacts": 26
+          },
+          {
+            "target": "Curved chainstay -1",
+            "distance_m": 0.10248136520385742,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "lamp hanger to housing",
+        "part": "Lamp basket hanger",
+        "nearest": [
+          {
+            "target": "Front lamp housing",
+            "distance_m": 0.0069999429397284985,
+            "surface_contacts": 12
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "lamp hanger to basket",
+        "part": "Lamp basket hanger",
+        "nearest": [
+          {
+            "target": "Basket floor longitudinal 0",
+            "distance_m": 0.00047551299212500453,
+            "surface_contacts": 18
+          },
+          {
+            "target": "Basket floor crossrib -0.7300000000000001",
+            "distance_m": 0.0005000000237487257,
+            "surface_contacts": 9
+          },
+          {
+            "target": "Basket floor longitudinal -0.04",
+            "distance_m": 0.03349999710917473,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      }
+    ],
+    "general": {
+      "triangles": 84500,
+      "zero_area_triangles": [],
+      "finite_vertices": true,
+      "bounds_min_m": [
+        -0.2880267798900604,
+        -0.9454623460769653,
+        0.0
+      ],
+      "bounds_max_m": [
+        0.2880267798900604,
+        0.9174129962921143,
+        1.0660368204116821
+      ],
+      "dimensions_m": [
+        0.5760535597801208,
+        1.8628753423690796,
+        1.0660368204116821
+      ],
+      "mechanical_groups_present": [
+        "chain_guard",
+        "cranks",
+        "drivetrain",
+        "frame",
+        "rear_wheel",
+        "stand",
+        "steering"
+      ],
+      "materials": [
+        {
+          "name": "Amber pedal reflector",
+          "base_color": [
+            0.6499999761581421,
+            0.20999999344348907,
+            0.012000000104308128,
+            1.0
+          ]
+        },
+        {
+          "name": "Basket and guard molded polymer",
+          "base_color": [
+            0.06499999761581421,
+            0.07500000298023224,
+            0.06700000166893005,
+            1.0
+          ]
+        },
+        {
+          "name": "Black tire rubber",
+          "base_color": [
+            0.020999999716877937,
+            0.024000000208616257,
+            0.023000000044703484,
+            1.0
+          ]
+        },
+        {
+          "name": "Dark brown elastomer grips",
+          "base_color": [
+            0.10499999672174454,
+            0.06199999898672104,
+            0.03799999877810478,
+            1.0
+          ]
+        },
+        {
+          "name": "Headlamp translucent-look lens",
+          "base_color": [
+            0.7200000286102295,
+            0.7599999904632568,
+            0.699999988079071,
+            1.0
+          ]
+        },
+        {
+          "name": "Lubricated chain steel",
+          "base_color": [
+            0.15000000596046448,
+            0.17000000178813934,
+            0.1599999964237213,
+            1.0
+          ]
+        },
+        {
+          "name": "Muted deep green painted steel",
+          "base_color": [
+            0.10499999672174454,
+            0.17499999701976776,
+            0.15000000596046448,
+            1.0
+          ]
+        },
+        {
+          "name": "Red reflector polymer",
+          "base_color": [
+            0.46000000834465027,
+            0.014999999664723873,
+            0.008999999612569809,
+            1.0
+          ]
+        },
+        {
+          "name": "Satin stainless steel",
+          "base_color": [
+            0.49000000953674316,
+            0.5299999713897705,
+            0.5299999713897705,
+            1.0
+          ]
+        },
+        {
+          "name": "Warm dark brown saddle vinyl",
+          "base_color": [
+            0.17000000178813934,
+            0.0949999988079071,
+            0.052000001072883606,
+            1.0
+          ]
+        }
+      ]
+    },
+    "full_pose_regression": {
+      "ground_contacts": {
+        "Front wheel rubber tire": 0.0,
+        "Rear wheel rubber tire": 0.0139999995008111,
+        "Stand ground shoe -1": 0.0,
+        "Stand ground shoe 1": 0.0
+      },
+      "support_triangle_area_m2": 0.16895,
+      "default_tire_fender_contact_candidates": [],
+      "chain_guard_contact_candidates": [],
+      "chain_frame_contact_candidates": [],
+      "fork_tire_contact_candidates": [],
+      "spoke_fork_contact_candidates": [],
+      "rear_brake_linkage": {
+        "parts": [
+          "Rear brake fixed casing stop support",
+          "Rear brake cable adjuster barrel",
+          "Rear brake cable adjuster locknut",
+          "Rear brake actuator bearing",
+          "Rear brake movable actuator link",
+          "Rear brake inner cable fixing bolt",
+          "Rear brake inner cable fixing nut",
+          "Rear brake exposed inner cable",
+          "Rear brake cable end cap"
+        ],
+        "fixed_support_reaction_arm_intended_contacts": [
+          {
+            "a": "Rear brake fixed casing stop support",
+            "b": "Rear brake reaction arm",
+            "triangle_contact_candidates": 15
+          }
+        ],
+        "spoke_contact_candidates": [],
+        "stand_contact_candidates": [],
+        "chainstay_contact_candidates": [],
+        "scope": "Static exterior linkage and clearance only; brake internals, cable tension and spring return are not simulated"
+      },
+      "rear_support_spoke_contact_candidates": [],
+      "rear_frame_and_lock_obstacles": {
+        "tire_contact_candidates": [],
+        "spoke_contact_candidates": []
+      },
+      "basket_rear_bracket_attachments": {
+        "-1": {
+          "bracket_grid_intended_contacts": [
+            {
+              "a": "Basket rear bracket -1",
+              "b": "Basket horizontal grid 4",
+              "triangle_contact_candidates": 28
+            },
+            {
+              "a": "Basket rear bracket -1",
+              "b": "Basket side upright -1 10",
+              "triangle_contact_candidates": 22
+            }
+          ],
+          "clamp_grid_intended_contacts": [
+            {
+              "a": "Basket rear bracket clamp -1",
+              "b": "Basket horizontal grid 4",
+              "triangle_contact_candidates": 20
+            }
+          ]
+        },
+        "1": {
+          "bracket_grid_intended_contacts": [
+            {
+              "a": "Basket rear bracket 1",
+              "b": "Basket horizontal grid 4",
+              "triangle_contact_candidates": 28
+            },
+            {
+              "a": "Basket rear bracket 1",
+              "b": "Basket side upright 1 10",
+              "triangle_contact_candidates": 22
+            }
+          ],
+          "clamp_grid_intended_contacts": [
+            {
+              "a": "Basket rear bracket clamp 1",
+              "b": "Basket horizontal grid 4",
+              "triangle_contact_candidates": 20
+            }
+          ]
+        }
+      },
+      "steering_poses": [
+        {
+          "degrees": -25,
+          "frame_contact_candidates": [],
+          "axis_m": [
+            [
+              0.0,
+              -0.4480971395969391,
+              0.6717615723609924
+            ],
+            [
+              0.0,
+              -0.38063672184944153,
+              0.8825910687446594
+            ]
+          ],
+          "rear_brake_cable_note": "Flexible rear cable top loop is not asserted rigid-valid; must be regenerated for a supplied steered pose."
+        },
+        {
+          "degrees": -15,
+          "frame_contact_candidates": [],
+          "axis_m": [
+            [
+              0.0,
+              -0.4480971395969391,
+              0.6717615723609924
+            ],
+            [
+              0.0,
+              -0.38063672184944153,
+              0.8825910687446594
+            ]
+          ],
+          "rear_brake_cable_note": "Flexible rear cable top loop is not asserted rigid-valid; must be regenerated for a supplied steered pose."
+        },
+        {
+          "degrees": 0,
+          "frame_contact_candidates": [],
+          "axis_m": [
+            [
+              0.0,
+              -0.4480971395969391,
+              0.6717615723609924
+            ],
+            [
+              0.0,
+              -0.38063672184944153,
+              0.8825910687446594
+            ]
+          ],
+          "rear_brake_cable_note": "Flexible rear cable top loop is not asserted rigid-valid; must be regenerated for a supplied steered pose."
+        },
+        {
+          "degrees": 15,
+          "frame_contact_candidates": [],
+          "axis_m": [
+            [
+              0.0,
+              -0.4480971395969391,
+              0.6717615723609924
+            ],
+            [
+              0.0,
+              -0.38063672184944153,
+              0.8825910687446594
+            ]
+          ],
+          "rear_brake_cable_note": "Flexible rear cable top loop is not asserted rigid-valid; must be regenerated for a supplied steered pose."
+        },
+        {
+          "degrees": 25,
+          "frame_contact_candidates": [],
+          "axis_m": [
+            [
+              0.0,
+              -0.4480971395969391,
+              0.6717615723609924
+            ],
+            [
+              0.0,
+              -0.38063672184944153,
+              0.8825910687446594
+            ]
+          ],
+          "rear_brake_cable_note": "Flexible rear cable top loop is not asserted rigid-valid; must be regenerated for a supplied steered pose."
+        }
+      ],
+      "crank_poses": [
+        {
+          "added_rotation_degrees": 0,
+          "pedal_orientation": "Counter-rotated around pedal axle to retain level platform",
+          "contact_candidates": [],
+          "pedal_lowest_m": 0.1334926038980484
+        },
+        {
+          "added_rotation_degrees": 45,
+          "pedal_orientation": "Counter-rotated around pedal axle to retain level platform",
+          "contact_candidates": [],
+          "pedal_lowest_m": 0.22762298583984375
+        },
+        {
+          "added_rotation_degrees": 90,
+          "pedal_orientation": "Counter-rotated around pedal axle to retain level platform",
+          "contact_candidates": [],
+          "pedal_lowest_m": 0.21064917743206024
+        },
+        {
+          "added_rotation_degrees": 135,
+          "pedal_orientation": "Counter-rotated around pedal axle to retain level platform",
+          "contact_candidates": [],
+          "pedal_lowest_m": 0.12646180391311646
+        },
+        {
+          "added_rotation_degrees": 180,
+          "pedal_orientation": "Counter-rotated around pedal axle to retain level platform",
+          "contact_candidates": [],
+          "pedal_lowest_m": 0.1334926187992096
+        },
+        {
+          "added_rotation_degrees": 225,
+          "pedal_orientation": "Counter-rotated around pedal axle to retain level platform",
+          "contact_candidates": [],
+          "pedal_lowest_m": 0.22762294113636017
+        },
+        {
+          "added_rotation_degrees": 270,
+          "pedal_orientation": "Counter-rotated around pedal axle to retain level platform",
+          "contact_candidates": [],
+          "pedal_lowest_m": 0.21064913272857666
+        },
+        {
+          "added_rotation_degrees": 315,
+          "pedal_orientation": "Counter-rotated around pedal axle to retain level platform",
+          "contact_candidates": [],
+          "pedal_lowest_m": 0.12646184861660004
+        }
+      ],
+      "stand_poses": [
+        {
+          "rotation_degrees": 0,
+          "tire_contact_candidates": [],
+          "spoke_contact_candidates": [],
+          "lowest_m": 0.004059754312038422,
+          "scope": "No assertion that ground stays fixed during retraction"
+        },
+        {
+          "rotation_degrees": 25,
+          "tire_contact_candidates": [],
+          "spoke_contact_candidates": [],
+          "lowest_m": -0.002977021038532257,
+          "scope": "No assertion that ground stays fixed during retraction"
+        },
+        {
+          "rotation_degrees": 50,
+          "tire_contact_candidates": [],
+          "spoke_contact_candidates": [],
+          "lowest_m": 0.019038885831832886,
+          "scope": "No assertion that ground stays fixed during retraction"
+        },
+        {
+          "rotation_degrees": 75,
+          "tire_contact_candidates": [],
+          "spoke_contact_candidates": [],
+          "lowest_m": 0.10085426270961761,
+          "scope": "No assertion that ground stays fixed during retraction"
+        },
+        {
+          "rotation_degrees": 95,
+          "tire_contact_candidates": [],
+          "spoke_contact_candidates": [],
+          "lowest_m": 0.19926874339580536,
+          "scope": "No assertion that ground stays fixed during retraction"
+        }
+      ]
+    }
+  },
+  "glb": {
+    "obstacle_checks": {
+      "rear_frame_tire": [],
+      "front_frame_tire": [],
+      "rear_supports_spokes": [],
+      "rear_auxiliary_tire": []
+    },
+    "sha256": "81d041e09a867838f1ca844935f4d7d3cdd5061fd4d99c591a8e47f2fa716cbd",
+    "bytes": 2801792,
+    "rows": [
+      {
+        "joint": "basket rear to basket",
+        "part": "Basket rear bracket -1",
+        "nearest": [
+          {
+            "target": "Basket horizontal grid 4",
+            "distance_m": 1.759346923790872e-05,
+            "surface_contacts": 58
+          },
+          {
+            "target": "Basket side upright -1 10",
+            "distance_m": 6.264218245632946e-05,
+            "surface_contacts": 48
+          },
+          {
+            "target": "Basket end upright 1 0",
+            "distance_m": 6.264218245632946e-05,
+            "surface_contacts": 48
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "basket rear to basket",
+        "part": "Basket rear bracket clamp -1",
+        "nearest": [
+          {
+            "target": "Basket side upright -1 10",
+            "distance_m": 0.0018030916107818484,
+            "surface_contacts": 44
+          },
+          {
+            "target": "Basket end upright 1 0",
+            "distance_m": 0.0018030916107818484,
+            "surface_contacts": 44
+          },
+          {
+            "target": "Basket horizontal grid 4",
+            "distance_m": 0.006380915176123381,
+            "surface_contacts": 44
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "basket rear to basket",
+        "part": "Basket rear bracket clamp screw -1",
+        "nearest": [
+          {
+            "target": "Basket horizontal grid 4",
+            "distance_m": 0.001393884769640863,
+            "surface_contacts": 54
+          },
+          {
+            "target": "Basket side upright -1 10",
+            "distance_m": 0.005532560404390097,
+            "surface_contacts": 64
+          },
+          {
+            "target": "Basket end upright 1 0",
+            "distance_m": 0.005532560404390097,
+            "surface_contacts": 64
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "basket rear to basket",
+        "part": "Basket rear bracket 1",
+        "nearest": [
+          {
+            "target": "Basket horizontal grid 4",
+            "distance_m": 1.7565504094818607e-05,
+            "surface_contacts": 60
+          },
+          {
+            "target": "Basket side upright 1 10",
+            "distance_m": 6.338462844723836e-05,
+            "surface_contacts": 48
+          },
+          {
+            "target": "Basket end upright 1 12",
+            "distance_m": 6.338462844723836e-05,
+            "surface_contacts": 48
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "basket rear to basket",
+        "part": "Basket rear bracket clamp 1",
+        "nearest": [
+          {
+            "target": "Basket side upright 1 10",
+            "distance_m": 0.0018031711224466562,
+            "surface_contacts": 44
+          },
+          {
+            "target": "Basket end upright 1 12",
+            "distance_m": 0.0018031711224466562,
+            "surface_contacts": 44
+          },
+          {
+            "target": "Basket horizontal grid 4",
+            "distance_m": 0.006380915176123381,
+            "surface_contacts": 44
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "basket rear to basket",
+        "part": "Basket rear bracket clamp screw 1",
+        "nearest": [
+          {
+            "target": "Basket horizontal grid 4",
+            "distance_m": 0.0013938595075160265,
+            "surface_contacts": 53
+          },
+          {
+            "target": "Basket side upright 1 10",
+            "distance_m": 0.005532498471438885,
+            "surface_contacts": 64
+          },
+          {
+            "target": "Basket end upright 1 12",
+            "distance_m": 0.005532498471438885,
+            "surface_contacts": 64
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "basket rear to head",
+        "part": "Basket rear bracket -1",
+        "nearest": [
+          {
+            "target": "Continuous fork steerer",
+            "distance_m": 0.00027427036548033357,
+            "surface_contacts": 35
+          },
+          {
+            "target": "Head tube",
+            "distance_m": 0.01745537854731083,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Handlebar stem extension",
+            "distance_m": 0.042109791189432144,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "basket rear to head",
+        "part": "Basket rear bracket clamp -1",
+        "nearest": [
+          {
+            "target": "Head tube",
+            "distance_m": 0.20468397438526154,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Continuous fork steerer",
+            "distance_m": 0.21114835143089294,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Handlebar stem extension",
+            "distance_m": 0.24351628124713898,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": false
+      },
+      {
+        "joint": "basket rear to head",
+        "part": "Basket rear bracket clamp screw -1",
+        "nearest": [
+          {
+            "target": "Head tube",
+            "distance_m": 0.20603665709495544,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Continuous fork steerer",
+            "distance_m": 0.21248319745063782,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Handlebar stem extension",
+            "distance_m": 0.24462160468101501,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": false
+      },
+      {
+        "joint": "basket rear to head",
+        "part": "Basket rear bracket 1",
+        "nearest": [
+          {
+            "target": "Continuous fork steerer",
+            "distance_m": 0.0002742670476436615,
+            "surface_contacts": 37
+          },
+          {
+            "target": "Head tube",
+            "distance_m": 0.01745537854731083,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Handlebar stem extension",
+            "distance_m": 0.042109791189432144,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "basket rear to head",
+        "part": "Basket rear bracket clamp 1",
+        "nearest": [
+          {
+            "target": "Head tube",
+            "distance_m": 0.20468397438526154,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Continuous fork steerer",
+            "distance_m": 0.21114835143089294,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Handlebar stem extension",
+            "distance_m": 0.24351628124713898,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": false
+      },
+      {
+        "joint": "basket rear to head",
+        "part": "Basket rear bracket clamp screw 1",
+        "nearest": [
+          {
+            "target": "Head tube",
+            "distance_m": 0.20603665709495544,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Continuous fork steerer",
+            "distance_m": 0.21248319745063782,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Handlebar stem extension",
+            "distance_m": 0.24462160468101501,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": false
+      },
+      {
+        "joint": "basket axle stay to floor",
+        "part": "Basket axle mounting stay -1",
+        "nearest": [
+          {
+            "target": "Basket floor crossrib -0.68",
+            "distance_m": 0.00033811901812441647,
+            "surface_contacts": 20
+          },
+          {
+            "target": "Basket floor longitudinal -0.12",
+            "distance_m": 0.007201419677585363,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Basket floor longitudinal -0.08",
+            "distance_m": 0.020585140213370323,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "basket axle stay to floor",
+        "part": "Basket axle mounting stay 1",
+        "nearest": [
+          {
+            "target": "Basket floor crossrib -0.68",
+            "distance_m": 0.00033805600833147764,
+            "surface_contacts": 23
+          },
+          {
+            "target": "Basket floor longitudinal 0.12",
+            "distance_m": 0.007201419677585363,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Basket floor longitudinal 0.08",
+            "distance_m": 0.020585140213370323,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "basket axle stay to axle",
+        "part": "Basket axle mounting stay -1",
+        "nearest": [
+          {
+            "target": "Front wheel axle nut -1",
+            "distance_m": 0.00017156824469566345,
+            "surface_contacts": 39
+          },
+          {
+            "target": "Front wheel continuous axle",
+            "distance_m": 0.00046332477359101176,
+            "surface_contacts": 64
+          },
+          {
+            "target": "Front dropout plate -1",
+            "distance_m": 0.009816762059926987,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "basket axle stay to axle",
+        "part": "Basket axle mounting stay 1",
+        "nearest": [
+          {
+            "target": "Front wheel axle nut 1",
+            "distance_m": 0.00017156824469566345,
+            "surface_contacts": 41
+          },
+          {
+            "target": "Front wheel continuous axle",
+            "distance_m": 0.00046332055353559554,
+            "surface_contacts": 64
+          },
+          {
+            "target": "Front dropout plate 1",
+            "distance_m": 0.009816762059926987,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "Front mudguard stay to fender",
+        "part": "Front mudguard stay -1 0.25",
+        "nearest": [
+          {
+            "target": "Front curved steel fender",
+            "distance_m": 2.462622433085926e-05,
+            "surface_contacts": 42
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "Front mudguard stay to fender",
+        "part": "Front mudguard stay -1 2.85",
+        "nearest": [
+          {
+            "target": "Front curved steel fender",
+            "distance_m": 1.3566466805059463e-05,
+            "surface_contacts": 40
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "Front mudguard stay to fender",
+        "part": "Front mudguard stay 1 0.25",
+        "nearest": [
+          {
+            "target": "Front curved steel fender",
+            "distance_m": 2.462622433085926e-05,
+            "surface_contacts": 42
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "Front mudguard stay to fender",
+        "part": "Front mudguard stay 1 2.85",
+        "nearest": [
+          {
+            "target": "Front curved steel fender",
+            "distance_m": 1.3625961400975939e-05,
+            "surface_contacts": 38
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "Front mudguard stay to axle",
+        "part": "Front mudguard stay -1 0.25",
+        "nearest": [
+          {
+            "target": "Front wheel axle nut -1",
+            "distance_m": 0.0013121329247951508,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Front wheel continuous axle",
+            "distance_m": 0.001780583173967898,
+            "surface_contacts": 44
+          },
+          {
+            "target": "Front dropout plate -1",
+            "distance_m": 0.004931801464408636,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "Front mudguard stay to axle",
+        "part": "Front mudguard stay -1 2.85",
+        "nearest": [
+          {
+            "target": "Front wheel axle nut -1",
+            "distance_m": 0.0013121329247951508,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Front wheel continuous axle",
+            "distance_m": 0.001775273121893406,
+            "surface_contacts": 44
+          },
+          {
+            "target": "Front dropout plate -1",
+            "distance_m": 0.004931626841425896,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "Front mudguard stay to axle",
+        "part": "Front mudguard stay 1 0.25",
+        "nearest": [
+          {
+            "target": "Front wheel axle nut 1",
+            "distance_m": 0.0013121329247951508,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Front wheel continuous axle",
+            "distance_m": 0.001780583173967898,
+            "surface_contacts": 44
+          },
+          {
+            "target": "Front dropout plate 1",
+            "distance_m": 0.004931801464408636,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "Front mudguard stay to axle",
+        "part": "Front mudguard stay 1 2.85",
+        "nearest": [
+          {
+            "target": "Front wheel axle nut 1",
+            "distance_m": 0.0013121329247951508,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Front wheel continuous axle",
+            "distance_m": 0.001775289885699749,
+            "surface_contacts": 44
+          },
+          {
+            "target": "Front dropout plate 1",
+            "distance_m": 0.004931626841425896,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "Rear mudguard stay to fender",
+        "part": "Rear mudguard stay -1 0.12",
+        "nearest": [
+          {
+            "target": "Rear curved steel fender",
+            "distance_m": 5.478577804751694e-05,
+            "surface_contacts": 42
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "Rear mudguard stay to fender",
+        "part": "Rear mudguard stay -1 2.9",
+        "nearest": [
+          {
+            "target": "Rear curved steel fender",
+            "distance_m": 5.115370368002914e-05,
+            "surface_contacts": 42
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "Rear mudguard stay to fender",
+        "part": "Rear mudguard stay 1 0.12",
+        "nearest": [
+          {
+            "target": "Rear curved steel fender",
+            "distance_m": 5.478479215526022e-05,
+            "surface_contacts": 42
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "Rear mudguard stay to fender",
+        "part": "Rear mudguard stay 1 2.9",
+        "nearest": [
+          {
+            "target": "Rear curved steel fender",
+            "distance_m": 5.115665044286288e-05,
+            "surface_contacts": 42
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "Rear mudguard stay to axle",
+        "part": "Rear mudguard stay -1 0.12",
+        "nearest": [
+          {
+            "target": "Rear wheel axle nut -1",
+            "distance_m": 0.0003177560865879059,
+            "surface_contacts": 30
+          },
+          {
+            "target": "Rear wheel continuous axle",
+            "distance_m": 0.0017616760451346636,
+            "surface_contacts": 40
+          },
+          {
+            "target": "Rear dropout plate -1",
+            "distance_m": 0.0035287460777908564,
+            "surface_contacts": 6
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "Rear mudguard stay to axle",
+        "part": "Rear mudguard stay -1 2.9",
+        "nearest": [
+          {
+            "target": "Rear wheel axle nut -1",
+            "distance_m": 0.0003177560865879059,
+            "surface_contacts": 32
+          },
+          {
+            "target": "Rear wheel continuous axle",
+            "distance_m": 0.0017779957270249724,
+            "surface_contacts": 44
+          },
+          {
+            "target": "Rear dropout plate -1",
+            "distance_m": 0.003527912078425288,
+            "surface_contacts": 34
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "Rear mudguard stay to axle",
+        "part": "Rear mudguard stay 1 0.12",
+        "nearest": [
+          {
+            "target": "Rear wheel axle nut 1",
+            "distance_m": 0.0003177560865879059,
+            "surface_contacts": 30
+          },
+          {
+            "target": "Rear wheel continuous axle",
+            "distance_m": 0.0017616760451346636,
+            "surface_contacts": 42
+          },
+          {
+            "target": "Rear dropout plate 1",
+            "distance_m": 0.0035287460777908564,
+            "surface_contacts": 6
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "Rear mudguard stay to axle",
+        "part": "Rear mudguard stay 1 2.9",
+        "nearest": [
+          {
+            "target": "Rear wheel axle nut 1",
+            "distance_m": 0.0003177560865879059,
+            "surface_contacts": 30
+          },
+          {
+            "target": "Rear wheel continuous axle",
+            "distance_m": 0.0017780028283596039,
+            "surface_contacts": 44
+          },
+          {
+            "target": "Rear dropout plate 1",
+            "distance_m": 0.003527912078425288,
+            "surface_contacts": 34
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "carrier axle strut to axle",
+        "part": "Carrier axle strut -1",
+        "nearest": [
+          {
+            "target": "Rear wheel continuous axle",
+            "distance_m": 2.6121204427909106e-05,
+            "surface_contacts": 79
+          },
+          {
+            "target": "Rear wheel axle nut -1",
+            "distance_m": 0.0002780407667160034,
+            "surface_contacts": 37
+          },
+          {
+            "target": "Stand pivot sleeve -1",
+            "distance_m": 0.0007219463586807251,
+            "surface_contacts": 40
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "carrier axle strut to axle",
+        "part": "Carrier axle strut 1",
+        "nearest": [
+          {
+            "target": "Rear wheel continuous axle",
+            "distance_m": 2.6076952053699642e-05,
+            "surface_contacts": 79
+          },
+          {
+            "target": "Rear wheel axle nut 1",
+            "distance_m": 0.0002780407667160034,
+            "surface_contacts": 39
+          },
+          {
+            "target": "Stand pivot sleeve 1",
+            "distance_m": 0.0007219463586807251,
+            "surface_contacts": 41
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "carrier frame strut to frame",
+        "part": "Carrier frame strut -1",
+        "nearest": [
+          {
+            "target": "Seatpost collar",
+            "distance_m": 7.078173803165555e-05,
+            "surface_contacts": 74
+          },
+          {
+            "target": "Seat tube",
+            "distance_m": 0.001809977926313877,
+            "surface_contacts": 42
+          },
+          {
+            "target": "Seatstay -1",
+            "distance_m": 0.006021951790899038,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "carrier frame strut to frame",
+        "part": "Carrier frame strut 1",
+        "nearest": [
+          {
+            "target": "Seatpost collar",
+            "distance_m": 7.078173803165555e-05,
+            "surface_contacts": 76
+          },
+          {
+            "target": "Seat tube",
+            "distance_m": 0.0018099788576364517,
+            "surface_contacts": 44
+          },
+          {
+            "target": "Seatstay 1",
+            "distance_m": 0.006021966226398945,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "carrier strut to rack",
+        "part": "Carrier axle strut -1",
+        "nearest": [
+          {
+            "target": "Rear carrier perimeter",
+            "distance_m": 2.9293762054294348e-05,
+            "surface_contacts": 36
+          },
+          {
+            "target": "Carrier crossbar 0.77",
+            "distance_m": 0.005526568740606308,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Carrier crossbar 0.71",
+            "distance_m": 0.04228632524609566,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "carrier strut to rack",
+        "part": "Carrier frame strut -1",
+        "nearest": [
+          {
+            "target": "Carrier crossbar 0.39",
+            "distance_m": 0.0,
+            "surface_contacts": 29
+          },
+          {
+            "target": "Rear carrier perimeter",
+            "distance_m": 0.0001430474076187238,
+            "surface_contacts": 39
+          },
+          {
+            "target": "Carrier crossbar 0.47",
+            "distance_m": 0.07376845180988312,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "carrier strut to rack",
+        "part": "Carrier axle strut 1",
+        "nearest": [
+          {
+            "target": "Rear carrier perimeter",
+            "distance_m": 2.926124034274835e-05,
+            "surface_contacts": 36
+          },
+          {
+            "target": "Carrier crossbar 0.77",
+            "distance_m": 0.005526568740606308,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Carrier crossbar 0.71",
+            "distance_m": 0.04228632524609566,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "carrier strut to rack",
+        "part": "Carrier frame strut 1",
+        "nearest": [
+          {
+            "target": "Carrier crossbar 0.39",
+            "distance_m": 0.0,
+            "surface_contacts": 30
+          },
+          {
+            "target": "Rear carrier perimeter",
+            "distance_m": 0.000143028621096164,
+            "surface_contacts": 39
+          },
+          {
+            "target": "Carrier crossbar 0.47",
+            "distance_m": 0.07376845180988312,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "saddle rail to saddle",
+        "part": "Saddle supporting rail -1",
+        "nearest": [
+          {
+            "target": "Sculpted padded saddle",
+            "distance_m": 3.7693014746764675e-05,
+            "surface_contacts": 58
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "saddle rail to saddle",
+        "part": "Saddle supporting rail 1",
+        "nearest": [
+          {
+            "target": "Sculpted padded saddle",
+            "distance_m": 5.617690476356074e-05,
+            "surface_contacts": 62
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "saddle rail to clamp",
+        "part": "Saddle supporting rail -1",
+        "nearest": [
+          {
+            "target": "Saddle rail clamp",
+            "distance_m": 4.929212809656747e-05,
+            "surface_contacts": 17
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "saddle rail to clamp",
+        "part": "Saddle supporting rail 1",
+        "nearest": [
+          {
+            "target": "Saddle rail clamp",
+            "distance_m": 4.928503039991483e-05,
+            "surface_contacts": 17
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "saddle clamp to post",
+        "part": "Saddle rail clamp",
+        "nearest": [
+          {
+            "target": "Seatpost",
+            "distance_m": 0.010000010021030903,
+            "surface_contacts": 198
+          },
+          {
+            "target": "Seatpost collar",
+            "distance_m": 0.06940890848636627,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "ring lock mounts to frame",
+        "part": "Ring lock frame clamp -1",
+        "nearest": [
+          {
+            "target": "Ring lock clamp seatstay bridge -1",
+            "distance_m": 0.0011691217077896,
+            "surface_contacts": 36
+          },
+          {
+            "target": "Ring lock clamp seatstay bridge 1",
+            "distance_m": 0.06964228302240372,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "ring lock mounts to frame",
+        "part": "Ring lock frame clamp 1",
+        "nearest": [
+          {
+            "target": "Ring lock clamp seatstay bridge 1",
+            "distance_m": 0.0011691299732774496,
+            "surface_contacts": 38
+          },
+          {
+            "target": "Ring lock clamp seatstay bridge -1",
+            "distance_m": 0.06964228302240372,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "ring lock mounts to housing",
+        "part": "Ring lock frame clamp -1",
+        "nearest": [
+          {
+            "target": "Rear ring lock open shackle housing",
+            "distance_m": 0.0007825794746167958,
+            "surface_contacts": 83
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "ring lock mounts to housing",
+        "part": "Ring lock frame clamp 1",
+        "nearest": [
+          {
+            "target": "Rear ring lock open shackle housing",
+            "distance_m": 0.0007825794746167958,
+            "surface_contacts": 83
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "stand leg to hinge",
+        "part": "Paired stand leg -1",
+        "nearest": [
+          {
+            "target": "Stand pivot sleeve -1",
+            "distance_m": 6.158649921417236e-05,
+            "surface_contacts": 85
+          },
+          {
+            "target": "Stand pivot sleeve 1",
+            "distance_m": 0.13525766134262085,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "stand leg to hinge",
+        "part": "Paired stand leg 1",
+        "nearest": [
+          {
+            "target": "Stand pivot sleeve 1",
+            "distance_m": 6.158649921417236e-05,
+            "surface_contacts": 85
+          },
+          {
+            "target": "Stand pivot sleeve -1",
+            "distance_m": 0.13525766134262085,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "stand leg to foot",
+        "part": "Paired stand leg -1",
+        "nearest": [
+          {
+            "target": "Stand ground shoe -1",
+            "distance_m": 5.027466613682918e-05,
+            "surface_contacts": 38
+          },
+          {
+            "target": "Stand ground shoe 1",
+            "distance_m": 0.2729271352291107,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "stand leg to foot",
+        "part": "Paired stand leg 1",
+        "nearest": [
+          {
+            "target": "Stand ground shoe 1",
+            "distance_m": 5.027465522289276e-05,
+            "surface_contacts": 37
+          },
+          {
+            "target": "Stand ground shoe -1",
+            "distance_m": 0.2729271352291107,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "stand hinge to axle",
+        "part": "Stand pivot sleeve -1",
+        "nearest": [
+          {
+            "target": "Rear dropout plate -1",
+            "distance_m": 0.007999993860721588,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Rear wheel axle nut -1",
+            "distance_m": 0.00800116453319788,
+            "surface_contacts": 14
+          },
+          {
+            "target": "Rear wheel continuous axle",
+            "distance_m": 0.011500367894768715,
+            "surface_contacts": 50
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "stand hinge to axle",
+        "part": "Stand pivot sleeve 1",
+        "nearest": [
+          {
+            "target": "Rear dropout plate 1",
+            "distance_m": 0.007999993860721588,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Rear wheel axle nut 1",
+            "distance_m": 0.00800116453319788,
+            "surface_contacts": 14
+          },
+          {
+            "target": "Rear wheel continuous axle",
+            "distance_m": 0.01150042749941349,
+            "surface_contacts": 50
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "stand brace/tab to leg",
+        "part": "Stand transverse brace",
+        "nearest": [
+          {
+            "target": "Paired stand leg 1",
+            "distance_m": 0.00017024589760694653,
+            "surface_contacts": 54
+          },
+          {
+            "target": "Paired stand leg -1",
+            "distance_m": 0.00017024693079292774,
+            "surface_contacts": 56
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "stand brace/tab to leg",
+        "part": "Stand left foot press tab",
+        "nearest": [
+          {
+            "target": "Paired stand leg -1",
+            "distance_m": 0.00010538406058913097,
+            "surface_contacts": 54
+          },
+          {
+            "target": "Paired stand leg 1",
+            "distance_m": 0.26957371830940247,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "stand stop to stationary structure",
+        "part": "Stand stationary stop",
+        "nearest": [
+          {
+            "target": "Stand pivot sleeve -1",
+            "distance_m": 0.0009999945759773254,
+            "surface_contacts": 41
+          },
+          {
+            "target": "Rear wheel axle nut -1",
+            "distance_m": 0.007719489745795727,
+            "surface_contacts": 0
+          },
+          {
+            "target": "Rear dropout plate -1",
+            "distance_m": 0.018000006675720215,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "front caliper support to fork",
+        "part": "Front caliper mounting bolt",
+        "nearest": [
+          {
+            "target": "Continuous fork steerer",
+            "distance_m": 0.0003071890096180141,
+            "surface_contacts": 78
+          },
+          {
+            "target": "Fork crown bridge",
+            "distance_m": 0.0012742594117298722,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "front caliper support to fork",
+        "part": "Front caliper crown mounting bridge",
+        "nearest": [
+          {
+            "target": "Continuous fork steerer",
+            "distance_m": 0.0,
+            "surface_contacts": 24
+          },
+          {
+            "target": "Fork crown bridge",
+            "distance_m": 0.006855187937617302,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "front pad to arm",
+        "part": "Front rim brake pad -1",
+        "nearest": [
+          {
+            "target": "Front caliper arm -1",
+            "distance_m": 0.007560852449387312,
+            "surface_contacts": 17
+          },
+          {
+            "target": "Front caliper arm 1",
+            "distance_m": 0.031057661399245262,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "front pad to arm",
+        "part": "Front rim brake pad 1",
+        "nearest": [
+          {
+            "target": "Front caliper arm 1",
+            "distance_m": 0.007560852449387312,
+            "surface_contacts": 16
+          },
+          {
+            "target": "Front caliper arm -1",
+            "distance_m": 0.031057661399245262,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "dynamo clamp to fork",
+        "part": "Dynamo fork clamp",
+        "nearest": [
+          {
+            "target": "Swept fork blade -1",
+            "distance_m": 0.00048631822573952377,
+            "surface_contacts": 40
+          },
+          {
+            "target": "Swept fork blade 1",
+            "distance_m": 0.07003776729106903,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "dynamo clamp to body",
+        "part": "Dynamo fork clamp",
+        "nearest": [
+          {
+            "target": "Block dynamo body",
+            "distance_m": 0.005922083277255297,
+            "surface_contacts": 46
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "rear brake reaction to clamp",
+        "part": "Rear brake reaction arm",
+        "nearest": [
+          {
+            "target": "Brake reaction chainstay clamp",
+            "distance_m": 0.004499997943639755,
+            "surface_contacts": 36
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "rear brake clamp to stay",
+        "part": "Brake reaction chainstay clamp",
+        "nearest": [
+          {
+            "target": "Curved chainstay -1",
+            "distance_m": 0.00198097201064229,
+            "surface_contacts": 71
+          },
+          {
+            "target": "Curved chainstay 1",
+            "distance_m": 0.08532766997814178,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "stand spring to fixed hook",
+        "part": "Stand return spring visual only",
+        "nearest": [
+          {
+            "target": "Stand spring fixed upper hook",
+            "distance_m": 4.870718839811161e-05,
+            "surface_contacts": 43
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "fixed hook to stop",
+        "part": "Stand spring fixed upper hook",
+        "nearest": [
+          {
+            "target": "Stand stationary stop",
+            "distance_m": 0.0025527775287628174,
+            "surface_contacts": 26
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "stand spring to moving hook",
+        "part": "Stand return spring visual only",
+        "nearest": [
+          {
+            "target": "Stand spring moving lower hook",
+            "distance_m": 1.2578204405144788e-05,
+            "surface_contacts": 43
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "moving hook to stand",
+        "part": "Stand spring moving lower hook",
+        "nearest": [
+          {
+            "target": "Paired stand leg -1",
+            "distance_m": 0.005442196037620306,
+            "surface_contacts": 34
+          },
+          {
+            "target": "Paired stand leg 1",
+            "distance_m": 0.1805172711610794,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "stand lock lever to pivot",
+        "part": "Stand lock lever",
+        "nearest": [
+          {
+            "target": "Stand lock lever pivot fastener",
+            "distance_m": 4.984839506505523e-06,
+            "surface_contacts": 14
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "stand lock lever to pivot",
+        "part": "Stand lock lever pivot fastener",
+        "nearest": [],
+        "any_surface_contact": false
+      },
+      {
+        "joint": "lever pivot to sleeve",
+        "part": "Stand lock lever pivot fastener",
+        "nearest": [
+          {
+            "target": "Stand pivot sleeve -1",
+            "distance_m": 0.00016896077431738377,
+            "surface_contacts": 48
+          },
+          {
+            "target": "Stand pivot sleeve 1",
+            "distance_m": 0.14299999177455902,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "ring lock bridge to stay",
+        "part": "Ring lock clamp seatstay bridge -1",
+        "nearest": [
+          {
+            "target": "Seatstay -1",
+            "distance_m": 0.004885263275355101,
+            "surface_contacts": 48
+          },
+          {
+            "target": "Seatstay 1",
+            "distance_m": 0.06543601304292679,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "ring lock bridge to stay",
+        "part": "Ring lock clamp seatstay bridge 1",
+        "nearest": [
+          {
+            "target": "Seatstay 1",
+            "distance_m": 0.0048851496540009975,
+            "surface_contacts": 48
+          },
+          {
+            "target": "Seatstay -1",
+            "distance_m": 0.06543601304292679,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "frame seatstay to seat tube",
+        "part": "Seatstay -1",
+        "nearest": [
+          {
+            "target": "Seat tube",
+            "distance_m": 6.9786561653018e-05,
+            "surface_contacts": 33
+          },
+          {
+            "target": "Seatpost collar",
+            "distance_m": 0.006631822790950537,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "frame seatstay to seat tube",
+        "part": "Seatstay 1",
+        "nearest": [
+          {
+            "target": "Seat tube",
+            "distance_m": 6.962971383472905e-05,
+            "surface_contacts": 31
+          },
+          {
+            "target": "Seatpost collar",
+            "distance_m": 0.006631831638514996,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "frame main tube to head",
+        "part": "Low step continuous curved main frame",
+        "nearest": [
+          {
+            "target": "Head tube",
+            "distance_m": 3.980032852268778e-05,
+            "surface_contacts": 126
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "fork blade to crown",
+        "part": "Swept fork blade -1",
+        "nearest": [
+          {
+            "target": "Fork crown bridge",
+            "distance_m": 0.00029121339321136475,
+            "surface_contacts": 66
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "fork blade to crown",
+        "part": "Swept fork blade 1",
+        "nearest": [
+          {
+            "target": "Fork crown bridge",
+            "distance_m": 0.00029121339321136475,
+            "surface_contacts": 64
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "front dropout to fork",
+        "part": "Front dropout plate -1",
+        "nearest": [
+          {
+            "target": "Swept fork blade -1",
+            "distance_m": 0.00033208096283487976,
+            "surface_contacts": 136
+          },
+          {
+            "target": "Swept fork blade 1",
+            "distance_m": 0.08696936815977097,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "front dropout to fork",
+        "part": "Front dropout plate 1",
+        "nearest": [
+          {
+            "target": "Swept fork blade 1",
+            "distance_m": 0.0003321037220302969,
+            "surface_contacts": 136
+          },
+          {
+            "target": "Swept fork blade -1",
+            "distance_m": 0.08696936815977097,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "rear dropout to stays",
+        "part": "Rear dropout plate -1",
+        "nearest": [
+          {
+            "target": "Seatstay -1",
+            "distance_m": 0.00034491310361772776,
+            "surface_contacts": 119
+          },
+          {
+            "target": "Curved chainstay -1",
+            "distance_m": 0.00047812648699618876,
+            "surface_contacts": 70
+          },
+          {
+            "target": "Curved chainstay 1",
+            "distance_m": 0.10248136520385742,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "rear dropout to stays",
+        "part": "Rear dropout plate 1",
+        "nearest": [
+          {
+            "target": "Seatstay 1",
+            "distance_m": 0.00034491310361772776,
+            "surface_contacts": 121
+          },
+          {
+            "target": "Curved chainstay 1",
+            "distance_m": 0.00047818224993534386,
+            "surface_contacts": 70
+          },
+          {
+            "target": "Curved chainstay -1",
+            "distance_m": 0.10248136520385742,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "lamp hanger to housing",
+        "part": "Lamp basket hanger",
+        "nearest": [
+          {
+            "target": "Front lamp housing",
+            "distance_m": 0.0069999429397284985,
+            "surface_contacts": 26
+          }
+        ],
+        "any_surface_contact": true
+      },
+      {
+        "joint": "lamp hanger to basket",
+        "part": "Lamp basket hanger",
+        "nearest": [
+          {
+            "target": "Basket floor longitudinal 0",
+            "distance_m": 0.00047551299212500453,
+            "surface_contacts": 40
+          },
+          {
+            "target": "Basket floor crossrib -0.7300000000000001",
+            "distance_m": 0.0005000000237487257,
+            "surface_contacts": 21
+          },
+          {
+            "target": "Basket floor longitudinal -0.04",
+            "distance_m": 0.03349999710917473,
+            "surface_contacts": 0
+          }
+        ],
+        "any_surface_contact": true
+      }
+    ],
+    "general": {
+      "triangles": 84500,
+      "zero_area_triangles": [],
+      "finite_vertices": true,
+      "bounds_min_m": [
+        -0.2880267798900604,
+        -0.9454623460769653,
+        0.0
+      ],
+      "bounds_max_m": [
+        0.2880267798900604,
+        0.9174129962921143,
+        1.0660368204116821
+      ],
+      "dimensions_m": [
+        0.5760535597801208,
+        1.8628753423690796,
+        1.0660368204116821
+      ],
+      "mechanical_groups_present": [
+        "chain_guard",
+        "cranks",
+        "drivetrain",
+        "frame",
+        "rear_wheel",
+        "stand",
+        "steering"
+      ],
+      "materials": [
+        {
+          "name": "Amber pedal reflector",
+          "base_color": [
+            0.6499999761581421,
+            0.20999999344348907,
+            0.012000000104308128,
+            1.0
+          ]
+        },
+        {
+          "name": "Amber pedal reflector.001",
+          "base_color": [
+            0.6499999761581421,
+            0.20999999344348907,
+            0.012000000104308128,
+            1.0
+          ]
+        },
+        {
+          "name": "Basket and guard molded polymer",
+          "base_color": [
+            0.06499999761581421,
+            0.07500000298023224,
+            0.06700000166893005,
+            1.0
+          ]
+        },
+        {
+          "name": "Basket and guard molded polymer.001",
+          "base_color": [
+            0.06499999761581421,
+            0.07500000298023224,
+            0.06700000166893005,
+            1.0
+          ]
+        },
+        {
+          "name": "Black tire rubber",
+          "base_color": [
+            0.020999999716877937,
+            0.024000000208616257,
+            0.023000000044703484,
+            1.0
+          ]
+        },
+        {
+          "name": "Black tire rubber.001",
+          "base_color": [
+            0.020999999716877937,
+            0.024000000208616257,
+            0.023000000044703484,
+            1.0
+          ]
+        },
+        {
+          "name": "Dark brown elastomer grips",
+          "base_color": [
+            0.10499999672174454,
+            0.06199999898672104,
+            0.03799999877810478,
+            1.0
+          ]
+        },
+        {
+          "name": "Dark brown elastomer grips.001",
+          "base_color": [
+            0.10499999672174454,
+            0.06199999898672104,
+            0.03799999877810478,
+            1.0
+          ]
+        },
+        {
+          "name": "Headlamp translucent-look lens",
+          "base_color": [
+            0.7200000286102295,
+            0.7599999904632568,
+            0.699999988079071,
+            1.0
+          ]
+        },
+        {
+          "name": "Headlamp translucent-look lens.001",
+          "base_color": [
+            0.7200000286102295,
+            0.7599999904632568,
+            0.699999988079071,
+            1.0
+          ]
+        },
+        {
+          "name": "Lubricated chain steel",
+          "base_color": [
+            0.15000000596046448,
+            0.17000000178813934,
+            0.1599999964237213,
+            1.0
+          ]
+        },
+        {
+          "name": "Lubricated chain steel.001",
+          "base_color": [
+            0.15000000596046448,
+            0.17000000178813934,
+            0.1599999964237213,
+            1.0
+          ]
+        },
+        {
+          "name": "Muted deep green painted steel",
+          "base_color": [
+            0.10499999672174454,
+            0.17499999701976776,
+            0.15000000596046448,
+            1.0
+          ]
+        },
+        {
+          "name": "Muted deep green painted steel.001",
+          "base_color": [
+            0.10499999672174454,
+            0.17499999701976776,
+            0.15000000596046448,
+            1.0
+          ]
+        },
+        {
+          "name": "Red reflector polymer",
+          "base_color": [
+            0.46000000834465027,
+            0.014999999664723873,
+            0.008999999612569809,
+            1.0
+          ]
+        },
+        {
+          "name": "Red reflector polymer.001",
+          "base_color": [
+            0.46000000834465027,
+            0.014999999664723873,
+            0.008999999612569809,
+            1.0
+          ]
+        },
+        {
+          "name": "Satin stainless steel",
+          "base_color": [
+            0.49000000953674316,
+            0.5299999713897705,
+            0.5299999713897705,
+            1.0
+          ]
+        },
+        {
+          "name": "Satin stainless steel.001",
+          "base_color": [
+            0.49000000953674316,
+            0.5299999713897705,
+            0.5299999713897705,
+            1.0
+          ]
+        },
+        {
+          "name": "Warm dark brown saddle vinyl",
+          "base_color": [
+            0.17000000178813934,
+            0.0949999988079071,
+            0.052000001072883606,
+            1.0
+          ]
+        },
+        {
+          "name": "Warm dark brown saddle vinyl.001",
+          "base_color": [
+            0.17000000178813934,
+            0.0949999988079071,
+            0.052000001072883606,
+            1.0
+          ]
+        }
+      ]
+    },
+    "full_pose_regression": {
+      "ground_contacts": {
+        "Front wheel rubber tire": 0.0,
+        "Rear wheel rubber tire": 0.0139999995008111,
+        "Stand ground shoe -1": 0.0,
+        "Stand ground shoe 1": 0.0
+      },
+      "support_triangle_area_m2": 0.16895,
+      "default_tire_fender_contact_candidates": [],
+      "chain_guard_contact_candidates": [],
+      "chain_frame_contact_candidates": [],
+      "fork_tire_contact_candidates": [],
+      "spoke_fork_contact_candidates": [],
+      "rear_brake_linkage": {
+        "parts": [
+          "Rear brake fixed casing stop support",
+          "Rear brake cable adjuster barrel",
+          "Rear brake cable adjuster locknut",
+          "Rear brake actuator bearing",
+          "Rear brake movable actuator link",
+          "Rear brake inner cable fixing bolt",
+          "Rear brake inner cable fixing nut",
+          "Rear brake exposed inner cable",
+          "Rear brake cable end cap"
+        ],
+        "fixed_support_reaction_arm_intended_contacts": [
+          {
+            "a": "Rear brake fixed casing stop support",
+            "b": "Rear brake reaction arm",
+            "triangle_contact_candidates": 33
+          }
+        ],
+        "spoke_contact_candidates": [],
+        "stand_contact_candidates": [],
+        "chainstay_contact_candidates": [],
+        "scope": "Static exterior linkage and clearance only; brake internals, cable tension and spring return are not simulated"
+      },
+      "rear_support_spoke_contact_candidates": [],
+      "rear_frame_and_lock_obstacles": {
+        "tire_contact_candidates": [],
+        "spoke_contact_candidates": []
+      },
+      "basket_rear_bracket_attachments": {
+        "-1": {
+          "bracket_grid_intended_contacts": [
+            {
+              "a": "Basket rear bracket -1",
+              "b": "Basket horizontal grid 4",
+              "triangle_contact_candidates": 58
+            },
+            {
+              "a": "Basket rear bracket -1",
+              "b": "Basket side upright -1 10",
+              "triangle_contact_candidates": 48
+            }
+          ],
+          "clamp_grid_intended_contacts": [
+            {
+              "a": "Basket rear bracket clamp -1",
+              "b": "Basket horizontal grid 4",
+              "triangle_contact_candidates": 44
+            }
+          ]
+        },
+        "1": {
+          "bracket_grid_intended_contacts": [
+            {
+              "a": "Basket rear bracket 1",
+              "b": "Basket horizontal grid 4",
+              "triangle_contact_candidates": 60
+            },
+            {
+              "a": "Basket rear bracket 1",
+              "b": "Basket side upright 1 10",
+              "triangle_contact_candidates": 48
+            }
+          ],
+          "clamp_grid_intended_contacts": [
+            {
+              "a": "Basket rear bracket clamp 1",
+              "b": "Basket horizontal grid 4",
+              "triangle_contact_candidates": 44
+            }
+          ]
+        }
+      },
+      "steering_poses": [
+        {
+          "degrees": -25,
+          "frame_contact_candidates": [],
+          "axis_m": [
+            [
+              0.0,
+              -0.4480971395969391,
+              0.6717615723609924
+            ],
+            [
+              0.0,
+              -0.38063672184944153,
+              0.8825910687446594
+            ]
+          ],
+          "rear_brake_cable_note": "Flexible rear cable top loop is not asserted rigid-valid; must be regenerated for a supplied steered pose."
+        },
+        {
+          "degrees": -15,
+          "frame_contact_candidates": [],
+          "axis_m": [
+            [
+              0.0,
+              -0.4480971395969391,
+              0.6717615723609924
+            ],
+            [
+              0.0,
+              -0.38063672184944153,
+              0.8825910687446594
+            ]
+          ],
+          "rear_brake_cable_note": "Flexible rear cable top loop is not asserted rigid-valid; must be regenerated for a supplied steered pose."
+        },
+        {
+          "degrees": 0,
+          "frame_contact_candidates": [],
+          "axis_m": [
+            [
+              0.0,
+              -0.4480971395969391,
+              0.6717615723609924
+            ],
+            [
+              0.0,
+              -0.38063672184944153,
+              0.8825910687446594
+            ]
+          ],
+          "rear_brake_cable_note": "Flexible rear cable top loop is not asserted rigid-valid; must be regenerated for a supplied steered pose."
+        },
+        {
+          "degrees": 15,
+          "frame_contact_candidates": [],
+          "axis_m": [
+            [
+              0.0,
+              -0.4480971395969391,
+              0.6717615723609924
+            ],
+            [
+              0.0,
+              -0.38063672184944153,
+              0.8825910687446594
+            ]
+          ],
+          "rear_brake_cable_note": "Flexible rear cable top loop is not asserted rigid-valid; must be regenerated for a supplied steered pose."
+        },
+        {
+          "degrees": 25,
+          "frame_contact_candidates": [],
+          "axis_m": [
+            [
+              0.0,
+              -0.4480971395969391,
+              0.6717615723609924
+            ],
+            [
+              0.0,
+              -0.38063672184944153,
+              0.8825910687446594
+            ]
+          ],
+          "rear_brake_cable_note": "Flexible rear cable top loop is not asserted rigid-valid; must be regenerated for a supplied steered pose."
+        }
+      ],
+      "crank_poses": [
+        {
+          "added_rotation_degrees": 0,
+          "pedal_orientation": "Counter-rotated around pedal axle to retain level platform",
+          "contact_candidates": [],
+          "pedal_lowest_m": 0.1334926038980484
+        },
+        {
+          "added_rotation_degrees": 45,
+          "pedal_orientation": "Counter-rotated around pedal axle to retain level platform",
+          "contact_candidates": [],
+          "pedal_lowest_m": 0.22762298583984375
+        },
+        {
+          "added_rotation_degrees": 90,
+          "pedal_orientation": "Counter-rotated around pedal axle to retain level platform",
+          "contact_candidates": [],
+          "pedal_lowest_m": 0.21064917743206024
+        },
+        {
+          "added_rotation_degrees": 135,
+          "pedal_orientation": "Counter-rotated around pedal axle to retain level platform",
+          "contact_candidates": [],
+          "pedal_lowest_m": 0.12646180391311646
+        },
+        {
+          "added_rotation_degrees": 180,
+          "pedal_orientation": "Counter-rotated around pedal axle to retain level platform",
+          "contact_candidates": [],
+          "pedal_lowest_m": 0.1334926187992096
+        },
+        {
+          "added_rotation_degrees": 225,
+          "pedal_orientation": "Counter-rotated around pedal axle to retain level platform",
+          "contact_candidates": [],
+          "pedal_lowest_m": 0.22762294113636017
+        },
+        {
+          "added_rotation_degrees": 270,
+          "pedal_orientation": "Counter-rotated around pedal axle to retain level platform",
+          "contact_candidates": [],
+          "pedal_lowest_m": 0.21064913272857666
+        },
+        {
+          "added_rotation_degrees": 315,
+          "pedal_orientation": "Counter-rotated around pedal axle to retain level platform",
+          "contact_candidates": [],
+          "pedal_lowest_m": 0.12646184861660004
+        }
+      ],
+      "stand_poses": [
+        {
+          "rotation_degrees": 0,
+          "tire_contact_candidates": [],
+          "spoke_contact_candidates": [],
+          "lowest_m": 0.004059754312038422,
+          "scope": "No assertion that ground stays fixed during retraction"
+        },
+        {
+          "rotation_degrees": 25,
+          "tire_contact_candidates": [],
+          "spoke_contact_candidates": [],
+          "lowest_m": -0.002977021038532257,
+          "scope": "No assertion that ground stays fixed during retraction"
+        },
+        {
+          "rotation_degrees": 50,
+          "tire_contact_candidates": [],
+          "spoke_contact_candidates": [],
+          "lowest_m": 0.019038943573832512,
+          "scope": "No assertion that ground stays fixed during retraction"
+        },
+        {
+          "rotation_degrees": 75,
+          "tire_contact_candidates": [],
+          "spoke_contact_candidates": [],
+          "lowest_m": 0.10085426270961761,
+          "scope": "No assertion that ground stays fixed during retraction"
+        },
+        {
+          "rotation_degrees": 95,
+          "tire_contact_candidates": [],
+          "spoke_contact_candidates": [],
+          "lowest_m": 0.19926874339580536,
+          "scope": "No assertion that ground stays fixed during retraction"
+        }
+      ]
+    }
+  }
+}

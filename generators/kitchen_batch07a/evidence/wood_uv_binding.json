@@ -1,0 +1,21 @@
+{
+  "source_sha256": "f361a45154afd0313aa772e7ab6aeb12a5b9b59b8fc3815de6d690f71d254b1e",
+  "uv_attributes": [
+    "TEXCOORD_0"
+  ],
+  "texture_binding": {
+    "index": 0
+  },
+  "most_repeated_uv_count": 8,
+  "exported_vertices": 6258,
+  "unique_uvs": 3156,
+  "uv_min": [
+    0.1111111119389534,
+    0.016666650772094727
+  ],
+  "uv_max": [
+    0.8888816237449646,
+    0.9833333492279053
+  ],
+  "correction": "Removed inherited Boolean cutter UVMap. Original longitudinal UV is now sole active/render UV; original albedo unchanged."
+}

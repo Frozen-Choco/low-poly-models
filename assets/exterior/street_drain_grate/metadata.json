@@ -1,0 +1,73 @@
+{
+  "id": "street_drain_grate",
+  "title_ja": "グレーチング",
+  "category": "exterior",
+  "units": "meters",
+  "origin": "Bottom receiver plane Z=0, centered X/Y; lower by 0.038 m for flush grade installation",
+  "front_blend": "-Y",
+  "up_blend": "Z",
+  "up_glb": "Y",
+  "design": "Original unbranded generic diorama prop; not a dimension-perfect product replica or certified equipment.",
+  "license": "Original geometry and PBR materials. No reference images embedded.",
+  "review_status": "Independently approved for bounded static diorama scope",
+  "review_standard_revision": "2026-10-16 real-world construction and use",
+  "blender_version": "4.3.2",
+  "glb_bytes": 1439716,
+  "blend_bytes": 588688,
+  "preview": "preview.jpg",
+  "back": "back.jpg",
+  "triangles": 25980,
+  "zero_area_triangles": 0,
+  "bounds_min": [
+    -0.3149999976158142,
+    -0.2150000035762787,
+    0.0
+  ],
+  "bounds_max": [
+    0.3149999976158142,
+    0.2150000035762787,
+    0.03799999877810478
+  ],
+  "dimensions_m": [
+    0.6299999952316284,
+    0.4300000071525574,
+    0.03799999877810478
+  ],
+  "mesh_objects": 2,
+  "references": [
+    "https://www.takara-kizai.com/product/grating/steel/",
+    "https://www.kaneso.co.jp/seihin/zumen/HXC-6638_DK-600-Z.pdf"
+  ],
+  "functional_validation_files": [
+    "generators/exterior_batch05b/geometry_validation.json",
+    "generators/exterior_batch05b/previews/installed_use_validation.json"
+  ],
+  "view_files": [
+    "preview.jpg",
+    "back.jpg",
+    "side.jpg",
+    "underside.jpg",
+    "close_up.jpg",
+    "alternate_light.jpg"
+  ],
+  "glb_sha256": "aa6512473410997360453f5b91ca2888ae3230f2b924a73295f507d935a7c704",
+  "blend_sha256": "5e00805f8ba6a9b272f389e8229d02cb51dc908a7be859b9f0aea76635abacec",
+  "preview_standard": "preview_standard_v1",
+  "photography_config": "generators/exterior_batch05b/photography/preview_standard_v1",
+  "view_semantics": {
+    "preview": "standard front three-quarter",
+    "back": "opposing three-quarter",
+    "side": "axial side",
+    "underside": "axial bottom",
+    "close_up": "declared functional detail target",
+    "alternate_light": "standard preview under second lighting direction"
+  },
+  "independent_review": {
+    "technical_status": "approved",
+    "scope": "Static visual diorama asset; bounded geometry checks, not engineering certification",
+    "report": "reviews/reviewed_eight/exterior_final_approval.json",
+    "report_sha256": "fe69dbaea167d5586233c9be16ac516b092b2e123cd06908027a98fdaf0b16f4",
+    "path_base": "repository root",
+    "source_package_manifest_sha256": "aa2429348834d2b3882ae447abb98188f210c968641fc51fdeaf5d1ce5798747"
+  }
+}

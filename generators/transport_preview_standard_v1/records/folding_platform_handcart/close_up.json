@@ -1,0 +1,111 @@
+{
+  "asset": "folding_platform_handcart",
+  "view": "close_up",
+  "input_repo_path": "assets/folding_platform_handcart/folding_platform_handcart.glb",
+  "input_sha256": "1bc50047268f503b979d48c4914555185fd79b661204add44e955e48a2b57ec3",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "c4043d49a92dbcf92f42294bd7fe55f50ec85c164b149e8f9df550ed2c0706b8",
+  "closeup_magnification_vs_full_fit": 4.841166058686858,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch06a/generators/preview_standard_v1/repo/assets/folding_platform_handcart/close_up.jpg",
+  "output_sha256": "aefda436313ba59764bdc044d100a9320cb8a066d7572351b8ad8ccf9703a7be",
+  "bytes": 164385,
+  "elapsed_seconds": 875.774756660001,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 2.247191047355422,
+  "source_bounds": [
+    [
+      -0.24500000476837158,
+      -0.36500000953674316,
+      0.0
+    ],
+    [
+      0.24500000476837158,
+      0.36500000953674316,
+      0.8899999856948853
+    ]
+  ],
+  "camera_location": [
+    6.8361616134643555,
+    -5.750768661499023,
+    4.681819915771484
+  ],
+  "camera_rotation": [
+    1.1399719715118408,
+    -8.762086878277842e-08,
+    0.7853983044624329
+  ],
+  "ortho_scale": 0.6179775595664978,
+  "focus": {
+    "direction": [
+      1,
+      -1,
+      0.65
+    ],
+    "target_m": [
+      0.183,
+      0.3,
+      0.225
+    ],
+    "span_m": 0.22,
+    "purpose": "Open lock slot, upper pivot, release bar and deck socket"
+  },
+  "focus_projected_width_height": [
+    1.9313285648822784,
+    2.393385589122772
+  ],
+  "full_object_fit": false,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        -2.8870391845703125,
+        -4.112960338592529,
+        4.968446254730225
+      ],
+      "rotation": [
+        0.866866946220398,
+        -4.293632116514345e-09,
+        -0.6096688508987427
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        4.0546722412109375,
+        -1.0546717643737793,
+        2.8566904067993164
+      ],
+      "rotation": [
+        1.0964511632919312,
+        -3.115798818953408e-08,
+        1.314873218536377
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        1.0862261056900024,
+        3.913773536682129,
+        4.082611083984375
+      ],
+      "rotation": [
+        0.8756899237632751,
+        1.4600425757294033e-08,
+        2.868286609649658
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": null,
+  "floor_hidden": false,
+  "diagnostic_only": false
+}

@@ -1,0 +1,110 @@
+{
+  "asset": "outdoor_ac_condenser",
+  "view": "service_detail",
+  "input_repo_path": "assets/outdoor_ac_condenser/outdoor_ac_condenser.glb",
+  "input_sha256": "5282d8b036aa185dc1e975b899f59a56bbd0c0df96526cb9e6b52c35a92119ce",
+  "input_git_sha": "aa2d7f1590d4db9f3709a827ef96f91875b4f844",
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "4bb6b310d7d5433951aa1bd69ceb6a1104ac10284b2a05bceec510e164ff7a65",
+  "closeup_magnification_vs_full_fit": 2.172721816310965,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch05b/photography/preview_standard_v1/repo/assets/outdoor_ac_condenser/service_detail.jpg",
+  "output_sha256": "f4b1eabe40a93969c3f966d7995b10730b76ad79df6b212123092163c7968181",
+  "bytes": 230875,
+  "elapsed_seconds": 1251.3097584410002,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 2.277904273585041,
+  "source_bounds": [
+    [
+      -0.3700000047683716,
+      -0.2150000035762787,
+      0.0
+    ],
+    [
+      0.5080000162124634,
+      0.42900002002716064,
+      0.6559999585151672
+    ]
+  ],
+  "camera_location": [
+    9.175505638122559,
+    4.354267597198486,
+    3.9836418628692627
+  ],
+  "camera_rotation": [
+    1.2272156476974487,
+    5.6947172311083705e-08,
+    2.0344438552856445
+  ],
+  "ortho_scale": 1.1389521360397339,
+  "focus": {
+    "direction": [
+      1,
+      0.5,
+      0.4
+    ],
+    "target_m": [
+      0.4,
+      0.17,
+      0.27
+    ],
+    "span_m": 0.4
+  },
+  "focus_projected_width_height": [
+    1.4524409770965576,
+    1.9797009229660034
+  ],
+  "full_object_fit": false,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        3.323981761932373,
+        -3.8719942569732666,
+        4.875774383544922
+      ],
+      "rotation": [
+        0.8851879835128784,
+        -4.069558556807351e-08,
+        0.7105274796485901
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        2.4438788890838623,
+        3.5936474800109863,
+        2.532782554626465
+      ],
+      "rotation": [
+        1.1722060441970825,
+        -8.866373413241035e-09,
+        2.5437064170837402
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        -3.093674898147583,
+        2.406010150909424,
+        4.243051052093506
+      ],
+      "rotation": [
+        0.8354816436767578,
+        -1.893507928230065e-08,
+        -2.233182430267334
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": null,
+  "floor_hidden": false,
+  "diagnostic_only": false
+}

@@ -1,0 +1,118 @@
+[
+  {
+    "id": "stainless_ladle",
+    "title_ja": "お玉",
+    "category": "kitchen",
+    "units": "meter",
+    "up_axis_blend": "Z",
+    "up_axis_glb": "Y",
+    "front_blend": "-Y",
+    "origin": "lowest support at ground plane",
+    "triangles": 13172,
+    "dimensions_m": [
+      0.07579927891492844,
+      0.25825916056055576,
+      0.07582569122314453
+    ],
+    "blend_bytes": 284127,
+    "glb_bytes": 238584,
+    "validated": true,
+    "status": "Independently approved for bounded static diorama scope; see repository reviews/reviewed_eight",
+    "geometry_validated": true,
+    "validation_scope": "Independent saved-geometry gate and complete canonical hash verification; final package acceptance recorded in reviews/reviewed_eight/kitchen_package_acceptance.json. Static visual scope, not engineering certification.",
+    "photography": {
+      "standard": "preview_standard_v1",
+      "views": [
+        "preview",
+        "back",
+        "front",
+        "rear",
+        "side",
+        "left",
+        "top",
+        "underside",
+        "close_up",
+        "underside_detail",
+        "alternate_light",
+        "hook_detail"
+      ]
+    }
+  },
+  {
+    "id": "stainless_perforated_colander",
+    "title_ja": "ざる",
+    "category": "kitchen",
+    "units": "meter",
+    "up_axis_blend": "Z",
+    "up_axis_glb": "Y",
+    "front_blend": "-Y",
+    "origin": "lowest support at ground plane",
+    "triangles": 125072,
+    "dimensions_m": [
+      0.23800000548362732,
+      0.23800000548362732,
+      0.08470039069652557
+    ],
+    "blend_bytes": 2788257,
+    "glb_bytes": 4197512,
+    "validated": true,
+    "status": "Independently approved for bounded static diorama scope; see repository reviews/reviewed_eight",
+    "geometry_validated": true,
+    "validation_scope": "Independent saved-geometry gate and complete canonical hash verification; final package acceptance recorded in reviews/reviewed_eight/kitchen_package_acceptance.json. Static visual scope, not engineering certification.",
+    "photography": {
+      "standard": "preview_standard_v1",
+      "views": [
+        "preview",
+        "back",
+        "front",
+        "rear",
+        "side",
+        "left",
+        "top",
+        "underside",
+        "close_up",
+        "underside_detail",
+        "alternate_light"
+      ]
+    }
+  },
+  {
+    "id": "wood_cooking_spatula",
+    "title_ja": "木べら",
+    "category": "kitchen",
+    "units": "meter",
+    "up_axis_blend": "Z",
+    "up_axis_glb": "Y",
+    "front_blend": "-Y",
+    "origin": "lowest support at ground plane",
+    "triangles": 11860,
+    "dimensions_m": [
+      0.06999720260500908,
+      0.29004621505737305,
+      0.012216920033097267
+    ],
+    "blend_bytes": 1002387,
+    "glb_bytes": 881536,
+    "validated": true,
+    "status": "Independently approved for bounded static diorama scope; see repository reviews/reviewed_eight",
+    "geometry_validated": true,
+    "validation_scope": "Independent saved-geometry gate and complete canonical hash verification; final package acceptance recorded in reviews/reviewed_eight/kitchen_package_acceptance.json. Static visual scope, not engineering certification.",
+    "photography": {
+      "standard": "preview_standard_v1",
+      "views": [
+        "preview",
+        "back",
+        "front",
+        "rear",
+        "side",
+        "left",
+        "top",
+        "underside",
+        "close_up",
+        "underside_detail",
+        "alternate_light",
+        "hanging_detail"
+      ]
+    }
+  }
+]

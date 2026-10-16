@@ -1,0 +1,38 @@
+{
+  "blend": {
+    "sha256": "f4af4cc5334799b3801967d04f76734d99a710cc3eafac1ede8503f3ba651f22",
+    "deck_triangles": 4640,
+    "area_m2": 1.1841046230719865,
+    "signed_volume_m3": 0.004854678363910496,
+    "edge_face_counts": {
+      "0": 0,
+      "1": 0,
+      "2": 6960,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0
+    },
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "deck_vertices": 2274
+  },
+  "glb": {
+    "sha256": "1bc50047268f503b979d48c4914555185fd79b661204add44e955e48a2b57ec3",
+    "deck_triangles": 4640,
+    "area_m2": 1.1841046230719865,
+    "signed_volume_m3": 0.004854678363910496,
+    "edge_face_counts": {
+      "0": 0,
+      "1": 0,
+      "2": 6960,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0
+    },
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "deck_vertices": 9724
+  }
+}

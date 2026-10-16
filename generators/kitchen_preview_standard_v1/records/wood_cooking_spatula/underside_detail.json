@@ -1,0 +1,115 @@
+{
+  "asset": "wood_cooking_spatula",
+  "view": "underside_detail",
+  "input_repo_path": "assets/wood_cooking_spatula/wood_cooking_spatula.glb",
+  "input_sha256": "f361a45154afd0313aa772e7ab6aeb12a5b9b59b8fc3815de6d690f71d254b1e",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "4ce26f2460958965b7da507713a375fded85f72ddc98fc806f920131f113af77",
+  "closeup_magnification_vs_full_fit": 1.9315312615542142,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch07a/generators/preview_standard_v1/repo/assets/wood_cooking_spatula/underside_detail.jpg",
+  "output_sha256": "77f2987cc48d8dec57054b7143c27fa3f0c2690d1bf096eb31598b38909f3685",
+  "bytes": 109385,
+  "elapsed_seconds": 201.21349267700134,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 6.895452849141255,
+  "source_bounds": [
+    [
+      -0.035040222108364105,
+      -0.1450670212507248,
+      0.0
+    ],
+    [
+      0.034956980496644974,
+      0.14497919380664825,
+      0.012216920033097267
+    ]
+  ],
+  "camera_location": [
+    3.0154004096984863,
+    -3.6354012489318848,
+    -9.010863304138184
+  ],
+  "camera_rotation": [
+    2.7010819911956787,
+    -2.224812112316954e-09,
+    0.7853981852531433
+  ],
+  "ortho_scale": 1.034317970275879,
+  "focus": {
+    "direction": [
+      1,
+      -1,
+      -3
+    ],
+    "target_m": [
+      0,
+      -0.09,
+      0.005
+    ],
+    "span_m": 0.12,
+    "purpose": "Smooth solid wood underside and tapered paddle"
+  },
+  "focus_projected_width_height": [
+    1.59825399518013,
+    1.4214283227920532
+  ],
+  "full_object_fit": false,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        -0.011068105697631836,
+        -6.988930702209473,
+        -0.8153753280639648
+      ],
+      "rotation": [
+        1.6981358528137207,
+        -8.753153757368182e-09,
+        -0.07283957302570343
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        3.5145721435546875,
+        -0.5145717859268188,
+        -3.5816965103149414
+      ],
+      "rotation": [
+        2.4392364025115967,
+        -5.642363021252095e-08,
+        1.5545347929000854
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        5.342948913574219,
+        -0.3429485559463501,
+        2.042144298553467
+      ],
+      "rotation": [
+        1.1782952547073364,
+        1.535218672188421e-07,
+        1.5958070755004883
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": [
+    184,
+    184,
+    184
+  ],
+  "floor_hidden": true,
+  "diagnostic_only": false
+}

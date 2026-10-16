@@ -1,0 +1,81 @@
+{
+  "scope": "Path relocation only. Original immutable render records preserve original input_repo_path and output_path; mapping below identifies byte-identical packaged files. No claim of rerender at destination.",
+  "asset": "city_bicycle",
+  "original_input_repo_path": "assets/city_bicycle/city_bicycle.glb",
+  "packaged_input_repo_path": "assets/vehicles/city_bicycle/city_bicycle.glb",
+  "input_sha256": "81d041e09a867838f1ca844935f4d7d3cdd5061fd4d99c591a8e47f2fa716cbd",
+  "views": [
+    {
+      "view": "preview",
+      "image": "assets/vehicles/city_bicycle/preview.jpg",
+      "image_sha256": "12bd62880400d131bc1b1a9ad77aa69c909410cbc6da4b0c875b367c00f0275e",
+      "original_record": "generators/transport_preview_standard_v1/records/city_bicycle/preview.json"
+    },
+    {
+      "view": "back",
+      "image": "assets/vehicles/city_bicycle/back.jpg",
+      "image_sha256": "1fc0a7232e95fea7e4f6c38d106d664a268ff08f40ba6d7deb0aa89eb9020a7d",
+      "original_record": "generators/transport_preview_standard_v1/records/city_bicycle/back.json"
+    },
+    {
+      "view": "front",
+      "image": "assets/vehicles/city_bicycle/front.jpg",
+      "image_sha256": "e38940ce333c01739d48b2688fd7e835e94d7c895c53b8a29547c5115d0f6f9a",
+      "original_record": "generators/transport_preview_standard_v1/records/city_bicycle/front.json"
+    },
+    {
+      "view": "rear",
+      "image": "assets/vehicles/city_bicycle/rear.jpg",
+      "image_sha256": "94023fdf9e496381128e1bc79a2005a37396e50bee7bfeae19f0991de1ca3c6b",
+      "original_record": "generators/transport_preview_standard_v1/records/city_bicycle/rear.json"
+    },
+    {
+      "view": "side",
+      "image": "assets/vehicles/city_bicycle/side.jpg",
+      "image_sha256": "0b497b976b7575131583d3c389f2e7e28bd825a8047a516c374bd11aea5077e2",
+      "original_record": "generators/transport_preview_standard_v1/records/city_bicycle/side.json"
+    },
+    {
+      "view": "left",
+      "image": "assets/vehicles/city_bicycle/left.jpg",
+      "image_sha256": "754b663cbc83e5de68017fac65a2cc5db538c33312702894f76a78335001905c",
+      "original_record": "generators/transport_preview_standard_v1/records/city_bicycle/left.json"
+    },
+    {
+      "view": "top",
+      "image": "assets/vehicles/city_bicycle/top.jpg",
+      "image_sha256": "6d32df5ed17e4cc97b109f9a12861357a23cfd0220ca36e0a7c4c96fa28831a8",
+      "original_record": "generators/transport_preview_standard_v1/records/city_bicycle/top.json"
+    },
+    {
+      "view": "underside",
+      "image": "assets/vehicles/city_bicycle/underside.jpg",
+      "image_sha256": "02303f0ff18aeb6e895094928b5c78d702c224ac8a69bd6d1578dc14fd5db433",
+      "original_record": "generators/transport_preview_standard_v1/records/city_bicycle/underside.json"
+    },
+    {
+      "view": "close_up",
+      "image": "assets/vehicles/city_bicycle/close_up.jpg",
+      "image_sha256": "eac51bbf1cb4244af93d1f5fdcaa646786e0cec311cb2930cd84a61107b4c784",
+      "original_record": "generators/transport_preview_standard_v1/records/city_bicycle/close_up.json"
+    },
+    {
+      "view": "underside_detail",
+      "image": "assets/vehicles/city_bicycle/underside_detail.jpg",
+      "image_sha256": "cef7216fe80734963b9c662d862ca58e7373d1c86ab58c6a6697d3e9b861fe47",
+      "original_record": "generators/transport_preview_standard_v1/records/city_bicycle/underside_detail.json"
+    },
+    {
+      "view": "alternate_light",
+      "image": "assets/vehicles/city_bicycle/alternate_light.jpg",
+      "image_sha256": "261c96fc7e1cc6c81107552704ea35d9b230a8c72eee984c1ba5941a55db1594",
+      "original_record": "generators/transport_preview_standard_v1/records/city_bicycle/alternate_light.json"
+    },
+    {
+      "view": "drivetrain_detail",
+      "image": "assets/vehicles/city_bicycle/drivetrain_detail.jpg",
+      "image_sha256": "a70a9943e6ea9760cb689efc05970ef7ccfe4589f12ca471c6ec29345db16a91",
+      "original_record": "generators/transport_preview_standard_v1/records/city_bicycle/drivetrain_detail.json"
+    }
+  ]
+}

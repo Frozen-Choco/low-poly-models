@@ -1,0 +1,115 @@
+{
+  "asset": "stainless_perforated_colander",
+  "view": "underside_detail",
+  "input_repo_path": "assets/stainless_perforated_colander/stainless_perforated_colander.glb",
+  "input_sha256": "b93b5b057140061dd04c00a0634ae9100f90c468dba1ad648edf171928e2c017",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "4ce26f2460958965b7da507713a375fded85f72ddc98fc806f920131f113af77",
+  "closeup_magnification_vs_full_fit": 1.8307694382695745,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch07a/generators/preview_standard_v1/repo/assets/stainless_perforated_colander/underside_detail.jpg",
+  "output_sha256": "ac29c30d5501f5a3c56e1ba4d5f227aad98d8c6bee4b204a944b178555b08fce",
+  "bytes": 367766,
+  "elapsed_seconds": 529.0355527249994,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 8.403361150920585,
+  "source_bounds": [
+    [
+      -0.11900000274181366,
+      -0.11900000274181366,
+      0.0
+    ],
+    [
+      0.11900000274181366,
+      0.11900000274181366,
+      0.08470039069652557
+    ]
+  ],
+  "camera_location": [
+    3.015113353729248,
+    -3.015113353729248,
+    -8.99492073059082
+  ],
+  "camera_rotation": [
+    2.7010819911956787,
+    -2.224812112316954e-09,
+    0.7853981852531433
+  ],
+  "ortho_scale": 1.3655462265014648,
+  "focus": {
+    "direction": [
+      1,
+      -1,
+      -3
+    ],
+    "target_m": [
+      0,
+      0,
+      0.006
+    ],
+    "span_m": 0.13,
+    "purpose": "Perforated flat base and drainage transition"
+  },
+  "focus_projected_width_height": [
+    2.000000238418579,
+    1.8096110224723816
+  ],
+  "full_object_fit": false,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        -0.23283004760742188,
+        -6.767168998718262,
+        -0.49207374453544617
+      ],
+      "rotation": [
+        1.6981358528137207,
+        -9.537830081285392e-09,
+        -0.07283960282802582
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        3.2928102016448975,
+        -0.2928100526332855,
+        -3.258394956588745
+      ],
+      "rotation": [
+        2.4392364025115967,
+        -2.7191424223360627e-08,
+        1.554534912109375
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        5.121187210083008,
+        -0.12118685245513916,
+        2.365445852279663
+      ],
+      "rotation": [
+        1.178295373916626,
+        4.7967375849111704e-08,
+        1.5958069562911987
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": [
+    184,
+    184,
+    184
+  ],
+  "floor_hidden": true,
+  "diagnostic_only": false
+}

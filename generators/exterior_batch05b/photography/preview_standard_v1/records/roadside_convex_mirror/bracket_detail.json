@@ -1,0 +1,110 @@
+{
+  "asset": "roadside_convex_mirror",
+  "view": "bracket_detail",
+  "input_repo_path": "assets/roadside_convex_mirror/roadside_convex_mirror.glb",
+  "input_sha256": "b27e36c54a446f4628faa7283b3cc075d908b18a709c803b15857d135f9efabf",
+  "input_git_sha": "7ec35d93c18cae66d712b71be9d03e7a5c1bd05d",
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "4bb6b310d7d5433951aa1bd69ceb6a1104ac10284b2a05bceec510e164ff7a65",
+  "closeup_magnification_vs_full_fit": 6.960581726734394,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch05b/photography/preview_standard_v1/repo/assets/roadside_convex_mirror/bracket_detail.jpg",
+  "output_sha256": "389124b6173b3a4ad7761e771fe88ae7c1d2be2c7cf212833148e1502b9efbde",
+  "bytes": 151691,
+  "elapsed_seconds": 1095.1520226799985,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 0.6868132007588458,
+  "source_bounds": [
+    [
+      -0.31200000643730164,
+      -0.04500000178813934,
+      0.0
+    ],
+    [
+      0.31200000643730164,
+      0.32999998331069946,
+      2.9119999408721924
+    ]
+  ],
+  "camera_location": [
+    5.5689005851745605,
+    7.919515132904053,
+    4.172386169433594
+  ],
+  "camera_rotation": [
+    1.329803228378296,
+    5.3514824571720965e-08,
+    2.5308666229248047
+  ],
+  "ortho_scale": 0.36057692766189575,
+  "focus": {
+    "direction": [
+      0.7,
+      1,
+      0.3
+    ],
+    "target_m": [
+      0,
+      0.09,
+      2.6
+    ],
+    "span_m": 0.42
+  },
+  "focus_projected_width_height": [
+    0.4155379980802536,
+    2.0078601390123367
+  ],
+  "full_object_fit": false,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        4.972589492797852,
+        -1.5276384353637695,
+        4.733588218688965
+      ],
+      "rotation": [
+        0.9141751527786255,
+        -6.522793682961492e-08,
+        1.2851914167404175
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        0.49767282605171204,
+        4.4101057052612305,
+        2.1416163444519043
+      ],
+      "rotation": [
+        1.2622483968734741,
+        3.883123156356305e-09,
+        3.0219547748565674
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        -3.688828706741333,
+        0.8954870104789734,
+        4.40450382232666
+      ],
+      "rotation": [
+        0.795441210269928,
+        -7.61416316663599e-08,
+        -1.8258308172225952
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": null,
+  "floor_hidden": false,
+  "diagnostic_only": false
+}

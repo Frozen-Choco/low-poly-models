@@ -1,0 +1,179 @@
+{
+  "research_date": "2026-10-16",
+  "reference_evidence_root": "../reviews/batch07a/reference",
+  "reference_image_sha256": {
+    "4550512963073_03.jpg": "489a1de4af8a60f9ea99b282c5d93cf4fe336d810576e52802adc83e811e425d",
+    "4550512963073_01.jpg": "4ea7e27cb181bc30cd939aa8345d6485f43358537a7d9739f75a3fe18eeea5ca",
+    "4550002882761_01.jpg": "66c154e259c33731c8303084dd41cb3502dc5537cde733b37adae67226d5fa46",
+    "ladle.jpg": "422b0c5eb88cac826f07005ba09182973fe3cbacf09c7ce62d108e9c79a3d9f2",
+    "4550002882761_02.jpg": "a18f9164f9df09e3862eaaddcbed7229567b560c4fc1d4d73680c3ad90002ea3",
+    "spatula.jpg": "9eb0179c7176ea2ce08a31a59c549ad50bed7cf0169e03295c485260e6ad7eb4",
+    "4550512963073_02.jpg": "6bd6a2083a47fef86e21099541ce7aea76a2fda8982b477de8225e415c4d46c7",
+    "colander.jpg": "b6c34bc3311b88f7d11f6a7033292a87b899f69127a6d3f86f1bebb878e8f413"
+  },
+  "assets": {
+    "stainless_perforated_colander": {
+      "references": [
+        "https://yanagi-design.or.jp/catalog/4163/"
+      ],
+      "source_dimensions_m": [
+        0.238,
+        0.238,
+        0.086
+      ],
+      "inferred": [
+        "0.55mm sheet gauge",
+        "2.7mm perforations on6mm developed hex pitch",
+        "Generic unfolded bowl curvature; no brand tracing"
+      ],
+      "hole_count": 2233,
+      "id": "stainless_perforated_colander",
+      "revision": 2,
+      "dimensions_m": [
+        0.23800000548362732,
+        0.23800000548362732,
+        0.08470039069652557
+      ],
+      "bounds_min": [
+        -0.11900000274181366,
+        -0.11900000274181366,
+        0.0
+      ],
+      "bounds_max": [
+        0.11900000274181366,
+        0.11900000274181366,
+        0.08470039069652557
+      ],
+      "triangles": 125072,
+      "mesh_objects": 1,
+      "units": "meter",
+      "up_axis_blend": "Z",
+      "up_axis_glb": "Y",
+      "photography_status": "Not authorized; independent gate pending",
+      "files": {
+        "blend": {
+          "bytes": 2788257,
+          "sha256": "81a201dfb730219a429e4d4c1974ce095b55ea0c7d8d9a69dd231b14f61d488a"
+        },
+        "glb": {
+          "bytes": 4197512,
+          "sha256": "b93b5b057140061dd04c00a0634ae9100f90c468dba1ad648edf171928e2c017"
+        }
+      },
+      "title_ja": "ざる"
+    },
+    "stainless_ladle": {
+      "references": [
+        "https://www.muji.com/sg/products/cmdty/detail/4550002882761"
+      ],
+      "source_length_m": 0.27,
+      "inferred": [
+        "0.9mm gauge",
+        "74mm bowl width and24mm depth",
+        "13mm grip and6mm hook bend radius",
+        "Resting table pose, not upright unsupported pose"
+      ],
+      "id": "stainless_ladle",
+      "revision": 5,
+      "dimensions_m": [
+        0.07579927891492844,
+        0.25825916056055576,
+        0.07582569122314453
+      ],
+      "bounds_min": [
+        -0.03789963945746422,
+        -0.25712794065475464,
+        0.0
+      ],
+      "bounds_max": [
+        0.03789963945746422,
+        0.0011312199058011174,
+        0.07582569122314453
+      ],
+      "triangles": 13172,
+      "mesh_objects": 1,
+      "units": "meter",
+      "up_axis_blend": "Z",
+      "up_axis_glb": "Y",
+      "photography_status": "Independent saved geometry and cheap-view gate passed; canonical photography awaits parent authorization.",
+      "files": {
+        "blend": {
+          "bytes": 284127,
+          "sha256": "5f765de78e29a387274e571f34017b3ee3a0d250fb8376c0d8a42e5e26b49e29"
+        },
+        "glb": {
+          "bytes": 238584,
+          "sha256": "e391824379ed009735dd8a5575cff53235133b534b714073d9907d33ed363882"
+        }
+      },
+      "structural_approval": "../../../reviews/batch07a/revision_gate/approval.json",
+      "title_ja": "お玉"
+    },
+    "wood_cooking_spatula": {
+      "references": [
+        "https://www.muji.com/sg/products/cmdty/detail/4550512963073"
+      ],
+      "source_dimensions_m": [
+        0.07,
+        0.012,
+        0.29
+      ],
+      "inferred": [
+        "8mm hanging hole",
+        "Paddle curve and tip taper",
+        "Subtle original generic rubberwood grain, not a photographic replica"
+      ],
+      "id": "wood_cooking_spatula",
+      "revision": 5,
+      "dimensions_m": [
+        0.06999720260500908,
+        0.29004621505737305,
+        0.012216920033097267
+      ],
+      "bounds_min": [
+        -0.035040222108364105,
+        -0.1450670212507248,
+        0.0
+      ],
+      "bounds_max": [
+        0.034956980496644974,
+        0.14497919380664825,
+        0.012216920033097267
+      ],
+      "triangles": 11860,
+      "mesh_objects": 1,
+      "units": "meter",
+      "up_axis_blend": "Z",
+      "up_axis_glb": "Y",
+      "photography_status": "Not authorized; independent gate pending",
+      "files": {
+        "blend": {
+          "bytes": 1002387,
+          "sha256": "9308b8c7c1c22630b9e33ff3b531241590c6be23c8f0d4b831221edd5244fa6c"
+        },
+        "glb": {
+          "bytes": 881536,
+          "sha256": "f361a45154afd0313aa772e7ab6aeb12a5b9b59b8fc3815de6d690f71d254b1e"
+        }
+      },
+      "title_ja": "木べら"
+    }
+  },
+  "canonical_core_unchanged": {
+    "render.py": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+    "standard.json": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa"
+  },
+  "build_software": {
+    "blender": "4.3.2",
+    "scipy": "1.15.3",
+    "python_dependencies": [
+      "numpy",
+      "Pillow"
+    ]
+  },
+  "delivery_orientation": "Ladle cavity faces-Y after whole-object180degree rotation; all assets Z=0 lowest support.",
+  "surface_corrections": {
+    "stainless_perforated_colander": "60degree sharp face boundaries separate punched bore normals from smooth bowl/rim; no geometry/material change",
+    "wood_cooking_spatula": "Removed imported Boolean UV map; sole active longitudinal UV now binds original packed albedo correctly"
+  }
+}

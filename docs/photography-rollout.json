@@ -27,7 +27,15 @@
     "wooden_cutting_board",
     "round_wooden_stool",
     "plastic_bail_bucket",
-    "wall_clock"
+    "wall_clock",
+    "outdoor_ac_condenser",
+    "roadside_convex_mirror",
+    "street_drain_grate",
+    "stainless_ladle",
+    "stainless_perforated_colander",
+    "wood_cooking_spatula",
+    "city_bicycle",
+    "folding_platform_handcart"
   ],
   "pending_assets": [],
   "scope": "Current canonical asset photographs only; historical generator evidence retained."

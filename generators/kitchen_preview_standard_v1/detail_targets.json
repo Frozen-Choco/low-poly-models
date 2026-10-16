@@ -1,0 +1,120 @@
+{
+  "stainless_ladle": {
+    "close_up": {
+      "direction": [
+        2,
+        -3,
+        2
+      ],
+      "target_m": [
+        0,
+        -0.016,
+        0.036
+      ],
+      "span_m": 0.11,
+      "purpose": "Open liquid-holding bowl and continuous flared neck"
+    },
+    "hook_detail": {
+      "direction": [
+        3,
+        0,
+        0.5
+      ],
+      "target_m": [
+        0,
+        -0.25,
+        0.012
+      ],
+      "span_m": 0.07,
+      "purpose": "True returned hanging hook throat and sheet thickness"
+    },
+    "underside_detail": {
+      "direction": [
+        1,
+        1,
+        -2
+      ],
+      "target_m": [
+        0,
+        -0.015,
+        0.03
+      ],
+      "span_m": 0.12,
+      "purpose": "Continuous exterior cup and neck support"
+    }
+  },
+  "stainless_perforated_colander": {
+    "close_up": {
+      "direction": [
+        2,
+        -2,
+        2
+      ],
+      "target_m": [
+        0.065,
+        -0.065,
+        0.045
+      ],
+      "span_m": 0.12,
+      "purpose": "True punched holes, smooth sheet and integral rolled lip"
+    },
+    "underside_detail": {
+      "direction": [
+        1,
+        -1,
+        -3
+      ],
+      "target_m": [
+        0,
+        0,
+        0.006
+      ],
+      "span_m": 0.13,
+      "purpose": "Perforated flat base and drainage transition"
+    }
+  },
+  "wood_cooking_spatula": {
+    "close_up": {
+      "direction": [
+        2,
+        -2,
+        0.5
+      ],
+      "target_m": [
+        0,
+        -0.11,
+        0.005
+      ],
+      "span_m": 0.09,
+      "purpose": "Thin scraping edge and natural subtle rubberwood grain"
+    },
+    "hanging_detail": {
+      "direction": [
+        1,
+        -1,
+        3
+      ],
+      "target_m": [
+        0,
+        0.13,
+        0.007
+      ],
+      "span_m": 0.04,
+      "purpose": "True hanging bore and rounded rectangular handle cap"
+    },
+    "underside_detail": {
+      "direction": [
+        1,
+        -1,
+        -3
+      ],
+      "target_m": [
+        0,
+        -0.09,
+        0.005
+      ],
+      "span_m": 0.12,
+      "purpose": "Smooth solid wood underside and tapered paddle"
+    }
+  }
+}

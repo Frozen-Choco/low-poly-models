@@ -1271,5 +1271,372 @@
     ],
     "glb_sha256": "5f6d2b19e3a59bfb5bf6eb602c9cddb2561ee9939ae7095666b14eb75947dbbe",
     "blend_sha256": "f2bf9743b42f6ec63e019efe5c4a952c0eb6663de4b289d736eeebb86585916f"
+  },
+  {
+    "id": "outdoor_ac_condenser",
+    "title_ja": "室外機",
+    "category": "exterior",
+    "units": "meters",
+    "triangles": 44932,
+    "dimensions_m": [
+      0.878000020980835,
+      0.6440000236034393,
+      0.6559999585151672
+    ],
+    "asset_path": "assets/exterior/outdoor_ac_condenser",
+    "review_status": "approved",
+    "independent_review": {
+      "technical_status": "approved",
+      "scope": "Static visual diorama asset; bounded geometry checks, not engineering certification",
+      "report": "reviews/reviewed_eight/exterior_final_approval.json",
+      "report_sha256": "fe69dbaea167d5586233c9be16ac516b092b2e123cd06908027a98fdaf0b16f4",
+      "path_base": "repository root",
+      "source_package_manifest_sha256": "aa2429348834d2b3882ae447abb98188f210c968641fc51fdeaf5d1ce5798747"
+    },
+    "blend_bytes": 326993,
+    "blend_sha256": "c5ce6880d446524ffe37e51e0a1ab4e3691513b251746ddab9f4563d77d8484a",
+    "glb_bytes": 1841464,
+    "glb_sha256": "5282d8b036aa185dc1e975b899f59a56bbd0c0df96526cb9e6b52c35a92119ce",
+    "photography": {
+      "standard": "preview_standard_v1",
+      "resolution": [
+        1200,
+        1200
+      ],
+      "views": [
+        "alternate_light",
+        "back",
+        "close_up",
+        "preview",
+        "service_detail",
+        "side",
+        "underside"
+      ],
+      "relocation": "docs/reviewed-eight-relocation.json"
+    }
+  },
+  {
+    "id": "roadside_convex_mirror",
+    "title_ja": "カーブミラー",
+    "category": "exterior",
+    "units": "meters",
+    "triangles": 15008,
+    "dimensions_m": [
+      0.6240000128746033,
+      0.3749999850988388,
+      2.9119999408721924
+    ],
+    "asset_path": "assets/exterior/roadside_convex_mirror",
+    "review_status": "approved",
+    "independent_review": {
+      "technical_status": "approved",
+      "scope": "Static visual diorama asset; bounded geometry checks, not engineering certification",
+      "report": "reviews/reviewed_eight/exterior_final_approval.json",
+      "report_sha256": "fe69dbaea167d5586233c9be16ac516b092b2e123cd06908027a98fdaf0b16f4",
+      "path_base": "repository root",
+      "source_package_manifest_sha256": "aa2429348834d2b3882ae447abb98188f210c968641fc51fdeaf5d1ce5798747"
+    },
+    "blend_bytes": 273397,
+    "blend_sha256": "c92f640b579af793b537870422b2a4dc9de3c50a55ae893b741b47a49a356e0b",
+    "glb_bytes": 429724,
+    "glb_sha256": "b27e36c54a446f4628faa7283b3cc075d908b18a709c803b15857d135f9efabf",
+    "photography": {
+      "standard": "preview_standard_v1",
+      "resolution": [
+        1200,
+        1200
+      ],
+      "views": [
+        "alternate_light",
+        "back",
+        "bracket_detail",
+        "close_up",
+        "preview",
+        "side",
+        "underside"
+      ],
+      "relocation": "docs/reviewed-eight-relocation.json"
+    }
+  },
+  {
+    "id": "street_drain_grate",
+    "title_ja": "グレーチング",
+    "category": "exterior",
+    "units": "meters",
+    "triangles": 25980,
+    "dimensions_m": [
+      0.6299999952316284,
+      0.4300000071525574,
+      0.03799999877810478
+    ],
+    "asset_path": "assets/exterior/street_drain_grate",
+    "review_status": "approved",
+    "independent_review": {
+      "technical_status": "approved",
+      "scope": "Static visual diorama asset; bounded geometry checks, not engineering certification",
+      "report": "reviews/reviewed_eight/exterior_final_approval.json",
+      "report_sha256": "fe69dbaea167d5586233c9be16ac516b092b2e123cd06908027a98fdaf0b16f4",
+      "path_base": "repository root",
+      "source_package_manifest_sha256": "aa2429348834d2b3882ae447abb98188f210c968641fc51fdeaf5d1ce5798747"
+    },
+    "blend_bytes": 588688,
+    "blend_sha256": "5e00805f8ba6a9b272f389e8229d02cb51dc908a7be859b9f0aea76635abacec",
+    "glb_bytes": 1439716,
+    "glb_sha256": "aa6512473410997360453f5b91ca2888ae3230f2b924a73295f507d935a7c704",
+    "photography": {
+      "standard": "preview_standard_v1",
+      "resolution": [
+        1200,
+        1200
+      ],
+      "views": [
+        "alternate_light",
+        "back",
+        "close_up",
+        "preview",
+        "side",
+        "underside"
+      ],
+      "relocation": "docs/reviewed-eight-relocation.json"
+    }
+  },
+  {
+    "id": "stainless_ladle",
+    "title_ja": "お玉",
+    "category": "kitchen",
+    "units": "meter",
+    "triangles": 13172,
+    "dimensions_m": [
+      0.07579927891492844,
+      0.25825916056055576,
+      0.07582569122314453
+    ],
+    "asset_path": "assets/kitchen/stainless_ladle",
+    "review_status": "approved",
+    "independent_review": {
+      "technical_status": "approved",
+      "scope": "Static visual diorama asset; bounded geometry checks, not engineering certification",
+      "report": "reviews/reviewed_eight/kitchen_package_acceptance.json",
+      "report_sha256": "c4c21310ea3165788610ee2e15952e706613c6ea1e732bd9280798c59bb438c6",
+      "path_base": "repository root",
+      "source_package_manifest_sha256": "6a947eeaedbce2bc515b71e472c366501ef255e9bf846a645f578fd29ed34262"
+    },
+    "blend_bytes": 284127,
+    "blend_sha256": "5f765de78e29a387274e571f34017b3ee3a0d250fb8376c0d8a42e5e26b49e29",
+    "glb_bytes": 238584,
+    "glb_sha256": "e391824379ed009735dd8a5575cff53235133b534b714073d9907d33ed363882",
+    "photography": {
+      "standard": "preview_standard_v1",
+      "resolution": [
+        1200,
+        1200
+      ],
+      "views": [
+        "alternate_light",
+        "back",
+        "close_up",
+        "front",
+        "hook_detail",
+        "left",
+        "preview",
+        "rear",
+        "side",
+        "top",
+        "underside",
+        "underside_detail"
+      ],
+      "relocation": "docs/reviewed-eight-relocation.json"
+    }
+  },
+  {
+    "id": "stainless_perforated_colander",
+    "title_ja": "ざる",
+    "category": "kitchen",
+    "units": "meter",
+    "triangles": 125072,
+    "dimensions_m": [
+      0.23800000548362732,
+      0.23800000548362732,
+      0.08470039069652557
+    ],
+    "asset_path": "assets/kitchen/stainless_perforated_colander",
+    "review_status": "approved",
+    "independent_review": {
+      "technical_status": "approved",
+      "scope": "Static visual diorama asset; bounded geometry checks, not engineering certification",
+      "report": "reviews/reviewed_eight/kitchen_package_acceptance.json",
+      "report_sha256": "c4c21310ea3165788610ee2e15952e706613c6ea1e732bd9280798c59bb438c6",
+      "path_base": "repository root",
+      "source_package_manifest_sha256": "6a947eeaedbce2bc515b71e472c366501ef255e9bf846a645f578fd29ed34262"
+    },
+    "blend_bytes": 2788257,
+    "blend_sha256": "81a201dfb730219a429e4d4c1974ce095b55ea0c7d8d9a69dd231b14f61d488a",
+    "glb_bytes": 4197512,
+    "glb_sha256": "b93b5b057140061dd04c00a0634ae9100f90c468dba1ad648edf171928e2c017",
+    "photography": {
+      "standard": "preview_standard_v1",
+      "resolution": [
+        1200,
+        1200
+      ],
+      "views": [
+        "alternate_light",
+        "back",
+        "close_up",
+        "front",
+        "left",
+        "preview",
+        "rear",
+        "side",
+        "top",
+        "underside",
+        "underside_detail"
+      ],
+      "relocation": "docs/reviewed-eight-relocation.json"
+    }
+  },
+  {
+    "id": "wood_cooking_spatula",
+    "title_ja": "木べら",
+    "category": "kitchen",
+    "units": "meter",
+    "triangles": 11860,
+    "dimensions_m": [
+      0.06999720260500908,
+      0.29004621505737305,
+      0.012216920033097267
+    ],
+    "asset_path": "assets/kitchen/wood_cooking_spatula",
+    "review_status": "approved",
+    "independent_review": {
+      "technical_status": "approved",
+      "scope": "Static visual diorama asset; bounded geometry checks, not engineering certification",
+      "report": "reviews/reviewed_eight/kitchen_package_acceptance.json",
+      "report_sha256": "c4c21310ea3165788610ee2e15952e706613c6ea1e732bd9280798c59bb438c6",
+      "path_base": "repository root",
+      "source_package_manifest_sha256": "6a947eeaedbce2bc515b71e472c366501ef255e9bf846a645f578fd29ed34262"
+    },
+    "blend_bytes": 1002387,
+    "blend_sha256": "9308b8c7c1c22630b9e33ff3b531241590c6be23c8f0d4b831221edd5244fa6c",
+    "glb_bytes": 881536,
+    "glb_sha256": "f361a45154afd0313aa772e7ab6aeb12a5b9b59b8fc3815de6d690f71d254b1e",
+    "photography": {
+      "standard": "preview_standard_v1",
+      "resolution": [
+        1200,
+        1200
+      ],
+      "views": [
+        "alternate_light",
+        "back",
+        "close_up",
+        "front",
+        "hanging_detail",
+        "left",
+        "preview",
+        "rear",
+        "side",
+        "top",
+        "underside",
+        "underside_detail"
+      ],
+      "relocation": "docs/reviewed-eight-relocation.json"
+    }
+  },
+  {
+    "id": "city_bicycle",
+    "title_ja": "自転車",
+    "category": "vehicles",
+    "units": "metres",
+    "triangles": 84500,
+    "dimensions_m": [
+      0.5760535597801208,
+      1.8628753423690796,
+      1.0660368204116821
+    ],
+    "asset_path": "assets/vehicles/city_bicycle",
+    "review_status": "approved",
+    "independent_review": {
+      "technical_status": "approved",
+      "scope": "Static visual diorama asset; bounded geometry checks, not engineering certification",
+      "report": "generators/transport_batch06a/independent_review/city_bicycle/canonical/bicycle_final_review.md",
+      "report_sha256": "216cdd933b1ae08ffa7cd2a28b9190ef1bb01ea31210208af9b80f5692d7b9d5",
+      "path_base": "repository root",
+      "source_package_manifest_sha256": "0c46c47600cc2a340ba2b50c23973a6a39c26763e8908e50960a610eb9b07455"
+    },
+    "blend_bytes": 6054520,
+    "blend_sha256": "2ff20d1a2ecb22ec08582b8f65c80d3a89606891bfa9cbbcfc8bec71b3af9c6b",
+    "glb_bytes": 2801792,
+    "glb_sha256": "81d041e09a867838f1ca844935f4d7d3cdd5061fd4d99c591a8e47f2fa716cbd",
+    "photography": {
+      "standard": "preview_standard_v1",
+      "resolution": [
+        1200,
+        1200
+      ],
+      "views": [
+        "alternate_light",
+        "back",
+        "close_up",
+        "drivetrain_detail",
+        "front",
+        "left",
+        "preview",
+        "rear",
+        "side",
+        "top",
+        "underside",
+        "underside_detail"
+      ],
+      "relocation": "docs/reviewed-eight-relocation.json"
+    }
+  },
+  {
+    "id": "folding_platform_handcart",
+    "title_ja": "台車",
+    "category": "vehicles",
+    "units": "metres",
+    "triangles": 45440,
+    "dimensions_m": [
+      0.49000000953674316,
+      0.7300000190734863,
+      0.8899999856948853
+    ],
+    "asset_path": "assets/vehicles/folding_platform_handcart",
+    "review_status": "approved",
+    "independent_review": {
+      "technical_status": "approved",
+      "scope": "Static visual diorama asset; bounded geometry checks, not engineering certification",
+      "report": "generators/transport_batch06a/independent_review/folding_platform_handcart/canonical/cart_final_review.md",
+      "report_sha256": "230a0718bd6b21a70b3f391bfd00b12c8514663fdb91b37cd70f180bb247865b",
+      "path_base": "repository root",
+      "source_package_manifest_sha256": "0c46c47600cc2a340ba2b50c23973a6a39c26763e8908e50960a610eb9b07455"
+    },
+    "blend_bytes": 3710744,
+    "blend_sha256": "f4af4cc5334799b3801967d04f76734d99a710cc3eafac1ede8503f3ba651f22",
+    "glb_bytes": 1939208,
+    "glb_sha256": "1bc50047268f503b979d48c4914555185fd79b661204add44e955e48a2b57ec3",
+    "photography": {
+      "standard": "preview_standard_v1",
+      "resolution": [
+        1200,
+        1200
+      ],
+      "views": [
+        "alternate_light",
+        "back",
+        "caster_detail",
+        "close_up",
+        "front",
+        "left",
+        "preview",
+        "rear",
+        "side",
+        "top",
+        "underside",
+        "underside_detail"
+      ],
+      "relocation": "docs/reviewed-eight-relocation.json"
+    }
   }
 ]

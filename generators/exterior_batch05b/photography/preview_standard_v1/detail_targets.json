@@ -1,0 +1,73 @@
+{
+  "roadside_convex_mirror": {
+    "close_up": {
+      "direction": [
+        0.3,
+        -1,
+        0.2
+      ],
+      "target_m": [
+        0,
+        0,
+        2.6
+      ],
+      "span_m": 0.7
+    },
+    "bracket_detail": {
+      "direction": [
+        0.7,
+        1,
+        0.3
+      ],
+      "target_m": [
+        0,
+        0.09,
+        2.6
+      ],
+      "span_m": 0.42
+    }
+  },
+  "outdoor_ac_condenser": {
+    "close_up": {
+      "direction": [
+        0.2,
+        -1,
+        0.2
+      ],
+      "target_m": [
+        -0.11,
+        -0.15,
+        0.38
+      ],
+      "span_m": 0.49
+    },
+    "service_detail": {
+      "direction": [
+        1,
+        0.5,
+        0.4
+      ],
+      "target_m": [
+        0.4,
+        0.17,
+        0.27
+      ],
+      "span_m": 0.4
+    }
+  },
+  "street_drain_grate": {
+    "close_up": {
+      "direction": [
+        0.5,
+        -0.8,
+        1
+      ],
+      "target_m": [
+        0.2,
+        0.14,
+        0.025
+      ],
+      "span_m": 0.24
+    }
+  }
+}

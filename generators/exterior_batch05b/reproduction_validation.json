@@ -1,0 +1,16 @@
+{
+  "relocated_source": true,
+  "explicit_output_root": "temporary clean output layout",
+  "only_assets": "street_drain_grate",
+  "only_requested_asset": true,
+  "exact_glb_reproduced": true,
+  "original_sha256": "aa6512473410997360453f5b91ca2888ae3230f2b924a73295f507d935a7c704",
+  "reproduced_sha256": "aa6512473410997360453f5b91ca2888ae3230f2b924a73295f507d935a7c704",
+  "corrected_ac_relocated_reproduction": {
+    "only_requested_asset": true,
+    "exact_glb_reproduced": true,
+    "sha256": "5282d8b036aa185dc1e975b899f59a56bbd0c0df96526cb9e6b52c35a92119ce"
+  },
+  "source_sha256": "8fe3a332b83bec58c3f54f5f1168b5ab1aebb7c2b15b7c9b8fd0db2490a09fc9",
+  "geometry_revision": "Welded boundary-union grate"
+}

@@ -1,0 +1,76 @@
+{
+  "references": [
+    "https://www.muji.com/sg/products/cmdty/detail/4550512963073"
+  ],
+  "source_dimensions_m": [
+    0.07,
+    0.012,
+    0.29
+  ],
+  "inferred": [
+    "8mm hanging hole",
+    "Paddle curve and tip taper",
+    "Subtle original generic rubberwood grain, not a photographic replica"
+  ],
+  "id": "wood_cooking_spatula",
+  "revision": 5,
+  "dimensions_m": [
+    0.06999720260500908,
+    0.29004621505737305,
+    0.012216920033097267
+  ],
+  "bounds_min": [
+    -0.035040222108364105,
+    -0.1450670212507248,
+    0.0
+  ],
+  "bounds_max": [
+    0.034956980496644974,
+    0.14497919380664825,
+    0.012216920033097267
+  ],
+  "triangles": 11860,
+  "mesh_objects": 1,
+  "units": "meter",
+  "up_axis_blend": "Z",
+  "up_axis_glb": "Y",
+  "files": {
+    "blend": {
+      "bytes": 1002387,
+      "sha256": "9308b8c7c1c22630b9e33ff3b531241590c6be23c8f0d4b831221edd5244fa6c"
+    },
+    "glb": {
+      "bytes": 881536,
+      "sha256": "f361a45154afd0313aa772e7ab6aeb12a5b9b59b8fc3815de6d690f71d254b1e"
+    }
+  },
+  "title_ja": "木べら",
+  "structural_approval": "../../../generators/kitchen_batch07a/independent_geometry_review/approval.json",
+  "photography": {
+    "standard": "preview_standard_v1",
+    "status": "Canonical photographs independently reviewed; exact delivered bytes verified",
+    "views": [
+      "preview",
+      "back",
+      "front",
+      "rear",
+      "side",
+      "left",
+      "top",
+      "underside",
+      "close_up",
+      "underside_detail",
+      "alternate_light",
+      "hanging_detail"
+    ],
+    "records": "../../../generators/kitchen_preview_standard_v1/records/wood_cooking_spatula"
+  },
+  "independent_review": {
+    "technical_status": "approved",
+    "scope": "Static visual diorama asset; bounded geometry checks, not engineering certification",
+    "report": "reviews/reviewed_eight/kitchen_package_acceptance.json",
+    "report_sha256": "c4c21310ea3165788610ee2e15952e706613c6ea1e732bd9280798c59bb438c6",
+    "path_base": "repository root",
+    "source_package_manifest_sha256": "6a947eeaedbce2bc515b71e472c366501ef255e9bf846a645f578fd29ed34262"
+  }
+}

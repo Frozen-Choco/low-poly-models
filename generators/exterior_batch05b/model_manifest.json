@@ -1,0 +1,29 @@
+{
+  "files": {
+    "assets/outdoor_ac_condenser/outdoor_ac_condenser.blend": {
+      "bytes": 326993,
+      "sha256": "c5ce6880d446524ffe37e51e0a1ab4e3691513b251746ddab9f4563d77d8484a"
+    },
+    "assets/outdoor_ac_condenser/outdoor_ac_condenser.glb": {
+      "bytes": 1841464,
+      "sha256": "5282d8b036aa185dc1e975b899f59a56bbd0c0df96526cb9e6b52c35a92119ce"
+    },
+    "assets/roadside_convex_mirror/roadside_convex_mirror.blend": {
+      "bytes": 273397,
+      "sha256": "c92f640b579af793b537870422b2a4dc9de3c50a55ae893b741b47a49a356e0b"
+    },
+    "assets/roadside_convex_mirror/roadside_convex_mirror.glb": {
+      "bytes": 429724,
+      "sha256": "b27e36c54a446f4628faa7283b3cc075d908b18a709c803b15857d135f9efabf"
+    },
+    "assets/street_drain_grate/street_drain_grate.blend": {
+      "bytes": 588688,
+      "sha256": "5e00805f8ba6a9b272f389e8229d02cb51dc908a7be859b9f0aea76635abacec"
+    },
+    "assets/street_drain_grate/street_drain_grate.glb": {
+      "bytes": 1439716,
+      "sha256": "aa6512473410997360453f5b91ca2888ae3230f2b924a73295f507d935a7c704"
+    }
+  },
+  "freeze_status": "Geometry independently reviewed; no subsequent model edits permitted without re-review"
+}

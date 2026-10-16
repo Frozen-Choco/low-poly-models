@@ -1,0 +1,111 @@
+{
+  "asset": "stainless_ladle",
+  "view": "close_up",
+  "input_repo_path": "assets/stainless_ladle/stainless_ladle.glb",
+  "input_sha256": "e391824379ed009735dd8a5575cff53235133b534b714073d9907d33ed363882",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "4ce26f2460958965b7da507713a375fded85f72ddc98fc806f920131f113af77",
+  "closeup_magnification_vs_full_fit": 1.5336599101481867,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch07a/generators/preview_standard_v1/repo/assets/stainless_ladle/close_up.jpg",
+  "output_sha256": "0d1be451f734d4ddc5d80223b70a7797d67b06b1742f82be1073cc453928bbd2",
+  "bytes": 141622,
+  "elapsed_seconds": 921.6003021880006,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 7.744159384444881,
+  "source_bounds": [
+    [
+      -0.03789963945746422,
+      -0.25712794065475464,
+      0.0
+    ],
+    [
+      0.03789963945746422,
+      0.0011312199058011174,
+      0.07582569122314453
+    ]
+  ],
+  "camera_location": [
+    4.850712776184082,
+    -6.408735275268555,
+    5.129502296447754
+  ],
+  "camera_rotation": [
+    1.0643516778945923,
+    6.303528365947386e-09,
+    0.5880027413368225
+  ],
+  "ortho_scale": 1.0648219585418701,
+  "focus": {
+    "direction": [
+      2,
+      -3,
+      2
+    ],
+    "target_m": [
+      0,
+      -0.016,
+      0.036
+    ],
+    "span_m": 0.11,
+    "purpose": "Open liquid-holding bowl and continuous flared neck"
+  },
+  "focus_projected_width_height": [
+    1.3064597994089127,
+    1.2560911774635315
+  ],
+  "full_object_fit": false,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        -3.8191897869110107,
+        -3.194498300552368,
+        5.022149085998535
+      ],
+      "rotation": [
+        0.8560353517532349,
+        6.698804355664834e-08,
+        -0.8713497519493103
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        3.6716413497924805,
+        -1.6831963062286377,
+        3.123883008956909
+      ],
+      "rotation": [
+        1.0315898656845093,
+        5.836231053990559e-09,
+        1.139081597328186
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        1.6927552223205566,
+        3.834641456604004,
+        3.9223058223724365
+      ],
+      "rotation": [
+        0.9144747853279114,
+        -1.287486099954549e-07,
+        2.7229716777801514
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": null,
+  "floor_hidden": false,
+  "diagnostic_only": false
+}

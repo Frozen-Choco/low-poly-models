@@ -1,0 +1,92 @@
+{
+  "city_bicycle": {
+    "close_up": {
+      "direction": [
+        1,
+        -1,
+        0.5
+      ],
+      "mesh_name_contains": [
+        "Fork crown",
+        "Front caliper",
+        "Head tube",
+        "Continuous fork steerer",
+        "Handlebar",
+        "Brake lever"
+      ],
+      "purpose": "Steering, crown brake and controls"
+    },
+    "drivetrain_detail": {
+      "direction": [
+        1,
+        0.1,
+        0.15
+      ],
+      "target_m": [
+        0.08,
+        0.25,
+        0.35
+      ],
+      "span_m": 0.8,
+      "purpose": "Chaincase, cranks and parked support"
+    },
+    "underside_detail": {
+      "direction": [
+        1,
+        0.2,
+        -0.8
+      ],
+      "target_m": [
+        0,
+        0.3,
+        0.23
+      ],
+      "span_m": 0.85,
+      "purpose": "Pedals, bottom bracket and paired stand"
+    }
+  },
+  "folding_platform_handcart": {
+    "close_up": {
+      "direction": [
+        1,
+        -1,
+        0.65
+      ],
+      "target_m": [
+        0.183,
+        0.3,
+        0.225
+      ],
+      "span_m": 0.22,
+      "purpose": "Open lock slot, upper pivot, release bar and deck socket"
+    },
+    "caster_detail": {
+      "direction": [
+        1,
+        -1,
+        0.4
+      ],
+      "target_m": [
+        0.177,
+        -0.25,
+        0.07
+      ],
+      "span_m": 0.23,
+      "purpose": "Swivel kingpin, supported axle and ground-contact tire"
+    },
+    "underside_detail": {
+      "direction": [
+        1,
+        -1,
+        -1
+      ],
+      "target_m": [
+        0,
+        0,
+        0.1
+      ],
+      "span_m": 0.85,
+      "purpose": "Underdeck ribs and fixed/swivel caster construction"
+    }
+  }
+}

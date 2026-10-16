@@ -1,0 +1,66 @@
+{
+  "manifest_errors": [],
+  "extras": [],
+  "checks": [
+    {
+      "view": "preview",
+      "pass": true,
+      "image_sha256": "12bd62880400d131bc1b1a9ad77aa69c909410cbc6da4b0c875b367c00f0275e"
+    },
+    {
+      "view": "back",
+      "pass": true,
+      "image_sha256": "1fc0a7232e95fea7e4f6c38d106d664a268ff08f40ba6d7deb0aa89eb9020a7d"
+    },
+    {
+      "view": "front",
+      "pass": true,
+      "image_sha256": "e38940ce333c01739d48b2688fd7e835e94d7c895c53b8a29547c5115d0f6f9a"
+    },
+    {
+      "view": "rear",
+      "pass": true,
+      "image_sha256": "94023fdf9e496381128e1bc79a2005a37396e50bee7bfeae19f0991de1ca3c6b"
+    },
+    {
+      "view": "side",
+      "pass": true,
+      "image_sha256": "0b497b976b7575131583d3c389f2e7e28bd825a8047a516c374bd11aea5077e2"
+    },
+    {
+      "view": "left",
+      "pass": true,
+      "image_sha256": "754b663cbc83e5de68017fac65a2cc5db538c33312702894f76a78335001905c"
+    },
+    {
+      "view": "top",
+      "pass": true,
+      "image_sha256": "6d32df5ed17e4cc97b109f9a12861357a23cfd0220ca36e0a7c4c96fa28831a8"
+    },
+    {
+      "view": "underside",
+      "pass": true,
+      "image_sha256": "02303f0ff18aeb6e895094928b5c78d702c224ac8a69bd6d1578dc14fd5db433"
+    },
+    {
+      "view": "close_up",
+      "pass": true,
+      "image_sha256": "eac51bbf1cb4244af93d1f5fdcaa646786e0cec311cb2930cd84a61107b4c784"
+    },
+    {
+      "view": "underside_detail",
+      "pass": true,
+      "image_sha256": "cef7216fe80734963b9c662d862ca58e7373d1c86ab58c6a6697d3e9b861fe47"
+    },
+    {
+      "view": "alternate_light",
+      "pass": true,
+      "image_sha256": "261c96fc7e1cc6c81107552704ea35d9b230a8c72eee984c1ba5941a55db1594"
+    },
+    {
+      "view": "drivetrain_detail",
+      "pass": true,
+      "image_sha256": "a70a9943e6ea9760cb689efc05970ef7ccfe4589f12ca471c6ec29345db16a91"
+    }
+  ]
+}

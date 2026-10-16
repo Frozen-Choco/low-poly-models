@@ -1,0 +1,39 @@
+{
+  "decision": "PASS",
+  "scope": "Exact lean local release candidate package acceptance; no publication",
+  "manifest_path": "lowpoly_batch07a/release_candidate/manifest.json",
+  "manifest_sha256": "6a947eeaedbce2bc515b71e472c366501ef255e9bf846a645f578fd29ed34262",
+  "payload_file_count": 99,
+  "total_files_including_manifest": 100,
+  "payload_bytes": 14259272,
+  "counts_by_extension": {
+    ".md": 4,
+    ".jpg": 35,
+    ".json": 50,
+    ".blend": 3,
+    ".glb": 3,
+    ".py": 4
+  },
+  "approved_model_count": 6,
+  "approved_canonical_images": 35,
+  "immutable_records": 35,
+  "checks": [
+    "Exact physical file set equals manifest allowlist plus manifest itself; every byte count and SHA256 verified",
+    "All6model hashes equal current independent saved-geometry approval",
+    "All35JPGs equal individually approved canonical bytes and decode RGB1200x1200",
+    "All35immutable render records equal reviewed hashes and relocation maps verify original and packaged model/image paths",
+    "Published renderer/settings and detail plan byte-identical; portable photography input pins valid",
+    "Catalog dimensions/triangles/view lists and per-asset metadata/hash/path links agree with independent saved audit",
+    "Only3nativeBlends+3GLBs; no redundant proof models,rawPNG,reference downloads,rejectedphotos,logs or cache files",
+    "Original source/configuration,reference links and bounded validation included; documented rebuild outputs separated from delivered assets",
+    "User-requested お玉 / ざる / 木べら verified consistently in catalog, per-asset metadata, design configuration and generator metadata output; IDs unchanged."
+  ],
+  "blocking_findings": [],
+  "publication_approved": false,
+  "candidate_modified_by_reviewer": false,
+  "display_names_verified": {
+    "stainless_ladle": "お玉",
+    "stainless_perforated_colander": "ざる",
+    "wood_cooking_spatula": "木べら"
+  }
+}

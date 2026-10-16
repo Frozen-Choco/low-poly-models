@@ -1,0 +1,313 @@
+{
+  "scope": "Minimal distribution; excludes reference downloads, duplicate proof Blend scenes and raw render intermediates",
+  "files": {
+    "README.md": {
+      "bytes": 1364,
+      "sha256": "9c5bc3d11999ce6efa94b42918f4f7d391ba0b39026127f670baa0a6947d29bf"
+    },
+    "assets/outdoor_ac_condenser/alternate_light.jpg": {
+      "bytes": 149220,
+      "sha256": "cef6a30c6b8640c1f28a568104c6bc1c25cec64845377c8835d8354d1751e9bb"
+    },
+    "assets/outdoor_ac_condenser/back.jpg": {
+      "bytes": 193852,
+      "sha256": "ed0c25bdf82580c4bcf47249019eb691ea47c02737ebc0f69d3785e7481e4f7d"
+    },
+    "assets/outdoor_ac_condenser/close_up.jpg": {
+      "bytes": 320929,
+      "sha256": "7a3dc299c49d763340ef93680b4adec0488261f480a5d1071c78ad23bcb35102"
+    },
+    "assets/outdoor_ac_condenser/metadata.json": {
+      "bytes": 2115,
+      "sha256": "f4c88f54c88de529945785233703e0a54c4fe50ff8c69a9026860148cdb05a9c"
+    },
+    "assets/outdoor_ac_condenser/outdoor_ac_condenser.blend": {
+      "bytes": 326993,
+      "sha256": "c5ce6880d446524ffe37e51e0a1ab4e3691513b251746ddab9f4563d77d8484a"
+    },
+    "assets/outdoor_ac_condenser/outdoor_ac_condenser.glb": {
+      "bytes": 1841464,
+      "sha256": "5282d8b036aa185dc1e975b899f59a56bbd0c0df96526cb9e6b52c35a92119ce"
+    },
+    "assets/outdoor_ac_condenser/preview.jpg": {
+      "bytes": 151619,
+      "sha256": "d3e89233d16343b2c0ddd86c08664efb30e1916b4c745354899c889fc63bd234"
+    },
+    "assets/outdoor_ac_condenser/service_detail.jpg": {
+      "bytes": 230875,
+      "sha256": "f4b1eabe40a93969c3f966d7995b10730b76ad79df6b212123092163c7968181"
+    },
+    "assets/outdoor_ac_condenser/side.jpg": {
+      "bytes": 87530,
+      "sha256": "39c42d0b53aa5a44aa57d5650d7492303e376522997b49af9decafd160ec18b9"
+    },
+    "assets/outdoor_ac_condenser/underside.jpg": {
+      "bytes": 69928,
+      "sha256": "ac356490900d06c4dcbad63fb1aefd1bf76f625e7f13a49037525e22a19b22e7"
+    },
+    "assets/roadside_convex_mirror/alternate_light.jpg": {
+      "bytes": 86988,
+      "sha256": "007f4da5a36d94520a52658fb9e3df1f658e3adae109fee9f040ae53757e0d8d"
+    },
+    "assets/roadside_convex_mirror/back.jpg": {
+      "bytes": 85324,
+      "sha256": "306156c758da244e10e4b8271941ecd9bdf87b2fa88edcc9c64b9212e1371033"
+    },
+    "assets/roadside_convex_mirror/bracket_detail.jpg": {
+      "bytes": 151691,
+      "sha256": "389124b6173b3a4ad7761e771fe88ae7c1d2be2c7cf212833148e1502b9efbde"
+    },
+    "assets/roadside_convex_mirror/close_up.jpg": {
+      "bytes": 148534,
+      "sha256": "e79b0db2cbef37b7835c2cc1cce242f5018506e2fa308321d06366364fceaa56"
+    },
+    "assets/roadside_convex_mirror/metadata.json": {
+      "bytes": 2069,
+      "sha256": "d0af67c7d354e135b4127b1c77a04d39a5dbb12a15a404a151722647e908df23"
+    },
+    "assets/roadside_convex_mirror/preview.jpg": {
+      "bytes": 83584,
+      "sha256": "4211e4f02b2fd7f37f0f0e52a6fe469f22839f933cae7719d822a1aedc02ea9e"
+    },
+    "assets/roadside_convex_mirror/roadside_convex_mirror.blend": {
+      "bytes": 273397,
+      "sha256": "c92f640b579af793b537870422b2a4dc9de3c50a55ae893b741b47a49a356e0b"
+    },
+    "assets/roadside_convex_mirror/roadside_convex_mirror.glb": {
+      "bytes": 429724,
+      "sha256": "b27e36c54a446f4628faa7283b3cc075d908b18a709c803b15857d135f9efabf"
+    },
+    "assets/roadside_convex_mirror/side.jpg": {
+      "bytes": 55461,
+      "sha256": "895c548606f341c002e80d2adc9019c5f7d2d6cfb077331dd6d436765162b4ee"
+    },
+    "assets/roadside_convex_mirror/underside.jpg": {
+      "bytes": 77329,
+      "sha256": "041fce39ded099e13d4cf4b7799613226f4d1820cb9a5cb0a4918eafc330b26f"
+    },
+    "assets/street_drain_grate/alternate_light.jpg": {
+      "bytes": 185447,
+      "sha256": "bbb6802ab29b843bb48b6d33ac885ef0c0cf1960defbc8d1e71aa185653345a1"
+    },
+    "assets/street_drain_grate/back.jpg": {
+      "bytes": 167246,
+      "sha256": "d555698eee7596738c0340e5d16c00219ec3d3dd6d57408f1f3d58ec08a06aab"
+    },
+    "assets/street_drain_grate/close_up.jpg": {
+      "bytes": 309669,
+      "sha256": "8d87e1a2d0f61a62a0f231b244b4d913f4b59e1b0dccb665997c48f0b9b92252"
+    },
+    "assets/street_drain_grate/metadata.json": {
+      "bytes": 2102,
+      "sha256": "5e64a09553659bc4d4afe6d6aa64d415427baac0c04b95b080f5a32ee13550a5"
+    },
+    "assets/street_drain_grate/preview.jpg": {
+      "bytes": 167354,
+      "sha256": "bb6e6a22abafaccb7f06c8df398b7b058ae15ea2a00c63b0b72b9e49a50345ba"
+    },
+    "assets/street_drain_grate/side.jpg": {
+      "bytes": 47260,
+      "sha256": "3c76059966c2e7d579a491ec9b9ab13b184622174fd1dea0e581c7f2765701ad"
+    },
+    "assets/street_drain_grate/street_drain_grate.blend": {
+      "bytes": 588688,
+      "sha256": "5e00805f8ba6a9b272f389e8229d02cb51dc908a7be859b9f0aea76635abacec"
+    },
+    "assets/street_drain_grate/street_drain_grate.glb": {
+      "bytes": 1439716,
+      "sha256": "aa6512473410997360453f5b91ca2888ae3230f2b924a73295f507d935a7c704"
+    },
+    "assets/street_drain_grate/underside.jpg": {
+      "bytes": 115440,
+      "sha256": "fb72172a67e10af0c32c63c5ec24b378b2e9585b5caf57724996a39cd39e59b6"
+    },
+    "catalog.json": {
+      "bytes": 6682,
+      "sha256": "5c51a0ef6336ae3d39b3d826e04bec87ef3a24d66599be61ca364bd57e296948"
+    },
+    "docs/asset-standard.md": {
+      "bytes": 5150,
+      "sha256": "5822e02dbc6705fa587905d3379235feb37fbe575183bc832f7e8d7fee8244da"
+    },
+    "docs/reference-and-use.md": {
+      "bytes": 8563,
+      "sha256": "41d34c789277c199a54a8e2a333b9554c66ca59438acfc20a7916fc3844818a2"
+    },
+    "geometry_validation.json": {
+      "bytes": 9780,
+      "sha256": "23050b8e02e905e80cee12e45abba36245ce2a2d516fccaa38240edac1b68c58"
+    },
+    "model_manifest.json": {
+      "bytes": 1187,
+      "sha256": "545dda77757cf7b9c9070fbcbf517b4945d96fa649481b4d73c57cfeee1ff62a"
+    },
+    "photography/README.md": {
+      "bytes": 1742,
+      "sha256": "5a27b564c626e003e6efa74ed1553c1657cd42ee219ac63fd53da7f4f3b875fe"
+    },
+    "photography/preview_standard_v1/batch_version.json": {
+      "bytes": 1043,
+      "sha256": "35d7001f846f540c3b2002d6044bdac766a4367d25c2a9d2e50a5b9245430e4f"
+    },
+    "photography/preview_standard_v1/detail_targets.json": {
+      "bytes": 1012,
+      "sha256": "4bb6b310d7d5433951aa1bd69ceb6a1104ac10284b2a05bceec510e164ff7a65"
+    },
+    "photography/preview_standard_v1/inputs.json": {
+      "bytes": 771,
+      "sha256": "fab9e36e72f48a0311f34b5b43700ccd434a8547fa6ba73f5cd3eab6cba636e4"
+    },
+    "photography/preview_standard_v1/records/outdoor_ac_condenser/alternate_light.json": {
+      "bytes": 2608,
+      "sha256": "ffc34d8180be3a893b45e377ceaba0876d3c44874dafd9f587f60e5b10c9b551"
+    },
+    "photography/preview_standard_v1/records/outdoor_ac_condenser/back.json": {
+      "bytes": 2595,
+      "sha256": "d151112829efb774346ed194d53aaaaf9709a33de36ae0aef8a40037eff99daa"
+    },
+    "photography/preview_standard_v1/records/outdoor_ac_condenser/close_up.json": {
+      "bytes": 2749,
+      "sha256": "8e69db8d2e1be6ec33ecdf0660d4af957ae2169a084183b2815719dcdb4d9193"
+    },
+    "photography/preview_standard_v1/records/outdoor_ac_condenser/preview.json": {
+      "bytes": 2618,
+      "sha256": "b7f49b2ca13fcfb9b675b82ef151e731a9e1f58b789c5f38203d9fc2caee99e5"
+    },
+    "photography/preview_standard_v1/records/outdoor_ac_condenser/service_detail.json": {
+      "bytes": 2758,
+      "sha256": "d9a27f445ab79fd1e89f4273a4042c9ae945e9d0823f736e103812ea5e89ca0d"
+    },
+    "photography/preview_standard_v1/records/outdoor_ac_condenser/side.json": {
+      "bytes": 2611,
+      "sha256": "18308a875c825d210565501da7e0c44e0cf125d1b7f2aac0b2d441ebb27c975d"
+    },
+    "photography/preview_standard_v1/records/outdoor_ac_condenser/underside.json": {
+      "bytes": 2649,
+      "sha256": "a79945e47ce09c68fe6625f0869ebcc9527a9543dd2fc3f735ed7e0a64772bb0"
+    },
+    "photography/preview_standard_v1/records/roadside_convex_mirror/alternate_light.json": {
+      "bytes": 2619,
+      "sha256": "e1796a1ffe365814813c3b7e4683332ce595190cf1d885d706221156e3a399f7"
+    },
+    "photography/preview_standard_v1/records/roadside_convex_mirror/back.json": {
+      "bytes": 2608,
+      "sha256": "52fc2466bc075d6bad55aec1d848e4253fdffb7ac6b193bd171f41e8c316ad8d"
+    },
+    "photography/preview_standard_v1/records/roadside_convex_mirror/bracket_detail.json": {
+      "bytes": 2768,
+      "sha256": "11c11c5ed42100891967a9f0d9ad623bfdee6bdf1c00d6f851e66f53d087874a"
+    },
+    "photography/preview_standard_v1/records/roadside_convex_mirror/close_up.json": {
+      "bytes": 2751,
+      "sha256": "92a0925205269426beb5383c925d8f02d9020ebc3746093f589b3c94d9bc7163"
+    },
+    "photography/preview_standard_v1/records/roadside_convex_mirror/preview.json": {
+      "bytes": 2628,
+      "sha256": "1285463b586c0200b9d3afc93a071722eca61743b86e6b537159035c4aa80248"
+    },
+    "photography/preview_standard_v1/records/roadside_convex_mirror/side.json": {
+      "bytes": 2619,
+      "sha256": "e7ea19fadb77113ef0477bdb2d4455178fcd60113794ca8fabcd0d756af43955"
+    },
+    "photography/preview_standard_v1/records/roadside_convex_mirror/underside.json": {
+      "bytes": 2665,
+      "sha256": "e9d1cde17d629e9dca82d0d27ccdce1aabbbfb48efc0737cae07b96a0241d4bf"
+    },
+    "photography/preview_standard_v1/records/street_drain_grate/alternate_light.json": {
+      "bytes": 2615,
+      "sha256": "106c3979a243137aaaa4aa1ee93f20dabb0bec0ef595634fd54063eba2c1236e"
+    },
+    "photography/preview_standard_v1/records/street_drain_grate/back.json": {
+      "bytes": 2592,
+      "sha256": "cbe5197ff15a8d492ee066f19f55fd34ce1dd30eeabfbcfdf3040e5eb4b46f50"
+    },
+    "photography/preview_standard_v1/records/street_drain_grate/close_up.json": {
+      "bytes": 2740,
+      "sha256": "fbc3d033bda236626c14367ac4c06a44f22cafe8ac26ff19763ab173052bf941"
+    },
+    "photography/preview_standard_v1/records/street_drain_grate/preview.json": {
+      "bytes": 2609,
+      "sha256": "e4b574599e1395bced894164b177b6246f516e19c768c6e9786208097fcbf632"
+    },
+    "photography/preview_standard_v1/records/street_drain_grate/side.json": {
+      "bytes": 2603,
+      "sha256": "007a1aa70beb791a21229b8d4254d5e7beff2eef172d353c09ec09fdf07360a9"
+    },
+    "photography/preview_standard_v1/records/street_drain_grate/underside.json": {
+      "bytes": 2657,
+      "sha256": "b165c1359aafb5a12673e579d60b54f96ffc07db26ca9098b328eb271ca896f6"
+    },
+    "photography/preview_standard_v1/render.py": {
+      "bytes": 8516,
+      "sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d"
+    },
+    "photography/preview_standard_v1/standard.json": {
+      "bytes": 3145,
+      "sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa"
+    },
+    "photography/preview_standard_v1/version.json": {
+      "bytes": 1316,
+      "sha256": "4ff16e19d1d0fbd43be5e02807fa1a58a789da70b04fe7eebdd5f07c7f1cf077"
+    },
+    "photography/preview_standard_v1/views.json": {
+      "bytes": 428,
+      "sha256": "602f8a13028e2e77eab6ae00219f840416c44fd1b50d1b6c1911777297072d31"
+    },
+    "photography/run_canonical.py": {
+      "bytes": 1813,
+      "sha256": "eb09a6ad5f6601f36ad32d6ef1b3c872231bf99647078bebf3cbe4717bf61469"
+    },
+    "photography_validation.json": {
+      "bytes": 14455,
+      "sha256": "89affe16a3a216133f01e2f346ffc90525dd65573ef6f0cc985934a3ba00bc4b"
+    },
+    "previews/grate_lift_diagnostic.jpg": {
+      "bytes": 162054,
+      "sha256": "b705d5993d8216370ae953bfb7052e01ae67b916c837038abdad5b54ee4db245"
+    },
+    "previews/input_provenance.json": {
+      "bytes": 654,
+      "sha256": "4e7db8fa89046443f5e0f68a87c128379d4d02a55280aa2763dab404373cf1c8"
+    },
+    "previews/installed_context_diagnostic_alternate.jpg": {
+      "bytes": 111492,
+      "sha256": "eb14a634103fbed9c64cb177a75fe6bf676c82daa8c2ce47caccdc015aa6e669"
+    },
+    "previews/installed_context_diagnostic_day.jpg": {
+      "bytes": 115867,
+      "sha256": "f461ebf62d456655a99d4901a4519e0f532cd07f76277a0fe9b005552d284342"
+    },
+    "previews/installed_use_validation.json": {
+      "bytes": 164,
+      "sha256": "a0a9e40d8a10609bb136ce1c8122738065b038a76f4f2d5c9d4d720cfa0061eb"
+    },
+    "reproduction_validation.json": {
+      "bytes": 711,
+      "sha256": "616a9f6fb44e8a882b63461aab5011d2de8e694e388d506c86132560cdcaebed"
+    },
+    "scripts/audit_photography.py": {
+      "bytes": 2062,
+      "sha256": "9708b43b2e0e55d7c1f8910debca205ee0c13afc21462ac8cadb3d098c05dd79"
+    },
+    "scripts/build_assets.py": {
+      "bytes": 19179,
+      "sha256": "8fe3a332b83bec58c3f54f5f1168b5ab1aebb7c2b15b7c9b8fd0db2490a09fc9"
+    },
+    "scripts/package_manifest.py": {
+      "bytes": 3247,
+      "sha256": "7d5e4b8e6c1512553538af3c40479048c77bdd241002413c215c65668a3899d7"
+    },
+    "scripts/render_grate_diagnostic.py": {
+      "bytes": 1129,
+      "sha256": "876977997f200cd17467e02146109e4317b0168ba987e2a4eadf4d75ea048468"
+    },
+    "scripts/use_diagnostics.py": {
+      "bytes": 4158,
+      "sha256": "29d89b1e9bd5dad7d6cb097a713c6f3ab3007be66602130e00426abd7a5c5723"
+    },
+    "scripts/validate_geometry.py": {
+      "bytes": 7182,
+      "sha256": "e2b1751cbb20381e136cb0791ae4760d65921384dd8db124cfa33564f509e8c8"
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "asset": "wood_cooking_spatula",
+  "view": "left",
+  "input_repo_path": "assets/wood_cooking_spatula/wood_cooking_spatula.glb",
+  "input_sha256": "f361a45154afd0313aa772e7ab6aeb12a5b9b59b8fc3815de6d690f71d254b1e",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "4ce26f2460958965b7da507713a375fded85f72ddc98fc806f920131f113af77",
+  "closeup_magnification_vs_full_fit": 1.0000000298023224,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch07a/generators/preview_standard_v1/repo/assets/wood_cooking_spatula/left.jpg",
+  "output_sha256": "fd88d42b56c2d2cc19ba26f122517d1070acf8a08b08022d89fae2f1a932c866",
+  "bytes": 49871,
+  "elapsed_seconds": 35.727760259000206,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 6.895452849141255,
+  "source_bounds": [
+    [
+      -0.035040222108364105,
+      -0.1450670212507248,
+      0.0
+    ],
+    [
+      0.034956980496644974,
+      0.14497919380664825,
+      0.012216920033097267
+    ]
+  ],
+  "camera_location": [
+    -10.0,
+    4.470348358154297e-07,
+    0.04212016239762306
+  ],
+  "camera_rotation": [
+    1.5707963705062866,
+    -0.0,
+    -1.5707963705062866
+  ],
+  "ortho_scale": 2.5,
+  "focus": "full object",
+  "focus_projected_width_height": [
+    2.0000000596046448,
+    0.08424119651317596
+  ],
+  "full_object_fit": true,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        -2.8795387744903564,
+        4.949747085571289,
+        4.1395392417907715
+      ],
+      "rotation": [
+        1.009339690208435,
+        -7.062502049848263e-08,
+        -2.660930871963501
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        -4.492698669433594,
+        -2.1213204860687256,
+        1.073968529701233
+      ],
+      "rotation": [
+        1.47627854347229,
+        1.0960552287997416e-07,
+        -1.1025413274765015
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        0.09472644329071045,
+        -3.535534143447876,
+        4.531645774841309
+      ],
+      "rotation": [
+        0.7390650510787964,
+        1.4055022923287197e-08,
+        0.11076067388057709
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": [
+    184,
+    184,
+    184
+  ],
+  "floor_hidden": true,
+  "diagnostic_only": false
+}

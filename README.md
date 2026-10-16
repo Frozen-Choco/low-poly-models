@@ -1,6 +1,6 @@
 # Low-poly diorama models
 
-現実世界のジオラマに配置するための、形状の自然さと素材の違いを保った、軽量なオリジナル小物集です。現在23モデル。目標は合計1,000モデルです。
+現実世界のジオラマに配置するための、形状の自然さと素材の違いを保った、軽量なオリジナル小物集です。現在31モデル。目標は合計1,000モデルです。
 
 ## 制作基準
 
@@ -222,7 +222,7 @@ generators/batch02bにある旧回収ボックスの生成・検証内容は履�
 
 [材質修正の根拠・生成手順](generators/apple_material_revision/README.md) · [統一撮影基準](generators/preview_standard_v1/README.md)
 
-確認画像を1,200×1,200、共通の背景・照明・露出・画面内比率で統一しました。材質そのものの明暗差は保持します。現在公開している全23モデルの現行確認画像は、この共通基準に統一しています。履歴用の比較・機構検証画像は別管理です。
+確認画像を1,200×1,200、共通の背景・照明・露出・画面内比率で統一しました。材質そのものの明暗差は保持します。現在公開している全31モデルの現行確認画像は、この共通基準に統一しています。履歴用の比較・機構検証画像は別管理です。
 
 ## 追加モデル：スツール・バケツ・掛け時計
 
@@ -235,3 +235,57 @@ generators/batch02bにある旧回収ボックスの生成・検証内容は履�
 GLB・編集用Blend・1,200×1,200の共通撮影画像を同梱しています。汎用の静的ジオラマ小物で、強度・水密・製造上の認証ではありません。
 
 [生成・使用検証手順](generators/utility_batch05a/README.md) · [撮影再現手順](generators/utility_preview_standard_v1/README.md) · [独立レビュー](reviews/batch05a_photography/report.md)
+
+## 追加モデル
+
+独立レビュー済みの8点を追加。モデルと確認画像は承認済みのファイルと同一です。
+
+### 室外機
+
+![室外機](assets/exterior/outdoor_ac_condenser/preview.jpg)
+
+[GLB](assets/exterior/outdoor_ac_condenser/outdoor_ac_condenser.glb) · [Blend](assets/exterior/outdoor_ac_condenser/outdoor_ac_condenser.blend) · [メタデータ](assets/exterior/outdoor_ac_condenser/metadata.json)
+
+### カーブミラー
+
+![カーブミラー](assets/exterior/roadside_convex_mirror/preview.jpg)
+
+[GLB](assets/exterior/roadside_convex_mirror/roadside_convex_mirror.glb) · [Blend](assets/exterior/roadside_convex_mirror/roadside_convex_mirror.blend) · [メタデータ](assets/exterior/roadside_convex_mirror/metadata.json)
+
+### グレーチング
+
+![グレーチング](assets/exterior/street_drain_grate/preview.jpg)
+
+[GLB](assets/exterior/street_drain_grate/street_drain_grate.glb) · [Blend](assets/exterior/street_drain_grate/street_drain_grate.blend) · [メタデータ](assets/exterior/street_drain_grate/metadata.json)
+
+### お玉
+
+![お玉](assets/kitchen/stainless_ladle/preview.jpg)
+
+[GLB](assets/kitchen/stainless_ladle/stainless_ladle.glb) · [Blend](assets/kitchen/stainless_ladle/stainless_ladle.blend) · [メタデータ](assets/kitchen/stainless_ladle/metadata.json)
+
+### ざる
+
+![ざる](assets/kitchen/stainless_perforated_colander/preview.jpg)
+
+[GLB](assets/kitchen/stainless_perforated_colander/stainless_perforated_colander.glb) · [Blend](assets/kitchen/stainless_perforated_colander/stainless_perforated_colander.blend) · [メタデータ](assets/kitchen/stainless_perforated_colander/metadata.json)
+
+### 木べら
+
+![木べら](assets/kitchen/wood_cooking_spatula/preview.jpg)
+
+[GLB](assets/kitchen/wood_cooking_spatula/wood_cooking_spatula.glb) · [Blend](assets/kitchen/wood_cooking_spatula/wood_cooking_spatula.blend) · [メタデータ](assets/kitchen/wood_cooking_spatula/metadata.json)
+
+### 自転車
+
+![自転車](assets/vehicles/city_bicycle/preview.jpg)
+
+[GLB](assets/vehicles/city_bicycle/city_bicycle.glb) · [Blend](assets/vehicles/city_bicycle/city_bicycle.blend) · [メタデータ](assets/vehicles/city_bicycle/metadata.json)
+
+### 台車
+
+![台車](assets/vehicles/folding_platform_handcart/preview.jpg)
+
+[GLB](assets/vehicles/folding_platform_handcart/folding_platform_handcart.glb) · [Blend](assets/vehicles/folding_platform_handcart/folding_platform_handcart.blend) · [メタデータ](assets/vehicles/folding_platform_handcart/metadata.json)
+
+[レビュー・資料・再生成手順](docs/reviewed-eight.md)

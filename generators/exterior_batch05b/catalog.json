@@ -1,0 +1,197 @@
+[
+  {
+    "id": "roadside_convex_mirror",
+    "title_ja": "カーブミラー",
+    "category": "exterior",
+    "units": "meters",
+    "origin": "Grade plane at Z=0 below mirror face; pole and footing center X=0,Y=0.16 m",
+    "front_blend": "-Y",
+    "up_blend": "Z",
+    "up_glb": "Y",
+    "design": "Original unbranded generic diorama prop; not a dimension-perfect product replica or certified equipment.",
+    "license": "Original geometry and PBR materials. No reference images embedded.",
+    "review_status": "Independently approved for bounded static diorama scope; see repository reviews/reviewed_eight",
+    "review_standard_revision": "2026-10-16 real-world construction and use",
+    "blender_version": "4.3.2",
+    "glb_bytes": 429724,
+    "blend_bytes": 273397,
+    "preview": "preview.jpg",
+    "back": "back.jpg",
+    "triangles": 15008,
+    "zero_area_triangles": 0,
+    "bounds_min": [
+      -0.31200000643730164,
+      -0.04500000178813934,
+      0.0
+    ],
+    "bounds_max": [
+      0.31200000643730164,
+      0.32999998331069946,
+      2.9119999408721924
+    ],
+    "dimensions_m": [
+      0.6240000128746033,
+      0.3749999850988388,
+      2.9119999408721924
+    ],
+    "mesh_objects": 22,
+    "preview_standard": "preview_standard_v1",
+    "references": [
+      "https://tsubame-shinko.co.jp/wp-content/uploads/2022/10/G600-TD-Z36.pdf"
+    ],
+    "functional_validation_files": [
+      "geometry_validation.json",
+      "previews/installed_use_validation.json"
+    ],
+    "view_files": [
+      "preview.jpg",
+      "back.jpg",
+      "side.jpg",
+      "underside.jpg",
+      "close_up.jpg",
+      "alternate_light.jpg",
+      "bracket_detail.jpg"
+    ],
+    "glb_sha256": "b27e36c54a446f4628faa7283b3cc075d908b18a709c803b15857d135f9efabf",
+    "blend_sha256": "c92f640b579af793b537870422b2a4dc9de3c50a55ae893b741b47a49a356e0b",
+    "photography_config": "photography/preview_standard_v1",
+    "view_semantics": {
+      "preview": "standard front three-quarter",
+      "back": "opposing three-quarter",
+      "side": "axial side",
+      "underside": "axial bottom",
+      "close_up": "declared functional detail target",
+      "alternate_light": "standard preview under second lighting direction"
+    }
+  },
+  {
+    "id": "outdoor_ac_condenser",
+    "title_ja": "室外機",
+    "category": "exterior",
+    "units": "meters",
+    "origin": "Ground plane at Z=0 below cabinet center; supports included",
+    "front_blend": "-Y",
+    "up_blend": "Z",
+    "up_glb": "Y",
+    "design": "Original unbranded generic diorama prop; not a dimension-perfect product replica or certified equipment.",
+    "license": "Original geometry and PBR materials. No reference images embedded.",
+    "review_status": "Independently approved for bounded static diorama scope; see repository reviews/reviewed_eight",
+    "review_standard_revision": "2026-10-16 real-world construction and use",
+    "blender_version": "4.3.2",
+    "glb_bytes": 1841464,
+    "blend_bytes": 326993,
+    "preview": "preview.jpg",
+    "back": "back.jpg",
+    "triangles": 44932,
+    "zero_area_triangles": 0,
+    "bounds_min": [
+      -0.3700000047683716,
+      -0.2150000035762787,
+      0.0
+    ],
+    "bounds_max": [
+      0.5080000162124634,
+      0.42900002002716064,
+      0.6559999585151672
+    ],
+    "dimensions_m": [
+      0.878000020980835,
+      0.6440000236034393,
+      0.6559999585151672
+    ],
+    "mesh_objects": 205,
+    "references": [
+      "https://www.daikin.ie/content/dam/document-library/installation-manuals/ac/split/rxf-f/RXF20-42F_Installation%20manual_3PEN748643-15S_English.pdf"
+    ],
+    "functional_validation_files": [
+      "geometry_validation.json",
+      "previews/installed_use_validation.json"
+    ],
+    "view_files": [
+      "preview.jpg",
+      "back.jpg",
+      "side.jpg",
+      "underside.jpg",
+      "close_up.jpg",
+      "alternate_light.jpg",
+      "service_detail.jpg"
+    ],
+    "glb_sha256": "5282d8b036aa185dc1e975b899f59a56bbd0c0df96526cb9e6b52c35a92119ce",
+    "blend_sha256": "c5ce6880d446524ffe37e51e0a1ab4e3691513b251746ddab9f4563d77d8484a",
+    "preview_standard": "preview_standard_v1",
+    "photography_config": "photography/preview_standard_v1",
+    "view_semantics": {
+      "preview": "standard front three-quarter",
+      "back": "opposing three-quarter",
+      "side": "axial side",
+      "underside": "axial bottom",
+      "close_up": "declared functional detail target",
+      "alternate_light": "standard preview under second lighting direction"
+    }
+  },
+  {
+    "id": "street_drain_grate",
+    "title_ja": "グレーチング",
+    "category": "exterior",
+    "units": "meters",
+    "origin": "Bottom receiver plane Z=0, centered X/Y; lower by 0.038 m for flush grade installation",
+    "front_blend": "-Y",
+    "up_blend": "Z",
+    "up_glb": "Y",
+    "design": "Original unbranded generic diorama prop; not a dimension-perfect product replica or certified equipment.",
+    "license": "Original geometry and PBR materials. No reference images embedded.",
+    "review_status": "Independently approved for bounded static diorama scope; see repository reviews/reviewed_eight",
+    "review_standard_revision": "2026-10-16 real-world construction and use",
+    "blender_version": "4.3.2",
+    "glb_bytes": 1439716,
+    "blend_bytes": 588688,
+    "preview": "preview.jpg",
+    "back": "back.jpg",
+    "triangles": 25980,
+    "zero_area_triangles": 0,
+    "bounds_min": [
+      -0.3149999976158142,
+      -0.2150000035762787,
+      0.0
+    ],
+    "bounds_max": [
+      0.3149999976158142,
+      0.2150000035762787,
+      0.03799999877810478
+    ],
+    "dimensions_m": [
+      0.6299999952316284,
+      0.4300000071525574,
+      0.03799999877810478
+    ],
+    "mesh_objects": 2,
+    "references": [
+      "https://www.takara-kizai.com/product/grating/steel/",
+      "https://www.kaneso.co.jp/seihin/zumen/HXC-6638_DK-600-Z.pdf"
+    ],
+    "functional_validation_files": [
+      "geometry_validation.json",
+      "previews/installed_use_validation.json"
+    ],
+    "view_files": [
+      "preview.jpg",
+      "back.jpg",
+      "side.jpg",
+      "underside.jpg",
+      "close_up.jpg",
+      "alternate_light.jpg"
+    ],
+    "glb_sha256": "aa6512473410997360453f5b91ca2888ae3230f2b924a73295f507d935a7c704",
+    "blend_sha256": "5e00805f8ba6a9b272f389e8229d02cb51dc908a7be859b9f0aea76635abacec",
+    "preview_standard": "preview_standard_v1",
+    "photography_config": "photography/preview_standard_v1",
+    "view_semantics": {
+      "preview": "standard front three-quarter",
+      "back": "opposing three-quarter",
+      "side": "axial side",
+      "underside": "axial bottom",
+      "close_up": "declared functional detail target",
+      "alternate_light": "standard preview under second lighting direction"
+    }
+  }
+]

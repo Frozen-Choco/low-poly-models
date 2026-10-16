@@ -1,0 +1,888 @@
+{
+  "scope": "Saved-file mesh checks and candidate intersections; independent reviewer decides acceptance",
+  "design_checks": {
+    "chainline_constant_x": true,
+    "chain_gear_separation_m": 0.35692869372287567,
+    "chainstay_lateral_clearance_m": 0.008,
+    "minimum_pedal_ground_m": 0.10599999999999997,
+    "wheelbase_m": 1.16,
+    "steering_axis_tilt_degrees": 18.434948822922017,
+    "positive_steering_trail_m": 0.07333333333333336,
+    "fork_axle_forward_offset_m": 0.036666666666666625,
+    "steer_axis_invariant": true,
+    "stand_support_triangle_area_m2": 0.16895,
+    "caster_pair_clearance_m": 0.184,
+    "caster_underdeck_clearance_m": 0.035,
+    "folded_grip_front_margin_m": 0.019999999999999962,
+    "folded_handle_deck_clearance_m": 0.05099999999999996,
+    "slot_pin_radial_clearance_m": 0.0011999999999999997,
+    "lock_release_travel_m": 0.02529822128134703,
+    "lock_tongue_base_clearance_m": 0.0032415097714234287,
+    "design_only_not_mesh_approval": true,
+    "all_numeric_design_checks_pass": true
+  },
+  "files": {
+    ".blend": {
+      "triangles": 84500,
+      "zero_area_triangles": [],
+      "finite_vertices": true,
+      "bounds_min_m": [
+        -0.2880267798900604,
+        -0.9454623460769653,
+        0.0
+      ],
+      "bounds_max_m": [
+        0.2880267798900604,
+        0.9174129962921143,
+        1.0660368204116821
+      ],
+      "dimensions_m": [
+        0.5760535597801208,
+        1.8628753423690796,
+        1.0660368204116821
+      ],
+      "mechanical_groups_present": [
+        "chain_guard",
+        "cranks",
+        "drivetrain",
+        "frame",
+        "rear_wheel",
+        "stand",
+        "steering"
+      ],
+      "materials": [
+        {
+          "name": "Amber pedal reflector",
+          "base_color": [
+            0.6499999761581421,
+            0.20999999344348907,
+            0.012000000104308128,
+            1.0
+          ]
+        },
+        {
+          "name": "Basket and guard molded polymer",
+          "base_color": [
+            0.06499999761581421,
+            0.07500000298023224,
+            0.06700000166893005,
+            1.0
+          ]
+        },
+        {
+          "name": "Black tire rubber",
+          "base_color": [
+            0.020999999716877937,
+            0.024000000208616257,
+            0.023000000044703484,
+            1.0
+          ]
+        },
+        {
+          "name": "Dark brown elastomer grips",
+          "base_color": [
+            0.10499999672174454,
+            0.06199999898672104,
+            0.03799999877810478,
+            1.0
+          ]
+        },
+        {
+          "name": "Headlamp translucent-look lens",
+          "base_color": [
+            0.7200000286102295,
+            0.7599999904632568,
+            0.699999988079071,
+            1.0
+          ]
+        },
+        {
+          "name": "Lubricated chain steel",
+          "base_color": [
+            0.15000000596046448,
+            0.17000000178813934,
+            0.1599999964237213,
+            1.0
+          ]
+        },
+        {
+          "name": "Muted deep green painted steel",
+          "base_color": [
+            0.10499999672174454,
+            0.17499999701976776,
+            0.15000000596046448,
+            1.0
+          ]
+        },
+        {
+          "name": "Red reflector polymer",
+          "base_color": [
+            0.46000000834465027,
+            0.014999999664723873,
+            0.008999999612569809,
+            1.0
+          ]
+        },
+        {
+          "name": "Satin stainless steel",
+          "base_color": [
+            0.49000000953674316,
+            0.5299999713897705,
+            0.5299999713897705,
+            1.0
+          ]
+        },
+        {
+          "name": "Warm dark brown saddle vinyl",
+          "base_color": [
+            0.17000000178813934,
+            0.0949999988079071,
+            0.052000001072883606,
+            1.0
+          ]
+        }
+      ],
+      "bytes": 6054520,
+      "sha256": "2ff20d1a2ecb22ec08582b8f65c80d3a89606891bfa9cbbcfc8bec71b3af9c6b",
+      "use_tests": {
+        "ground_contacts": {
+          "Front wheel rubber tire": 0.0,
+          "Rear wheel rubber tire": 0.0139999995008111,
+          "Stand ground shoe -1": 0.0,
+          "Stand ground shoe 1": 0.0
+        },
+        "support_triangle_area_m2": 0.16895,
+        "default_tire_fender_contact_candidates": [],
+        "chain_guard_contact_candidates": [],
+        "chain_frame_contact_candidates": [],
+        "fork_tire_contact_candidates": [],
+        "spoke_fork_contact_candidates": [],
+        "rear_brake_linkage": {
+          "parts": [
+            "Rear brake fixed casing stop support",
+            "Rear brake cable adjuster barrel",
+            "Rear brake cable adjuster locknut",
+            "Rear brake actuator bearing",
+            "Rear brake movable actuator link",
+            "Rear brake inner cable fixing bolt",
+            "Rear brake inner cable fixing nut",
+            "Rear brake exposed inner cable",
+            "Rear brake cable end cap"
+          ],
+          "fixed_support_reaction_arm_intended_contacts": [
+            {
+              "a": "Rear brake fixed casing stop support",
+              "b": "Rear brake reaction arm",
+              "triangle_contact_candidates": 15
+            }
+          ],
+          "spoke_contact_candidates": [],
+          "stand_contact_candidates": [],
+          "chainstay_contact_candidates": [],
+          "scope": "Static exterior linkage and clearance only; brake internals, cable tension and spring return are not simulated"
+        },
+        "rear_support_spoke_contact_candidates": [],
+        "rear_frame_and_lock_obstacles": {
+          "tire_contact_candidates": [],
+          "spoke_contact_candidates": []
+        },
+        "basket_rear_bracket_attachments": {
+          "-1": {
+            "bracket_grid_intended_contacts": [
+              {
+                "a": "Basket rear bracket -1",
+                "b": "Basket horizontal grid 4",
+                "triangle_contact_candidates": 28
+              },
+              {
+                "a": "Basket rear bracket -1",
+                "b": "Basket side upright -1 10",
+                "triangle_contact_candidates": 22
+              }
+            ],
+            "clamp_grid_intended_contacts": [
+              {
+                "a": "Basket rear bracket clamp -1",
+                "b": "Basket horizontal grid 4",
+                "triangle_contact_candidates": 20
+              }
+            ]
+          },
+          "1": {
+            "bracket_grid_intended_contacts": [
+              {
+                "a": "Basket rear bracket 1",
+                "b": "Basket horizontal grid 4",
+                "triangle_contact_candidates": 28
+              },
+              {
+                "a": "Basket rear bracket 1",
+                "b": "Basket side upright 1 10",
+                "triangle_contact_candidates": 22
+              }
+            ],
+            "clamp_grid_intended_contacts": [
+              {
+                "a": "Basket rear bracket clamp 1",
+                "b": "Basket horizontal grid 4",
+                "triangle_contact_candidates": 20
+              }
+            ]
+          }
+        },
+        "steering_poses": [
+          {
+            "degrees": -25,
+            "frame_contact_candidates": [],
+            "axis_m": [
+              [
+                0.0,
+                -0.4480971395969391,
+                0.6717615723609924
+              ],
+              [
+                0.0,
+                -0.38063672184944153,
+                0.8825910687446594
+              ]
+            ],
+            "rear_brake_cable_note": "Flexible rear cable top loop is not asserted rigid-valid; must be regenerated for a supplied steered pose."
+          },
+          {
+            "degrees": -15,
+            "frame_contact_candidates": [],
+            "axis_m": [
+              [
+                0.0,
+                -0.4480971395969391,
+                0.6717615723609924
+              ],
+              [
+                0.0,
+                -0.38063672184944153,
+                0.8825910687446594
+              ]
+            ],
+            "rear_brake_cable_note": "Flexible rear cable top loop is not asserted rigid-valid; must be regenerated for a supplied steered pose."
+          },
+          {
+            "degrees": 0,
+            "frame_contact_candidates": [],
+            "axis_m": [
+              [
+                0.0,
+                -0.4480971395969391,
+                0.6717615723609924
+              ],
+              [
+                0.0,
+                -0.38063672184944153,
+                0.8825910687446594
+              ]
+            ],
+            "rear_brake_cable_note": "Flexible rear cable top loop is not asserted rigid-valid; must be regenerated for a supplied steered pose."
+          },
+          {
+            "degrees": 15,
+            "frame_contact_candidates": [],
+            "axis_m": [
+              [
+                0.0,
+                -0.4480971395969391,
+                0.6717615723609924
+              ],
+              [
+                0.0,
+                -0.38063672184944153,
+                0.8825910687446594
+              ]
+            ],
+            "rear_brake_cable_note": "Flexible rear cable top loop is not asserted rigid-valid; must be regenerated for a supplied steered pose."
+          },
+          {
+            "degrees": 25,
+            "frame_contact_candidates": [],
+            "axis_m": [
+              [
+                0.0,
+                -0.4480971395969391,
+                0.6717615723609924
+              ],
+              [
+                0.0,
+                -0.38063672184944153,
+                0.8825910687446594
+              ]
+            ],
+            "rear_brake_cable_note": "Flexible rear cable top loop is not asserted rigid-valid; must be regenerated for a supplied steered pose."
+          }
+        ],
+        "crank_poses": [
+          {
+            "added_rotation_degrees": 0,
+            "pedal_orientation": "Counter-rotated around pedal axle to retain level platform",
+            "contact_candidates": [],
+            "pedal_lowest_m": 0.1334926038980484
+          },
+          {
+            "added_rotation_degrees": 45,
+            "pedal_orientation": "Counter-rotated around pedal axle to retain level platform",
+            "contact_candidates": [],
+            "pedal_lowest_m": 0.22762298583984375
+          },
+          {
+            "added_rotation_degrees": 90,
+            "pedal_orientation": "Counter-rotated around pedal axle to retain level platform",
+            "contact_candidates": [],
+            "pedal_lowest_m": 0.21064917743206024
+          },
+          {
+            "added_rotation_degrees": 135,
+            "pedal_orientation": "Counter-rotated around pedal axle to retain level platform",
+            "contact_candidates": [],
+            "pedal_lowest_m": 0.12646180391311646
+          },
+          {
+            "added_rotation_degrees": 180,
+            "pedal_orientation": "Counter-rotated around pedal axle to retain level platform",
+            "contact_candidates": [],
+            "pedal_lowest_m": 0.1334926187992096
+          },
+          {
+            "added_rotation_degrees": 225,
+            "pedal_orientation": "Counter-rotated around pedal axle to retain level platform",
+            "contact_candidates": [],
+            "pedal_lowest_m": 0.22762294113636017
+          },
+          {
+            "added_rotation_degrees": 270,
+            "pedal_orientation": "Counter-rotated around pedal axle to retain level platform",
+            "contact_candidates": [],
+            "pedal_lowest_m": 0.21064913272857666
+          },
+          {
+            "added_rotation_degrees": 315,
+            "pedal_orientation": "Counter-rotated around pedal axle to retain level platform",
+            "contact_candidates": [],
+            "pedal_lowest_m": 0.12646184861660004
+          }
+        ],
+        "stand_poses": [
+          {
+            "rotation_degrees": 0,
+            "tire_contact_candidates": [],
+            "spoke_contact_candidates": [],
+            "lowest_m": 0.004059754312038422,
+            "scope": "No assertion that ground stays fixed during retraction"
+          },
+          {
+            "rotation_degrees": 25,
+            "tire_contact_candidates": [],
+            "spoke_contact_candidates": [],
+            "lowest_m": -0.002977021038532257,
+            "scope": "No assertion that ground stays fixed during retraction"
+          },
+          {
+            "rotation_degrees": 50,
+            "tire_contact_candidates": [],
+            "spoke_contact_candidates": [],
+            "lowest_m": 0.019038885831832886,
+            "scope": "No assertion that ground stays fixed during retraction"
+          },
+          {
+            "rotation_degrees": 75,
+            "tire_contact_candidates": [],
+            "spoke_contact_candidates": [],
+            "lowest_m": 0.10085426270961761,
+            "scope": "No assertion that ground stays fixed during retraction"
+          },
+          {
+            "rotation_degrees": 95,
+            "tire_contact_candidates": [],
+            "spoke_contact_candidates": [],
+            "lowest_m": 0.19926874339580536,
+            "scope": "No assertion that ground stays fixed during retraction"
+          }
+        ]
+      },
+      "source_unchanged": true,
+      "under_size_limit": true
+    },
+    ".glb": {
+      "triangles": 84500,
+      "zero_area_triangles": [],
+      "finite_vertices": true,
+      "bounds_min_m": [
+        -0.2880267798900604,
+        -0.9454623460769653,
+        0.0
+      ],
+      "bounds_max_m": [
+        0.2880267798900604,
+        0.9174129962921143,
+        1.0660368204116821
+      ],
+      "dimensions_m": [
+        0.5760535597801208,
+        1.8628753423690796,
+        1.0660368204116821
+      ],
+      "mechanical_groups_present": [
+        "chain_guard",
+        "cranks",
+        "drivetrain",
+        "frame",
+        "rear_wheel",
+        "stand",
+        "steering"
+      ],
+      "materials": [
+        {
+          "name": "Amber pedal reflector",
+          "base_color": [
+            0.6499999761581421,
+            0.20999999344348907,
+            0.012000000104308128,
+            1.0
+          ]
+        },
+        {
+          "name": "Amber pedal reflector.001",
+          "base_color": [
+            0.6499999761581421,
+            0.20999999344348907,
+            0.012000000104308128,
+            1.0
+          ]
+        },
+        {
+          "name": "Basket and guard molded polymer",
+          "base_color": [
+            0.06499999761581421,
+            0.07500000298023224,
+            0.06700000166893005,
+            1.0
+          ]
+        },
+        {
+          "name": "Basket and guard molded polymer.001",
+          "base_color": [
+            0.06499999761581421,
+            0.07500000298023224,
+            0.06700000166893005,
+            1.0
+          ]
+        },
+        {
+          "name": "Black tire rubber",
+          "base_color": [
+            0.020999999716877937,
+            0.024000000208616257,
+            0.023000000044703484,
+            1.0
+          ]
+        },
+        {
+          "name": "Black tire rubber.001",
+          "base_color": [
+            0.020999999716877937,
+            0.024000000208616257,
+            0.023000000044703484,
+            1.0
+          ]
+        },
+        {
+          "name": "Dark brown elastomer grips",
+          "base_color": [
+            0.10499999672174454,
+            0.06199999898672104,
+            0.03799999877810478,
+            1.0
+          ]
+        },
+        {
+          "name": "Dark brown elastomer grips.001",
+          "base_color": [
+            0.10499999672174454,
+            0.06199999898672104,
+            0.03799999877810478,
+            1.0
+          ]
+        },
+        {
+          "name": "Headlamp translucent-look lens",
+          "base_color": [
+            0.7200000286102295,
+            0.7599999904632568,
+            0.699999988079071,
+            1.0
+          ]
+        },
+        {
+          "name": "Headlamp translucent-look lens.001",
+          "base_color": [
+            0.7200000286102295,
+            0.7599999904632568,
+            0.699999988079071,
+            1.0
+          ]
+        },
+        {
+          "name": "Lubricated chain steel",
+          "base_color": [
+            0.15000000596046448,
+            0.17000000178813934,
+            0.1599999964237213,
+            1.0
+          ]
+        },
+        {
+          "name": "Lubricated chain steel.001",
+          "base_color": [
+            0.15000000596046448,
+            0.17000000178813934,
+            0.1599999964237213,
+            1.0
+          ]
+        },
+        {
+          "name": "Muted deep green painted steel",
+          "base_color": [
+            0.10499999672174454,
+            0.17499999701976776,
+            0.15000000596046448,
+            1.0
+          ]
+        },
+        {
+          "name": "Muted deep green painted steel.001",
+          "base_color": [
+            0.10499999672174454,
+            0.17499999701976776,
+            0.15000000596046448,
+            1.0
+          ]
+        },
+        {
+          "name": "Red reflector polymer",
+          "base_color": [
+            0.46000000834465027,
+            0.014999999664723873,
+            0.008999999612569809,
+            1.0
+          ]
+        },
+        {
+          "name": "Red reflector polymer.001",
+          "base_color": [
+            0.46000000834465027,
+            0.014999999664723873,
+            0.008999999612569809,
+            1.0
+          ]
+        },
+        {
+          "name": "Satin stainless steel",
+          "base_color": [
+            0.49000000953674316,
+            0.5299999713897705,
+            0.5299999713897705,
+            1.0
+          ]
+        },
+        {
+          "name": "Satin stainless steel.001",
+          "base_color": [
+            0.49000000953674316,
+            0.5299999713897705,
+            0.5299999713897705,
+            1.0
+          ]
+        },
+        {
+          "name": "Warm dark brown saddle vinyl",
+          "base_color": [
+            0.17000000178813934,
+            0.0949999988079071,
+            0.052000001072883606,
+            1.0
+          ]
+        },
+        {
+          "name": "Warm dark brown saddle vinyl.001",
+          "base_color": [
+            0.17000000178813934,
+            0.0949999988079071,
+            0.052000001072883606,
+            1.0
+          ]
+        }
+      ],
+      "bytes": 2801792,
+      "sha256": "81d041e09a867838f1ca844935f4d7d3cdd5061fd4d99c591a8e47f2fa716cbd",
+      "use_tests": {
+        "ground_contacts": {
+          "Front wheel rubber tire": 0.0,
+          "Rear wheel rubber tire": 0.0139999995008111,
+          "Stand ground shoe -1": 0.0,
+          "Stand ground shoe 1": 0.0
+        },
+        "support_triangle_area_m2": 0.16895,
+        "default_tire_fender_contact_candidates": [],
+        "chain_guard_contact_candidates": [],
+        "chain_frame_contact_candidates": [],
+        "fork_tire_contact_candidates": [],
+        "spoke_fork_contact_candidates": [],
+        "rear_brake_linkage": {
+          "parts": [
+            "Rear brake fixed casing stop support",
+            "Rear brake cable adjuster barrel",
+            "Rear brake cable adjuster locknut",
+            "Rear brake actuator bearing",
+            "Rear brake movable actuator link",
+            "Rear brake inner cable fixing bolt",
+            "Rear brake inner cable fixing nut",
+            "Rear brake exposed inner cable",
+            "Rear brake cable end cap"
+          ],
+          "fixed_support_reaction_arm_intended_contacts": [
+            {
+              "a": "Rear brake fixed casing stop support",
+              "b": "Rear brake reaction arm",
+              "triangle_contact_candidates": 33
+            }
+          ],
+          "spoke_contact_candidates": [],
+          "stand_contact_candidates": [],
+          "chainstay_contact_candidates": [],
+          "scope": "Static exterior linkage and clearance only; brake internals, cable tension and spring return are not simulated"
+        },
+        "rear_support_spoke_contact_candidates": [],
+        "rear_frame_and_lock_obstacles": {
+          "tire_contact_candidates": [],
+          "spoke_contact_candidates": []
+        },
+        "basket_rear_bracket_attachments": {
+          "-1": {
+            "bracket_grid_intended_contacts": [
+              {
+                "a": "Basket rear bracket -1",
+                "b": "Basket horizontal grid 4",
+                "triangle_contact_candidates": 58
+              },
+              {
+                "a": "Basket rear bracket -1",
+                "b": "Basket side upright -1 10",
+                "triangle_contact_candidates": 48
+              }
+            ],
+            "clamp_grid_intended_contacts": [
+              {
+                "a": "Basket rear bracket clamp -1",
+                "b": "Basket horizontal grid 4",
+                "triangle_contact_candidates": 44
+              }
+            ]
+          },
+          "1": {
+            "bracket_grid_intended_contacts": [
+              {
+                "a": "Basket rear bracket 1",
+                "b": "Basket horizontal grid 4",
+                "triangle_contact_candidates": 60
+              },
+              {
+                "a": "Basket rear bracket 1",
+                "b": "Basket side upright 1 10",
+                "triangle_contact_candidates": 48
+              }
+            ],
+            "clamp_grid_intended_contacts": [
+              {
+                "a": "Basket rear bracket clamp 1",
+                "b": "Basket horizontal grid 4",
+                "triangle_contact_candidates": 44
+              }
+            ]
+          }
+        },
+        "steering_poses": [
+          {
+            "degrees": -25,
+            "frame_contact_candidates": [],
+            "axis_m": [
+              [
+                0.0,
+                -0.4480971395969391,
+                0.6717615723609924
+              ],
+              [
+                0.0,
+                -0.38063672184944153,
+                0.8825910687446594
+              ]
+            ],
+            "rear_brake_cable_note": "Flexible rear cable top loop is not asserted rigid-valid; must be regenerated for a supplied steered pose."
+          },
+          {
+            "degrees": -15,
+            "frame_contact_candidates": [],
+            "axis_m": [
+              [
+                0.0,
+                -0.4480971395969391,
+                0.6717615723609924
+              ],
+              [
+                0.0,
+                -0.38063672184944153,
+                0.8825910687446594
+              ]
+            ],
+            "rear_brake_cable_note": "Flexible rear cable top loop is not asserted rigid-valid; must be regenerated for a supplied steered pose."
+          },
+          {
+            "degrees": 0,
+            "frame_contact_candidates": [],
+            "axis_m": [
+              [
+                0.0,
+                -0.4480971395969391,
+                0.6717615723609924
+              ],
+              [
+                0.0,
+                -0.38063672184944153,
+                0.8825910687446594
+              ]
+            ],
+            "rear_brake_cable_note": "Flexible rear cable top loop is not asserted rigid-valid; must be regenerated for a supplied steered pose."
+          },
+          {
+            "degrees": 15,
+            "frame_contact_candidates": [],
+            "axis_m": [
+              [
+                0.0,
+                -0.4480971395969391,
+                0.6717615723609924
+              ],
+              [
+                0.0,
+                -0.38063672184944153,
+                0.8825910687446594
+              ]
+            ],
+            "rear_brake_cable_note": "Flexible rear cable top loop is not asserted rigid-valid; must be regenerated for a supplied steered pose."
+          },
+          {
+            "degrees": 25,
+            "frame_contact_candidates": [],
+            "axis_m": [
+              [
+                0.0,
+                -0.4480971395969391,
+                0.6717615723609924
+              ],
+              [
+                0.0,
+                -0.38063672184944153,
+                0.8825910687446594
+              ]
+            ],
+            "rear_brake_cable_note": "Flexible rear cable top loop is not asserted rigid-valid; must be regenerated for a supplied steered pose."
+          }
+        ],
+        "crank_poses": [
+          {
+            "added_rotation_degrees": 0,
+            "pedal_orientation": "Counter-rotated around pedal axle to retain level platform",
+            "contact_candidates": [],
+            "pedal_lowest_m": 0.1334926038980484
+          },
+          {
+            "added_rotation_degrees": 45,
+            "pedal_orientation": "Counter-rotated around pedal axle to retain level platform",
+            "contact_candidates": [],
+            "pedal_lowest_m": 0.22762298583984375
+          },
+          {
+            "added_rotation_degrees": 90,
+            "pedal_orientation": "Counter-rotated around pedal axle to retain level platform",
+            "contact_candidates": [],
+            "pedal_lowest_m": 0.21064917743206024
+          },
+          {
+            "added_rotation_degrees": 135,
+            "pedal_orientation": "Counter-rotated around pedal axle to retain level platform",
+            "contact_candidates": [],
+            "pedal_lowest_m": 0.12646180391311646
+          },
+          {
+            "added_rotation_degrees": 180,
+            "pedal_orientation": "Counter-rotated around pedal axle to retain level platform",
+            "contact_candidates": [],
+            "pedal_lowest_m": 0.1334926187992096
+          },
+          {
+            "added_rotation_degrees": 225,
+            "pedal_orientation": "Counter-rotated around pedal axle to retain level platform",
+            "contact_candidates": [],
+            "pedal_lowest_m": 0.22762294113636017
+          },
+          {
+            "added_rotation_degrees": 270,
+            "pedal_orientation": "Counter-rotated around pedal axle to retain level platform",
+            "contact_candidates": [],
+            "pedal_lowest_m": 0.21064913272857666
+          },
+          {
+            "added_rotation_degrees": 315,
+            "pedal_orientation": "Counter-rotated around pedal axle to retain level platform",
+            "contact_candidates": [],
+            "pedal_lowest_m": 0.12646184861660004
+          }
+        ],
+        "stand_poses": [
+          {
+            "rotation_degrees": 0,
+            "tire_contact_candidates": [],
+            "spoke_contact_candidates": [],
+            "lowest_m": 0.004059754312038422,
+            "scope": "No assertion that ground stays fixed during retraction"
+          },
+          {
+            "rotation_degrees": 25,
+            "tire_contact_candidates": [],
+            "spoke_contact_candidates": [],
+            "lowest_m": -0.002977021038532257,
+            "scope": "No assertion that ground stays fixed during retraction"
+          },
+          {
+            "rotation_degrees": 50,
+            "tire_contact_candidates": [],
+            "spoke_contact_candidates": [],
+            "lowest_m": 0.019038943573832512,
+            "scope": "No assertion that ground stays fixed during retraction"
+          },
+          {
+            "rotation_degrees": 75,
+            "tire_contact_candidates": [],
+            "spoke_contact_candidates": [],
+            "lowest_m": 0.10085426270961761,
+            "scope": "No assertion that ground stays fixed during retraction"
+          },
+          {
+            "rotation_degrees": 95,
+            "tire_contact_candidates": [],
+            "spoke_contact_candidates": [],
+            "lowest_m": 0.19926874339580536,
+            "scope": "No assertion that ground stays fixed during retraction"
+          }
+        ]
+      },
+      "source_unchanged": true,
+      "under_size_limit": true
+    }
+  }
+}

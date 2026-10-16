@@ -1,0 +1,505 @@
+{
+  "models_unchanged": true,
+  "same_studio_exposure_resolution": true,
+  "photos": [
+    {
+      "asset": "roadside_convex_mirror",
+      "view": "preview",
+      "checks": {
+        "same_input_bytes": true,
+        "record_matches_photo": true,
+        "standard_matches": true,
+        "renderer_matches": true,
+        "detail_manifest_matches": true,
+        "same_resolution": true,
+        "JPEG": true,
+        "under_100MB": true,
+        "same_sample_controls": true,
+        "not_diagnostic": true,
+        "same_80_percent_fit": true
+      },
+      "pass": true,
+      "mean_srgb": [
+        193.47116805555555,
+        191.9492402777778,
+        191.20679930555556
+      ],
+      "image_bytes": 83584,
+      "sha256": "4211e4f02b2fd7f37f0f0e52a6fe469f22839f933cae7719d822a1aedc02ea9e"
+    },
+    {
+      "asset": "roadside_convex_mirror",
+      "view": "back",
+      "checks": {
+        "same_input_bytes": true,
+        "record_matches_photo": true,
+        "standard_matches": true,
+        "renderer_matches": true,
+        "detail_manifest_matches": true,
+        "same_resolution": true,
+        "JPEG": true,
+        "under_100MB": true,
+        "same_sample_controls": true,
+        "not_diagnostic": true,
+        "same_80_percent_fit": true
+      },
+      "pass": true,
+      "mean_srgb": [
+        193.37965416666665,
+        191.75986666666665,
+        190.9796888888889
+      ],
+      "image_bytes": 85324,
+      "sha256": "306156c758da244e10e4b8271941ecd9bdf87b2fa88edcc9c64b9212e1371033"
+    },
+    {
+      "asset": "roadside_convex_mirror",
+      "view": "side",
+      "checks": {
+        "same_input_bytes": true,
+        "record_matches_photo": true,
+        "standard_matches": true,
+        "renderer_matches": true,
+        "detail_manifest_matches": true,
+        "same_resolution": true,
+        "JPEG": true,
+        "under_100MB": true,
+        "same_sample_controls": true,
+        "not_diagnostic": true,
+        "same_80_percent_fit": true
+      },
+      "pass": true,
+      "mean_srgb": [
+        184.91002361111111,
+        183.45792847222222,
+        182.78268333333332
+      ],
+      "image_bytes": 55461,
+      "sha256": "895c548606f341c002e80d2adc9019c5f7d2d6cfb077331dd6d436765162b4ee"
+    },
+    {
+      "asset": "roadside_convex_mirror",
+      "view": "underside",
+      "checks": {
+        "same_input_bytes": true,
+        "record_matches_photo": true,
+        "standard_matches": true,
+        "renderer_matches": true,
+        "detail_manifest_matches": true,
+        "same_resolution": true,
+        "JPEG": true,
+        "under_100MB": true,
+        "same_sample_controls": true,
+        "not_diagnostic": true,
+        "same_80_percent_fit": true
+      },
+      "pass": true,
+      "mean_srgb": [
+        186.0217513888889,
+        181.87284861111112,
+        178.64939444444445
+      ],
+      "image_bytes": 77329,
+      "sha256": "041fce39ded099e13d4cf4b7799613226f4d1820cb9a5cb0a4918eafc330b26f"
+    },
+    {
+      "asset": "roadside_convex_mirror",
+      "view": "close_up",
+      "checks": {
+        "same_input_bytes": true,
+        "record_matches_photo": true,
+        "standard_matches": true,
+        "renderer_matches": true,
+        "detail_manifest_matches": true,
+        "same_resolution": true,
+        "JPEG": true,
+        "under_100MB": true,
+        "same_sample_controls": true,
+        "not_diagnostic": true,
+        "true_detail_magnification": true
+      },
+      "pass": true,
+      "mean_srgb": [
+        132.71819027777778,
+        126.29638263888889,
+        123.72480972222222
+      ],
+      "image_bytes": 148534,
+      "sha256": "e79b0db2cbef37b7835c2cc1cce242f5018506e2fa308321d06366364fceaa56"
+    },
+    {
+      "asset": "roadside_convex_mirror",
+      "view": "alternate_light",
+      "checks": {
+        "same_input_bytes": true,
+        "record_matches_photo": true,
+        "standard_matches": true,
+        "renderer_matches": true,
+        "detail_manifest_matches": true,
+        "same_resolution": true,
+        "JPEG": true,
+        "under_100MB": true,
+        "same_sample_controls": true,
+        "not_diagnostic": true,
+        "same_80_percent_fit": true
+      },
+      "pass": true,
+      "mean_srgb": [
+        202.48208055555557,
+        200.91988194444446,
+        200.1296423611111
+      ],
+      "image_bytes": 86988,
+      "sha256": "007f4da5a36d94520a52658fb9e3df1f658e3adae109fee9f040ae53757e0d8d"
+    },
+    {
+      "asset": "roadside_convex_mirror",
+      "view": "bracket_detail",
+      "checks": {
+        "same_input_bytes": true,
+        "record_matches_photo": true,
+        "standard_matches": true,
+        "renderer_matches": true,
+        "detail_manifest_matches": true,
+        "same_resolution": true,
+        "JPEG": true,
+        "under_100MB": true,
+        "same_sample_controls": true,
+        "not_diagnostic": true
+      },
+      "pass": true,
+      "mean_srgb": [
+        190.42590208333334,
+        174.6531826388889,
+        166.90971944444445
+      ],
+      "image_bytes": 151691,
+      "sha256": "389124b6173b3a4ad7761e771fe88ae7c1d2be2c7cf212833148e1502b9efbde"
+    },
+    {
+      "asset": "outdoor_ac_condenser",
+      "view": "preview",
+      "checks": {
+        "same_input_bytes": true,
+        "record_matches_photo": true,
+        "standard_matches": true,
+        "renderer_matches": true,
+        "detail_manifest_matches": true,
+        "same_resolution": true,
+        "JPEG": true,
+        "under_100MB": true,
+        "same_sample_controls": true,
+        "not_diagnostic": true,
+        "same_80_percent_fit": true
+      },
+      "pass": true,
+      "mean_srgb": [
+        191.3284402777778,
+        191.38179722222222,
+        190.48779513888888
+      ],
+      "image_bytes": 151619,
+      "sha256": "d3e89233d16343b2c0ddd86c08664efb30e1916b4c745354899c889fc63bd234"
+    },
+    {
+      "asset": "outdoor_ac_condenser",
+      "view": "back",
+      "checks": {
+        "same_input_bytes": true,
+        "record_matches_photo": true,
+        "standard_matches": true,
+        "renderer_matches": true,
+        "detail_manifest_matches": true,
+        "same_resolution": true,
+        "JPEG": true,
+        "under_100MB": true,
+        "same_sample_controls": true,
+        "not_diagnostic": true,
+        "same_80_percent_fit": true
+      },
+      "pass": true,
+      "mean_srgb": [
+        172.64403958333332,
+        174.26663819444445,
+        173.93168194444445
+      ],
+      "image_bytes": 193852,
+      "sha256": "ed0c25bdf82580c4bcf47249019eb691ea47c02737ebc0f69d3785e7481e4f7d"
+    },
+    {
+      "asset": "outdoor_ac_condenser",
+      "view": "side",
+      "checks": {
+        "same_input_bytes": true,
+        "record_matches_photo": true,
+        "standard_matches": true,
+        "renderer_matches": true,
+        "detail_manifest_matches": true,
+        "same_resolution": true,
+        "JPEG": true,
+        "under_100MB": true,
+        "same_sample_controls": true,
+        "not_diagnostic": true,
+        "same_80_percent_fit": true
+      },
+      "pass": true,
+      "mean_srgb": [
+        193.80987916666666,
+        193.77930833333335,
+        192.76011527777777
+      ],
+      "image_bytes": 87530,
+      "sha256": "39c42d0b53aa5a44aa57d5650d7492303e376522997b49af9decafd160ec18b9"
+    },
+    {
+      "asset": "outdoor_ac_condenser",
+      "view": "underside",
+      "checks": {
+        "same_input_bytes": true,
+        "record_matches_photo": true,
+        "standard_matches": true,
+        "renderer_matches": true,
+        "detail_manifest_matches": true,
+        "same_resolution": true,
+        "JPEG": true,
+        "under_100MB": true,
+        "same_sample_controls": true,
+        "not_diagnostic": true,
+        "same_80_percent_fit": true
+      },
+      "pass": true,
+      "mean_srgb": [
+        189.40766041666666,
+        189.39955625,
+        188.55673958333333
+      ],
+      "image_bytes": 69928,
+      "sha256": "ac356490900d06c4dcbad63fb1aefd1bf76f625e7f13a49037525e22a19b22e7"
+    },
+    {
+      "asset": "outdoor_ac_condenser",
+      "view": "close_up",
+      "checks": {
+        "same_input_bytes": true,
+        "record_matches_photo": true,
+        "standard_matches": true,
+        "renderer_matches": true,
+        "detail_manifest_matches": true,
+        "same_resolution": true,
+        "JPEG": true,
+        "under_100MB": true,
+        "same_sample_controls": true,
+        "not_diagnostic": true,
+        "true_detail_magnification": true
+      },
+      "pass": true,
+      "mean_srgb": [
+        165.0122423611111,
+        166.64045069444444,
+        165.28635625
+      ],
+      "image_bytes": 320929,
+      "sha256": "7a3dc299c49d763340ef93680b4adec0488261f480a5d1071c78ad23bcb35102"
+    },
+    {
+      "asset": "outdoor_ac_condenser",
+      "view": "alternate_light",
+      "checks": {
+        "same_input_bytes": true,
+        "record_matches_photo": true,
+        "standard_matches": true,
+        "renderer_matches": true,
+        "detail_manifest_matches": true,
+        "same_resolution": true,
+        "JPEG": true,
+        "under_100MB": true,
+        "same_sample_controls": true,
+        "not_diagnostic": true,
+        "same_80_percent_fit": true
+      },
+      "pass": true,
+      "mean_srgb": [
+        194.06127430555554,
+        194.09801041666665,
+        193.1896576388889
+      ],
+      "image_bytes": 149220,
+      "sha256": "cef6a30c6b8640c1f28a568104c6bc1c25cec64845377c8835d8354d1751e9bb"
+    },
+    {
+      "asset": "outdoor_ac_condenser",
+      "view": "service_detail",
+      "checks": {
+        "same_input_bytes": true,
+        "record_matches_photo": true,
+        "standard_matches": true,
+        "renderer_matches": true,
+        "detail_manifest_matches": true,
+        "same_resolution": true,
+        "JPEG": true,
+        "under_100MB": true,
+        "same_sample_controls": true,
+        "not_diagnostic": true
+      },
+      "pass": true,
+      "mean_srgb": [
+        169.21150347222223,
+        172.6432076388889,
+        171.0924173611111
+      ],
+      "image_bytes": 230875,
+      "sha256": "f4b1eabe40a93969c3f966d7995b10730b76ad79df6b212123092163c7968181"
+    },
+    {
+      "asset": "street_drain_grate",
+      "view": "preview",
+      "checks": {
+        "same_input_bytes": true,
+        "record_matches_photo": true,
+        "standard_matches": true,
+        "renderer_matches": true,
+        "detail_manifest_matches": true,
+        "same_resolution": true,
+        "JPEG": true,
+        "under_100MB": true,
+        "same_sample_controls": true,
+        "not_diagnostic": true,
+        "same_80_percent_fit": true
+      },
+      "pass": true,
+      "mean_srgb": [
+        184.78960972222222,
+        185.90254930555557,
+        186.29592986111112
+      ],
+      "image_bytes": 167354,
+      "sha256": "bb6e6a22abafaccb7f06c8df398b7b058ae15ea2a00c63b0b72b9e49a50345ba"
+    },
+    {
+      "asset": "street_drain_grate",
+      "view": "back",
+      "checks": {
+        "same_input_bytes": true,
+        "record_matches_photo": true,
+        "standard_matches": true,
+        "renderer_matches": true,
+        "detail_manifest_matches": true,
+        "same_resolution": true,
+        "JPEG": true,
+        "under_100MB": true,
+        "same_sample_controls": true,
+        "not_diagnostic": true,
+        "same_80_percent_fit": true
+      },
+      "pass": true,
+      "mean_srgb": [
+        184.78878194444445,
+        185.90292430555556,
+        186.2962513888889
+      ],
+      "image_bytes": 167246,
+      "sha256": "d555698eee7596738c0340e5d16c00219ec3d3dd6d57408f1f3d58ec08a06aab"
+    },
+    {
+      "asset": "street_drain_grate",
+      "view": "side",
+      "checks": {
+        "same_input_bytes": true,
+        "record_matches_photo": true,
+        "standard_matches": true,
+        "renderer_matches": true,
+        "detail_manifest_matches": true,
+        "same_resolution": true,
+        "JPEG": true,
+        "under_100MB": true,
+        "same_sample_controls": true,
+        "not_diagnostic": true,
+        "same_80_percent_fit": true
+      },
+      "pass": true,
+      "mean_srgb": [
+        183.7975986111111,
+        184.06088194444445,
+        184.17290555555556
+      ],
+      "image_bytes": 47260,
+      "sha256": "3c76059966c2e7d579a491ec9b9ab13b184622174fd1dea0e581c7f2765701ad"
+    },
+    {
+      "asset": "street_drain_grate",
+      "view": "underside",
+      "checks": {
+        "same_input_bytes": true,
+        "record_matches_photo": true,
+        "standard_matches": true,
+        "renderer_matches": true,
+        "detail_manifest_matches": true,
+        "same_resolution": true,
+        "JPEG": true,
+        "under_100MB": true,
+        "same_sample_controls": true,
+        "not_diagnostic": true,
+        "same_80_percent_fit": true
+      },
+      "pass": true,
+      "mean_srgb": [
+        182.24331597222223,
+        183.28027916666667,
+        183.70018958333333
+      ],
+      "image_bytes": 115440,
+      "sha256": "fb72172a67e10af0c32c63c5ec24b378b2e9585b5caf57724996a39cd39e59b6"
+    },
+    {
+      "asset": "street_drain_grate",
+      "view": "close_up",
+      "checks": {
+        "same_input_bytes": true,
+        "record_matches_photo": true,
+        "standard_matches": true,
+        "renderer_matches": true,
+        "detail_manifest_matches": true,
+        "same_resolution": true,
+        "JPEG": true,
+        "under_100MB": true,
+        "same_sample_controls": true,
+        "not_diagnostic": true,
+        "true_detail_magnification": true
+      },
+      "pass": true,
+      "mean_srgb": [
+        155.64893194444446,
+        159.10551597222224,
+        160.16501527777777
+      ],
+      "image_bytes": 309669,
+      "sha256": "8d87e1a2d0f61a62a0f231b244b4d913f4b59e1b0dccb665997c48f0b9b92252"
+    },
+    {
+      "asset": "street_drain_grate",
+      "view": "alternate_light",
+      "checks": {
+        "same_input_bytes": true,
+        "record_matches_photo": true,
+        "standard_matches": true,
+        "renderer_matches": true,
+        "detail_manifest_matches": true,
+        "same_resolution": true,
+        "JPEG": true,
+        "under_100MB": true,
+        "same_sample_controls": true,
+        "not_diagnostic": true,
+        "same_80_percent_fit": true
+      },
+      "pass": true,
+      "mean_srgb": [
+        187.07764166666666,
+        188.17915902777779,
+        188.51941319444444
+      ],
+      "image_bytes": 185447,
+      "sha256": "bbb6802ab29b843bb48b6d33ac885ef0c0cf1960defbc8d1e71aa185653345a1"
+    }
+  ],
+  "all_pass": true
+}

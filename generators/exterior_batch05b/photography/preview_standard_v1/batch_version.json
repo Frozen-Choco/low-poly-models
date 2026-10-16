@@ -1,0 +1,14 @@
+{
+  "batch": "lowpoly_batch05b",
+  "upstream_commit": "228340d0e621fc9ba6d3223973b6a8172afecfc8",
+  "note": "version.json preserves upstream provenance and its original 20-asset manifest hashes; this batch replaces only configuration inputs. The following are the actual additive batch configuration hashes.",
+  "files": {
+    "render.py": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+    "standard.json": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+    "version.json": "4ff16e19d1d0fbd43be5e02807fa1a58a789da70b04fe7eebdd5f07c7f1cf077",
+    "inputs.json": "fab9e36e72f48a0311f34b5b43700ccd434a8547fa6ba73f5cd3eab6cba636e4",
+    "detail_targets.json": "4bb6b310d7d5433951aa1bd69ceb6a1104ac10284b2a05bceec510e164ff7a65",
+    "views.json": "602f8a13028e2e77eab6ae00219f840416c44fd1b50d1b6c1911777297072d31"
+  },
+  "geometry_revision_note": "AC service pipes and grate welded assemblies corrected after full-quality inspection. Mirror unchanged. Superseded models and evidence are local history."
+}

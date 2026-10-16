@@ -1,0 +1,78 @@
+{
+  "status": "APPROVED",
+  "scope": "Independent visual/diorama geometry, material, reference/use, canonical photography and lean distribution review; no publication authorization or engineering certification.",
+  "reviewed_utc": "2026-10-16T10:06:00Z",
+  "manifest_path": "lowpoly_batch05b/manifest.json",
+  "manifest_sha256": "aa2429348834d2b3882ae447abb98188f210c968641fc51fdeaf5d1ce5798747",
+  "manifest_files": 77,
+  "total_bytes": 8339476,
+  "assets": [
+    {
+      "asset": "outdoor_ac_condenser",
+      "files": [
+        {
+          "path": "lowpoly_batch05b/assets/outdoor_ac_condenser/outdoor_ac_condenser.glb",
+          "bytes": 1841464,
+          "sha256": "5282d8b036aa185dc1e975b899f59a56bbd0c0df96526cb9e6b52c35a92119ce"
+        },
+        {
+          "path": "lowpoly_batch05b/assets/outdoor_ac_condenser/outdoor_ac_condenser.blend",
+          "bytes": 326993,
+          "sha256": "c5ce6880d446524ffe37e51e0a1ab4e3691513b251746ddab9f4563d77d8484a"
+        }
+      ]
+    },
+    {
+      "asset": "roadside_convex_mirror",
+      "files": [
+        {
+          "path": "lowpoly_batch05b/assets/roadside_convex_mirror/roadside_convex_mirror.glb",
+          "bytes": 429724,
+          "sha256": "b27e36c54a446f4628faa7283b3cc075d908b18a709c803b15857d135f9efabf"
+        },
+        {
+          "path": "lowpoly_batch05b/assets/roadside_convex_mirror/roadside_convex_mirror.blend",
+          "bytes": 273397,
+          "sha256": "c92f640b579af793b537870422b2a4dc9de3c50a55ae893b741b47a49a356e0b"
+        }
+      ]
+    },
+    {
+      "asset": "street_drain_grate",
+      "files": [
+        {
+          "path": "lowpoly_batch05b/assets/street_drain_grate/street_drain_grate.glb",
+          "bytes": 1439716,
+          "sha256": "aa6512473410997360453f5b91ca2888ae3230f2b924a73295f507d935a7c704"
+        },
+        {
+          "path": "lowpoly_batch05b/assets/street_drain_grate/street_drain_grate.blend",
+          "bytes": 588688,
+          "sha256": "5e00805f8ba6a9b272f389e8229d02cb51dc908a7be859b9f0aea76635abacec"
+        }
+      ]
+    }
+  ],
+  "canonical_photos": 20,
+  "blockers": [],
+  "evidence": {
+    "reviews/batch05b/preflight.md": "bcc671a199716b95b219677130d1ac6f6e3ec9b1c478388de2894fa6e0e5ed64",
+    "reviews/batch05b/geometry_review.md": "53ea11bb97ad11afa2f427602f973f6578fa1547dc75d8a0663bae7a96cd11dd",
+    "reviews/batch05b/resumed_review.md": "4d19ff822bbdc5927a48e8e7f99b603fa29442a3e2eeeab62a86593ea3aeb4d0",
+    "reviews/batch05b/function_results.json": "9ce7679560376f4edeb14b42da2378cc218a574847422fd28f77a9819f648bbd",
+    "reviews/batch05b/pipe_results.json": "a292078bac1c6ce0b5e2ad121897bd8098d3412c72c75615d3e5896bf6aa9b8e",
+    "reviews/batch05b/grate_weld_mesh_results.json": "24035a9bd35c27c1433a87a4383b218a6ce901157e519b7b16405c54ecdee597",
+    "reviews/batch05b/context_results.json": "2cbf74776be8c58602d1ae4d60a22b41f13be27441d7c30daa67e0fc0dc4284f",
+    "reviews/batch05b/photography_audit.json": "897e7b0500c402610a41314a38d74e7da9e9bf679cfd1ad31fdf06b59a770f17",
+    "reviews/batch05b/package_checks.json": "f042fafe377440c7b02166e0ce08ae22f4852091c65b586b8f41425b982aa5de",
+    "reviews/batch05b/photo_reproduction_results.json": "ffb2eac39c98f97300cead60292b57e4baa7ff2d10a1f215c84f976fb4646628",
+    "reviews/batch05b/reproduction_results.json": "e77aa0f458dcce8fa59bd9a664fdc89ee7e132562092d93dfb06dd8c54c6143b"
+  },
+  "limitations": [
+    "Static unbranded visual models; no manufacturing or equipment certification.",
+    "Mirror reflective PBR appearance depends on renderer/environment; buried foundation and placard omitted.",
+    "AC hidden compressor and electrical machinery omitted; overseas reference family, not Japan-market replica.",
+    "Grate no load or anti-slip rating; optional reference basket omitted."
+  ],
+  "revalidation_rule": "Any changed model, canonical image, source/configuration or manifest requires corresponding re-review."
+}
