@@ -1,0 +1,602 @@
+[
+  {
+    "asset": "whole_red_apple",
+    "path": "assets/food/whole_red_apple/alternate_light.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "whole_red_apple",
+    "path": "assets/food/whole_red_apple/back.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "whole_red_apple",
+    "path": "assets/food/whole_red_apple/close_up.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "whole_red_apple",
+    "path": "assets/food/whole_red_apple/front_three_quarter.jpg",
+    "alias_of": "assets/food/whole_red_apple/preview.jpg"
+  },
+  {
+    "asset": "whole_red_apple",
+    "path": "assets/food/whole_red_apple/preview.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "whole_red_apple",
+    "path": "assets/food/whole_red_apple/rear.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "whole_red_apple",
+    "path": "assets/food/whole_red_apple/side.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "whole_red_apple",
+    "path": "assets/food/whole_red_apple/underside.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "whole_red_apple",
+    "path": "assets/food/whole_red_apple/underside_detail.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "dining_chair",
+    "path": "assets/furniture/dining_chair/back.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "dining_chair",
+    "path": "assets/furniture/dining_chair/preview.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "oak_table",
+    "path": "assets/furniture/oak_table/back.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "oak_table",
+    "path": "assets/furniture/oak_table/preview.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "open_shelf",
+    "path": "assets/furniture/open_shelf/back.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "open_shelf",
+    "path": "assets/furniture/open_shelf/back.png",
+    "alias_of": "assets/furniture/open_shelf/back.jpg"
+  },
+  {
+    "asset": "open_shelf",
+    "path": "assets/furniture/open_shelf/preview.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "open_shelf",
+    "path": "assets/furniture/open_shelf/preview.png",
+    "alias_of": "assets/furniture/open_shelf/preview.jpg"
+  },
+  {
+    "asset": "a4_clipboard",
+    "path": "assets/household/a4_clipboard/back.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "a4_clipboard",
+    "path": "assets/household/a4_clipboard/close_up.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "a4_clipboard",
+    "path": "assets/household/a4_clipboard/detail.jpg",
+    "alias_of": "assets/household/a4_clipboard/close_up.jpg"
+  },
+  {
+    "asset": "a4_clipboard",
+    "path": "assets/household/a4_clipboard/front_three_quarter.jpg",
+    "alias_of": "assets/household/a4_clipboard/preview.jpg"
+  },
+  {
+    "asset": "a4_clipboard",
+    "path": "assets/household/a4_clipboard/preview.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "a4_clipboard",
+    "path": "assets/household/a4_clipboard/rear.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "a4_clipboard",
+    "path": "assets/household/a4_clipboard/side.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "a4_clipboard",
+    "path": "assets/household/a4_clipboard/underside.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "ceramic_rice_bowl",
+    "path": "assets/household/ceramic_rice_bowl/back.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "ceramic_rice_bowl",
+    "path": "assets/household/ceramic_rice_bowl/close_up.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "ceramic_rice_bowl",
+    "path": "assets/household/ceramic_rice_bowl/front_three_quarter.jpg",
+    "alias_of": "assets/household/ceramic_rice_bowl/preview.jpg"
+  },
+  {
+    "asset": "ceramic_rice_bowl",
+    "path": "assets/household/ceramic_rice_bowl/preview.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "ceramic_rice_bowl",
+    "path": "assets/household/ceramic_rice_bowl/rear.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "ceramic_rice_bowl",
+    "path": "assets/household/ceramic_rice_bowl/side.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "mug",
+    "path": "assets/household/mug/back.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "mug",
+    "path": "assets/household/mug/back.png",
+    "alias_of": "assets/household/mug/back.jpg"
+  },
+  {
+    "asset": "mug",
+    "path": "assets/household/mug/preview.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "mug",
+    "path": "assets/household/mug/preview.png",
+    "alias_of": "assets/household/mug/preview.jpg"
+  },
+  {
+    "asset": "office_stapler",
+    "path": "assets/household/office_stapler/back.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "office_stapler",
+    "path": "assets/household/office_stapler/close_up.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "office_stapler",
+    "path": "assets/household/office_stapler/detail.jpg",
+    "alias_of": "assets/household/office_stapler/close_up.jpg"
+  },
+  {
+    "asset": "office_stapler",
+    "path": "assets/household/office_stapler/front_three_quarter.jpg",
+    "alias_of": "assets/household/office_stapler/preview.jpg"
+  },
+  {
+    "asset": "office_stapler",
+    "path": "assets/household/office_stapler/preview.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "office_stapler",
+    "path": "assets/household/office_stapler/rear.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "office_stapler",
+    "path": "assets/household/office_stapler/side.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "office_stapler",
+    "path": "assets/household/office_stapler/underside.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "stainless_kitchen_kettle",
+    "path": "assets/household/stainless_kitchen_kettle/back.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "stainless_kitchen_kettle",
+    "path": "assets/household/stainless_kitchen_kettle/close_up.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "stainless_kitchen_kettle",
+    "path": "assets/household/stainless_kitchen_kettle/front_three_quarter.jpg",
+    "alias_of": "assets/household/stainless_kitchen_kettle/preview.jpg"
+  },
+  {
+    "asset": "stainless_kitchen_kettle",
+    "path": "assets/household/stainless_kitchen_kettle/preview.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "stainless_kitchen_kettle",
+    "path": "assets/household/stainless_kitchen_kettle/rear.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "stainless_kitchen_kettle",
+    "path": "assets/household/stainless_kitchen_kettle/side.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "stainless_kitchen_kettle",
+    "path": "assets/household/stainless_kitchen_kettle/top.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "taped_shipping_box",
+    "path": "assets/household/taped_shipping_box/back.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "taped_shipping_box",
+    "path": "assets/household/taped_shipping_box/close_up.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "taped_shipping_box",
+    "path": "assets/household/taped_shipping_box/detail.jpg",
+    "alias_of": "assets/household/taped_shipping_box/close_up.jpg"
+  },
+  {
+    "asset": "taped_shipping_box",
+    "path": "assets/household/taped_shipping_box/front_three_quarter.jpg",
+    "alias_of": "assets/household/taped_shipping_box/preview.jpg"
+  },
+  {
+    "asset": "taped_shipping_box",
+    "path": "assets/household/taped_shipping_box/preview.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "taped_shipping_box",
+    "path": "assets/household/taped_shipping_box/rear.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "taped_shipping_box",
+    "path": "assets/household/taped_shipping_box/side.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "taped_shipping_box",
+    "path": "assets/household/taped_shipping_box/underside.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "wooden_cutting_board",
+    "path": "assets/household/wooden_cutting_board/back.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "wooden_cutting_board",
+    "path": "assets/household/wooden_cutting_board/close_up.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "wooden_cutting_board",
+    "path": "assets/household/wooden_cutting_board/front_three_quarter.jpg",
+    "alias_of": "assets/household/wooden_cutting_board/preview.jpg"
+  },
+  {
+    "asset": "wooden_cutting_board",
+    "path": "assets/household/wooden_cutting_board/preview.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "wooden_cutting_board",
+    "path": "assets/household/wooden_cutting_board/rear.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "wooden_cutting_board",
+    "path": "assets/household/wooden_cutting_board/side.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "cast_iron_manhole",
+    "path": "assets/street/cast_iron_manhole/back.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "cast_iron_manhole",
+    "path": "assets/street/cast_iron_manhole/close_up.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "cast_iron_manhole",
+    "path": "assets/street/cast_iron_manhole/front_three_quarter.jpg",
+    "alias_of": "assets/street/cast_iron_manhole/preview.jpg"
+  },
+  {
+    "asset": "cast_iron_manhole",
+    "path": "assets/street/cast_iron_manhole/preview.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "cast_iron_manhole",
+    "path": "assets/street/cast_iron_manhole/rear.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "cast_iron_manhole",
+    "path": "assets/street/cast_iron_manhole/side.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "cast_iron_manhole",
+    "path": "assets/street/cast_iron_manhole/underside.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "concrete_curb_straight",
+    "path": "assets/street/concrete_curb_straight/back.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "concrete_curb_straight",
+    "path": "assets/street/concrete_curb_straight/close_up.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "concrete_curb_straight",
+    "path": "assets/street/concrete_curb_straight/front_three_quarter.jpg",
+    "alias_of": "assets/street/concrete_curb_straight/preview.jpg"
+  },
+  {
+    "asset": "concrete_curb_straight",
+    "path": "assets/street/concrete_curb_straight/preview.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "concrete_curb_straight",
+    "path": "assets/street/concrete_curb_straight/rear.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "concrete_curb_straight",
+    "path": "assets/street/concrete_curb_straight/side.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "concrete_curb_straight",
+    "path": "assets/street/concrete_curb_straight/underside.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "park_bench",
+    "path": "assets/street/park_bench/back.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "park_bench",
+    "path": "assets/street/park_bench/detail.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "park_bench",
+    "path": "assets/street/park_bench/endgrain.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "park_bench",
+    "path": "assets/street/park_bench/preview.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "public_recycling_bin",
+    "path": "assets/street/public_recycling_bin/back.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "public_recycling_bin",
+    "path": "assets/street/public_recycling_bin/close_up.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "public_recycling_bin",
+    "path": "assets/street/public_recycling_bin/front_three_quarter.jpg",
+    "alias_of": "assets/street/public_recycling_bin/preview.jpg"
+  },
+  {
+    "asset": "public_recycling_bin",
+    "path": "assets/street/public_recycling_bin/preview.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "public_recycling_bin",
+    "path": "assets/street/public_recycling_bin/rear.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "public_recycling_bin",
+    "path": "assets/street/public_recycling_bin/underside.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "railway_crossing_lowered",
+    "path": "assets/street/railway_crossing_lowered/back.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "railway_crossing_lowered",
+    "path": "assets/street/railway_crossing_lowered/base.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "railway_crossing_lowered",
+    "path": "assets/street/railway_crossing_lowered/close_up.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "railway_crossing_lowered",
+    "path": "assets/street/railway_crossing_lowered/detail.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "railway_crossing_lowered",
+    "path": "assets/street/railway_crossing_lowered/front_three_quarter.jpg",
+    "alias_of": "assets/street/railway_crossing_lowered/preview.jpg"
+  },
+  {
+    "asset": "railway_crossing_lowered",
+    "path": "assets/street/railway_crossing_lowered/preview.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "railway_crossing_lowered",
+    "path": "assets/street/railway_crossing_lowered/rear.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "steel_roadside_bollard",
+    "path": "assets/street/steel_roadside_bollard/back.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "steel_roadside_bollard",
+    "path": "assets/street/steel_roadside_bollard/close_up.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "steel_roadside_bollard",
+    "path": "assets/street/steel_roadside_bollard/front_three_quarter.jpg",
+    "alias_of": "assets/street/steel_roadside_bollard/preview.jpg"
+  },
+  {
+    "asset": "steel_roadside_bollard",
+    "path": "assets/street/steel_roadside_bollard/preview.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "steel_roadside_bollard",
+    "path": "assets/street/steel_roadside_bollard/rear.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "steel_roadside_bollard",
+    "path": "assets/street/steel_roadside_bollard/side.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "steel_roadside_bollard",
+    "path": "assets/street/steel_roadside_bollard/underside.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "streetlight",
+    "path": "assets/street/streetlight/back.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "streetlight",
+    "path": "assets/street/streetlight/detail.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "streetlight",
+    "path": "assets/street/streetlight/preview.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "traffic_cone",
+    "path": "assets/street/traffic_cone/back.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "traffic_cone",
+    "path": "assets/street/traffic_cone/detail.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "traffic_cone",
+    "path": "assets/street/traffic_cone/preview.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "traffic_cone",
+    "path": "assets/street/traffic_cone/underside.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "traffic_cone",
+    "path": "assets/street/traffic_cone/underside_axial.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "traffic_signal",
+    "path": "assets/street/traffic_signal/back.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "traffic_signal",
+    "path": "assets/street/traffic_signal/back.png",
+    "alias_of": "assets/street/traffic_signal/back.jpg"
+  },
+  {
+    "asset": "traffic_signal",
+    "path": "assets/street/traffic_signal/base.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "traffic_signal",
+    "path": "assets/street/traffic_signal/close_up.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "traffic_signal",
+    "path": "assets/street/traffic_signal/detail.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "traffic_signal",
+    "path": "assets/street/traffic_signal/detail.png",
+    "alias_of": "assets/street/traffic_signal/detail.jpg"
+  },
+  {
+    "asset": "traffic_signal",
+    "path": "assets/street/traffic_signal/front_three_quarter.jpg",
+    "alias_of": "assets/street/traffic_signal/preview.jpg"
+  },
+  {
+    "asset": "traffic_signal",
+    "path": "assets/street/traffic_signal/preview.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "traffic_signal",
+    "path": "assets/street/traffic_signal/preview.png",
+    "alias_of": "assets/street/traffic_signal/preview.jpg"
+  },
+  {
+    "asset": "traffic_signal",
+    "path": "assets/street/traffic_signal/rear.jpg",
+    "alias_of": null
+  }
+]

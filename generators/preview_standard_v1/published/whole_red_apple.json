@@ -1,0 +1,828 @@
+{
+  "asset": "whole_red_apple",
+  "photography_version": "preview-standard-v1",
+  "input": {
+    "id": "whole_red_apple",
+    "repo_path": "assets/food/whole_red_apple/whole_red_apple.glb",
+    "sha256": "d888fb65220c72f49de66db452bdf37285c9511e198a691e18e3d58c1c6f924c",
+    "git_sha": "99f4a471f99a4ce2914e3f5ae017f5fc6076d4cd"
+  },
+  "reproduction_renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "reproduction_spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "detail_targets_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+  "provenance_note": "Original producer hashes are retained. The portable reproduction renderer uses the same photographic code and effective per-view configuration; scheduling, cache checks and descriptive metadata are excluded. Camera/light values and input/output hashes are recorded for verification.",
+  "outputs": [
+    {
+      "path": "assets/food/whole_red_apple/alternate_light.jpg",
+      "sha256": "12b7a8ddb67c438d96150a71f1019c9156215a6485712d077f6cb5c2a0735201",
+      "bytes": 165224,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "alternate_light",
+      "original_render_record": {
+        "input_sha256": "d888fb65220c72f49de66db452bdf37285c9511e198a691e18e3d58c1c6f924c",
+        "renderer_sha256": "a1d10ed2d85a2d8d3f5f92398ec96977108c406003c4a913dcf33e0d788a6802",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "1081dc5aa041e31e35fcc4997509460644ac00a7ff5ad809edee0a879fbcbd63",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 851.5712236280015,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 23.69209429337777,
+        "source_bounds": [
+          [
+            -0.0416816771030426,
+            -0.04225699603557587,
+            0.0
+          ],
+          [
+            0.04268902912735939,
+            0.042159345000982285,
+            0.0793127566576004
+          ]
+        ],
+        "camera_location": [
+          6.303400039672852,
+          -6.324923992156982,
+          5.441131114959717
+        ],
+        "camera_rotation": [
+          1.099881887435913,
+          -1.1680641165412453e-07,
+          0.7853983044624329
+        ],
+        "ortho_scale": 2.49933123588562,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          1.999464988708496,
+          1.8635372519493103
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              3.0000009536743164,
+              -4.0,
+              4.999999523162842
+            ],
+            "rotation": [
+              0.8605255484580994,
+              3.517017788112753e-09,
+              0.643501341342926
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              -3.999999523162842,
+              -1.0000007152557373,
+              3.000000476837158
+            ],
+            "rotation": [
+              1.061959981918335,
+              -5.880754727627391e-08,
+              -1.325817584991455
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -1.0000003576278687,
+              3.999999523162842,
+              4.000000953674316
+            ],
+            "rotation": [
+              0.8958312273025513,
+              -3.699506834209387e-08,
+              -2.896613836288452
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false
+      }
+    },
+    {
+      "path": "assets/food/whole_red_apple/back.jpg",
+      "sha256": "f7264328fd8f900aba7c9141133e28c90e1666fe6f2201f8dc008fa18224058f",
+      "bytes": 164541,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "back",
+      "original_render_record": {
+        "input_sha256": "d888fb65220c72f49de66db452bdf37285c9511e198a691e18e3d58c1c6f924c",
+        "renderer_sha256": "a1d10ed2d85a2d8d3f5f92398ec96977108c406003c4a913dcf33e0d788a6802",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "1081dc5aa041e31e35fcc4997509460644ac00a7ff5ad809edee0a879fbcbd63",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 896.967224492997,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 23.69209429337777,
+        "source_bounds": [
+          [
+            -0.0416816771030426,
+            -0.04225699603557587,
+            0.0
+          ],
+          [
+            0.04268902912735939,
+            0.042159345000982285,
+            0.0793127566576004
+          ]
+        ],
+        "camera_location": [
+          -6.330026626586914,
+          6.308504104614258,
+          5.4269561767578125
+        ],
+        "camera_rotation": [
+          1.0998820066452026,
+          1.1037879943387452e-07,
+          -2.3561947345733643
+        ],
+        "ortho_scale": 2.49933123588562,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          1.9994649291038513,
+          1.8545105457305908
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              2.999999523162842,
+              3.999999523162842,
+              5.000001430511475
+            ],
+            "rotation": [
+              0.8605252504348755,
+              4.2826759028002925e-08,
+              2.498091697692871
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              -4.000000476837158,
+              1.0000011920928955,
+              2.9999985694885254
+            ],
+            "rotation": [
+              1.0619604587554932,
+              9.89387904937189e-10,
+              -1.8157753944396973
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -1.0000020265579224,
+              -3.999999523162842,
+              4.0
+            ],
+            "rotation": [
+              0.895831286907196,
+              2.379176855527021e-08,
+              -0.24497920274734497
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false
+      }
+    },
+    {
+      "path": "assets/food/whole_red_apple/close_up.jpg",
+      "sha256": "8fa69bc14ced49e4b008421a751f8ae7f748f9d12b691dfc03b17c2c810e384f",
+      "bytes": 173146,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "close_up",
+      "original_render_record": {
+        "input_sha256": "d888fb65220c72f49de66db452bdf37285c9511e198a691e18e3d58c1c6f924c",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 755.6043861350008,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 23.69209429337777,
+        "source_bounds": [
+          [
+            -0.0416816771030426,
+            -0.04225699603557587,
+            0.0
+          ],
+          [
+            0.04268902912735939,
+            0.042159345000982285,
+            0.0793127566576004
+          ]
+        ],
+        "camera_location": [
+          5.616626739501953,
+          -5.6274027824401855,
+          7.8914923667907715
+        ],
+        "camera_rotation": [
+          0.8671573400497437,
+          -4.843969136913984e-08,
+          0.7853981852531433
+        ],
+        "ortho_scale": 1.4807559251785278,
+        "focus": {
+          "purpose": "Magnified skin shoulder, pigment and short stalk",
+          "target_m": [
+            0.01,
+            -0.01,
+            0.06
+          ],
+          "span_m": 0.05,
+          "direction": [
+            1,
+            -1,
+            1.2
+          ]
+        },
+        "focus_projected_width_height": [
+          1.9994651079177856,
+          1.9115787148475647
+        ],
+        "full_object_fit": false,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              -3.675656795501709,
+              -3.324342966079712,
+              5.053617477416992
+            ],
+            "rotation": [
+              0.8510547876358032,
+              7.907836163667525e-08,
+              -0.8466703295707703
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              3.596585988998413,
+              -0.5965859889984131,
+              3.7598509788513184
+            ],
+            "rotation": [
+              0.8674978017807007,
+              -2.0610892548234006e-08,
+              1.415344476699829
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              0.5413392782211304,
+              4.45866060256958,
+              3.4282565116882324
+            ],
+            "rotation": [
+              1.0293395519256592,
+              8.853857735857673e-08,
+              3.0303802490234375
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 1.6878753225963956
+      }
+    },
+    {
+      "path": "assets/food/whole_red_apple/front_three_quarter.jpg",
+      "sha256": "171c8d9520c43a1afb8468640ddf56b5930c1c0a8762a221d9aecae4445af636",
+      "bytes": 163614,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": "assets/food/whole_red_apple/preview.jpg",
+      "render_view": "preview",
+      "original_render_record": {
+        "input_sha256": "d888fb65220c72f49de66db452bdf37285c9511e198a691e18e3d58c1c6f924c",
+        "renderer_sha256": "e2bfa766cf9759321d2d51798e1fa821fe71ca47aff614331029cf200efe3ca0",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "1081dc5aa041e31e35fcc4997509460644ac00a7ff5ad809edee0a879fbcbd63",
+        "elapsed_seconds": 855.6591527249984,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "camera_location": [
+          6.303400039672852,
+          -6.324923992156982,
+          5.441131114959717
+        ],
+        "camera_rotation": [
+          1.099881887435913,
+          -1.1680641165412453e-07,
+          0.7853983044624329
+        ],
+        "ortho_scale": 2.49933123588562
+      }
+    },
+    {
+      "path": "assets/food/whole_red_apple/preview.jpg",
+      "sha256": "171c8d9520c43a1afb8468640ddf56b5930c1c0a8762a221d9aecae4445af636",
+      "bytes": 163614,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "preview",
+      "original_render_record": {
+        "input_sha256": "d888fb65220c72f49de66db452bdf37285c9511e198a691e18e3d58c1c6f924c",
+        "renderer_sha256": "e2bfa766cf9759321d2d51798e1fa821fe71ca47aff614331029cf200efe3ca0",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "1081dc5aa041e31e35fcc4997509460644ac00a7ff5ad809edee0a879fbcbd63",
+        "elapsed_seconds": 855.6591527249984,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "camera_location": [
+          6.303400039672852,
+          -6.324923992156982,
+          5.441131114959717
+        ],
+        "camera_rotation": [
+          1.099881887435913,
+          -1.1680641165412453e-07,
+          0.7853983044624329
+        ],
+        "ortho_scale": 2.49933123588562
+      }
+    },
+    {
+      "path": "assets/food/whole_red_apple/rear.jpg",
+      "sha256": "2bebcc77107346dccb41e58af8ff5f64cb642c11e6f7ef375608f8e459c4ce56",
+      "bytes": 152180,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "rear",
+      "original_render_record": {
+        "input_sha256": "d888fb65220c72f49de66db452bdf37285c9511e198a691e18e3d58c1c6f924c",
+        "renderer_sha256": "a1d10ed2d85a2d8d3f5f92398ec96977108c406003c4a913dcf33e0d788a6802",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "1081dc5aa041e31e35fcc4997509460644ac00a7ff5ad809edee0a879fbcbd63",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 257.600718280999,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 23.69209429337777,
+        "source_bounds": [
+          [
+            -0.0416816771030426,
+            -0.04225699603557587,
+            0.0
+          ],
+          [
+            0.04268902912735939,
+            0.042159345000982285,
+            0.0793127566576004
+          ]
+        ],
+        "camera_location": [
+          -2.9802201595430233e-08,
+          10.0,
+          0.9395418167114258
+        ],
+        "camera_rotation": [
+          -1.570796251296997,
+          3.141592502593994,
+          -0.0
+        ],
+        "ortho_scale": 2.4986484050750732,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          1.9989187121391296,
+          1.87908536195755
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              4.949746608734131,
+              2.472377300262451,
+              4.237220287322998
+            ],
+            "rotation": [
+              1.0093393325805664,
+              -4.423131372277567e-08,
+              2.0514585971832275
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              -2.1213204860687256,
+              4.085536956787109,
+              1.1716487407684326
+            ],
+            "rotation": [
+              1.47627854347229,
+              4.949134790876997e-08,
+              -2.673337697982788
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -3.535534620285034,
+              -0.5018883943557739,
+              4.629325866699219
+            ],
+            "rotation": [
+              0.7390651106834412,
+              -5.290979032679388e-08,
+              -1.4600355625152588
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": [
+          184,
+          184,
+          184
+        ],
+        "floor_hidden": true
+      }
+    },
+    {
+      "path": "assets/food/whole_red_apple/side.jpg",
+      "sha256": "587bdae0616bc699bb68166ab82d8e3887441527d1f24bd806c7ea3b6e09fc58",
+      "bytes": 153487,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "side",
+      "original_render_record": {
+        "input_sha256": "d888fb65220c72f49de66db452bdf37285c9511e198a691e18e3d58c1c6f924c",
+        "renderer_sha256": "a8cceed1593e7d46a50fe23f6f0d18f482bdce5b0d9888363f8808d21038a2d0",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 258.0668171899997,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 23.69209429337777,
+        "source_bounds": [
+          [
+            -0.0416816771030426,
+            -0.04225699603557587,
+            0.0
+          ],
+          [
+            0.04268902912735939,
+            0.042159345000982285,
+            0.0793127566576004
+          ]
+        ],
+        "camera_location": [
+          10.0,
+          4.470348358154297e-07,
+          0.9395422339439392
+        ],
+        "camera_rotation": [
+          1.5707963705062866,
+          -0.0,
+          1.5707963705062866
+        ],
+        "ortho_scale": 2.5,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          2.0000000596046448,
+          1.8790853023529053
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              2.472377300262451,
+              -4.949747085571289,
+              4.23721981048584
+            ],
+            "rotation": [
+              1.009339690208435,
+              -3.6850735796178924e-08,
+              0.4806620478630066
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              4.085536479949951,
+              2.1213204860687256,
+              1.1716492176055908
+            ],
+            "rotation": [
+              1.47627854347229,
+              -2.6995809321306297e-07,
+              2.0390512943267822
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -0.5018885731697083,
+              3.535534143447876,
+              4.629326820373535
+            ],
+            "rotation": [
+              0.7390648126602173,
+              -6.695697152281355e-08,
+              -3.030831813812256
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": [
+          184,
+          184,
+          184
+        ],
+        "floor_hidden": true
+      }
+    },
+    {
+      "path": "assets/food/whole_red_apple/underside.jpg",
+      "sha256": "51319ed3b9c242bac87a18fc71b23c5231aed0a6534a207a92078037ecccffd6",
+      "bytes": 174025,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "underside",
+      "original_render_record": {
+        "input_sha256": "d888fb65220c72f49de66db452bdf37285c9511e198a691e18e3d58c1c6f924c",
+        "renderer_sha256": "15d98c81a62777d2925cd4ea6d7ee21f9eafc70924c26e42eb49d2f029c0b08b",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "1081dc5aa041e31e35fcc4997509460644ac00a7ff5ad809edee0a879fbcbd63",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 287.66014748999805,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 23.69209429337777,
+        "source_bounds": [
+          [
+            -0.0416816771030426,
+            -0.04225699603557587,
+            0.0
+          ],
+          [
+            0.04268902912735939,
+            0.042159345000982285,
+            0.0793127566576004
+          ]
+        ],
+        "camera_location": [
+          -9.238720508619735e-07,
+          -8.642672923997452e-07,
+          -9.060457229614258
+        ],
+        "camera_rotation": [
+          8.742277657347586e-08,
+          3.1415927410125732,
+          -8.742277657347586e-08
+        ],
+        "ortho_scale": 2.5,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          1.9989187121391296,
+          1.9999999403953552
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              4.949747085571289,
+              3.2976763248443604,
+              -1.5328353643417358
+            ],
+            "rotation": [
+              1.9729316234588623,
+              2.7567679694584513e-08,
+              2.1877756118774414
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              -2.1213207244873047,
+              0.2321065366268158,
+              -3.145993709564209
+            ],
+            "rotation": [
+              2.66458797454834,
+              2.1667437977157533e-07,
+              -1.777833104133606
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -3.535533905029297,
+              3.689784288406372,
+              1.4414314031600952
+            ],
+            "rotation": [
+              1.4962714910507202,
+              -4.675181841662379e-08,
+              -2.4055869579315186
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": [
+          184,
+          184,
+          184
+        ],
+        "floor_hidden": true
+      }
+    },
+    {
+      "path": "assets/food/whole_red_apple/underside_detail.jpg",
+      "sha256": "2e2dee340d21f574a49f8cff689128374938325b339adda08a7b2371265d69e4",
+      "bytes": 166598,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "underside_detail",
+      "original_render_record": {
+        "input_sha256": "d888fb65220c72f49de66db452bdf37285c9511e198a691e18e3d58c1c6f924c",
+        "renderer_sha256": "15d98c81a62777d2925cd4ea6d7ee21f9eafc70924c26e42eb49d2f029c0b08b",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "1081dc5aa041e31e35fcc4997509460644ac00a7ff5ad809edee0a879fbcbd63",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 879.6963776170014,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 23.69209429337777,
+        "source_bounds": [
+          [
+            -0.0416816771030426,
+            -0.04225699603557587,
+            0.0
+          ],
+          [
+            0.04268902912735939,
+            0.042159345000982285,
+            0.0793127566576004
+          ]
+        ],
+        "camera_location": [
+          -0.012109413743019104,
+          -2.859534740447998,
+          -9.520257949829102
+        ],
+        "camera_rotation": [
+          2.8501358032226562,
+          -0.0,
+          0.0
+        ],
+        "ortho_scale": 0.23010116815567017,
+        "focus": {
+          "purpose": "Dry calyx and shriveled sepals",
+          "mesh_name_contains": [
+            "floral core",
+            "sepal"
+          ],
+          "direction": [
+            0,
+            -0.3,
+            -1
+          ]
+        },
+        "focus_projected_width_height": [
+          0.17093563824892044,
+          0.18408092856407166
+        ],
+        "full_object_fit": false,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              -4.949747085571289,
+              -3.8690342903137207,
+              -0.48098433017730713
+            ],
+            "rotation": [
+              1.7945467233657837,
+              -5.0231520276611263e-08,
+              -0.8784545063972473
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              2.1213204860687256,
+              -1.3962886333465576,
+              -2.906996250152588
+            ],
+            "rotation": [
+              2.5388591289520264,
+              1.1084901530011848e-07,
+              0.9150416851043701
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              3.535534143447876,
+              -3.3899552822113037,
+              2.4805164337158203
+            ],
+            "rotation": [
+              1.2831521034240723,
+              -6.597451118750541e-08,
+              0.7728146314620972
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": [
+          184,
+          184,
+          184
+        ],
+        "floor_hidden": true
+      }
+    }
+  ]
+}

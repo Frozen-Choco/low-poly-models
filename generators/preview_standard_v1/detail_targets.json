@@ -1,0 +1,334 @@
+{
+  "policy": "Close-ups change camera target/ortho scale only; geometry normalization and studio illumination remain identical to each asset's hero. Source-local coordinates are converted by the manifest's render-only normalization.",
+  "whole_red_apple": {
+    "close_up": {
+      "purpose": "Magnified skin shoulder, pigment and short stalk",
+      "target_m": [
+        0.01,
+        -0.01,
+        0.06
+      ],
+      "span_m": 0.05,
+      "direction": [
+        1,
+        -1,
+        1.2
+      ]
+    },
+    "underside_detail": {
+      "purpose": "Dry calyx and shriveled sepals",
+      "mesh_name_contains": [
+        "floral core",
+        "sepal"
+      ],
+      "direction": [
+        0,
+        -0.3,
+        -1
+      ]
+    }
+  },
+  "traffic_signal": {
+    "close_up": {
+      "purpose": "Unobscured LED/lens colors and front housing",
+      "mesh_name_contains": [
+        "LED array",
+        "optical backing",
+        "retaining gasket",
+        "sun visor",
+        "signal housing"
+      ],
+      "direction": [
+        0.12,
+        -1,
+        0.05
+      ]
+    },
+    "detail": {
+      "purpose": "Rear mounting brackets, service cover and cable glands",
+      "target_m": [
+        0.65,
+        0.02,
+        4.4
+      ],
+      "span_m": 1.65,
+      "direction": [
+        0.5,
+        1,
+        0.3
+      ]
+    },
+    "base": {
+      "purpose": "Anchors and foundation contact",
+      "target_m": [
+        0.02,
+        0,
+        0.32
+      ],
+      "span_m": 0.85,
+      "direction": [
+        1,
+        -1,
+        0.7
+      ]
+    }
+  },
+  "railway_crossing_lowered": {
+    "close_up": {
+      "purpose": "Red warning lens/hood and sounder front faces",
+      "mesh_name_contains": [
+        "optical lens",
+        "sun hood",
+        "warning lamp",
+        "sounder"
+      ],
+      "direction": [
+        0.1,
+        -1,
+        0.05
+      ]
+    },
+    "detail": {
+      "purpose": "Crossbuck mast clamp and attachment",
+      "target_m": [
+        0,
+        0,
+        3.35
+      ],
+      "span_m": 0.65,
+      "direction": [
+        0.4,
+        1,
+        0.4
+      ]
+    },
+    "base": {
+      "purpose": "Mast base and boom actuator attachment",
+      "target_m": [
+        0.1,
+        0,
+        0.35
+      ],
+      "span_m": 0.8,
+      "direction": [
+        1,
+        -1,
+        0.7
+      ]
+    }
+  },
+  "streetlight": {
+    "detail": {
+      "purpose": "Luminaire underside diffuser and perimeter seal",
+      "mesh_name_contains": [
+        "luminaire body",
+        "diffuser",
+        "optical cell",
+        "perimeter seal"
+      ],
+      "direction": [
+        1,
+        -1,
+        -0.7
+      ]
+    }
+  },
+  "park_bench": {
+    "detail": {
+      "purpose": "Seat timber grain and flush fasteners",
+      "focus": "right seat/slat joint",
+      "direction": [
+        1,
+        -1,
+        0.7
+      ]
+    },
+    "endgrain": {
+      "purpose": "Actual cut timber end grain",
+      "target_m": [
+        0.8,
+        -0.03,
+        0.47
+      ],
+      "span_m": 0.45,
+      "direction": [
+        1.4,
+        -0.8,
+        0.65
+      ]
+    }
+  },
+  "traffic_cone": {
+    "detail": {
+      "purpose": "Magnified open tip and upper reflective-band transition",
+      "target_m": [
+        0,
+        0,
+        0.58
+      ],
+      "span_m": 0.28,
+      "direction": [
+        1,
+        -1,
+        1
+      ]
+    }
+  },
+  "public_recycling_bin": {
+    "close_up": {
+      "purpose": "Sorting apertures, pictograms and insertion chutes",
+      "mesh_name_contains": [
+        "sorting aperture",
+        "pictogram",
+        "insertion chute"
+      ],
+      "direction": [
+        0.2,
+        -1,
+        0.3
+      ]
+    }
+  },
+  "stainless_kitchen_kettle": {
+    "close_up": {
+      "purpose": "Lid seat/vent and handle pivot hardware",
+      "mesh_name_contains": [
+        "domed lid",
+        "insulated knob",
+        "shoulder mounting",
+        "hinge cheek",
+        "handle tang",
+        "hinge pin"
+      ],
+      "direction": [
+        1,
+        -1,
+        1.2
+      ]
+    }
+  },
+  "ceramic_rice_bowl": {
+    "close_up": {
+      "purpose": "Magnified front rim, glaze bands and inner ceramic surface",
+      "target_m": [
+        0,
+        -0.04,
+        0.058
+      ],
+      "span_m": 0.06,
+      "direction": [
+        1,
+        -1,
+        1.5
+      ]
+    }
+  },
+  "wooden_cutting_board": {
+    "close_up": {
+      "purpose": "Wood grain and edge finish",
+      "focus": "top-right edge region",
+      "direction": [
+        1,
+        -1,
+        1.5
+      ]
+    }
+  },
+  "cast_iron_manhole": {
+    "close_up": {
+      "purpose": "Cast tread texture and surface construction",
+      "target_m": [
+        0,
+        0,
+        0.064
+      ],
+      "span_m": 0.36,
+      "direction": [
+        0.7,
+        -1.2,
+        1.2
+      ]
+    }
+  },
+  "concrete_curb_straight": {
+    "close_up": {
+      "purpose": "Concrete surface and rounded shoulder",
+      "target_m": [
+        0,
+        0,
+        0.18
+      ],
+      "span_m": 0.36,
+      "direction": [
+        0.7,
+        -1.2,
+        1.2
+      ]
+    }
+  },
+  "steel_roadside_bollard": {
+    "close_up": {
+      "purpose": "Flange, weld and bored anchor fasteners",
+      "target_m": [
+        0,
+        0,
+        0.05
+      ],
+      "span_m": 0.25,
+      "direction": [
+        0.7,
+        -1.2,
+        1.2
+      ]
+    }
+  },
+  "a4_clipboard": {
+    "close_up": {
+      "purpose": "Spring hinge and paper-contact jaw",
+      "mesh_name_contains": [
+        "steel backplate",
+        "fixing rivet",
+        "spring hinge",
+        "wire jaw",
+        "contact pad",
+        "torsion spring"
+      ],
+      "direction": [
+        1,
+        -1,
+        1.5
+      ]
+    },
+    "detail": {
+      "alias_of": "close_up"
+    }
+  },
+  "office_stapler": {
+    "close_up": {
+      "purpose": "Driver/anvil and magazine nose",
+      "focus": "front mechanism region",
+      "direction": [
+        1,
+        -1,
+        0.8
+      ]
+    },
+    "detail": {
+      "alias_of": "close_up"
+    }
+  },
+  "taped_shipping_box": {
+    "close_up": {
+      "purpose": "Top flap seam and tape texture",
+      "focus": "top seam center",
+      "direction": [
+        1,
+        -1,
+        1.5
+      ]
+    },
+    "detail": {
+      "alias_of": "close_up"
+    }
+  }
+}

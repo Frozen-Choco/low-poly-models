@@ -1,0 +1,121 @@
+{
+  "revision": "apple-material-r2",
+  "scope": "One existing apple model/material replacement and reproducible source; canonical photographs require separate frozen photography manifest. Held bread/onigiri and rejected/provisional renders excluded.",
+  "review_status": "model, material, standardized photography and integration reviewed",
+  "files": [
+    {
+      "local_path": "README.md",
+      "repo_relative_path": "generators/apple_material_revision/README.md",
+      "bytes": 1919,
+      "sha256": "2b661fbb64e3e3397a3aebb8f6ce0ca129d4bf5f155f5dacfb41b5a1ad822b1b"
+    },
+    {
+      "local_path": "assets/whole_red_apple/metadata.json",
+      "repo_relative_path": "assets/food/whole_red_apple/metadata.json",
+      "bytes": 1066,
+      "sha256": "2d160b195975ef60d44914c1d8af5d6c8bc283cd32b410b79a181c462a16a351"
+    },
+    {
+      "local_path": "assets/whole_red_apple/whole_red_apple.blend",
+      "repo_relative_path": "assets/food/whole_red_apple/whole_red_apple.blend",
+      "bytes": 1217123,
+      "sha256": "ffc54ed79115598a181a8d7e9e93e1577e5d489743ce68d8b7c495d87d279fb0"
+    },
+    {
+      "local_path": "assets/whole_red_apple/whole_red_apple.glb",
+      "repo_relative_path": "assets/food/whole_red_apple/whole_red_apple.glb",
+      "bytes": 1180648,
+      "sha256": "d888fb65220c72f49de66db452bdf37285c9511e198a691e18e3d58c1c6f924c"
+    },
+    {
+      "local_path": "docs/diagnosis.md",
+      "repo_relative_path": "generators/apple_material_revision/docs/diagnosis.md",
+      "bytes": 3330,
+      "sha256": "9fc57ea2ffc5ef1c80547a9bdc51ad01fab3ee441d9453c6d5520e39e4e9459f"
+    },
+    {
+      "local_path": "glb_pbr.json",
+      "repo_relative_path": "generators/apple_material_revision/glb_pbr.json",
+      "bytes": 385,
+      "sha256": "23c4405b11bd589fe11a77d5f29165955ff7b78c8406467ebf164f1fa2ae3bef"
+    },
+    {
+      "local_path": "inputs/approved_apple_geometry.blend",
+      "repo_relative_path": "generators/apple_material_revision/inputs/approved_apple_geometry.blend",
+      "bytes": 1693509,
+      "sha256": "e529738e75454dbbe6e1a187488c485dd137502f1a0837f247b5c38e8484413d"
+    },
+    {
+      "local_path": "inputs/metadata.json",
+      "repo_relative_path": "generators/apple_material_revision/inputs/metadata.json",
+      "bytes": 1211,
+      "sha256": "6a4e3bdba10d1b663842bd09b3a60745b59d42c99aa8671ec2427f303e1024f8"
+    },
+    {
+      "local_path": "inputs/published_before.glb",
+      "repo_relative_path": "generators/apple_material_revision/inputs/published_before.glb",
+      "bytes": 1658932,
+      "sha256": "3979de95c9dd638cf00b14083185433c5f683c830a9b948c8182cb7eec70df54"
+    },
+    {
+      "local_path": "material_revision.json",
+      "repo_relative_path": "generators/apple_material_revision/material_revision.json",
+      "bytes": 1087,
+      "sha256": "f151b9c93ca2612da1b473d2c8b299917d7190b3ba79bc100f3cb2673389baee"
+    },
+    {
+      "local_path": "previews/revised_albedo.png",
+      "repo_relative_path": "generators/apple_material_revision/previews/revised_albedo.png",
+      "bytes": 604157,
+      "sha256": "60a9c323e5c584ded264c048330cf754d28e6798a076049ef999bff6fa441ab1"
+    },
+    {
+      "local_path": "previews/revised_metallic_roughness.png",
+      "repo_relative_path": "generators/apple_material_revision/previews/revised_metallic_roughness.png",
+      "bytes": 354244,
+      "sha256": "add2e09f8f9e368f3e6b929496cb48e485d6c50fc3bcc135e5745c462975a44b"
+    },
+    {
+      "local_path": "reproduction.json",
+      "repo_relative_path": "generators/apple_material_revision/reproduction.json",
+      "bytes": 1871,
+      "sha256": "5895433b2b94ddb1d1823c6069312c6d784a6d0fbc72d6bd948d9ed0f1afc993"
+    },
+    {
+      "local_path": "scripts/common.py",
+      "repo_relative_path": "generators/apple_material_revision/scripts/common.py",
+      "bytes": 5896,
+      "sha256": "5d104f49bb3f01c778f19eb5a0e010050a8426466e24c3c638bd4c6b86bb8e87"
+    },
+    {
+      "local_path": "scripts/extract_material.py",
+      "repo_relative_path": "generators/apple_material_revision/scripts/extract_material.py",
+      "bytes": 913,
+      "sha256": "1f6e00ddb89e319ed129d8d1b341333a090b6ec4ae1be06997e5f96df3ef7005"
+    },
+    {
+      "local_path": "scripts/package_manifest.py",
+      "repo_relative_path": "generators/apple_material_revision/scripts/package_manifest.py",
+      "bytes": 1529,
+      "sha256": "6aed951b80b868e6f45009fffa64b896720e3f37ceb734ec77de8e14db9cbf18"
+    },
+    {
+      "local_path": "scripts/revise_material.py",
+      "repo_relative_path": "generators/apple_material_revision/scripts/revise_material.py",
+      "bytes": 4907,
+      "sha256": "9c673eb4f47e28d9a8af0cd274221aa4544f9e13da1bb7a5de204c72785d687a"
+    },
+    {
+      "local_path": "scripts/validate_saved.py",
+      "repo_relative_path": "generators/apple_material_revision/scripts/validate_saved.py",
+      "bytes": 1462,
+      "sha256": "20ea557d12fb6906c49e65c8f1c8274b5b89ae3cda2e88fd3809c2574f5b0f40"
+    },
+    {
+      "local_path": "validation.json",
+      "repo_relative_path": "generators/apple_material_revision/validation.json",
+      "bytes": 1192,
+      "sha256": "bfe4b44a5064fd7263cfe0058af8be3d2eb008c6f89d630a8e9a1947352b555e"
+    }
+  ]
+}

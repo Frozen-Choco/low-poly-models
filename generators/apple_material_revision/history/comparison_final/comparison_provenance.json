@@ -1,0 +1,35 @@
+{
+  "purpose": "Historical material comparison only; before is superseded old material.",
+  "same_rig_camera_checks": {
+    "original_bounds": true,
+    "render_only_normalization": true,
+    "spec_sha256": true,
+    "camera_location": true,
+    "camera_rotation": true,
+    "ortho_scale": true,
+    "projected_bounds_width_height": true,
+    "occupancy": true
+  },
+  "old_model_sha256": "3979de95c9dd638cf00b14083185433c5f683c830a9b948c8182cb7eec70df54",
+  "new_model_sha256": "d888fb65220c72f49de66db452bdf37285c9511e198a691e18e3d58c1c6f924c",
+  "render_spec_sha256": "d379650cdd41a086b7162244ffed07f879baa96073451fb3b88fc646f0b685ab",
+  "renderer_sha256": "e2bfa766cf9759321d2d51798e1fa821fe71ca47aff614331029cf200efe3ca0",
+  "samples_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "resolution": [
+    1200,
+    1200
+  ],
+  "images": [
+    {
+      "path": "before_front.jpg",
+      "bytes": 196367,
+      "sha256": "ecc73c84bff5cac2387503857204cc5d113b62783470252c98ca590fc93b69aa"
+    },
+    {
+      "path": "after_front.jpg",
+      "bytes": 163614,
+      "sha256": "171c8d9520c43a1afb8468640ddf56b5930c1c0a8762a221d9aecae4445af636"
+    }
+  ]
+}

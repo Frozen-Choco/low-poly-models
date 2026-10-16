@@ -1,0 +1,14 @@
+{
+  "version": "preview-standard-v1",
+  "blender": "4.3.2",
+  "pillow": "11.1.0",
+  "files": {
+    "render.py": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+    "standard.json": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+    "inputs.json": "90ff953bf2417f8cf70a86a922bcaab062a609a60fb416884e1c473c3e29bf7c",
+    "detail_targets.json": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+    "views.json": "da4a1a9afbc5c5276565ff7aa7984e51f69e7508e188b37efed5e514721839d2",
+    "audit.py": "dad4d5f60c622762c0254b12ad9a109ac2e0dca24d5e02e342c4a37f406f5b73",
+    "README.md": "681a7a1e5fd745d8e204d5f7ac214b82a59cf2b38a5b48ef41c4523526ccc3c0"
+  }
+}

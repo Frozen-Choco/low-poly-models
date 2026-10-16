@@ -1,0 +1,25 @@
+{
+  "geometry_streams_identical": true,
+  "before_mesh_geometry": {
+    "Gently asymmetric apple skin": "6824e144d6bf0109178d2c3e904200ca53dbe4d8cadab1b05d386d3129839cf1",
+    "Curved short stalk": "ecb42c8e0b981b71cfbab3104d4e444852754a4008b7041c30f44bd6f50c0426",
+    "Irregular recessed dry floral core": "cda171af28ea601ffeb0105ad88d59aec78622904178e381d9c78621628a33f6",
+    "Uneven shriveled sepal 1": "3f36768353dd26260b6fc855f50d95f8936686d492746296c3f0aa0b58ab204a",
+    "Uneven shriveled sepal 2": "2fbf7a1fe4410dd7ec95e31f5642a5d7f6b451be7a248330518cbc674efca61a",
+    "Uneven shriveled sepal 3": "0cdc9038db5c92759bea14dab100999456aed44b3bdb6fe2ad1d8471b44d3c8a",
+    "Uneven shriveled sepal 4": "f1b5b3e48df72ab1545e7054012b09227076171df4c62c8c5829bb27a1ec08cc",
+    "Uneven shriveled sepal 5": "ff8edd94f22a42804eecfebd43693bac93cb8907e40c01e47dda3b4d7441992e"
+  },
+  "after_mesh_geometry": {
+    "Gently asymmetric apple skin": "6824e144d6bf0109178d2c3e904200ca53dbe4d8cadab1b05d386d3129839cf1",
+    "Curved short stalk": "ecb42c8e0b981b71cfbab3104d4e444852754a4008b7041c30f44bd6f50c0426",
+    "Irregular recessed dry floral core": "cda171af28ea601ffeb0105ad88d59aec78622904178e381d9c78621628a33f6",
+    "Uneven shriveled sepal 1": "3f36768353dd26260b6fc855f50d95f8936686d492746296c3f0aa0b58ab204a",
+    "Uneven shriveled sepal 2": "2fbf7a1fe4410dd7ec95e31f5642a5d7f6b451be7a248330518cbc674efca61a",
+    "Uneven shriveled sepal 3": "0cdc9038db5c92759bea14dab100999456aed44b3bdb6fe2ad1d8471b44d3c8a",
+    "Uneven shriveled sepal 4": "f1b5b3e48df72ab1545e7054012b09227076171df4c62c8c5829bb27a1ec08cc",
+    "Uneven shriveled sepal 5": "ff8edd94f22a42804eecfebd43693bac93cb8907e40c01e47dda3b4d7441992e"
+  },
+  "reproduced_glb_sha256": "d888fb65220c72f49de66db452bdf37285c9511e198a691e18e3d58c1c6f924c",
+  "isolated_package_reproduction_byte_identical": true
+}

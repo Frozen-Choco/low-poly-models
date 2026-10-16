@@ -911,10 +911,10 @@
     "up_glb": "Y",
     "design": "Original generic food; plausible artist chosen dimensions; not a brand replica",
     "license": "Original geometry and baked procedural texture pixels",
-    "review_status": "approved independent reference-grounded review",
+    "review_status": "model, material and standardized photographs independently approved",
     "blender_version": "4.3.2",
-    "glb_bytes": 1658932,
-    "blend_bytes": 1693509,
+    "glb_bytes": 1180648,
+    "blend_bytes": 1217123,
     "triangles": 9673,
     "zero_area_triangles": 0,
     "bounds_min": [
@@ -933,18 +933,13 @@
       0.0793127566576004
     ],
     "mesh_objects": 8,
-    "files_bytes": {
-      "preview.jpg": 133508,
-      "alternate_light.jpg": 155117,
-      "front_three_quarter.jpg": 133508,
-      "rear.jpg": 123646,
-      "side.jpg": 137005,
-      "whole_red_apple.glb": 1658932,
-      "back.jpg": 123646,
-      "close_up.jpg": 164706,
-      "underside_detail.jpg": 152508,
-      "whole_red_apple.blend": 1693509,
-      "underside.jpg": 75671
+    "photography": {
+      "standard": "preview_standard_v1",
+      "resolution": [
+        1200,
+        1200
+      ],
+      "record": "generators/preview_standard_v1/published/whole_red_apple.json"
     }
   }
 ]

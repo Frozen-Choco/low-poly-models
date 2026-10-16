@@ -1,0 +1,122 @@
+[
+  {
+    "id": "whole_red_apple",
+    "repo_path": "assets/food/whole_red_apple/whole_red_apple.glb",
+    "sha256": "d888fb65220c72f49de66db452bdf37285c9511e198a691e18e3d58c1c6f924c",
+    "git_sha": "99f4a471f99a4ce2914e3f5ae017f5fc6076d4cd"
+  },
+  {
+    "id": "dining_chair",
+    "repo_path": "assets/furniture/dining_chair/dining_chair.glb",
+    "sha256": "04b527d70d44d85e96c32ff9ec6b56d485be042ddf69d97bf285711062a51f41",
+    "git_sha": "efe03d0e99561e291c93ed444b5d9abc1c6ded2c"
+  },
+  {
+    "id": "oak_table",
+    "repo_path": "assets/furniture/oak_table/oak_table.glb",
+    "sha256": "276df335f457ebb618db2124447f630d56a59474c82f44b6e81a3c54e1f489ca",
+    "git_sha": "2e24c306268663b91086e1451ee8613d0bce5a53"
+  },
+  {
+    "id": "open_shelf",
+    "repo_path": "assets/furniture/open_shelf/open_shelf.glb",
+    "sha256": "aac24f29bf367940ef4359941ab42c3587f6bbc20112237c81c8462226186e7b",
+    "git_sha": "88995cbc767c55d7534d4fe840942bcbfc0ecd1e"
+  },
+  {
+    "id": "a4_clipboard",
+    "repo_path": "assets/household/a4_clipboard/a4_clipboard.glb",
+    "sha256": "0381ec78b5f37da58e44ebc7af70890cc2025f612b58d56c6c492c3c1f83ef6c",
+    "git_sha": "bd3076bdb28669429547f6da7eaf151f84c7fead"
+  },
+  {
+    "id": "ceramic_rice_bowl",
+    "repo_path": "assets/household/ceramic_rice_bowl/ceramic_rice_bowl.glb",
+    "sha256": "6903438238cb329bc0857963af3a80ac9bfd777bc5c12f47d8e4ed0f0ae2b539",
+    "git_sha": "9dd3e9ab5354ed44f527df85a5737d519e30e746"
+  },
+  {
+    "id": "mug",
+    "repo_path": "assets/household/mug/mug.glb",
+    "sha256": "914ca363cf4c0951a0ae343efcbc3de3ad15cbf6f4bff9d9889d8326202f37f5",
+    "git_sha": "ce119c58feb6c37f8a6eaf5cfed9781a5815538b"
+  },
+  {
+    "id": "office_stapler",
+    "repo_path": "assets/household/office_stapler/office_stapler.glb",
+    "sha256": "98db33ea4d4321102dddaac4c3c039378842eab3532705977ea1cf3fa0aa10df",
+    "git_sha": "6566e3a9ee587a32dcf75227f0cc3fc9fd2c3fa9"
+  },
+  {
+    "id": "stainless_kitchen_kettle",
+    "repo_path": "assets/household/stainless_kitchen_kettle/stainless_kitchen_kettle.glb",
+    "sha256": "65d88ddaa096caec12eb7d180fca754b485ef4dcd34148069c564ae74b387539",
+    "git_sha": "558851cacd573e5f26393f975c73388372e57a77"
+  },
+  {
+    "id": "taped_shipping_box",
+    "repo_path": "assets/household/taped_shipping_box/taped_shipping_box.glb",
+    "sha256": "baf79737710c3367d1811bd4edf7b44972f9e189a5031a090f9b331b83cfce56",
+    "git_sha": "bed48dc021e3b26dc976264cfd64b75ba39d3d7f"
+  },
+  {
+    "id": "wooden_cutting_board",
+    "repo_path": "assets/household/wooden_cutting_board/wooden_cutting_board.glb",
+    "sha256": "6c6ec150716ded158707017f0df39b8f647d9103c0e7128d34a9b3633d77bfd2",
+    "git_sha": "d5a420303176f3ed79e4e3d03f359c46c11faa8d"
+  },
+  {
+    "id": "cast_iron_manhole",
+    "repo_path": "assets/street/cast_iron_manhole/cast_iron_manhole.glb",
+    "sha256": "cc63b16acbabc0c7ceb9c262699b54f6912bb9f9f439b74ea3a92ca613c3d2ac",
+    "git_sha": "f3c55ccf15788d298840b6f9beb0f5008fff40ea"
+  },
+  {
+    "id": "concrete_curb_straight",
+    "repo_path": "assets/street/concrete_curb_straight/concrete_curb_straight.glb",
+    "sha256": "18d5a920dcab807ebe4a3c2af0c55856b8994df5d9889444afcd0c181e4353d3",
+    "git_sha": "45fea7d1cc39ed6b5d23a8ac7f3a96ee71d698f5"
+  },
+  {
+    "id": "park_bench",
+    "repo_path": "assets/street/park_bench/park_bench.glb",
+    "sha256": "064f932efe92b503e1c2c3151d1219227af5b2697420d6435bcb8bf9a9775131",
+    "git_sha": "2ca68d8b61506eaaf4d6669b360b7551f3faea21"
+  },
+  {
+    "id": "public_recycling_bin",
+    "repo_path": "assets/street/public_recycling_bin/public_recycling_bin.glb",
+    "sha256": "0fe9726f84f4aaf1bdfcad064d209f367adb11a762ab52c87ee57f5088dcbf06",
+    "git_sha": "5d66bd29d76325b645d16a71a83e40fc87aaaf27"
+  },
+  {
+    "id": "railway_crossing_lowered",
+    "repo_path": "assets/street/railway_crossing_lowered/railway_crossing_lowered.glb",
+    "sha256": "71c349cabcce6cdae3b3b4bed14d665b5e99c9f0a11d310a074a2885ba78e20b",
+    "git_sha": "2b81c545c2eda2c938307b62a459ae972ee8b822"
+  },
+  {
+    "id": "steel_roadside_bollard",
+    "repo_path": "assets/street/steel_roadside_bollard/steel_roadside_bollard.glb",
+    "sha256": "381aef5ecaca4db5afc13b1d48c953e9e0be3bc91fcdfe1ad3c5c7d5372a9e6a",
+    "git_sha": "42a457f28e856e7506eeebf5ff3280e1c3842fa2"
+  },
+  {
+    "id": "streetlight",
+    "repo_path": "assets/street/streetlight/streetlight.glb",
+    "sha256": "dca0b80d78e83f6b56019c9a2814fcd795ceb0145677f5ffeea20b1973e6cbae",
+    "git_sha": "c5e6b240326143cbf249fdb6c7e37cd478558a39"
+  },
+  {
+    "id": "traffic_cone",
+    "repo_path": "assets/street/traffic_cone/traffic_cone.glb",
+    "sha256": "6d9500c674f3aadb539665ad04c470ba27a5108774045a391e5ce30054af9286",
+    "git_sha": "ef0f98ddab147066bcb713f8ab5ff467a06f6bc1"
+  },
+  {
+    "id": "traffic_signal",
+    "repo_path": "assets/street/traffic_signal/traffic_signal.glb",
+    "sha256": "751b558f1dbdae7914d550336901992d7bb47977594206d99bf2f5850154623f",
+    "git_sha": "6d8fdc5acdf500a80bbe70e8a7913cd179fed22f"
+  }
+]

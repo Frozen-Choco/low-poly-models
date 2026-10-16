@@ -1,0 +1,28 @@
+{
+  "source_blend": "inputs/approved_apple_geometry.blend",
+  "source_sha256": "e529738e75454dbbe6e1a187488c485dd137502f1a0837f247b5c38e8484413d",
+  "geometry_before_sha256": "6161569a12a0c183b62ede66fc44d6df849ffd8c4a031f4f3f215916f16a41ca",
+  "geometry_after_sha256": "6161569a12a0c183b62ede66fc44d6df849ffd8c4a031f4f3f215916f16a41ca",
+  "geometry_identical": true,
+  "material": {
+    "metallic": 0,
+    "roughness_min": 0.34040501713752747,
+    "roughness_max": 0.411128968000412,
+    "roughness_mean": 0.37481266260147095,
+    "ior": 1.5,
+    "specular_ior_level": 0.5,
+    "coat_weight": 0,
+    "normal_map": false,
+    "base_color_min": [
+      0.3872576057910919,
+      0.02324485592544079,
+      0.017056098207831383
+    ],
+    "base_color_max": [
+      0.6473231315612793,
+      0.26869720220565796,
+      0.132216215133667
+    ]
+  },
+  "texture_rationale": "Seamless direction-balanced spherical noise replaces repeated longitude stripes; circular physical-scale lenticels are sampled uniformly over surface area. No longitudinal procedural term or deep groove normal map."
+}

@@ -1,0 +1,17 @@
+{
+  "glb_sha256": "d888fb65220c72f49de66db452bdf37285c9511e198a691e18e3d58c1c6f924c",
+  "material": {
+    "doubleSided": true,
+    "name": "Red apple skin with lenticels",
+    "pbrMetallicRoughness": {
+      "baseColorTexture": {
+        "index": 0
+      },
+      "metallicFactor": 0,
+      "metallicRoughnessTexture": {
+        "index": 1
+      }
+    }
+  },
+  "extensions_used": []
+}

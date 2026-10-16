@@ -1,0 +1,32 @@
+{
+  "standard": "preview_standard_v1",
+  "resolution": [
+    1200,
+    1200
+  ],
+  "completed_assets": [
+    "whole_red_apple"
+  ],
+  "pending_assets": [
+    "dining_chair",
+    "oak_table",
+    "open_shelf",
+    "mug",
+    "traffic_signal",
+    "railway_crossing_lowered",
+    "public_recycling_bin",
+    "park_bench",
+    "streetlight",
+    "traffic_cone",
+    "ceramic_rice_bowl",
+    "stainless_kitchen_kettle",
+    "wooden_cutting_board",
+    "cast_iron_manhole",
+    "concrete_curb_straight",
+    "steel_roadside_bollard",
+    "a4_clipboard",
+    "office_stapler",
+    "taped_shipping_box"
+  ],
+  "scope": "Current canonical asset photographs only; historical generator evidence retained."
+}
