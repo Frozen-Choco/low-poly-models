@@ -1,0 +1,203 @@
+{
+  "scope": "Exact production bytes and original immutable records; render-only open pose is not another catalog model.",
+  "assets": [
+    {
+      "asset": "television",
+      "production_input": "assets/television/television.glb",
+      "packaged_input": "assets/appliances/television/television.glb",
+      "sha256": "150b0b2de8f8ed09d61e8d54e4639b5eac63b71e17d0ce671455de8afa4abd56",
+      "views": [
+        {
+          "view": "preview",
+          "input_variant": "television",
+          "packaged_image": "assets/appliances/television/preview.jpg",
+          "sha256": "105e354a212531a6e782f5c68b6038159a470e46c4f3cd5fea146c7e3ab6f596",
+          "record": "generators/appliances_batch10a_preview_standard_v1/records/television/preview.json"
+        },
+        {
+          "view": "back",
+          "input_variant": "television",
+          "packaged_image": "assets/appliances/television/back.jpg",
+          "sha256": "ce7748e86866c087558c857c30c5586be30508363a1dd1c4aa57168a266b9dbe",
+          "record": "generators/appliances_batch10a_preview_standard_v1/records/television/back.json"
+        },
+        {
+          "view": "front",
+          "input_variant": "television",
+          "packaged_image": "assets/appliances/television/front.jpg",
+          "sha256": "70f1dbbd7782263ba8eeff9ca5aae6a55e7360a669ae55135cc11277843d62b5",
+          "record": "generators/appliances_batch10a_preview_standard_v1/records/television/front.json"
+        },
+        {
+          "view": "rear",
+          "input_variant": "television",
+          "packaged_image": "assets/appliances/television/rear.jpg",
+          "sha256": "0733d21b59e30920a0fb7a9dafebc2fad979a1de4ae3143fe34a3ff93c98e53f",
+          "record": "generators/appliances_batch10a_preview_standard_v1/records/television/rear.json"
+        },
+        {
+          "view": "side",
+          "input_variant": "television",
+          "packaged_image": "assets/appliances/television/side.jpg",
+          "sha256": "7389d17016805395c231ecce3b1e116e8e631c29e3a0102ccf8c5102d232e32e",
+          "record": "generators/appliances_batch10a_preview_standard_v1/records/television/side.json"
+        },
+        {
+          "view": "left",
+          "input_variant": "television",
+          "packaged_image": "assets/appliances/television/left.jpg",
+          "sha256": "4aff479b66379aec4937c986300331b59635eef0981212335504da9121bb32cf",
+          "record": "generators/appliances_batch10a_preview_standard_v1/records/television/left.json"
+        },
+        {
+          "view": "top",
+          "input_variant": "television",
+          "packaged_image": "assets/appliances/television/top.jpg",
+          "sha256": "2dd1c9bdc536ec7f620c3687646ed52e1222e910878072b11c5371e14da611d7",
+          "record": "generators/appliances_batch10a_preview_standard_v1/records/television/top.json"
+        },
+        {
+          "view": "underside",
+          "input_variant": "television",
+          "packaged_image": "assets/appliances/television/underside.jpg",
+          "sha256": "3ece8a247cb5c93f9139bdc894a92a620acf9c9d0c19efd72be6fcb2c76f1864",
+          "record": "generators/appliances_batch10a_preview_standard_v1/records/television/underside.json"
+        },
+        {
+          "view": "close_up",
+          "input_variant": "television",
+          "packaged_image": "assets/appliances/television/close_up.jpg",
+          "sha256": "eb9a641fc5fa83cb311e3ff6e086527fd9fdf169bcf808a30963629f23eeb5fd",
+          "record": "generators/appliances_batch10a_preview_standard_v1/records/television/close_up.json"
+        },
+        {
+          "view": "underside_detail",
+          "input_variant": "television",
+          "packaged_image": "assets/appliances/television/underside_detail.jpg",
+          "sha256": "02845a3b86f2b30164e55afa76b0bc78888b62e94486350e053470ace84a4639",
+          "record": "generators/appliances_batch10a_preview_standard_v1/records/television/underside_detail.json"
+        },
+        {
+          "view": "alternate_light",
+          "input_variant": "television",
+          "packaged_image": "assets/appliances/television/alternate_light.jpg",
+          "sha256": "eb64d1661853ec0bfa7a97385a5e267da93e79219cd88fab521c740d67edc9b0",
+          "record": "generators/appliances_batch10a_preview_standard_v1/records/television/alternate_light.json"
+        },
+        {
+          "view": "vent_detail",
+          "input_variant": "television",
+          "packaged_image": "assets/appliances/television/vent_detail.jpg",
+          "sha256": "2e4329ac8b02918ad588c1e0ecb38701978d7719f7f97afaf463b3adbcaaff78",
+          "record": "generators/appliances_batch10a_preview_standard_v1/records/television/vent_detail.json"
+        }
+      ]
+    },
+    {
+      "asset": "vacuum_cleaner",
+      "production_input": "assets/vacuum_cleaner/vacuum_cleaner.glb",
+      "packaged_input": "assets/appliances/vacuum_cleaner/vacuum_cleaner.glb",
+      "sha256": "d24008696987e0ea69819c1cb0eb944d04c7c1393a27e1fd3d13e8c34df61483",
+      "views": [
+        {
+          "view": "preview",
+          "input_variant": "vacuum_cleaner",
+          "packaged_image": "assets/appliances/vacuum_cleaner/preview.jpg",
+          "sha256": "32be3a4bca9826056f702b2354e1fcd6e9b3e5ca97c25e6f3777f30379106d50",
+          "record": "generators/appliances_batch10a_preview_standard_v1/records/vacuum_cleaner/preview.json"
+        },
+        {
+          "view": "back",
+          "input_variant": "vacuum_cleaner",
+          "packaged_image": "assets/appliances/vacuum_cleaner/back.jpg",
+          "sha256": "102b0f0b68cb5eeceadc21a389224f58e03aca495f2666785de8a2b8f7f06b8f",
+          "record": "generators/appliances_batch10a_preview_standard_v1/records/vacuum_cleaner/back.json"
+        },
+        {
+          "view": "front",
+          "input_variant": "vacuum_cleaner",
+          "packaged_image": "assets/appliances/vacuum_cleaner/front.jpg",
+          "sha256": "e7f02ed17595ff1f370b23c53eee331d7eab8ed2e3a0bf6c92474c88544d730b",
+          "record": "generators/appliances_batch10a_preview_standard_v1/records/vacuum_cleaner/front.json"
+        },
+        {
+          "view": "rear",
+          "input_variant": "vacuum_cleaner",
+          "packaged_image": "assets/appliances/vacuum_cleaner/rear.jpg",
+          "sha256": "2c198bea15b7e4b49bb443f4e42f6bc2b7f8922cbef039752a008eb5f58e7b31",
+          "record": "generators/appliances_batch10a_preview_standard_v1/records/vacuum_cleaner/rear.json"
+        },
+        {
+          "view": "side",
+          "input_variant": "vacuum_cleaner",
+          "packaged_image": "assets/appliances/vacuum_cleaner/side.jpg",
+          "sha256": "0970e51c52fadcc2fe6bb53c8f94cc91982dafce6cc4790557e37386eff01ec9",
+          "record": "generators/appliances_batch10a_preview_standard_v1/records/vacuum_cleaner/side.json"
+        },
+        {
+          "view": "left",
+          "input_variant": "vacuum_cleaner",
+          "packaged_image": "assets/appliances/vacuum_cleaner/left.jpg",
+          "sha256": "bc1e847d85f63a3ecd4e294b826fcbd32344293a7a867f308b39b3029c1a299e",
+          "record": "generators/appliances_batch10a_preview_standard_v1/records/vacuum_cleaner/left.json"
+        },
+        {
+          "view": "top",
+          "input_variant": "vacuum_cleaner",
+          "packaged_image": "assets/appliances/vacuum_cleaner/top.jpg",
+          "sha256": "ca4bdec3f4fc88e9e7fccfa846ab0737eca030e277dda2988c48d70d70d2fe09",
+          "record": "generators/appliances_batch10a_preview_standard_v1/records/vacuum_cleaner/top.json"
+        },
+        {
+          "view": "underside",
+          "input_variant": "vacuum_cleaner",
+          "packaged_image": "assets/appliances/vacuum_cleaner/underside.jpg",
+          "sha256": "a249adbe3e4e372501b0ad608d553e8d829d6d3feba94a5fc7d130f298fef28c",
+          "record": "generators/appliances_batch10a_preview_standard_v1/records/vacuum_cleaner/underside.json"
+        },
+        {
+          "view": "close_up",
+          "input_variant": "vacuum_cleaner",
+          "packaged_image": "assets/appliances/vacuum_cleaner/close_up.jpg",
+          "sha256": "b35a273311e290ed4abd92a969defe8f4c9d9e9e9d654dddccb24bd678408c74",
+          "record": "generators/appliances_batch10a_preview_standard_v1/records/vacuum_cleaner/close_up.json"
+        },
+        {
+          "view": "underside_detail",
+          "input_variant": "vacuum_cleaner",
+          "packaged_image": "assets/appliances/vacuum_cleaner/underside_detail.jpg",
+          "sha256": "8abfddec070dddccf17e58e594139d201472ae4d40fcde9da6f39a4c78a8691a",
+          "record": "generators/appliances_batch10a_preview_standard_v1/records/vacuum_cleaner/underside_detail.json"
+        },
+        {
+          "view": "alternate_light",
+          "input_variant": "vacuum_cleaner",
+          "packaged_image": "assets/appliances/vacuum_cleaner/alternate_light.jpg",
+          "sha256": "78994c3e51a000eb69b4421f8c05947637aa943e0c950370a2deeea1022d1274",
+          "record": "generators/appliances_batch10a_preview_standard_v1/records/vacuum_cleaner/alternate_light.json"
+        },
+        {
+          "view": "vent_detail",
+          "input_variant": "vacuum_cleaner",
+          "packaged_image": "assets/appliances/vacuum_cleaner/vent_detail.jpg",
+          "sha256": "69e4b35fd8defd21af3b4b0ee9483b80e63fb15d9bd1aa6988c7b95c9b3aca96",
+          "record": "generators/appliances_batch10a_preview_standard_v1/records/vacuum_cleaner/vent_detail.json"
+        },
+        {
+          "view": "open",
+          "input_variant": "vacuum_cleaner_open",
+          "packaged_image": "assets/appliances/vacuum_cleaner/open.jpg",
+          "sha256": "fdedee835f5b3bd988a271c96a703e9aac02e9ade0f55ccb2f6f8ed00702d120",
+          "record": "generators/appliances_batch10a_preview_standard_v1/records/vacuum_cleaner/open.json"
+        },
+        {
+          "view": "interior",
+          "input_variant": "vacuum_cleaner_open",
+          "packaged_image": "assets/appliances/vacuum_cleaner/interior.jpg",
+          "sha256": "42068dfe448fbb849394b629474ff198ce3e4b21b8fba3bbdbdb1508acbd9fce",
+          "record": "generators/appliances_batch10a_preview_standard_v1/records/vacuum_cleaner/interior.json"
+        }
+      ]
+    }
+  ]
+}

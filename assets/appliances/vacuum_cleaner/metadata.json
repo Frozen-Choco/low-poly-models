@@ -1,0 +1,69 @@
+{
+  "reference_dimensions_m": [
+    0.242,
+    0.348,
+    0.195
+  ],
+  "modeled_canister_assembly_dimensions_m": [
+    0.2549999952316284,
+    0.40700002014636993,
+    0.19600001018167765
+  ],
+  "mechanism": "Rear-hinged bag lid rotates100 degrees frames1–151. Wheel, caster, telescopic wand and pivoting head are separate editable components but static pose. Hose and cord static; no suction, motor or hose-deformation simulation.",
+  "references": [
+    "https://panasonic.jp/soji/products/MC-PJ24G/spec.html"
+  ],
+  "description": "アイボリーのキャニスター掃除機。大きな車輪、蛇腹ホース、伸縮管、床ノズル、開閉する紙パック室。 保存時の全体寸法は約72.9×100.8×80.8cm（コード・付属管を含む）。紙パック室のふたは0〜100度で開閉。ホース・伸縮管・車輪・ヘッドは静的な編集可能部品。電気・吸引・安全機構の動作や認証は再現していません。",
+  "id": "vacuum_cleaner",
+  "title_ja": "掃除機",
+  "revision": 9,
+  "dimensions_m": [
+    0.7294999957084656,
+    1.0080527663230896,
+    0.807999969044542
+  ],
+  "triangles": 104556,
+  "units": "meter",
+  "up_axis_blend": "Z",
+  "up_axis_glb": "Y",
+  "review_status": "Independent geometry, full canonical photography and exact source package gates passed",
+  "photography_status": "26 canonical views complete across 2 assets",
+  "files": {
+    "blend": {
+      "bytes": 739630,
+      "sha256": "03cadbfa88565190474399029e187c089dacec3a6f02ce11fd4188326c75cdba"
+    },
+    "glb": {
+      "bytes": 3314956,
+      "sha256": "d24008696987e0ea69819c1cb0eb944d04c7c1393a27e1fd3d13e8c34df61483"
+    }
+  },
+  "photography": {
+    "standard": "preview_standard_v1",
+    "views": [
+      "preview",
+      "back",
+      "front",
+      "rear",
+      "side",
+      "left",
+      "top",
+      "underside",
+      "close_up",
+      "underside_detail",
+      "alternate_light",
+      "vent_detail",
+      "open",
+      "interior"
+    ],
+    "records": "../../../generators/appliances_batch10a_preview_standard_v1/records/vacuum_cleaner"
+  },
+  "independent_review": {
+    "technical_status": "approved",
+    "scope": "Independent saved geometry, canonical photography and exact source package acceptance. Visual diorama model with illustrative hinge animation; no electrical or safety certification.",
+    "report": "reviews/tv_vacuum_integration/source_package_approval.json",
+    "report_sha256": "d44e87627b708aabc2ce4ca3a4df643cda53cafc939c002297ca29cc22536077",
+    "source_manifest_sha256": "418c6b3e2a7ec9737bbc1b4bf2b463a841648f977e00ecc95b9bd15c600d863e",
+    "path_base": "repository root"
+  }
+}

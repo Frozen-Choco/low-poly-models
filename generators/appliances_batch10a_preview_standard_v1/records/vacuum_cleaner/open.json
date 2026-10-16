@@ -1,0 +1,108 @@
+{
+  "asset": "vacuum_cleaner_open",
+  "view": "open",
+  "input_repo_path": "evidence/poses/vacuum_cleaner/vacuum_cleaner_open.glb",
+  "input_sha256": "bb7749d49dd7cbefc4cb02f47420ce6223d53ab07f7b5ab0fc73e62fd909ee2b",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "e4943ce2f046d90294292bc6e0d8f397bad744c0b05f3c2a0b8454d85c83b902",
+  "closeup_magnification_vs_full_fit": 0.9999999872702238,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch10a/generators/preview_standard_v1/repo/evidence/poses/vacuum_cleaner/open.jpg",
+  "output_sha256": "fdedee835f5b3bd988a271c96a703e9aac02e9ade0f55ccb2f6f8ed00702d120",
+  "bytes": 122988,
+  "elapsed_seconds": 778.1814937590025,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 1.9674595272857336,
+  "source_bounds": [
+    [
+      -0.24700000882148743,
+      -0.7594999670982361,
+      -6.541119867975453e-10
+    ],
+    [
+      0.48249998688697815,
+      0.2570394277572632,
+      0.8079999685287476
+    ]
+  ],
+  "camera_location": [
+    6.42972993850708,
+    -6.3647613525390625,
+    5.065654277801514
+  ],
+  "camera_rotation": [
+    1.099881887435913,
+    -1.1680641165412453e-07,
+    0.7853983044624329
+  ],
+  "ortho_scale": 2.3411505222320557,
+  "focus": {
+    "direction": [
+      1,
+      -1,
+      0.72
+    ],
+    "mesh_name_contains": [
+      ""
+    ],
+    "purpose": "Whole assembly with only bag lid opened100 degrees"
+  },
+  "focus_projected_width_height": [
+    1.2041078209877014,
+    1.8729203939437866
+  ],
+  "full_object_fit": false,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        -2.9999988079071045,
+        -4.000000953674316,
+        5.000000476837158
+      ],
+      "rotation": [
+        0.8605254292488098,
+        6.123980256234063e-08,
+        -0.6435009241104126
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        4.000000476837158,
+        -0.9999997615814209,
+        2.999999523162842
+      ],
+      "rotation": [
+        1.061960220336914,
+        -4.796916641680582e-09,
+        1.3258178234100342
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        0.9999996423721313,
+        3.999999761581421,
+        4.000000476837158
+      ],
+      "rotation": [
+        0.895831286907196,
+        -4.6209912341055315e-08,
+        2.8966140747070312
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": null,
+  "floor_hidden": false,
+  "diagnostic_only": false
+}

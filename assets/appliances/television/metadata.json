@@ -1,0 +1,62 @@
+{
+  "reference_dimensions_m": [
+    0.972,
+    0.266,
+    0.632
+  ],
+  "mechanism": "Static editable TV, stand, sockets, enclosure, grounded disconnected cable. No swivel or electrical simulation.",
+  "references": [
+    "https://www.sony.jp/bravia/products/archive/KJ-X75WL/spec.html"
+  ],
+  "description": "細い黒縁の薄型テレビ。左右の脚と接地パッド、背面通風口・端子、消灯した画面。 保存時の全体寸法は約97.2×28.0×63.2cm（コード・付属管を含む）。部品別に編集できる静的モデル。電気・吸引・安全機構の動作や認証は再現していません。",
+  "id": "television",
+  "title_ja": "テレビ",
+  "revision": 6,
+  "dimensions_m": [
+    0.972000002861023,
+    0.2803815007209778,
+    0.6319999694824219
+  ],
+  "triangles": 15532,
+  "units": "meter",
+  "up_axis_blend": "Z",
+  "up_axis_glb": "Y",
+  "review_status": "Independent geometry, full canonical photography and exact source package gates passed",
+  "photography_status": "26 canonical views complete across 2 assets",
+  "files": {
+    "blend": {
+      "bytes": 244916,
+      "sha256": "978ee1b14ae4cf46d8ca3833761e7e8d6b169491fbf182ea412d9cbc98f0ee6e"
+    },
+    "glb": {
+      "bytes": 527360,
+      "sha256": "150b0b2de8f8ed09d61e8d54e4639b5eac63b71e17d0ce671455de8afa4abd56"
+    }
+  },
+  "photography": {
+    "standard": "preview_standard_v1",
+    "views": [
+      "preview",
+      "back",
+      "front",
+      "rear",
+      "side",
+      "left",
+      "top",
+      "underside",
+      "close_up",
+      "underside_detail",
+      "alternate_light",
+      "vent_detail"
+    ],
+    "records": "../../../generators/appliances_batch10a_preview_standard_v1/records/television"
+  },
+  "independent_review": {
+    "technical_status": "approved",
+    "scope": "Independent saved geometry, canonical photography and exact source package acceptance. Visual diorama model with illustrative hinge animation; no electrical or safety certification.",
+    "report": "reviews/tv_vacuum_integration/source_package_approval.json",
+    "report_sha256": "d44e87627b708aabc2ce4ca3a4df643cda53cafc939c002297ca29cc22536077",
+    "source_manifest_sha256": "418c6b3e2a7ec9737bbc1b4bf2b463a841648f977e00ecc95b9bd15c600d863e",
+    "path_base": "repository root"
+  }
+}

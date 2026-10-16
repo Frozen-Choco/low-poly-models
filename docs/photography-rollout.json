@@ -39,7 +39,9 @@
     "microwave_oven",
     "rice_cooker",
     "refrigerator",
-    "washing_machine"
+    "washing_machine",
+    "television",
+    "vacuum_cleaner"
   ],
   "pending_assets": [],
   "scope": "Current canonical asset photographs only; historical generator evidence retained."

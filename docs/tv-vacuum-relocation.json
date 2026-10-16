@@ -1,0 +1,639 @@
+[
+  {
+    "source": "README.md",
+    "destination": "generators/appliances_batch10a/README.md",
+    "source_sha256": "64fbd9beec94275b566185c1c53096edc09dedf02f5dfa10a9d3df15c77dfbd4",
+    "source_bytes": 1784,
+    "sha256": "c1b232809d80c4d31a96f7fe43dc6bebd5ccc6ac63bb213b8ad604b625c2977b",
+    "bytes": 1872,
+    "transformation": "Current final independent acceptance binding, repository paths, or usage documentation only. No model, photo, source code, render configuration or immutable record bytes changed."
+  },
+  {
+    "source": "assets/appliances/television/alternate_light.jpg",
+    "destination": "assets/appliances/television/alternate_light.jpg",
+    "source_sha256": "eb64d1661853ec0bfa7a97385a5e267da93e79219cd88fab521c740d67edc9b0",
+    "source_bytes": 125592,
+    "sha256": "eb64d1661853ec0bfa7a97385a5e267da93e79219cd88fab521c740d67edc9b0",
+    "bytes": 125592
+  },
+  {
+    "source": "assets/appliances/television/back.jpg",
+    "destination": "assets/appliances/television/back.jpg",
+    "source_sha256": "ce7748e86866c087558c857c30c5586be30508363a1dd1c4aa57168a266b9dbe",
+    "source_bytes": 140931,
+    "sha256": "ce7748e86866c087558c857c30c5586be30508363a1dd1c4aa57168a266b9dbe",
+    "bytes": 140931
+  },
+  {
+    "source": "assets/appliances/television/close_up.jpg",
+    "destination": "assets/appliances/television/close_up.jpg",
+    "source_sha256": "eb9a641fc5fa83cb311e3ff6e086527fd9fdf169bcf808a30963629f23eeb5fd",
+    "source_bytes": 150985,
+    "sha256": "eb9a641fc5fa83cb311e3ff6e086527fd9fdf169bcf808a30963629f23eeb5fd",
+    "bytes": 150985
+  },
+  {
+    "source": "assets/appliances/television/front.jpg",
+    "destination": "assets/appliances/television/front.jpg",
+    "source_sha256": "70f1dbbd7782263ba8eeff9ca5aae6a55e7360a669ae55135cc11277843d62b5",
+    "source_bytes": 99234,
+    "sha256": "70f1dbbd7782263ba8eeff9ca5aae6a55e7360a669ae55135cc11277843d62b5",
+    "bytes": 99234
+  },
+  {
+    "source": "assets/appliances/television/left.jpg",
+    "destination": "assets/appliances/television/left.jpg",
+    "source_sha256": "4aff479b66379aec4937c986300331b59635eef0981212335504da9121bb32cf",
+    "source_bytes": 67691,
+    "sha256": "4aff479b66379aec4937c986300331b59635eef0981212335504da9121bb32cf",
+    "bytes": 67691
+  },
+  {
+    "source": "assets/appliances/television/metadata.json",
+    "destination": "assets/appliances/television/metadata.json",
+    "source_sha256": "e5cf655a591b8de00d5f36954650532b449be3d89c2d6c6e076009268c8494c0",
+    "source_bytes": 1747,
+    "sha256": "a7e3e9b577ca38eccbaa08d747714ae54dd732c95fe7d8b513a14e91abbd5259",
+    "bytes": 2291,
+    "transformation": "Current final independent acceptance binding, repository paths, or usage documentation only. No model, photo, source code, render configuration or immutable record bytes changed."
+  },
+  {
+    "source": "assets/appliances/television/preview.jpg",
+    "destination": "assets/appliances/television/preview.jpg",
+    "source_sha256": "105e354a212531a6e782f5c68b6038159a470e46c4f3cd5fea146c7e3ab6f596",
+    "source_bytes": 124421,
+    "sha256": "105e354a212531a6e782f5c68b6038159a470e46c4f3cd5fea146c7e3ab6f596",
+    "bytes": 124421
+  },
+  {
+    "source": "assets/appliances/television/rear.jpg",
+    "destination": "assets/appliances/television/rear.jpg",
+    "source_sha256": "0733d21b59e30920a0fb7a9dafebc2fad979a1de4ae3143fe34a3ff93c98e53f",
+    "source_bytes": 104053,
+    "sha256": "0733d21b59e30920a0fb7a9dafebc2fad979a1de4ae3143fe34a3ff93c98e53f",
+    "bytes": 104053
+  },
+  {
+    "source": "assets/appliances/television/side.jpg",
+    "destination": "assets/appliances/television/side.jpg",
+    "source_sha256": "7389d17016805395c231ecce3b1e116e8e631c29e3a0102ccf8c5102d232e32e",
+    "source_bytes": 69137,
+    "sha256": "7389d17016805395c231ecce3b1e116e8e631c29e3a0102ccf8c5102d232e32e",
+    "bytes": 69137
+  },
+  {
+    "source": "assets/appliances/television/television.blend",
+    "destination": "assets/appliances/television/television.blend",
+    "source_sha256": "978ee1b14ae4cf46d8ca3833761e7e8d6b169491fbf182ea412d9cbc98f0ee6e",
+    "source_bytes": 244916,
+    "sha256": "978ee1b14ae4cf46d8ca3833761e7e8d6b169491fbf182ea412d9cbc98f0ee6e",
+    "bytes": 244916
+  },
+  {
+    "source": "assets/appliances/television/television.glb",
+    "destination": "assets/appliances/television/television.glb",
+    "source_sha256": "150b0b2de8f8ed09d61e8d54e4639b5eac63b71e17d0ce671455de8afa4abd56",
+    "source_bytes": 527360,
+    "sha256": "150b0b2de8f8ed09d61e8d54e4639b5eac63b71e17d0ce671455de8afa4abd56",
+    "bytes": 527360
+  },
+  {
+    "source": "assets/appliances/television/top.jpg",
+    "destination": "assets/appliances/television/top.jpg",
+    "source_sha256": "2dd1c9bdc536ec7f620c3687646ed52e1222e910878072b11c5371e14da611d7",
+    "source_bytes": 102482,
+    "sha256": "2dd1c9bdc536ec7f620c3687646ed52e1222e910878072b11c5371e14da611d7",
+    "bytes": 102482
+  },
+  {
+    "source": "assets/appliances/television/underside.jpg",
+    "destination": "assets/appliances/television/underside.jpg",
+    "source_sha256": "3ece8a247cb5c93f9139bdc894a92a620acf9c9d0c19efd72be6fcb2c76f1864",
+    "source_bytes": 64106,
+    "sha256": "3ece8a247cb5c93f9139bdc894a92a620acf9c9d0c19efd72be6fcb2c76f1864",
+    "bytes": 64106
+  },
+  {
+    "source": "assets/appliances/television/underside_detail.jpg",
+    "destination": "assets/appliances/television/underside_detail.jpg",
+    "source_sha256": "02845a3b86f2b30164e55afa76b0bc78888b62e94486350e053470ace84a4639",
+    "source_bytes": 85119,
+    "sha256": "02845a3b86f2b30164e55afa76b0bc78888b62e94486350e053470ace84a4639",
+    "bytes": 85119
+  },
+  {
+    "source": "assets/appliances/television/vent_detail.jpg",
+    "destination": "assets/appliances/television/vent_detail.jpg",
+    "source_sha256": "2e4329ac8b02918ad588c1e0ecb38701978d7719f7f97afaf463b3adbcaaff78",
+    "source_bytes": 163001,
+    "sha256": "2e4329ac8b02918ad588c1e0ecb38701978d7719f7f97afaf463b3adbcaaff78",
+    "bytes": 163001
+  },
+  {
+    "source": "assets/appliances/vacuum_cleaner/alternate_light.jpg",
+    "destination": "assets/appliances/vacuum_cleaner/alternate_light.jpg",
+    "source_sha256": "78994c3e51a000eb69b4421f8c05947637aa943e0c950370a2deeea1022d1274",
+    "source_bytes": 118906,
+    "sha256": "78994c3e51a000eb69b4421f8c05947637aa943e0c950370a2deeea1022d1274",
+    "bytes": 118906
+  },
+  {
+    "source": "assets/appliances/vacuum_cleaner/back.jpg",
+    "destination": "assets/appliances/vacuum_cleaner/back.jpg",
+    "source_sha256": "102b0f0b68cb5eeceadc21a389224f58e03aca495f2666785de8a2b8f7f06b8f",
+    "source_bytes": 110099,
+    "sha256": "102b0f0b68cb5eeceadc21a389224f58e03aca495f2666785de8a2b8f7f06b8f",
+    "bytes": 110099
+  },
+  {
+    "source": "assets/appliances/vacuum_cleaner/close_up.jpg",
+    "destination": "assets/appliances/vacuum_cleaner/close_up.jpg",
+    "source_sha256": "b35a273311e290ed4abd92a969defe8f4c9d9e9e9d654dddccb24bd678408c74",
+    "source_bytes": 155394,
+    "sha256": "b35a273311e290ed4abd92a969defe8f4c9d9e9e9d654dddccb24bd678408c74",
+    "bytes": 155394
+  },
+  {
+    "source": "assets/appliances/vacuum_cleaner/front.jpg",
+    "destination": "assets/appliances/vacuum_cleaner/front.jpg",
+    "source_sha256": "e7f02ed17595ff1f370b23c53eee331d7eab8ed2e3a0bf6c92474c88544d730b",
+    "source_bytes": 87071,
+    "sha256": "e7f02ed17595ff1f370b23c53eee331d7eab8ed2e3a0bf6c92474c88544d730b",
+    "bytes": 87071
+  },
+  {
+    "source": "assets/appliances/vacuum_cleaner/interior.jpg",
+    "destination": "assets/appliances/vacuum_cleaner/interior.jpg",
+    "source_sha256": "42068dfe448fbb849394b629474ff198ce3e4b21b8fba3bbdbdb1508acbd9fce",
+    "source_bytes": 199169,
+    "sha256": "42068dfe448fbb849394b629474ff198ce3e4b21b8fba3bbdbdb1508acbd9fce",
+    "bytes": 199169
+  },
+  {
+    "source": "assets/appliances/vacuum_cleaner/left.jpg",
+    "destination": "assets/appliances/vacuum_cleaner/left.jpg",
+    "source_sha256": "bc1e847d85f63a3ecd4e294b826fcbd32344293a7a867f308b39b3029c1a299e",
+    "source_bytes": 82387,
+    "sha256": "bc1e847d85f63a3ecd4e294b826fcbd32344293a7a867f308b39b3029c1a299e",
+    "bytes": 82387
+  },
+  {
+    "source": "assets/appliances/vacuum_cleaner/metadata.json",
+    "destination": "assets/appliances/vacuum_cleaner/metadata.json",
+    "source_sha256": "35d4fae57cfe9b606be62ae8e0effde80c6b4aa34d9e11c3f9137335ae83bdfc",
+    "source_bytes": 2124,
+    "sha256": "65034d90ebaf3119b52048ac88f68a7d99387cb7e98e660b50eb8f9aa7178387",
+    "bytes": 2668,
+    "transformation": "Current final independent acceptance binding, repository paths, or usage documentation only. No model, photo, source code, render configuration or immutable record bytes changed."
+  },
+  {
+    "source": "assets/appliances/vacuum_cleaner/open.jpg",
+    "destination": "assets/appliances/vacuum_cleaner/open.jpg",
+    "source_sha256": "fdedee835f5b3bd988a271c96a703e9aac02e9ade0f55ccb2f6f8ed00702d120",
+    "source_bytes": 122988,
+    "sha256": "fdedee835f5b3bd988a271c96a703e9aac02e9ade0f55ccb2f6f8ed00702d120",
+    "bytes": 122988
+  },
+  {
+    "source": "assets/appliances/vacuum_cleaner/preview.jpg",
+    "destination": "assets/appliances/vacuum_cleaner/preview.jpg",
+    "source_sha256": "32be3a4bca9826056f702b2354e1fcd6e9b3e5ca97c25e6f3777f30379106d50",
+    "source_bytes": 117186,
+    "sha256": "32be3a4bca9826056f702b2354e1fcd6e9b3e5ca97c25e6f3777f30379106d50",
+    "bytes": 117186
+  },
+  {
+    "source": "assets/appliances/vacuum_cleaner/rear.jpg",
+    "destination": "assets/appliances/vacuum_cleaner/rear.jpg",
+    "source_sha256": "2c198bea15b7e4b49bb443f4e42f6bc2b7f8922cbef039752a008eb5f58e7b31",
+    "source_bytes": 85392,
+    "sha256": "2c198bea15b7e4b49bb443f4e42f6bc2b7f8922cbef039752a008eb5f58e7b31",
+    "bytes": 85392
+  },
+  {
+    "source": "assets/appliances/vacuum_cleaner/side.jpg",
+    "destination": "assets/appliances/vacuum_cleaner/side.jpg",
+    "source_sha256": "0970e51c52fadcc2fe6bb53c8f94cc91982dafce6cc4790557e37386eff01ec9",
+    "source_bytes": 83020,
+    "sha256": "0970e51c52fadcc2fe6bb53c8f94cc91982dafce6cc4790557e37386eff01ec9",
+    "bytes": 83020
+  },
+  {
+    "source": "assets/appliances/vacuum_cleaner/top.jpg",
+    "destination": "assets/appliances/vacuum_cleaner/top.jpg",
+    "source_sha256": "ca4bdec3f4fc88e9e7fccfa846ab0737eca030e277dda2988c48d70d70d2fe09",
+    "source_bytes": 110541,
+    "sha256": "ca4bdec3f4fc88e9e7fccfa846ab0737eca030e277dda2988c48d70d70d2fe09",
+    "bytes": 110541
+  },
+  {
+    "source": "assets/appliances/vacuum_cleaner/underside.jpg",
+    "destination": "assets/appliances/vacuum_cleaner/underside.jpg",
+    "source_sha256": "a249adbe3e4e372501b0ad608d553e8d829d6d3feba94a5fc7d130f298fef28c",
+    "source_bytes": 80891,
+    "sha256": "a249adbe3e4e372501b0ad608d553e8d829d6d3feba94a5fc7d130f298fef28c",
+    "bytes": 80891
+  },
+  {
+    "source": "assets/appliances/vacuum_cleaner/underside_detail.jpg",
+    "destination": "assets/appliances/vacuum_cleaner/underside_detail.jpg",
+    "source_sha256": "8abfddec070dddccf17e58e594139d201472ae4d40fcde9da6f39a4c78a8691a",
+    "source_bytes": 100807,
+    "sha256": "8abfddec070dddccf17e58e594139d201472ae4d40fcde9da6f39a4c78a8691a",
+    "bytes": 100807
+  },
+  {
+    "source": "assets/appliances/vacuum_cleaner/vacuum_cleaner.blend",
+    "destination": "assets/appliances/vacuum_cleaner/vacuum_cleaner.blend",
+    "source_sha256": "03cadbfa88565190474399029e187c089dacec3a6f02ce11fd4188326c75cdba",
+    "source_bytes": 739630,
+    "sha256": "03cadbfa88565190474399029e187c089dacec3a6f02ce11fd4188326c75cdba",
+    "bytes": 739630
+  },
+  {
+    "source": "assets/appliances/vacuum_cleaner/vacuum_cleaner.glb",
+    "destination": "assets/appliances/vacuum_cleaner/vacuum_cleaner.glb",
+    "source_sha256": "d24008696987e0ea69819c1cb0eb944d04c7c1393a27e1fd3d13e8c34df61483",
+    "source_bytes": 3314956,
+    "sha256": "d24008696987e0ea69819c1cb0eb944d04c7c1393a27e1fd3d13e8c34df61483",
+    "bytes": 3314956
+  },
+  {
+    "source": "assets/appliances/vacuum_cleaner/vent_detail.jpg",
+    "destination": "assets/appliances/vacuum_cleaner/vent_detail.jpg",
+    "source_sha256": "69e4b35fd8defd21af3b4b0ee9483b80e63fb15d9bd1aa6988c7b95c9b3aca96",
+    "source_bytes": 155640,
+    "sha256": "69e4b35fd8defd21af3b4b0ee9483b80e63fb15d9bd1aa6988c7b95c9b3aca96",
+    "bytes": 155640
+  },
+  {
+    "source": "catalog.json",
+    "destination": "generators/appliances_batch10a/catalog.json",
+    "source_sha256": "f89f6dbf36c7ee3ae397a2a033066a335b1c70cbb746230227f338defd0cb9a5",
+    "source_bytes": 2630,
+    "sha256": "fbf22186658461c05ddc52e4bc4dbf7083472a3716b3c8298ead46e1542c8c9a",
+    "bytes": 4264,
+    "transformation": "Current final independent acceptance binding, repository paths, or usage documentation only. No model, photo, source code, render configuration or immutable record bytes changed."
+  },
+  {
+    "source": "generators/appliances_batch10a/configs/attachments.json",
+    "destination": "generators/appliances_batch10a/configs/attachments.json",
+    "source_sha256": "1d61e0dc96081fc63c24a8b4bb1369b004798825cbfa8202d897a02f3b76334a",
+    "source_bytes": 1853,
+    "sha256": "1d61e0dc96081fc63c24a8b4bb1369b004798825cbfa8202d897a02f3b76334a",
+    "bytes": 1853
+  },
+  {
+    "source": "generators/appliances_batch10a/docs/reference-and-design.md",
+    "destination": "generators/appliances_batch10a/docs/reference-and-design.md",
+    "source_sha256": "f9c631bc00034d2d57007ce4888f686266a689efd649d2dbc26705c80e3e2a1b",
+    "source_bytes": 7835,
+    "sha256": "f9c631bc00034d2d57007ce4888f686266a689efd649d2dbc26705c80e3e2a1b",
+    "bytes": 7835
+  },
+  {
+    "source": "generators/appliances_batch10a/evidence/photography_validation.json",
+    "destination": "generators/appliances_batch10a/evidence/photography_validation.json",
+    "source_sha256": "411f968e6bf20c2168315602f3341d8fb55c5767609a50938a1382cf1c7bdcb6",
+    "source_bytes": 11005,
+    "sha256": "411f968e6bf20c2168315602f3341d8fb55c5767609a50938a1382cf1c7bdcb6",
+    "bytes": 11005
+  },
+  {
+    "source": "generators/appliances_batch10a/evidence/poses/provenance.json",
+    "destination": "generators/appliances_batch10a/evidence/poses/provenance.json",
+    "source_sha256": "cc9836adffae08c9838d7a9802a9ad1fb1107566810ee2bef3ae3f6905c3d953",
+    "source_bytes": 543,
+    "sha256": "cc9836adffae08c9838d7a9802a9ad1fb1107566810ee2bef3ae3f6905c3d953",
+    "bytes": 543
+  },
+  {
+    "source": "generators/appliances_batch10a/evidence/saved_validation.json",
+    "destination": "generators/appliances_batch10a/evidence/saved_validation.json",
+    "source_sha256": "17b0b8d2ab9feb753466cdf19462f3dd56dc9aed974bdc2154a38e9d006cec91",
+    "source_bytes": 213886,
+    "sha256": "17b0b8d2ab9feb753466cdf19462f3dd56dc9aed974bdc2154a38e9d006cec91",
+    "bytes": 213886
+  },
+  {
+    "source": "generators/appliances_batch10a/evidence/source_reproduction.json",
+    "destination": "generators/appliances_batch10a/evidence/source_reproduction.json",
+    "source_sha256": "c50e309353c48141f1390a34637b4ac5274fddad01809760d04e86a1f143107c",
+    "source_bytes": 770,
+    "sha256": "c50e309353c48141f1390a34637b4ac5274fddad01809760d04e86a1f143107c",
+    "bytes": 770
+  },
+  {
+    "source": "generators/appliances_batch10a/independent_review/approval.json",
+    "destination": "generators/appliances_batch10a/independent_review/approval.json",
+    "source_sha256": "b2966fb67bc61f75e92be3efbaae1154763aa0fca1a0658ab97a1fc2f0e1b1c4",
+    "source_bytes": 4484,
+    "sha256": "b2966fb67bc61f75e92be3efbaae1154763aa0fca1a0658ab97a1fc2f0e1b1c4",
+    "bytes": 4484
+  },
+  {
+    "source": "generators/appliances_batch10a/independent_review/canonical_full_sets.json",
+    "destination": "generators/appliances_batch10a/independent_review/canonical_full_sets.json",
+    "source_sha256": "c1ec18d2f0863d034ea5fb9876d75154c8d9dd611e74334794822f27e4d8ca32",
+    "source_bytes": 15066,
+    "sha256": "c1ec18d2f0863d034ea5fb9876d75154c8d9dd611e74334794822f27e4d8ca32",
+    "bytes": 15066
+  },
+  {
+    "source": "generators/appliances_batch10a/independent_review/canonical_full_sets.md",
+    "destination": "generators/appliances_batch10a/independent_review/canonical_full_sets.md",
+    "source_sha256": "440212f821d59f16d49d9cf0f5914a32fcf526574f7710f20f72c09d79eb3c3e",
+    "source_bytes": 1473,
+    "sha256": "440212f821d59f16d49d9cf0f5914a32fcf526574f7710f20f72c09d79eb3c3e",
+    "bytes": 1473
+  },
+  {
+    "source": "generators/appliances_batch10a/independent_review/open_pose_comparison.json",
+    "destination": "generators/appliances_batch10a/independent_review/open_pose_comparison.json",
+    "source_sha256": "eb97a60114bb6e72d7224f72db76fef56014114ccedc91de10e23bcb9fa1c081",
+    "source_bytes": 459,
+    "sha256": "eb97a60114bb6e72d7224f72db76fef56014114ccedc91de10e23bcb9fa1c081",
+    "bytes": 459
+  },
+  {
+    "source": "generators/appliances_batch10a/independent_review/source_reproduction.json",
+    "destination": "generators/appliances_batch10a/independent_review/source_reproduction.json",
+    "source_sha256": "88b635453cfe732013beccad1a868c045d50cd2db34edd4e6276db169bb6ee8d",
+    "source_bytes": 802,
+    "sha256": "88b635453cfe732013beccad1a868c045d50cd2db34edd4e6276db169bb6ee8d",
+    "bytes": 802
+  },
+  {
+    "source": "generators/appliances_batch10a/scripts/build_assets.py",
+    "destination": "generators/appliances_batch10a/scripts/build_assets.py",
+    "source_sha256": "26c44fac0f3c140b65c096946ab7f01f553e7b08296297cde56c2fa11cb964c3",
+    "source_bytes": 22314,
+    "sha256": "26c44fac0f3c140b65c096946ab7f01f553e7b08296297cde56c2fa11cb964c3",
+    "bytes": 22314
+  },
+  {
+    "source": "generators/appliances_batch10a/scripts/prepare_poses.py",
+    "destination": "generators/appliances_batch10a/scripts/prepare_poses.py",
+    "source_sha256": "0a84e2e33b0ad66e35b03a52eaf47ee6007ef768d7843f290e319f04dc386c1c",
+    "source_bytes": 1850,
+    "sha256": "0a84e2e33b0ad66e35b03a52eaf47ee6007ef768d7843f290e319f04dc386c1c",
+    "bytes": 1850
+  },
+  {
+    "source": "generators/appliances_batch10a/scripts/validate_saved.py",
+    "destination": "generators/appliances_batch10a/scripts/validate_saved.py",
+    "source_sha256": "2228216c70d63900dea909bbc56da2c5841a986d81d4c4a191d86b6ee702ae78",
+    "source_bytes": 1820,
+    "sha256": "2228216c70d63900dea909bbc56da2c5841a986d81d4c4a191d86b6ee702ae78",
+    "bytes": 1820
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/detail_targets.json",
+    "destination": "generators/appliances_batch10a_preview_standard_v1/detail_targets.json",
+    "source_sha256": "e4943ce2f046d90294292bc6e0d8f397bad744c0b05f3c2a0b8454d85c83b902",
+    "source_bytes": 2112,
+    "sha256": "e4943ce2f046d90294292bc6e0d8f397bad744c0b05f3c2a0b8454d85c83b902",
+    "bytes": 2112
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/inputs.json",
+    "destination": "generators/appliances_batch10a_preview_standard_v1/inputs.json",
+    "source_sha256": "69d86974ffbbb55be6bd4b3bf58d9df33b54e79334ea4835bf99b77901b7d27f",
+    "source_bytes": 1108,
+    "sha256": "69d86974ffbbb55be6bd4b3bf58d9df33b54e79334ea4835bf99b77901b7d27f",
+    "bytes": 1108
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/television/alternate_light.json",
+    "destination": "generators/appliances_batch10a_preview_standard_v1/records/television/alternate_light.json",
+    "source_sha256": "76596847a838dfb659345c895f1f982ca2a3d2240be712262653f0761c19caa6",
+    "source_bytes": 2547,
+    "sha256": "76596847a838dfb659345c895f1f982ca2a3d2240be712262653f0761c19caa6",
+    "bytes": 2547
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/television/back.json",
+    "destination": "generators/appliances_batch10a_preview_standard_v1/records/television/back.json",
+    "source_sha256": "822aa48f078495e4ff761a65399340226306dd15b85cd10f93a6044a4212c5b8",
+    "source_bytes": 2531,
+    "sha256": "822aa48f078495e4ff761a65399340226306dd15b85cd10f93a6044a4212c5b8",
+    "bytes": 2531
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/television/close_up.json",
+    "destination": "generators/appliances_batch10a_preview_standard_v1/records/television/close_up.json",
+    "source_sha256": "bfd8bfdf94227b00f3f2051a19159cb84390a6384bd73a5d0c69dcaf110a7256",
+    "source_bytes": 2747,
+    "sha256": "bfd8bfdf94227b00f3f2051a19159cb84390a6384bd73a5d0c69dcaf110a7256",
+    "bytes": 2747
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/television/front.json",
+    "destination": "generators/appliances_batch10a_preview_standard_v1/records/television/front.json",
+    "source_sha256": "1e7e2cf33c426e9e3be8cfa96ebed894e4dfcfd55a5b53fcb8de63e096999a44",
+    "source_bytes": 2460,
+    "sha256": "1e7e2cf33c426e9e3be8cfa96ebed894e4dfcfd55a5b53fcb8de63e096999a44",
+    "bytes": 2460
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/television/left.json",
+    "destination": "generators/appliances_batch10a_preview_standard_v1/records/television/left.json",
+    "source_sha256": "c92cb75c9f8f55661610b117cfcff569a13d18df6769d16d4d6eebee9b6aeafc",
+    "source_bytes": 2535,
+    "sha256": "c92cb75c9f8f55661610b117cfcff569a13d18df6769d16d4d6eebee9b6aeafc",
+    "bytes": 2535
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/television/preview.json",
+    "destination": "generators/appliances_batch10a_preview_standard_v1/records/television/preview.json",
+    "source_sha256": "de9633a3832885cb2cf4a4bba7a1511254da18859f7db6e01f0e097fd7026e50",
+    "source_bytes": 2542,
+    "sha256": "de9633a3832885cb2cf4a4bba7a1511254da18859f7db6e01f0e097fd7026e50",
+    "bytes": 2542
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/television/rear.json",
+    "destination": "generators/appliances_batch10a_preview_standard_v1/records/television/rear.json",
+    "source_sha256": "a89c792479d4430061cf811e3c41029ce8f754bf5ad1276e2a6f8f635e4b79e5",
+    "source_bytes": 2536,
+    "sha256": "a89c792479d4430061cf811e3c41029ce8f754bf5ad1276e2a6f8f635e4b79e5",
+    "bytes": 2536
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/television/side.json",
+    "destination": "generators/appliances_batch10a_preview_standard_v1/records/television/side.json",
+    "source_sha256": "d1656494a5a40d260b51d4a00c663d8928124078c2ddec08243faa6beb6b13f1",
+    "source_bytes": 2531,
+    "sha256": "d1656494a5a40d260b51d4a00c663d8928124078c2ddec08243faa6beb6b13f1",
+    "bytes": 2531
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/television/top.json",
+    "destination": "generators/appliances_batch10a_preview_standard_v1/records/television/top.json",
+    "source_sha256": "6372a7aa00abcef9b401318fc04456b6be96a54df8bad26ce89cb3d01985d38a",
+    "source_bytes": 2411,
+    "sha256": "6372a7aa00abcef9b401318fc04456b6be96a54df8bad26ce89cb3d01985d38a",
+    "bytes": 2411
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/television/underside.json",
+    "destination": "generators/appliances_batch10a_preview_standard_v1/records/television/underside.json",
+    "source_sha256": "082eef66b117d9468c5e08460bf34e038f0a6f450c8b5bc9068e75cafaca33d9",
+    "source_bytes": 2587,
+    "sha256": "082eef66b117d9468c5e08460bf34e038f0a6f450c8b5bc9068e75cafaca33d9",
+    "bytes": 2587
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/television/underside_detail.json",
+    "destination": "generators/appliances_batch10a_preview_standard_v1/records/television/underside_detail.json",
+    "source_sha256": "8d8590fd3aa99fb99ebc943e41834604c7e3691597a26ef77902823d08d2e5d0",
+    "source_bytes": 2784,
+    "sha256": "8d8590fd3aa99fb99ebc943e41834604c7e3691597a26ef77902823d08d2e5d0",
+    "bytes": 2784
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/television/vent_detail.json",
+    "destination": "generators/appliances_batch10a_preview_standard_v1/records/television/vent_detail.json",
+    "source_sha256": "43a1c7a19fbd97dd536d97408dbe9c73e78d44cab0c15f3ebcf95427591d0acb",
+    "source_bytes": 2748,
+    "sha256": "43a1c7a19fbd97dd536d97408dbe9c73e78d44cab0c15f3ebcf95427591d0acb",
+    "bytes": 2748
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/vacuum_cleaner/alternate_light.json",
+    "destination": "generators/appliances_batch10a_preview_standard_v1/records/vacuum_cleaner/alternate_light.json",
+    "source_sha256": "fe9dc382c319d029f03a1e071cd496af4ec0c9679926d6582447575b7f18a80b",
+    "source_bytes": 2585,
+    "sha256": "fe9dc382c319d029f03a1e071cd496af4ec0c9679926d6582447575b7f18a80b",
+    "bytes": 2585
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/vacuum_cleaner/back.json",
+    "destination": "generators/appliances_batch10a_preview_standard_v1/records/vacuum_cleaner/back.json",
+    "source_sha256": "851684d1cd1302eadddbbec6be71ffc3076e5291580bd00fecf9fd6c5fae353b",
+    "source_bytes": 2571,
+    "sha256": "851684d1cd1302eadddbbec6be71ffc3076e5291580bd00fecf9fd6c5fae353b",
+    "bytes": 2571
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/vacuum_cleaner/close_up.json",
+    "destination": "generators/appliances_batch10a_preview_standard_v1/records/vacuum_cleaner/close_up.json",
+    "source_sha256": "d97fb5c5a375c1cb54a7daed51c68d786c0619f2d5f98f44878875446a436fdf",
+    "source_bytes": 2797,
+    "sha256": "d97fb5c5a375c1cb54a7daed51c68d786c0619f2d5f98f44878875446a436fdf",
+    "bytes": 2797
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/vacuum_cleaner/front.json",
+    "destination": "generators/appliances_batch10a_preview_standard_v1/records/vacuum_cleaner/front.json",
+    "source_sha256": "f637d0fee806846446593d317a04bc706b5c43c22b7e878dc5f0a25e27a66f17",
+    "source_bytes": 2561,
+    "sha256": "f637d0fee806846446593d317a04bc706b5c43c22b7e878dc5f0a25e27a66f17",
+    "bytes": 2561
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/vacuum_cleaner/interior.json",
+    "destination": "generators/appliances_batch10a_preview_standard_v1/records/vacuum_cleaner/interior.json",
+    "source_sha256": "70eead6b5b2b8ac5eb821753026eea28b311dab25c9188a0205c9667440f5b51",
+    "source_bytes": 2777,
+    "sha256": "70eead6b5b2b8ac5eb821753026eea28b311dab25c9188a0205c9667440f5b51",
+    "bytes": 2777
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/vacuum_cleaner/left.json",
+    "destination": "generators/appliances_batch10a_preview_standard_v1/records/vacuum_cleaner/left.json",
+    "source_sha256": "97d13158d5f86d87d78e8b101b91f62c8dee04c185dbf378ac7ac9c0f29ba6db",
+    "source_bytes": 2557,
+    "sha256": "97d13158d5f86d87d78e8b101b91f62c8dee04c185dbf378ac7ac9c0f29ba6db",
+    "bytes": 2557
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/vacuum_cleaner/open.json",
+    "destination": "generators/appliances_batch10a_preview_standard_v1/records/vacuum_cleaner/open.json",
+    "source_sha256": "3c2c35946a2aa105c23bf51535877ce1441143ed1ea754351876206c04939736",
+    "source_bytes": 2757,
+    "sha256": "3c2c35946a2aa105c23bf51535877ce1441143ed1ea754351876206c04939736",
+    "bytes": 2757
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/vacuum_cleaner/preview.json",
+    "destination": "generators/appliances_batch10a_preview_standard_v1/records/vacuum_cleaner/preview.json",
+    "source_sha256": "afb887b039211bd8fc21e6321bd48773a92c7468834f0130c86d942c74280c35",
+    "source_bytes": 2578,
+    "sha256": "afb887b039211bd8fc21e6321bd48773a92c7468834f0130c86d942c74280c35",
+    "bytes": 2578
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/vacuum_cleaner/rear.json",
+    "destination": "generators/appliances_batch10a_preview_standard_v1/records/vacuum_cleaner/rear.json",
+    "source_sha256": "eaf432d7da31e03a6d60eba1a1803729e11495abed9e7c20f047761f22e0959c",
+    "source_bytes": 2570,
+    "sha256": "eaf432d7da31e03a6d60eba1a1803729e11495abed9e7c20f047761f22e0959c",
+    "bytes": 2570
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/vacuum_cleaner/side.json",
+    "destination": "generators/appliances_batch10a_preview_standard_v1/records/vacuum_cleaner/side.json",
+    "source_sha256": "236808444ccfbd67b3c6e4af045015fc34ee3e549d9fd73c51a8ed80f0bfe677",
+    "source_bytes": 2553,
+    "sha256": "236808444ccfbd67b3c6e4af045015fc34ee3e549d9fd73c51a8ed80f0bfe677",
+    "bytes": 2553
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/vacuum_cleaner/top.json",
+    "destination": "generators/appliances_batch10a_preview_standard_v1/records/vacuum_cleaner/top.json",
+    "source_sha256": "7073cd0ebb3a80c4eced711ac4a052a584118072f8a5817781967ed604a0e3c9",
+    "source_bytes": 2525,
+    "sha256": "7073cd0ebb3a80c4eced711ac4a052a584118072f8a5817781967ed604a0e3c9",
+    "bytes": 2525
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/vacuum_cleaner/underside.json",
+    "destination": "generators/appliances_batch10a_preview_standard_v1/records/vacuum_cleaner/underside.json",
+    "source_sha256": "704bf17fad3a8d6a0b021285aa8e01c862b01f39ac429d51cf923bcc6874b595",
+    "source_bytes": 2625,
+    "sha256": "704bf17fad3a8d6a0b021285aa8e01c862b01f39ac429d51cf923bcc6874b595",
+    "bytes": 2625
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/vacuum_cleaner/underside_detail.json",
+    "destination": "generators/appliances_batch10a_preview_standard_v1/records/vacuum_cleaner/underside_detail.json",
+    "source_sha256": "a5ef397fd656bf15552c72ae2395a47d25531aa6ee2aba5c1a7fb5f85d96aba4",
+    "source_bytes": 2830,
+    "sha256": "a5ef397fd656bf15552c72ae2395a47d25531aa6ee2aba5c1a7fb5f85d96aba4",
+    "bytes": 2830
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/vacuum_cleaner/vent_detail.json",
+    "destination": "generators/appliances_batch10a_preview_standard_v1/records/vacuum_cleaner/vent_detail.json",
+    "source_sha256": "b4211b7a6831cf050ac4c1cf794205bbba96c08852feca0d0889cf74699dcda5",
+    "source_bytes": 2780,
+    "sha256": "b4211b7a6831cf050ac4c1cf794205bbba96c08852feca0d0889cf74699dcda5",
+    "bytes": 2780
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/relocation.json",
+    "destination": "generators/appliances_batch10a_preview_standard_v1/relocation.json",
+    "source_sha256": "857c2f08557117b017f3c5869b5346e11fc7a541d8b9a249d43a9027d93b6a7b",
+    "source_bytes": 9958,
+    "sha256": "7bcef4287bb83dbbd9aceb79a1b8d63283cfe8c6b9c24fab3e3a407dfd48e256",
+    "bytes": 10192,
+    "transformation": "Current final independent acceptance binding, repository paths, or usage documentation only. No model, photo, source code, render configuration or immutable record bytes changed."
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/render.py",
+    "destination": "generators/appliances_batch10a_preview_standard_v1/render.py",
+    "source_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+    "source_bytes": 8516,
+    "sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+    "bytes": 8516
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/standard.json",
+    "destination": "generators/appliances_batch10a_preview_standard_v1/standard.json",
+    "source_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+    "source_bytes": 3145,
+    "sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+    "bytes": 3145
+  }
+]

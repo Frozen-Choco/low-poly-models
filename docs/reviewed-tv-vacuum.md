@@ -1,0 +1,11 @@
+# Reviewed appliance integration
+
+テレビ (television) and 掃除機 (vacuum_cleaner) are original generic visual assets. The four delivered model files and all 26 canonical photos retain their exact independently accepted bytes. The full source package was accepted on 2026-10-16 in reviews/tv_vacuum_integration/source_package_approval.json, bound to the original manifest preserved as source_manifest.json in the same directory.
+
+The original package contains 79 files plus its manifest. All source items are retained in this integration; docs/tv-vacuum-relocation.json records original and delivered hashes, including current metadata/document and photography relocation-map transformations. Source code, the detail framing configuration, renderer/settings, original photo records and all images/models are unchanged. Earlier geometry/photo reports retain historical scope and paths; final source-package acceptance resolves the then-external package gate. Current metadata and catalog bind the actual final approval. Unchanged generator code can emit historical build-time statuses; regenerated output requires independent review before future publication.
+
+Reference URLs, inferred dimensions, materials and hinge limitations remain in generators/appliances_batch10a/docs/reference-and-design.md. Reproduction instructions in generators/appliances_batch10a/README.md are repository-root relative. Vacuum open-state canonical images derive from frame 61 of its delivered animated model via prepare_poses.py; no extra pose GLBs are included. Exact reproduction of the vacuum derived open GLB hash was independently checked in a temporary copy. Keep generated output separate from delivered models and immutable photography records.
+
+The photography directory is relocated to generators/appliances_batch10a_preview_standard_v1 to preserve all previously published appliance photography inputs. All renderer, configuration and record bytes remain unchanged; metadata, README and the photography relocation map use the new folder path.
+
+No external reference downloads, private chat or assistant notes, raw intermediate renders, rejected candidates, duplicate poses or extra Blend files are included. These are visual diorama props, not certified electrical appliances or safety simulations. Technical acceptance does not itself claim GitHub publication.

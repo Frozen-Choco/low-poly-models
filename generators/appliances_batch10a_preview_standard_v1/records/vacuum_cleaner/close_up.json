@@ -1,0 +1,111 @@
+{
+  "asset": "vacuum_cleaner",
+  "view": "close_up",
+  "input_repo_path": "assets/vacuum_cleaner/vacuum_cleaner.glb",
+  "input_sha256": "d24008696987e0ea69819c1cb0eb944d04c7c1393a27e1fd3d13e8c34df61483",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "e4943ce2f046d90294292bc6e0d8f397bad744c0b05f3c2a0b8454d85c83b902",
+  "closeup_magnification_vs_full_fit": 2.1843012444833168,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch10a/generators/preview_standard_v1/repo/assets/vacuum_cleaner/close_up.jpg",
+  "output_sha256": "b35a273311e290ed4abd92a969defe8f4c9d9e9e9d654dddccb24bd678408c74",
+  "bytes": 155394,
+  "elapsed_seconds": 970.4910780249993,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 1.9840230080793173,
+  "source_bounds": [
+    [
+      -0.24700000882148743,
+      -0.7594999670982361,
+      -8.565758768952492e-09
+    ],
+    [
+      0.48249998688697815,
+      0.24855279922485352,
+      0.8079999685287476
+    ]
+  ],
+  "camera_location": [
+    3.5568716526031494,
+    -7.133635997772217,
+    5.544769287109375
+  ],
+  "camera_rotation": [
+    1.0114072561264038,
+    3.132873871436459e-08,
+    0.4636476933956146
+  ],
+  "ortho_scale": 1.1408132314682007,
+  "focus": {
+    "direction": [
+      1,
+      -2,
+      1.4
+    ],
+    "target_m": [
+      0,
+      -0.03,
+      0.12
+    ],
+    "span_m": 0.46,
+    "purpose": "Canister shell curvature, carry handle, seated hose connection and lid seam"
+  },
+  "focus_projected_width_height": [
+    0.9007063806056976,
+    1.9935038089752197
+  ],
+  "full_object_fit": false,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        -4.278100967407227,
+        -2.5117690563201904,
+        5.0460591316223145
+      ],
+      "rotation": [
+        0.8513568639755249,
+        -3.664229097921634e-08,
+        -1.0417044162750244
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        3.385448932647705,
+        -2.027479648590088,
+        3.303797721862793
+      ],
+      "rotation": [
+        0.9867256879806519,
+        5.9107588157303326e-08,
+        1.0324249267578125
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        2.090916872024536,
+        3.7238609790802,
+        3.800051689147949
+      ],
+      "rotation": [
+        0.9435299038887024,
+        -1.7363106508128112e-08,
+        2.631706714630127
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": null,
+  "floor_hidden": false,
+  "diagnostic_only": false
+}

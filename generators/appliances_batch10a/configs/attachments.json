@@ -1,0 +1,14 @@
+{
+  "units": "meter",
+  "policy": "Positive concealed engagements are intended supports; exposed parts must not cross. Rigid lid motion only; no electrical or suction simulation.",
+  "television": {
+    "supports": ["Thin panel back -> Stand chassis socket -> Splayed stand leg -> Non slip ground pad -> ground", "Panel back -> Rear electronics enclosure -> perforated vent grille / socket bay / VESA bosses", "Panel back -> optical screen and continuous bezel frame", "Rear enclosure -> seated strain relief -> power cable -> unplugged plug"],
+    "clearance": "Stand legs begin at rear-side lower edge, below active screen; grounded plug routed centrally clear of rear feet.",
+    "movement": "Static; all meshes independently editable."
+  },
+  "vacuum_cleaner": {
+    "supports": ["Hollow chassis -> rear axle -> wheels/tires -> ground", "Chassis -> caster bearing -> short vertical spindle -> twin fork -> horizontal axle -> caster wheel -> ground", "Chassis -> support tray -> paper dust bag", "Chassis -> motor compartment -> filter frame -> pleats", "Chassis -> fixed hinge pedestal -> fixed barrel/pin -> moving knuckles/fingers -> upper lid bridges -> domed maintenance lid", "Chassis -> front carry handle risers -> handle bridge", "Chassis -> seated cord relief -> unplugged cable/plug", "Chassis -> hose socket -> corrugated hollow hose -> hollow handgrip -> telescopic hollow wand -> hollow socket/pivot -> floor head -> rollers/glides -> ground"],
+    "airway": "Actual bores at bag inlet, hose fittings, hose, grip, wand and articulated head. Dust bag inlet is recessed; bag porosity and motor internals are not simulated.",
+    "movement": "Bag lid open close0–100 degrees, frames1–151. All other parts static/editable. Hidden concentric seating overlaps are intended; visible shell, wheels, roll and guards remain separated."
+  }
+}

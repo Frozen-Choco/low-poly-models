@@ -1,0 +1,102 @@
+{
+  "asset": "television",
+  "view": "underside",
+  "input_repo_path": "assets/television/television.glb",
+  "input_sha256": "150b0b2de8f8ed09d61e8d54e4639b5eac63b71e17d0ce671455de8afa4abd56",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "e4943ce2f046d90294292bc6e0d8f397bad744c0b05f3c2a0b8454d85c83b902",
+  "closeup_magnification_vs_full_fit": 0.9999999642372166,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch10a/generators/preview_standard_v1/repo/assets/television/underside.jpg",
+  "output_sha256": "3ece8a247cb5c93f9139bdc894a92a620acf9c9d0c19efd72be6fcb2c76f1864",
+  "bytes": 64106,
+  "elapsed_seconds": 50.16665299699525,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 2.0576131626678205,
+  "source_bounds": [
+    [
+      -0.4860000014305115,
+      -0.13300000131130219,
+      0.0
+    ],
+    [
+      0.4860000014305115,
+      0.1473814994096756,
+      0.6319999694824219
+    ]
+  ],
+  "camera_location": [
+    -8.940697284742782e-07,
+    -8.493661312058975e-07,
+    -9.349794387817383
+  ],
+  "camera_rotation": [
+    8.742277657347586e-08,
+    3.1415927410125732,
+    -8.742277657347586e-08
+  ],
+  "ortho_scale": 2.500000238418579,
+  "focus": "full object",
+  "focus_projected_width_height": [
+    2.0000001192092896,
+    0.5769167244434357
+  ],
+  "full_object_fit": true,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        4.949747085571289,
+        3.5555202960968018,
+        -1.9534448385238647
+      ],
+      "rotation": [
+        1.9729315042495728,
+        2.2635887830801948e-07,
+        2.1877756118774414
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        -2.1213207244873047,
+        0.48995038866996765,
+        -3.566603660583496
+      ],
+      "rotation": [
+        2.66458797454834,
+        2.0277128953694046e-07,
+        -1.7778328657150269
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        -3.535533905029297,
+        3.9476282596588135,
+        1.0208216905593872
+      ],
+      "rotation": [
+        1.4962719678878784,
+        -2.458892254253442e-07,
+        -2.4055871963500977
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": [
+    184,
+    184,
+    184
+  ],
+  "floor_hidden": true,
+  "diagnostic_only": false
+}

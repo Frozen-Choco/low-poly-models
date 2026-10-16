@@ -1,0 +1,24 @@
+[
+  {
+    "id": "television",
+    "repo_path": "assets/appliances/television/television.glb",
+    "sha256": "150b0b2de8f8ed09d61e8d54e4639b5eac63b71e17d0ce671455de8afa4abd56",
+    "git_sha": null,
+    "provenance": "Original generic unbranded appliance; primary photo morphology and specified metric scale."
+  },
+  {
+    "id": "vacuum_cleaner",
+    "repo_path": "assets/appliances/vacuum_cleaner/vacuum_cleaner.glb",
+    "sha256": "d24008696987e0ea69819c1cb0eb944d04c7c1393a27e1fd3d13e8c34df61483",
+    "git_sha": null,
+    "provenance": "Original generic unbranded appliance; primary photo morphology and specified metric scale."
+  },
+  {
+    "id": "vacuum_cleaner_open",
+    "repo_path": "generators/appliances_batch10a/evidence/poses/vacuum_cleaner/vacuum_cleaner_open.glb",
+    "sha256": "bb7749d49dd7cbefc4cb02f47420ce6223d53ab07f7b5ab0fc73e62fd909ee2b",
+    "git_sha": null,
+    "provenance": "Render-only rigid open pose from delivered GLB; evidence/poses/provenance.json",
+    "requires_regeneration": "Evidence-only source omitted; regenerate frame61 via prepare_poses.py from delivered GLB."
+  }
+]

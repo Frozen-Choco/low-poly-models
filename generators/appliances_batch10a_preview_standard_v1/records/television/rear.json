@@ -1,0 +1,102 @@
+{
+  "asset": "television",
+  "view": "rear",
+  "input_repo_path": "assets/television/television.glb",
+  "input_sha256": "150b0b2de8f8ed09d61e8d54e4639b5eac63b71e17d0ce671455de8afa4abd56",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "e4943ce2f046d90294292bc6e0d8f397bad744c0b05f3c2a0b8454d85c83b902",
+  "closeup_magnification_vs_full_fit": 1.0000000238418556,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch10a/generators/preview_standard_v1/repo/assets/television/rear.jpg",
+  "output_sha256": "0733d21b59e30920a0fb7a9dafebc2fad979a1de4ae3143fe34a3ff93c98e53f",
+  "bytes": 104053,
+  "elapsed_seconds": 273.3652705700006,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 2.0576131626678205,
+  "source_bounds": [
+    [
+      -0.4860000014305115,
+      -0.13300000131130219,
+      0.0
+    ],
+    [
+      0.4860000014305115,
+      0.1473814994096756,
+      0.6319999694824219
+    ]
+  ],
+  "camera_location": [
+    1.1250063922975395e-13,
+    10.0,
+    0.6502050161361694
+  ],
+  "camera_rotation": [
+    -1.570796251296997,
+    3.141592502593994,
+    -0.0
+  ],
+  "ortho_scale": 2.500000238418579,
+  "focus": "full object",
+  "focus_projected_width_height": [
+    2.000000238418579,
+    1.3004117608070374
+  ],
+  "full_object_fit": true,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        4.949746608734131,
+        2.6036500930786133,
+        4.2057271003723145
+      ],
+      "rotation": [
+        1.0093393325805664,
+        -4.423131372277567e-08,
+        2.0514585971832275
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        -2.1213204860687256,
+        4.216809272766113,
+        1.1401556730270386
+      ],
+      "rotation": [
+        1.47627854347229,
+        4.6657358865331844e-08,
+        -2.673337697982788
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        -3.5355348587036133,
+        -0.37061572074890137,
+        4.597833156585693
+      ],
+      "rotation": [
+        0.7390650510787964,
+        -1.6475237174518043e-08,
+        -1.4600356817245483
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": [
+    184,
+    184,
+    184
+  ],
+  "floor_hidden": true,
+  "diagnostic_only": false
+}

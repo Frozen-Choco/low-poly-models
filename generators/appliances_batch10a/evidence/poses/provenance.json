@@ -1,0 +1,11 @@
+[
+  {
+    "asset": "vacuum_cleaner",
+    "source": "/workspace/scratch/a456259dbd5d/lowpoly_batch10a/assets/vacuum_cleaner/vacuum_cleaner.glb",
+    "source_sha256": "d24008696987e0ea69819c1cb0eb944d04c7c1393a27e1fd3d13e8c34df61483",
+    "frame": 61,
+    "derived": "evidence/poses/vacuum_cleaner/vacuum_cleaner_open.glb",
+    "derived_sha256": "bb7749d49dd7cbefc4cb02f47420ce6223d53ab07f7b5ab0fc73e62fd909ee2b",
+    "purpose": "Render-only pose; same saved model geometry and material, rigid transform only. Not a second catalog asset."
+  }
+]

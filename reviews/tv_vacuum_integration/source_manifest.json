@@ -1,0 +1,321 @@
+{
+  "scope": "Exact lean candidate allowlist; no publication",
+  "files": {
+    "README.md": {
+      "bytes": 1784,
+      "sha256": "64fbd9beec94275b566185c1c53096edc09dedf02f5dfa10a9d3df15c77dfbd4"
+    },
+    "assets/appliances/television/alternate_light.jpg": {
+      "bytes": 125592,
+      "sha256": "eb64d1661853ec0bfa7a97385a5e267da93e79219cd88fab521c740d67edc9b0"
+    },
+    "assets/appliances/television/back.jpg": {
+      "bytes": 140931,
+      "sha256": "ce7748e86866c087558c857c30c5586be30508363a1dd1c4aa57168a266b9dbe"
+    },
+    "assets/appliances/television/close_up.jpg": {
+      "bytes": 150985,
+      "sha256": "eb9a641fc5fa83cb311e3ff6e086527fd9fdf169bcf808a30963629f23eeb5fd"
+    },
+    "assets/appliances/television/front.jpg": {
+      "bytes": 99234,
+      "sha256": "70f1dbbd7782263ba8eeff9ca5aae6a55e7360a669ae55135cc11277843d62b5"
+    },
+    "assets/appliances/television/left.jpg": {
+      "bytes": 67691,
+      "sha256": "4aff479b66379aec4937c986300331b59635eef0981212335504da9121bb32cf"
+    },
+    "assets/appliances/television/metadata.json": {
+      "bytes": 1747,
+      "sha256": "e5cf655a591b8de00d5f36954650532b449be3d89c2d6c6e076009268c8494c0"
+    },
+    "assets/appliances/television/preview.jpg": {
+      "bytes": 124421,
+      "sha256": "105e354a212531a6e782f5c68b6038159a470e46c4f3cd5fea146c7e3ab6f596"
+    },
+    "assets/appliances/television/rear.jpg": {
+      "bytes": 104053,
+      "sha256": "0733d21b59e30920a0fb7a9dafebc2fad979a1de4ae3143fe34a3ff93c98e53f"
+    },
+    "assets/appliances/television/side.jpg": {
+      "bytes": 69137,
+      "sha256": "7389d17016805395c231ecce3b1e116e8e631c29e3a0102ccf8c5102d232e32e"
+    },
+    "assets/appliances/television/television.blend": {
+      "bytes": 244916,
+      "sha256": "978ee1b14ae4cf46d8ca3833761e7e8d6b169491fbf182ea412d9cbc98f0ee6e"
+    },
+    "assets/appliances/television/television.glb": {
+      "bytes": 527360,
+      "sha256": "150b0b2de8f8ed09d61e8d54e4639b5eac63b71e17d0ce671455de8afa4abd56"
+    },
+    "assets/appliances/television/top.jpg": {
+      "bytes": 102482,
+      "sha256": "2dd1c9bdc536ec7f620c3687646ed52e1222e910878072b11c5371e14da611d7"
+    },
+    "assets/appliances/television/underside.jpg": {
+      "bytes": 64106,
+      "sha256": "3ece8a247cb5c93f9139bdc894a92a620acf9c9d0c19efd72be6fcb2c76f1864"
+    },
+    "assets/appliances/television/underside_detail.jpg": {
+      "bytes": 85119,
+      "sha256": "02845a3b86f2b30164e55afa76b0bc78888b62e94486350e053470ace84a4639"
+    },
+    "assets/appliances/television/vent_detail.jpg": {
+      "bytes": 163001,
+      "sha256": "2e4329ac8b02918ad588c1e0ecb38701978d7719f7f97afaf463b3adbcaaff78"
+    },
+    "assets/appliances/vacuum_cleaner/alternate_light.jpg": {
+      "bytes": 118906,
+      "sha256": "78994c3e51a000eb69b4421f8c05947637aa943e0c950370a2deeea1022d1274"
+    },
+    "assets/appliances/vacuum_cleaner/back.jpg": {
+      "bytes": 110099,
+      "sha256": "102b0f0b68cb5eeceadc21a389224f58e03aca495f2666785de8a2b8f7f06b8f"
+    },
+    "assets/appliances/vacuum_cleaner/close_up.jpg": {
+      "bytes": 155394,
+      "sha256": "b35a273311e290ed4abd92a969defe8f4c9d9e9e9d654dddccb24bd678408c74"
+    },
+    "assets/appliances/vacuum_cleaner/front.jpg": {
+      "bytes": 87071,
+      "sha256": "e7f02ed17595ff1f370b23c53eee331d7eab8ed2e3a0bf6c92474c88544d730b"
+    },
+    "assets/appliances/vacuum_cleaner/interior.jpg": {
+      "bytes": 199169,
+      "sha256": "42068dfe448fbb849394b629474ff198ce3e4b21b8fba3bbdbdb1508acbd9fce"
+    },
+    "assets/appliances/vacuum_cleaner/left.jpg": {
+      "bytes": 82387,
+      "sha256": "bc1e847d85f63a3ecd4e294b826fcbd32344293a7a867f308b39b3029c1a299e"
+    },
+    "assets/appliances/vacuum_cleaner/metadata.json": {
+      "bytes": 2124,
+      "sha256": "35d4fae57cfe9b606be62ae8e0effde80c6b4aa34d9e11c3f9137335ae83bdfc"
+    },
+    "assets/appliances/vacuum_cleaner/open.jpg": {
+      "bytes": 122988,
+      "sha256": "fdedee835f5b3bd988a271c96a703e9aac02e9ade0f55ccb2f6f8ed00702d120"
+    },
+    "assets/appliances/vacuum_cleaner/preview.jpg": {
+      "bytes": 117186,
+      "sha256": "32be3a4bca9826056f702b2354e1fcd6e9b3e5ca97c25e6f3777f30379106d50"
+    },
+    "assets/appliances/vacuum_cleaner/rear.jpg": {
+      "bytes": 85392,
+      "sha256": "2c198bea15b7e4b49bb443f4e42f6bc2b7f8922cbef039752a008eb5f58e7b31"
+    },
+    "assets/appliances/vacuum_cleaner/side.jpg": {
+      "bytes": 83020,
+      "sha256": "0970e51c52fadcc2fe6bb53c8f94cc91982dafce6cc4790557e37386eff01ec9"
+    },
+    "assets/appliances/vacuum_cleaner/top.jpg": {
+      "bytes": 110541,
+      "sha256": "ca4bdec3f4fc88e9e7fccfa846ab0737eca030e277dda2988c48d70d70d2fe09"
+    },
+    "assets/appliances/vacuum_cleaner/underside.jpg": {
+      "bytes": 80891,
+      "sha256": "a249adbe3e4e372501b0ad608d553e8d829d6d3feba94a5fc7d130f298fef28c"
+    },
+    "assets/appliances/vacuum_cleaner/underside_detail.jpg": {
+      "bytes": 100807,
+      "sha256": "8abfddec070dddccf17e58e594139d201472ae4d40fcde9da6f39a4c78a8691a"
+    },
+    "assets/appliances/vacuum_cleaner/vacuum_cleaner.blend": {
+      "bytes": 739630,
+      "sha256": "03cadbfa88565190474399029e187c089dacec3a6f02ce11fd4188326c75cdba"
+    },
+    "assets/appliances/vacuum_cleaner/vacuum_cleaner.glb": {
+      "bytes": 3314956,
+      "sha256": "d24008696987e0ea69819c1cb0eb944d04c7c1393a27e1fd3d13e8c34df61483"
+    },
+    "assets/appliances/vacuum_cleaner/vent_detail.jpg": {
+      "bytes": 155640,
+      "sha256": "69e4b35fd8defd21af3b4b0ee9483b80e63fb15d9bd1aa6988c7b95c9b3aca96"
+    },
+    "catalog.json": {
+      "bytes": 2630,
+      "sha256": "f89f6dbf36c7ee3ae397a2a033066a335b1c70cbb746230227f338defd0cb9a5"
+    },
+    "generators/appliances_batch10a/configs/attachments.json": {
+      "bytes": 1853,
+      "sha256": "1d61e0dc96081fc63c24a8b4bb1369b004798825cbfa8202d897a02f3b76334a"
+    },
+    "generators/appliances_batch10a/docs/reference-and-design.md": {
+      "bytes": 7835,
+      "sha256": "f9c631bc00034d2d57007ce4888f686266a689efd649d2dbc26705c80e3e2a1b"
+    },
+    "generators/appliances_batch10a/evidence/photography_validation.json": {
+      "bytes": 11005,
+      "sha256": "411f968e6bf20c2168315602f3341d8fb55c5767609a50938a1382cf1c7bdcb6"
+    },
+    "generators/appliances_batch10a/evidence/poses/provenance.json": {
+      "bytes": 543,
+      "sha256": "cc9836adffae08c9838d7a9802a9ad1fb1107566810ee2bef3ae3f6905c3d953"
+    },
+    "generators/appliances_batch10a/evidence/saved_validation.json": {
+      "bytes": 213886,
+      "sha256": "17b0b8d2ab9feb753466cdf19462f3dd56dc9aed974bdc2154a38e9d006cec91"
+    },
+    "generators/appliances_batch10a/evidence/source_reproduction.json": {
+      "bytes": 770,
+      "sha256": "c50e309353c48141f1390a34637b4ac5274fddad01809760d04e86a1f143107c"
+    },
+    "generators/appliances_batch10a/independent_review/approval.json": {
+      "bytes": 4484,
+      "sha256": "b2966fb67bc61f75e92be3efbaae1154763aa0fca1a0658ab97a1fc2f0e1b1c4"
+    },
+    "generators/appliances_batch10a/independent_review/canonical_full_sets.json": {
+      "bytes": 15066,
+      "sha256": "c1ec18d2f0863d034ea5fb9876d75154c8d9dd611e74334794822f27e4d8ca32"
+    },
+    "generators/appliances_batch10a/independent_review/canonical_full_sets.md": {
+      "bytes": 1473,
+      "sha256": "440212f821d59f16d49d9cf0f5914a32fcf526574f7710f20f72c09d79eb3c3e"
+    },
+    "generators/appliances_batch10a/independent_review/open_pose_comparison.json": {
+      "bytes": 459,
+      "sha256": "eb97a60114bb6e72d7224f72db76fef56014114ccedc91de10e23bcb9fa1c081"
+    },
+    "generators/appliances_batch10a/independent_review/source_reproduction.json": {
+      "bytes": 802,
+      "sha256": "88b635453cfe732013beccad1a868c045d50cd2db34edd4e6276db169bb6ee8d"
+    },
+    "generators/appliances_batch10a/scripts/build_assets.py": {
+      "bytes": 22314,
+      "sha256": "26c44fac0f3c140b65c096946ab7f01f553e7b08296297cde56c2fa11cb964c3"
+    },
+    "generators/appliances_batch10a/scripts/prepare_poses.py": {
+      "bytes": 1850,
+      "sha256": "0a84e2e33b0ad66e35b03a52eaf47ee6007ef768d7843f290e319f04dc386c1c"
+    },
+    "generators/appliances_batch10a/scripts/validate_saved.py": {
+      "bytes": 1820,
+      "sha256": "2228216c70d63900dea909bbc56da2c5841a986d81d4c4a191d86b6ee702ae78"
+    },
+    "generators/appliances_preview_standard_v1/detail_targets.json": {
+      "bytes": 2112,
+      "sha256": "e4943ce2f046d90294292bc6e0d8f397bad744c0b05f3c2a0b8454d85c83b902"
+    },
+    "generators/appliances_preview_standard_v1/inputs.json": {
+      "bytes": 1108,
+      "sha256": "69d86974ffbbb55be6bd4b3bf58d9df33b54e79334ea4835bf99b77901b7d27f"
+    },
+    "generators/appliances_preview_standard_v1/records/television/alternate_light.json": {
+      "bytes": 2547,
+      "sha256": "76596847a838dfb659345c895f1f982ca2a3d2240be712262653f0761c19caa6"
+    },
+    "generators/appliances_preview_standard_v1/records/television/back.json": {
+      "bytes": 2531,
+      "sha256": "822aa48f078495e4ff761a65399340226306dd15b85cd10f93a6044a4212c5b8"
+    },
+    "generators/appliances_preview_standard_v1/records/television/close_up.json": {
+      "bytes": 2747,
+      "sha256": "bfd8bfdf94227b00f3f2051a19159cb84390a6384bd73a5d0c69dcaf110a7256"
+    },
+    "generators/appliances_preview_standard_v1/records/television/front.json": {
+      "bytes": 2460,
+      "sha256": "1e7e2cf33c426e9e3be8cfa96ebed894e4dfcfd55a5b53fcb8de63e096999a44"
+    },
+    "generators/appliances_preview_standard_v1/records/television/left.json": {
+      "bytes": 2535,
+      "sha256": "c92cb75c9f8f55661610b117cfcff569a13d18df6769d16d4d6eebee9b6aeafc"
+    },
+    "generators/appliances_preview_standard_v1/records/television/preview.json": {
+      "bytes": 2542,
+      "sha256": "de9633a3832885cb2cf4a4bba7a1511254da18859f7db6e01f0e097fd7026e50"
+    },
+    "generators/appliances_preview_standard_v1/records/television/rear.json": {
+      "bytes": 2536,
+      "sha256": "a89c792479d4430061cf811e3c41029ce8f754bf5ad1276e2a6f8f635e4b79e5"
+    },
+    "generators/appliances_preview_standard_v1/records/television/side.json": {
+      "bytes": 2531,
+      "sha256": "d1656494a5a40d260b51d4a00c663d8928124078c2ddec08243faa6beb6b13f1"
+    },
+    "generators/appliances_preview_standard_v1/records/television/top.json": {
+      "bytes": 2411,
+      "sha256": "6372a7aa00abcef9b401318fc04456b6be96a54df8bad26ce89cb3d01985d38a"
+    },
+    "generators/appliances_preview_standard_v1/records/television/underside.json": {
+      "bytes": 2587,
+      "sha256": "082eef66b117d9468c5e08460bf34e038f0a6f450c8b5bc9068e75cafaca33d9"
+    },
+    "generators/appliances_preview_standard_v1/records/television/underside_detail.json": {
+      "bytes": 2784,
+      "sha256": "8d8590fd3aa99fb99ebc943e41834604c7e3691597a26ef77902823d08d2e5d0"
+    },
+    "generators/appliances_preview_standard_v1/records/television/vent_detail.json": {
+      "bytes": 2748,
+      "sha256": "43a1c7a19fbd97dd536d97408dbe9c73e78d44cab0c15f3ebcf95427591d0acb"
+    },
+    "generators/appliances_preview_standard_v1/records/vacuum_cleaner/alternate_light.json": {
+      "bytes": 2585,
+      "sha256": "fe9dc382c319d029f03a1e071cd496af4ec0c9679926d6582447575b7f18a80b"
+    },
+    "generators/appliances_preview_standard_v1/records/vacuum_cleaner/back.json": {
+      "bytes": 2571,
+      "sha256": "851684d1cd1302eadddbbec6be71ffc3076e5291580bd00fecf9fd6c5fae353b"
+    },
+    "generators/appliances_preview_standard_v1/records/vacuum_cleaner/close_up.json": {
+      "bytes": 2797,
+      "sha256": "d97fb5c5a375c1cb54a7daed51c68d786c0619f2d5f98f44878875446a436fdf"
+    },
+    "generators/appliances_preview_standard_v1/records/vacuum_cleaner/front.json": {
+      "bytes": 2561,
+      "sha256": "f637d0fee806846446593d317a04bc706b5c43c22b7e878dc5f0a25e27a66f17"
+    },
+    "generators/appliances_preview_standard_v1/records/vacuum_cleaner/interior.json": {
+      "bytes": 2777,
+      "sha256": "70eead6b5b2b8ac5eb821753026eea28b311dab25c9188a0205c9667440f5b51"
+    },
+    "generators/appliances_preview_standard_v1/records/vacuum_cleaner/left.json": {
+      "bytes": 2557,
+      "sha256": "97d13158d5f86d87d78e8b101b91f62c8dee04c185dbf378ac7ac9c0f29ba6db"
+    },
+    "generators/appliances_preview_standard_v1/records/vacuum_cleaner/open.json": {
+      "bytes": 2757,
+      "sha256": "3c2c35946a2aa105c23bf51535877ce1441143ed1ea754351876206c04939736"
+    },
+    "generators/appliances_preview_standard_v1/records/vacuum_cleaner/preview.json": {
+      "bytes": 2578,
+      "sha256": "afb887b039211bd8fc21e6321bd48773a92c7468834f0130c86d942c74280c35"
+    },
+    "generators/appliances_preview_standard_v1/records/vacuum_cleaner/rear.json": {
+      "bytes": 2570,
+      "sha256": "eaf432d7da31e03a6d60eba1a1803729e11495abed9e7c20f047761f22e0959c"
+    },
+    "generators/appliances_preview_standard_v1/records/vacuum_cleaner/side.json": {
+      "bytes": 2553,
+      "sha256": "236808444ccfbd67b3c6e4af045015fc34ee3e549d9fd73c51a8ed80f0bfe677"
+    },
+    "generators/appliances_preview_standard_v1/records/vacuum_cleaner/top.json": {
+      "bytes": 2525,
+      "sha256": "7073cd0ebb3a80c4eced711ac4a052a584118072f8a5817781967ed604a0e3c9"
+    },
+    "generators/appliances_preview_standard_v1/records/vacuum_cleaner/underside.json": {
+      "bytes": 2625,
+      "sha256": "704bf17fad3a8d6a0b021285aa8e01c862b01f39ac429d51cf923bcc6874b595"
+    },
+    "generators/appliances_preview_standard_v1/records/vacuum_cleaner/underside_detail.json": {
+      "bytes": 2830,
+      "sha256": "a5ef397fd656bf15552c72ae2395a47d25531aa6ee2aba5c1a7fb5f85d96aba4"
+    },
+    "generators/appliances_preview_standard_v1/records/vacuum_cleaner/vent_detail.json": {
+      "bytes": 2780,
+      "sha256": "b4211b7a6831cf050ac4c1cf794205bbba96c08852feca0d0889cf74699dcda5"
+    },
+    "generators/appliances_preview_standard_v1/relocation.json": {
+      "bytes": 9958,
+      "sha256": "857c2f08557117b017f3c5869b5346e11fc7a541d8b9a249d43a9027d93b6a7b"
+    },
+    "generators/appliances_preview_standard_v1/render.py": {
+      "bytes": 8516,
+      "sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d"
+    },
+    "generators/appliances_preview_standard_v1/standard.json": {
+      "bytes": 3145,
+      "sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa"
+    }
+  }
+}

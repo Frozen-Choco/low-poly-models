@@ -1,0 +1,111 @@
+{
+  "asset": "vacuum_cleaner",
+  "view": "vent_detail",
+  "input_repo_path": "assets/vacuum_cleaner/vacuum_cleaner.glb",
+  "input_sha256": "d24008696987e0ea69819c1cb0eb944d04c7c1393a27e1fd3d13e8c34df61483",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "e4943ce2f046d90294292bc6e0d8f397bad744c0b05f3c2a0b8454d85c83b902",
+  "closeup_magnification_vs_full_fit": 2.9232619266397784,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch10a/generators/preview_standard_v1/repo/assets/vacuum_cleaner/vent_detail.jpg",
+  "output_sha256": "69e4b35fd8defd21af3b4b0ee9483b80e63fb15d9bd1aa6988c7b95c9b3aca96",
+  "bytes": 155640,
+  "elapsed_seconds": 1041.0154121469968,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 1.9840230080793173,
+  "source_bounds": [
+    [
+      -0.24700000882148743,
+      -0.7594999670982361,
+      -8.565758768952492e-09
+    ],
+    [
+      0.48249998688697815,
+      0.24855279922485352,
+      0.8079999685287476
+    ]
+  ],
+  "camera_location": [
+    2.781494617462158,
+    9.790288925170898,
+    3.23335599899292
+  ],
+  "camera_rotation": [
+    1.2645190954208374,
+    -3.1735325478621235e-08,
+    2.8198421001434326
+  ],
+  "ortho_scale": 0.8432098031044006,
+  "focus": {
+    "direction": [
+      1,
+      3,
+      1
+    ],
+    "target_m": [
+      0,
+      0.12,
+      0.11
+    ],
+    "span_m": 0.34,
+    "purpose": "Rear exhaust louvers, seated cord and hinge mounting"
+  },
+  "focus_projected_width_height": [
+    1.9719384908676147,
+    1.682344526052475
+  ],
+  "full_object_fit": false,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        5.133923530578613,
+        -0.2507050633430481,
+        4.827338218688965
+      ],
+      "rotation": [
+        0.8948330879211426,
+        -4.4586357716980274e-08,
+        1.5251171588897705
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        -0.7956039905548096,
+        4.32139253616333,
+        2.390817165374756
+      ],
+      "rotation": [
+        1.2048428058624268,
+        -8.58739852560575e-08,
+        -2.961345672607422
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        -3.8500819206237793,
+        -0.3699057996273041,
+        4.3044233322143555
+      ],
+      "rotation": [
+        0.8199552893638611,
+        -1.741923938425316e-08,
+        -1.4789530038833618
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": null,
+  "floor_hidden": false,
+  "diagnostic_only": false
+}

@@ -1,0 +1,44 @@
+{
+  "decision": "PASS",
+  "gate": "independent_exact_lean_package",
+  "candidate": "lowpoly_batch10a/release_candidate",
+  "manifest_sha256": "418c6b3e2a7ec9737bbc1b4bf2b463a841648f977e00ecc95b9bd15c600d863e",
+  "payload_files": 79,
+  "payload_bytes": 8118414,
+  "manifest_bytes": 14230,
+  "source_revisions": {
+    "television": 6,
+    "vacuum_cleaner": 9
+  },
+  "checks": [
+    "Exact manifest allowlist and every payload SHA256/size independently checked",
+    "Exactly2Blend+2GLB+26JPG; every file below100MB; no draft PNGs or redundant pose GLBs",
+    "Models match independent source approval, metadata/catalog units/dimensions and simple Japanese names",
+    "All26 delivered photos and26 immutable records match individually viewed canonical approvals",
+    "Frozen renderer/spec byte-identical to batch09a; relocation mapping and metadata record links resolve",
+    "Packaged generator source hash matches independent isolated byte-identical GLB reproduction evidence",
+    "Documented prepare_poses script independently executed on isolated package copy; regenerated poseGLB hash exact",
+    "Generic reference differences, static mechanisms and physical-simulation limitations documented",
+    "Only concise independent approvals/reproduction summaries included; raw audit candidate arrays excluded"
+  ],
+  "pose_reproduction": [
+    {
+      "id": "television",
+      "sha256": "150b0b2de8f8ed09d61e8d54e4639b5eac63b71e17d0ce671455de8afa4abd56",
+      "packaged_source_exists": true
+    },
+    {
+      "id": "vacuum_cleaner",
+      "sha256": "d24008696987e0ea69819c1cb0eb944d04c7c1393a27e1fd3d13e8c34df61483",
+      "packaged_source_exists": true
+    },
+    {
+      "id": "vacuum_cleaner_open",
+      "sha256": "bb7749d49dd7cbefc4cb02f47420ce6223d53ab07f7b5ab0fc73e62fd909ee2b",
+      "packaged_source_exists": false
+    }
+  ],
+  "blocking_findings": [],
+  "publication_executed": false,
+  "authorizes": "This exact79-file lean payload plus pinned manifest is accepted for parent-controlled integration/publication. Any candidate-byte change requires refreshed package acceptance."
+}

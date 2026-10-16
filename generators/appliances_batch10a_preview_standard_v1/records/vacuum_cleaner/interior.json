@@ -1,0 +1,111 @@
+{
+  "asset": "vacuum_cleaner_open",
+  "view": "interior",
+  "input_repo_path": "evidence/poses/vacuum_cleaner/vacuum_cleaner_open.glb",
+  "input_sha256": "bb7749d49dd7cbefc4cb02f47420ce6223d53ab07f7b5ab0fc73e62fd909ee2b",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "e4943ce2f046d90294292bc6e0d8f397bad744c0b05f3c2a0b8454d85c83b902",
+  "closeup_magnification_vs_full_fit": 2.5391356621038383,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch10a/generators/preview_standard_v1/repo/evidence/poses/vacuum_cleaner/interior.jpg",
+  "output_sha256": "42068dfe448fbb849394b629474ff198ce3e4b21b8fba3bbdbdb1508acbd9fce",
+  "bytes": 199169,
+  "elapsed_seconds": 1162.4296923329966,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 1.9674595272857336,
+  "source_bounds": [
+    [
+      -0.24700000882148743,
+      -0.7594999670982361,
+      -6.541119867975453e-10
+    ],
+    [
+      0.48249998688697815,
+      0.2570394277572632,
+      0.8079999685287476
+    ]
+  ],
+  "camera_location": [
+    -0.23166833817958832,
+    -1.9310710430145264,
+    9.957195281982422
+  ],
+  "camera_rotation": [
+    0.24497874081134796,
+    -0.0,
+    0.0
+  ],
+  "ortho_scale": 1.0575095415115356,
+  "focus": {
+    "direction": [
+      0,
+      -0.5,
+      2
+    ],
+    "target_m": [
+      0,
+      0,
+      0.13
+    ],
+    "span_m": 0.43,
+    "purpose": "Supported paper bag, open inlet and separated motor filter"
+  },
+  "focus_projected_width_height": [
+    1.4352617263793945,
+    2.1481281518936157
+  ],
+  "full_object_fit": false,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        -4.949747085571289,
+        2.7087461948394775,
+        4.088174343109131
+      ],
+      "rotation": [
+        1.0369725227355957,
+        -4.307228707034483e-08,
+        -2.0825843811035156
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        2.1213204860687256,
+        -0.6565427184104919,
+        4.909658908843994
+      ],
+      "rotation": [
+        0.4848618805408478,
+        7.089668230264579e-08,
+        1.3017239570617676
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        3.535534143447876,
+        3.8105111122131348,
+        1.2978127002716064
+      ],
+      "rotation": [
+        1.4635658264160156,
+        -3.868750209079508e-09,
+        2.4028799533843994
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": null,
+  "floor_hidden": false,
+  "diagnostic_only": false
+}

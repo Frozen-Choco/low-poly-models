@@ -1,0 +1,20 @@
+{
+  "decision": "PASS",
+  "independent_reviewer": "review_television_vacuum_models",
+  "script_sha256": "26c44fac0f3c140b65c096946ab7f01f553e7b08296297cde56c2fa11cb964c3",
+  "environment": "Blender4.3.2, fresh factory scene, isolated temporary copy,2CPU",
+  "results": [
+    {
+      "asset": "television",
+      "delivered_sha256": "150b0b2de8f8ed09d61e8d54e4639b5eac63b71e17d0ce671455de8afa4abd56",
+      "regenerated_sha256": "150b0b2de8f8ed09d61e8d54e4639b5eac63b71e17d0ce671455de8afa4abd56",
+      "byte_identical": true
+    },
+    {
+      "asset": "vacuum_cleaner",
+      "delivered_sha256": "d24008696987e0ea69819c1cb0eb944d04c7c1393a27e1fd3d13e8c34df61483",
+      "regenerated_sha256": "d24008696987e0ea69819c1cb0eb944d04c7c1393a27e1fd3d13e8c34df61483",
+      "byte_identical": true
+    }
+  ]
+}

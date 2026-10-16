@@ -1,0 +1,218 @@
+{
+  "decision": "PASS",
+  "scope": "All 26 exact hash-bound canonical files,1200px JPEG, unchanged core and512sample ceiling; independent visual review separate.",
+  "core_hashes": {
+    "render.py": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+    "standard.json": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa"
+  },
+  "views": [
+    {
+      "asset": "television",
+      "view": "preview",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch10a/generators/preview_standard_v1/repo/assets/television/preview.jpg",
+      "image_sha256": "105e354a212531a6e782f5c68b6038159a470e46c4f3cd5fea146c7e3ab6f596",
+      "record_sha256": "de9633a3832885cb2cf4a4bba7a1511254da18859f7db6e01f0e097fd7026e50",
+      "bytes": 124421
+    },
+    {
+      "asset": "television",
+      "view": "back",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch10a/generators/preview_standard_v1/repo/assets/television/back.jpg",
+      "image_sha256": "ce7748e86866c087558c857c30c5586be30508363a1dd1c4aa57168a266b9dbe",
+      "record_sha256": "822aa48f078495e4ff761a65399340226306dd15b85cd10f93a6044a4212c5b8",
+      "bytes": 140931
+    },
+    {
+      "asset": "television",
+      "view": "front",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch10a/generators/preview_standard_v1/repo/assets/television/front.jpg",
+      "image_sha256": "70f1dbbd7782263ba8eeff9ca5aae6a55e7360a669ae55135cc11277843d62b5",
+      "record_sha256": "1e7e2cf33c426e9e3be8cfa96ebed894e4dfcfd55a5b53fcb8de63e096999a44",
+      "bytes": 99234
+    },
+    {
+      "asset": "television",
+      "view": "rear",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch10a/generators/preview_standard_v1/repo/assets/television/rear.jpg",
+      "image_sha256": "0733d21b59e30920a0fb7a9dafebc2fad979a1de4ae3143fe34a3ff93c98e53f",
+      "record_sha256": "a89c792479d4430061cf811e3c41029ce8f754bf5ad1276e2a6f8f635e4b79e5",
+      "bytes": 104053
+    },
+    {
+      "asset": "television",
+      "view": "side",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch10a/generators/preview_standard_v1/repo/assets/television/side.jpg",
+      "image_sha256": "7389d17016805395c231ecce3b1e116e8e631c29e3a0102ccf8c5102d232e32e",
+      "record_sha256": "d1656494a5a40d260b51d4a00c663d8928124078c2ddec08243faa6beb6b13f1",
+      "bytes": 69137
+    },
+    {
+      "asset": "television",
+      "view": "left",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch10a/generators/preview_standard_v1/repo/assets/television/left.jpg",
+      "image_sha256": "4aff479b66379aec4937c986300331b59635eef0981212335504da9121bb32cf",
+      "record_sha256": "c92cb75c9f8f55661610b117cfcff569a13d18df6769d16d4d6eebee9b6aeafc",
+      "bytes": 67691
+    },
+    {
+      "asset": "television",
+      "view": "top",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch10a/generators/preview_standard_v1/repo/assets/television/top.jpg",
+      "image_sha256": "2dd1c9bdc536ec7f620c3687646ed52e1222e910878072b11c5371e14da611d7",
+      "record_sha256": "6372a7aa00abcef9b401318fc04456b6be96a54df8bad26ce89cb3d01985d38a",
+      "bytes": 102482
+    },
+    {
+      "asset": "television",
+      "view": "underside",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch10a/generators/preview_standard_v1/repo/assets/television/underside.jpg",
+      "image_sha256": "3ece8a247cb5c93f9139bdc894a92a620acf9c9d0c19efd72be6fcb2c76f1864",
+      "record_sha256": "082eef66b117d9468c5e08460bf34e038f0a6f450c8b5bc9068e75cafaca33d9",
+      "bytes": 64106
+    },
+    {
+      "asset": "television",
+      "view": "close_up",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch10a/generators/preview_standard_v1/repo/assets/television/close_up.jpg",
+      "image_sha256": "eb9a641fc5fa83cb311e3ff6e086527fd9fdf169bcf808a30963629f23eeb5fd",
+      "record_sha256": "bfd8bfdf94227b00f3f2051a19159cb84390a6384bd73a5d0c69dcaf110a7256",
+      "bytes": 150985
+    },
+    {
+      "asset": "television",
+      "view": "underside_detail",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch10a/generators/preview_standard_v1/repo/assets/television/underside_detail.jpg",
+      "image_sha256": "02845a3b86f2b30164e55afa76b0bc78888b62e94486350e053470ace84a4639",
+      "record_sha256": "8d8590fd3aa99fb99ebc943e41834604c7e3691597a26ef77902823d08d2e5d0",
+      "bytes": 85119
+    },
+    {
+      "asset": "television",
+      "view": "alternate_light",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch10a/generators/preview_standard_v1/repo/assets/television/alternate_light.jpg",
+      "image_sha256": "eb64d1661853ec0bfa7a97385a5e267da93e79219cd88fab521c740d67edc9b0",
+      "record_sha256": "76596847a838dfb659345c895f1f982ca2a3d2240be712262653f0761c19caa6",
+      "bytes": 125592
+    },
+    {
+      "asset": "television",
+      "view": "vent_detail",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch10a/generators/preview_standard_v1/repo/assets/television/vent_detail.jpg",
+      "image_sha256": "2e4329ac8b02918ad588c1e0ecb38701978d7719f7f97afaf463b3adbcaaff78",
+      "record_sha256": "43a1c7a19fbd97dd536d97408dbe9c73e78d44cab0c15f3ebcf95427591d0acb",
+      "bytes": 163001
+    },
+    {
+      "asset": "vacuum_cleaner",
+      "view": "preview",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch10a/generators/preview_standard_v1/repo/assets/vacuum_cleaner/preview.jpg",
+      "image_sha256": "32be3a4bca9826056f702b2354e1fcd6e9b3e5ca97c25e6f3777f30379106d50",
+      "record_sha256": "afb887b039211bd8fc21e6321bd48773a92c7468834f0130c86d942c74280c35",
+      "bytes": 117186
+    },
+    {
+      "asset": "vacuum_cleaner",
+      "view": "back",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch10a/generators/preview_standard_v1/repo/assets/vacuum_cleaner/back.jpg",
+      "image_sha256": "102b0f0b68cb5eeceadc21a389224f58e03aca495f2666785de8a2b8f7f06b8f",
+      "record_sha256": "851684d1cd1302eadddbbec6be71ffc3076e5291580bd00fecf9fd6c5fae353b",
+      "bytes": 110099
+    },
+    {
+      "asset": "vacuum_cleaner",
+      "view": "front",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch10a/generators/preview_standard_v1/repo/assets/vacuum_cleaner/front.jpg",
+      "image_sha256": "e7f02ed17595ff1f370b23c53eee331d7eab8ed2e3a0bf6c92474c88544d730b",
+      "record_sha256": "f637d0fee806846446593d317a04bc706b5c43c22b7e878dc5f0a25e27a66f17",
+      "bytes": 87071
+    },
+    {
+      "asset": "vacuum_cleaner",
+      "view": "rear",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch10a/generators/preview_standard_v1/repo/assets/vacuum_cleaner/rear.jpg",
+      "image_sha256": "2c198bea15b7e4b49bb443f4e42f6bc2b7f8922cbef039752a008eb5f58e7b31",
+      "record_sha256": "eaf432d7da31e03a6d60eba1a1803729e11495abed9e7c20f047761f22e0959c",
+      "bytes": 85392
+    },
+    {
+      "asset": "vacuum_cleaner",
+      "view": "side",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch10a/generators/preview_standard_v1/repo/assets/vacuum_cleaner/side.jpg",
+      "image_sha256": "0970e51c52fadcc2fe6bb53c8f94cc91982dafce6cc4790557e37386eff01ec9",
+      "record_sha256": "236808444ccfbd67b3c6e4af045015fc34ee3e549d9fd73c51a8ed80f0bfe677",
+      "bytes": 83020
+    },
+    {
+      "asset": "vacuum_cleaner",
+      "view": "left",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch10a/generators/preview_standard_v1/repo/assets/vacuum_cleaner/left.jpg",
+      "image_sha256": "bc1e847d85f63a3ecd4e294b826fcbd32344293a7a867f308b39b3029c1a299e",
+      "record_sha256": "97d13158d5f86d87d78e8b101b91f62c8dee04c185dbf378ac7ac9c0f29ba6db",
+      "bytes": 82387
+    },
+    {
+      "asset": "vacuum_cleaner",
+      "view": "top",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch10a/generators/preview_standard_v1/repo/assets/vacuum_cleaner/top.jpg",
+      "image_sha256": "ca4bdec3f4fc88e9e7fccfa846ab0737eca030e277dda2988c48d70d70d2fe09",
+      "record_sha256": "7073cd0ebb3a80c4eced711ac4a052a584118072f8a5817781967ed604a0e3c9",
+      "bytes": 110541
+    },
+    {
+      "asset": "vacuum_cleaner",
+      "view": "underside",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch10a/generators/preview_standard_v1/repo/assets/vacuum_cleaner/underside.jpg",
+      "image_sha256": "a249adbe3e4e372501b0ad608d553e8d829d6d3feba94a5fc7d130f298fef28c",
+      "record_sha256": "704bf17fad3a8d6a0b021285aa8e01c862b01f39ac429d51cf923bcc6874b595",
+      "bytes": 80891
+    },
+    {
+      "asset": "vacuum_cleaner",
+      "view": "close_up",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch10a/generators/preview_standard_v1/repo/assets/vacuum_cleaner/close_up.jpg",
+      "image_sha256": "b35a273311e290ed4abd92a969defe8f4c9d9e9e9d654dddccb24bd678408c74",
+      "record_sha256": "d97fb5c5a375c1cb54a7daed51c68d786c0619f2d5f98f44878875446a436fdf",
+      "bytes": 155394
+    },
+    {
+      "asset": "vacuum_cleaner",
+      "view": "underside_detail",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch10a/generators/preview_standard_v1/repo/assets/vacuum_cleaner/underside_detail.jpg",
+      "image_sha256": "8abfddec070dddccf17e58e594139d201472ae4d40fcde9da6f39a4c78a8691a",
+      "record_sha256": "a5ef397fd656bf15552c72ae2395a47d25531aa6ee2aba5c1a7fb5f85d96aba4",
+      "bytes": 100807
+    },
+    {
+      "asset": "vacuum_cleaner",
+      "view": "alternate_light",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch10a/generators/preview_standard_v1/repo/assets/vacuum_cleaner/alternate_light.jpg",
+      "image_sha256": "78994c3e51a000eb69b4421f8c05947637aa943e0c950370a2deeea1022d1274",
+      "record_sha256": "fe9dc382c319d029f03a1e071cd496af4ec0c9679926d6582447575b7f18a80b",
+      "bytes": 118906
+    },
+    {
+      "asset": "vacuum_cleaner",
+      "view": "vent_detail",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch10a/generators/preview_standard_v1/repo/assets/vacuum_cleaner/vent_detail.jpg",
+      "image_sha256": "69e4b35fd8defd21af3b4b0ee9483b80e63fb15d9bd1aa6988c7b95c9b3aca96",
+      "record_sha256": "b4211b7a6831cf050ac4c1cf794205bbba96c08852feca0d0889cf74699dcda5",
+      "bytes": 155640
+    },
+    {
+      "asset": "vacuum_cleaner_open",
+      "view": "open",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch10a/generators/preview_standard_v1/repo/evidence/poses/vacuum_cleaner/open.jpg",
+      "image_sha256": "fdedee835f5b3bd988a271c96a703e9aac02e9ade0f55ccb2f6f8ed00702d120",
+      "record_sha256": "3c2c35946a2aa105c23bf51535877ce1441143ed1ea754351876206c04939736",
+      "bytes": 122988
+    },
+    {
+      "asset": "vacuum_cleaner_open",
+      "view": "interior",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch10a/generators/preview_standard_v1/repo/evidence/poses/vacuum_cleaner/interior.jpg",
+      "image_sha256": "42068dfe448fbb849394b629474ff198ce3e4b21b8fba3bbdbdb1508acbd9fce",
+      "record_sha256": "70eead6b5b2b8ac5eb821753026eea28b311dab25c9188a0205c9667440f5b51",
+      "bytes": 199169
+    }
+  ]
+}

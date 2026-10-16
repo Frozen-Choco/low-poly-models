@@ -1,0 +1,13 @@
+{
+  "decision": "PASS",
+  "comparison": "Delivered animation frame61 versus static photograph GLB frame1",
+  "results": [
+    {
+      "asset": "vacuum_cleaner",
+      "source_sha256": "d24008696987e0ea69819c1cb0eb944d04c7c1393a27e1fd3d13e8c34df61483",
+      "derived_sha256": "bb7749d49dd7cbefc4cb02f47420ce6223d53ab07f7b5ab0fc73e62fd909ee2b",
+      "object_names_triangles_and_materials_match": true,
+      "max_distance_m": 8.429369557916289e-08
+    }
+  ]
+}

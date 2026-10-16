@@ -1,0 +1,87 @@
+{
+  "decision": "PASS",
+  "gate": "independent_saved_shape_and_full_resolution_diagnostic",
+  "reviewer": "review_television_vacuum_models",
+  "revisions": {
+    "television": 6,
+    "vacuum_cleaner": 9
+  },
+  "files": [
+    {
+      "path": "lowpoly_batch10a/assets/television/television.blend",
+      "sha256": "978ee1b14ae4cf46d8ca3833761e7e8d6b169491fbf182ea412d9cbc98f0ee6e",
+      "bytes": 244916,
+      "triangles": 15532
+    },
+    {
+      "path": "lowpoly_batch10a/assets/television/television.glb",
+      "sha256": "150b0b2de8f8ed09d61e8d54e4639b5eac63b71e17d0ce671455de8afa4abd56",
+      "bytes": 527360,
+      "triangles": 15532
+    },
+    {
+      "path": "lowpoly_batch10a/assets/vacuum_cleaner/vacuum_cleaner.blend",
+      "sha256": "03cadbfa88565190474399029e187c089dacec3a6f02ce11fd4188326c75cdba",
+      "bytes": 739630,
+      "triangles": 104556
+    },
+    {
+      "path": "lowpoly_batch10a/assets/vacuum_cleaner/vacuum_cleaner.glb",
+      "sha256": "d24008696987e0ea69819c1cb0eb944d04c7c1393a27e1fd3d13e8c34df61483",
+      "bytes": 3314956,
+      "triangles": 104556
+    }
+  ],
+  "diagnostics": [
+    {
+      "path": "lowpoly_batch10a/evidence/revision9_full/vacuum_cleaner/true_front.png",
+      "sha256": "033f0907d3b890184c6020e2d84d79275035a4ed222161e4ea6901f81073ff82"
+    },
+    {
+      "path": "lowpoly_batch10a/evidence/revision9_full/vacuum_cleaner/back.png",
+      "sha256": "bbf39ec22dbcc5adcb49f13c57fc6bd197a272cebc295323eff40fef18858f85"
+    },
+    {
+      "path": "lowpoly_batch10a/evidence/revision9_full/vacuum_cleaner/body_rear.png",
+      "sha256": "19482e84b02d02686081aaeb03a1b4020059b853c9e67d532a5770c7817757e9"
+    },
+    {
+      "path": "lowpoly_batch10a/evidence/revision9_full/vacuum_cleaner/front.png",
+      "sha256": "7e5632b609fcdcc55cb44e9b79857f45b0a7766714103ed6865649005ce9f3ae"
+    },
+    {
+      "path": "lowpoly_batch10a/evidence/revision9_full/television/true_front.png",
+      "sha256": "f394491fa8bfdc402e2c0c8432f3e13719c190fb9515bb00e2ab1269471eecf0"
+    },
+    {
+      "path": "lowpoly_batch10a/evidence/revision9_full/television/back.png",
+      "sha256": "801bff0a4da16a72fa15e6baff6ecc8d31af742bb8092f6b660aef70fd346764"
+    },
+    {
+      "path": "lowpoly_batch10a/evidence/revision9_full/television/front.png",
+      "sha256": "4874f61b2e8a975d9702ea5766011c5e14e781c2e7e4a81a4f703837cdbe2eab"
+    }
+  ],
+  "checks": [
+    "Both Blender and GLB saved formats independently inspected: finite, UV-present, positive-volume welded manifold components, no duplicate or zero-area triangles and no self-intersection candidates",
+    "Both formats match across8poses: TV max0.032micrometer and vacuum max0.130micrometer",
+    "All310vacuum mesh objects connect in a positive-contact support graph; prior filter/guard/cord/lid disconnections corrected",
+    "Vacuum lid61integer samples have only closed gasket contact and intended coaxial knuckle/pin seating; all noncoaxial motion collisions resolved",
+    "True exposed airway tubes have walls; body inlet and wand/head centerline segments independently ray-tested with no blocking faces",
+    "TV stands clear screen and bezel; loose plug clear legs and ground pads",
+    "Independent coplanar positive-area clipping confirms no TV pair overlaps; vacuum residual pairs limited to intentional hidden concentric airflow coupling seats, none on exposed grille or hinge bridges",
+    "All7new1200px diagnostic files independently viewed; TV four-corner black fragments and vacuum grille/hinge black specks are absent",
+    "Earlier original-resolution full-body, side, underside and interior checks remain supporting evidence for unchanged geometry; complete final photos still gated",
+    "TV15532triangles and vacuum104556triangles; all saved files below3.4MB"
+  ],
+  "limits": [
+    "Static mechanisms other than vacuum lid are individually editable visual parts, not dynamic simulation",
+    "61-frame sampling plus inspected hinge construction is a visual clearance audit, not engineering certification",
+    "Generic interior and socket construction differs from manufacturer references"
+  ],
+  "supersedes": [
+    "TVrevision4shape approval was revoked; earlier canonical front remains rejected",
+    "All earlier vacuum holds resolved by this exact revision"
+  ],
+  "authorizes": "Canonical photography with unchanged frozen renderer/spec for these exact four model files. Final all-image and exact lean-package acceptance remain required; no publication executed."
+}
