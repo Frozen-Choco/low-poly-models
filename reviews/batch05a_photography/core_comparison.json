@@ -1,0 +1,10 @@
+{
+  "render.py": {
+    "byte_identical": true,
+    "sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d"
+  },
+  "standard.json": {
+    "byte_identical": true,
+    "sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa"
+  }
+}

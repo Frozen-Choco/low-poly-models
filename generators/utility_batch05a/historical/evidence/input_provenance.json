@@ -1,0 +1,29 @@
+[
+  {
+    "asset": "round_wooden_stool",
+    "sha256": "233a1af3dd15e493c684e4a89395e7a49e31a1115a11caccb7c9baaf3dc2d6cf",
+    "placement_m": [
+      -0.24,
+      0,
+      0
+    ]
+  },
+  {
+    "asset": "plastic_bail_bucket",
+    "sha256": "3dfd396fcff13e461cb118cf0247634d35c561a1d1fd4e614f24b3945748abbc",
+    "placement_m": [
+      0.23,
+      -0.04,
+      0
+    ]
+  },
+  {
+    "asset": "wall_clock",
+    "sha256": "5f6d2b19e3a59bfb5bf6eb602c9cddb2561ee9939ae7095666b14eb75947dbbe",
+    "placement_m": [
+      0.12,
+      0.39,
+      0.95
+    ]
+  }
+]

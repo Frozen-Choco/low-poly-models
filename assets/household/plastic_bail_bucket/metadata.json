@@ -1,0 +1,58 @@
+{
+  "id": "plastic_bail_bucket",
+  "title_ja": "\u91d1\u5c5e\u3064\u308b\u4ed8\u304d\u6a39\u8102\u30d0\u30b1\u30c4",
+  "category": "household",
+  "units": "meters",
+  "origin": "bottom centered; clock front -Y",
+  "front_blend": "-Y",
+  "up_blend": "Z",
+  "up_glb": "Y",
+  "design": "Original unbranded diorama prop informed by real construction. No manufacturing or safety certification.",
+  "license": "Original geometry and packed original grain image. No external asset content.",
+  "review_status": "Geometry/function and canonical photography independently approved; publication integration pending",
+  "blender_version": "4.3.2",
+  "glb_bytes": 276484,
+  "blend_bytes": 219353,
+  "triangles": 13092,
+  "zero_area_triangles": 0,
+  "bounds_min": [
+    -0.15168024599552155,
+    -0.16099999845027924,
+    0.0
+  ],
+  "bounds_max": [
+    0.15168024599552155,
+    0.14000000059604645,
+    0.4020000100135803
+  ],
+  "dimensions_m": [
+    0.3033604919910431,
+    0.3009999990463257,
+    0.4020000100135803
+  ],
+  "mesh_objects": 5,
+  "references": [
+    "https://www.risu.co.jp/products/search/detail/t000100014292/",
+    "https://www.risu.co.jp/group/search/cad/BR8.pdf"
+  ],
+  "functional_validation_files": [
+    "generators/utility_batch05a/historical/numeric_use_validation.json",
+    "generators/utility_batch05a/historical/use_validation.json"
+  ],
+  "geometry_manifest_sha256": "cbb07f5fdb6d296c7de1dc5709b33a8679a059c9392ac858ca35dd32c848a12f",
+  "photography_standard": "preview-standard-v1",
+  "photography_configuration": "generators/utility_preview_standard_v1",
+  "canonical_images": [
+    "preview.jpg",
+    "back.jpg",
+    "rear.jpg",
+    "side.jpg",
+    "underside.jpg",
+    "close_up.jpg",
+    "top.jpg",
+    "front_three_quarter.jpg",
+    "underside_axial.jpg"
+  ],
+  "glb_sha256": "3dfd396fcff13e461cb118cf0247634d35c561a1d1fd4e614f24b3945748abbc",
+  "blend_sha256": "748e08f9005c1149a54c2e0e1ba059776c3bf3c481cfef66b6bf69ef3d98fd09"
+}

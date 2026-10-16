@@ -1,0 +1,17 @@
+{
+  "version": "utility-preview-standard-v1",
+  "configuration_revision": "1.0.0",
+  "inherits_core": "preview-standard-v1 / revision 1.0.1",
+  "blender": "4.3.2",
+  "pillow": "11.1.0",
+  "files": {
+    "render.py": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+    "standard.json": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+    "inputs.json": "a3df76004eb95bf1155a72d6844aba6e1d9d0bba0684c730bcb9e44582ce7cf7",
+    "views.json": "3b520a5ae24db369f498bc2e9108040e64cd31a38b2afe280a63a025f5ae4390",
+    "detail_targets.json": "faf793b3d3390482983b3ebb584d3e774b14e0b0a3a81c794ccaeec640af2413",
+    "audit.py": "36a5bd6cd8b502a6b18cec72e17dd28007212cfbcd8498678bd8788ccd610b0b",
+    "README.md": "961caf100b9edf11ba6fd70e8b1fb66eab65d60d7b62aac6a5a0e22a1cb44889",
+    "provenance.json": "ba7611e469c3c660bcdd03a65c27d7666dde3f7c1c12d2968c22372aeaaeb0b2"
+  }
+}

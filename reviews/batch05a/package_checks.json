@@ -1,0 +1,110 @@
+{
+  "manifest_sha256": "cbb07f5fdb6d296c7de1dc5709b33a8679a059c9392ac858ca35dd32c848a12f",
+  "package_checks": {
+    "manifest_matches_all_files": true,
+    "all_package_files_under_100MB": true,
+    "context_uses_current_glbs": true
+  },
+  "assets": [
+    {
+      "asset": "plastic_bail_bucket",
+      "files": [
+        {
+          "path": "lowpoly_batch05a/assets/plastic_bail_bucket/plastic_bail_bucket.glb",
+          "bytes": 276484,
+          "sha256": "3dfd396fcff13e461cb118cf0247634d35c561a1d1fd4e614f24b3945748abbc"
+        },
+        {
+          "path": "lowpoly_batch05a/assets/plastic_bail_bucket/plastic_bail_bucket.blend",
+          "bytes": 219353,
+          "sha256": "748e08f9005c1149a54c2e0e1ba059776c3bf3c481cfef66b6bf69ef3d98fd09"
+        }
+      ],
+      "checks": {
+        "glb_inspection_current": true,
+        "glb_triangles_match_metadata": true,
+        "glb_finite_nondegenerate": true,
+        "glb_dimensions_match_metadata": true,
+        "glb_under_100MB": true,
+        "glb_bytes_match_metadata": true,
+        "blend_inspection_current": true,
+        "blend_triangles_match_metadata": true,
+        "blend_finite_nondegenerate": true,
+        "blend_dimensions_match_metadata": true,
+        "blend_under_100MB": true,
+        "blend_bytes_match_metadata": true,
+        "canonical_preview": true,
+        "canonical_back": true,
+        "gallery_fields": true
+      },
+      "all_pass": true
+    },
+    {
+      "asset": "round_wooden_stool",
+      "files": [
+        {
+          "path": "lowpoly_batch05a/assets/round_wooden_stool/round_wooden_stool.glb",
+          "bytes": 681612,
+          "sha256": "233a1af3dd15e493c684e4a89395e7a49e31a1115a11caccb7c9baaf3dc2d6cf"
+        },
+        {
+          "path": "lowpoly_batch05a/assets/round_wooden_stool/round_wooden_stool.blend",
+          "bytes": 450232,
+          "sha256": "ac5e113fa998ac419a4110d46ff58c6cf05f63d32d3a909d9b231dabe08adbdc"
+        }
+      ],
+      "checks": {
+        "glb_inspection_current": true,
+        "glb_triangles_match_metadata": true,
+        "glb_finite_nondegenerate": true,
+        "glb_dimensions_match_metadata": true,
+        "glb_under_100MB": true,
+        "glb_bytes_match_metadata": true,
+        "blend_inspection_current": true,
+        "blend_triangles_match_metadata": true,
+        "blend_finite_nondegenerate": true,
+        "blend_dimensions_match_metadata": true,
+        "blend_under_100MB": true,
+        "blend_bytes_match_metadata": true,
+        "canonical_preview": true,
+        "canonical_back": true,
+        "gallery_fields": true
+      },
+      "all_pass": true
+    },
+    {
+      "asset": "wall_clock",
+      "files": [
+        {
+          "path": "lowpoly_batch05a/assets/wall_clock/wall_clock.glb",
+          "bytes": 763884,
+          "sha256": "5f6d2b19e3a59bfb5bf6eb602c9cddb2561ee9939ae7095666b14eb75947dbbe"
+        },
+        {
+          "path": "lowpoly_batch05a/assets/wall_clock/wall_clock.blend",
+          "bytes": 188354,
+          "sha256": "f2bf9743b42f6ec63e019efe5c4a952c0eb6663de4b289d736eeebb86585916f"
+        }
+      ],
+      "checks": {
+        "glb_inspection_current": true,
+        "glb_triangles_match_metadata": true,
+        "glb_finite_nondegenerate": true,
+        "glb_dimensions_match_metadata": true,
+        "glb_under_100MB": true,
+        "glb_bytes_match_metadata": true,
+        "blend_inspection_current": true,
+        "blend_triangles_match_metadata": true,
+        "blend_finite_nondegenerate": true,
+        "blend_dimensions_match_metadata": true,
+        "blend_under_100MB": true,
+        "blend_bytes_match_metadata": true,
+        "canonical_preview": true,
+        "canonical_back": true,
+        "gallery_fields": true
+      },
+      "all_pass": true
+    }
+  ],
+  "all_pass": true
+}

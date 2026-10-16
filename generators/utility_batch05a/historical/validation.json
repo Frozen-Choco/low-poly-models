@@ -1,0 +1,164 @@
+[
+  {
+    "asset": "round_wooden_stool",
+    "blend": {
+      "triangles": 7428,
+      "zero_area_triangles": 0,
+      "bounds_min": [
+        -0.15000000596046448,
+        -0.15000000596046448,
+        0.0
+      ],
+      "bounds_max": [
+        0.15000000596046448,
+        0.15000000596046448,
+        0.44999998807907104
+      ],
+      "dimensions_m": [
+        0.30000001192092896,
+        0.30000001192092896,
+        0.44999998807907104
+      ],
+      "mesh_objects": 23
+    },
+    "glb": {
+      "triangles": 7428,
+      "zero_area_triangles": 0,
+      "bounds_min": [
+        -0.15000000596046448,
+        -0.15000000596046448,
+        0.0
+      ],
+      "bounds_max": [
+        0.15000000596046448,
+        0.15000000596046448,
+        0.44999998807907104
+      ],
+      "dimensions_m": [
+        0.30000001192092896,
+        0.30000001192092896,
+        0.44999998807907104
+      ],
+      "mesh_objects": 23
+    },
+    "checks": {
+      "finite_coordinates": true,
+      "triangle_count_matches": true,
+      "no_degenerate_triangles": true,
+      "dimensions_match": true,
+      "parts_match": true,
+      "self_contained_images": true,
+      "under_100MB": true,
+      "canonical_aliases": true
+    },
+    "all_pass": true
+  },
+  {
+    "asset": "plastic_bail_bucket",
+    "blend": {
+      "triangles": 13092,
+      "zero_area_triangles": 0,
+      "bounds_min": [
+        -0.15168024599552155,
+        -0.16099999845027924,
+        0.0
+      ],
+      "bounds_max": [
+        0.15168024599552155,
+        0.14000000059604645,
+        0.4020000100135803
+      ],
+      "dimensions_m": [
+        0.3033604919910431,
+        0.3009999990463257,
+        0.4020000100135803
+      ],
+      "mesh_objects": 5
+    },
+    "glb": {
+      "triangles": 13092,
+      "zero_area_triangles": 0,
+      "bounds_min": [
+        -0.15168024599552155,
+        -0.16099999845027924,
+        0.0
+      ],
+      "bounds_max": [
+        0.15168024599552155,
+        0.14000000059604645,
+        0.4020000100135803
+      ],
+      "dimensions_m": [
+        0.3033604919910431,
+        0.3009999990463257,
+        0.4020000100135803
+      ],
+      "mesh_objects": 5
+    },
+    "checks": {
+      "finite_coordinates": true,
+      "triangle_count_matches": true,
+      "no_degenerate_triangles": true,
+      "dimensions_match": true,
+      "parts_match": true,
+      "self_contained_images": true,
+      "under_100MB": true,
+      "canonical_aliases": true
+    },
+    "all_pass": true
+  },
+  {
+    "asset": "wall_clock",
+    "blend": {
+      "triangles": 13764,
+      "zero_area_triangles": 0,
+      "bounds_min": [
+        -0.15000000596046448,
+        -0.04300001263618469,
+        2.2649371267391416e-10
+      ],
+      "bounds_max": [
+        0.15000000596046448,
+        0.006000010296702385,
+        0.30000001192092896
+      ],
+      "dimensions_m": [
+        0.30000001192092896,
+        0.04900002293288708,
+        0.30000001169443524
+      ],
+      "mesh_objects": 85
+    },
+    "glb": {
+      "triangles": 13764,
+      "zero_area_triangles": 0,
+      "bounds_min": [
+        -0.15000000596046448,
+        -0.04300002381205559,
+        -2.0141156298336682e-08
+      ],
+      "bounds_max": [
+        0.15000000596046448,
+        0.0060000112280249596,
+        0.30000001192092896
+      ],
+      "dimensions_m": [
+        0.30000001192092896,
+        0.04900003504008055,
+        0.30000003206208525
+      ],
+      "mesh_objects": 85
+    },
+    "checks": {
+      "finite_coordinates": true,
+      "triangle_count_matches": true,
+      "no_degenerate_triangles": true,
+      "dimensions_match": true,
+      "parts_match": true,
+      "self_contained_images": true,
+      "under_100MB": true,
+      "canonical_aliases": true
+    },
+    "all_pass": true
+  }
+]

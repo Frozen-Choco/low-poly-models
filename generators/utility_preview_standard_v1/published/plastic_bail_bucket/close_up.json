@@ -1,0 +1,111 @@
+{
+  "asset": "plastic_bail_bucket",
+  "view": "close_up",
+  "input_repo_path": "assets/household/plastic_bail_bucket/plastic_bail_bucket.glb",
+  "input_sha256": "3dfd396fcff13e461cb118cf0247634d35c561a1d1fd4e614f24b3945748abbc",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "faf793b3d3390482983b3ebb584d3e774b14e0b0a3a81c794ccaeec640af2413",
+  "closeup_magnification_vs_full_fit": 4.874587489075163,
+  "blender_version": "4.3.2",
+  "output_path": "assets/household/plastic_bail_bucket/close_up.jpg",
+  "output_sha256": "bfbe25890207591e8cf17c3828f7850ad8b241b2a01dfb96f35be79feb6e8c17",
+  "bytes": 109514,
+  "elapsed_seconds": 1408.177722731998,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 4.975124254182074,
+  "source_bounds": [
+    [
+      -0.15168024599552155,
+      -0.16099999845027924,
+      0.0
+    ],
+    [
+      0.15168024599552155,
+      0.14000000059604645,
+      0.4020000100135803
+    ]
+  ],
+  "camera_location": [
+    7.033760070800781,
+    -6.285003662109375,
+    5.575372695922852
+  ],
+  "camera_rotation": [
+    1.1111770868301392,
+    -5.514942102990972e-08,
+    0.7853983044624329
+  ],
+  "ortho_scale": 0.5286069512367249,
+  "focus": {
+    "purpose": "Right pierced lug and hooked wire bail attachment",
+    "target_m": [
+      0.14,
+      0,
+      0.229
+    ],
+    "span_m": 0.085,
+    "direction": [
+      1,
+      -1,
+      0.7
+    ]
+  },
+  "focus_projected_width_height": [
+    1.393034666776657,
+    2.061392664909363
+  ],
+  "full_object_fit": false,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        -2.9680838584899902,
+        -4.031915664672852,
+        4.991759300231934
+      ],
+      "rotation": [
+        0.8621763586997986,
+        -4.94315983701199e-08,
+        -0.6339073181152344
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        4.015814304351807,
+        -1.0158137083053589,
+        2.9599380493164062
+      ],
+      "rotation": [
+        1.071655035018921,
+        3.145727944797727e-08,
+        1.3226213455200195
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        1.0240557193756104,
+        3.9759440422058105,
+        4.023769378662109
+      ],
+      "rotation": [
+        0.8900575637817383,
+        -2.1280742501517125e-08,
+        2.8887977600097656
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": null,
+  "floor_hidden": false,
+  "diagnostic_only": false
+}

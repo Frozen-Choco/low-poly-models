@@ -1,0 +1,10 @@
+{
+  "asset": "round_wooden_stool",
+  "view": "close_up",
+  "byte_identical": true,
+  "decoded_pixels_equal": true,
+  "production_sha256": "42bda1f05fc0b3bb43fc16968ab21e19c99a6aab70faf927f633234b7e21e7ca",
+  "replayed_sha256": "42bda1f05fc0b3bb43fc16968ab21e19c99a6aab70faf927f633234b7e21e7ca",
+  "fresh_root": "reviews/batch05a_photography/fresh_replay",
+  "inputs": "Only approved GLBs and the five renderer/config files; no saved scene or cached image used."
+}

@@ -1,0 +1,14 @@
+{
+  "batch": "utility-batch05a-standard-photos",
+  "core_version": "preview-standard-v1",
+  "core_configuration_revision": "1.0.1",
+  "upstream_commit": "228340d0e621fc9ba6d3223973b6a8172afecfc8",
+  "core_files_byte_identical": {
+    "render.py": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+    "standard.json": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa"
+  },
+  "geometry_manifest_sha256": "cbb07f5fdb6d296c7de1dc5709b33a8679a059c9392ac858ca35dd32c848a12f",
+  "configuration_scope": "Additive three-model inputs/views/detail targets. Existing 20-model configuration untouched.",
+  "input_git_sha": null,
+  "input_git_sha_note": "Approved input binaries not yet published; identified by SHA-256 and frozen manifest instead."
+}

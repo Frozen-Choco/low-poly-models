@@ -1,0 +1,98 @@
+{
+  "asset": "round_wooden_stool",
+  "view": "back",
+  "input_repo_path": "assets/household/round_wooden_stool/round_wooden_stool.glb",
+  "input_sha256": "233a1af3dd15e493c684e4a89395e7a49e31a1115a11caccb7c9baaf3dc2d6cf",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "faf793b3d3390482983b3ebb584d3e774b14e0b0a3a81c794ccaeec640af2413",
+  "closeup_magnification_vs_full_fit": 0.9999999606460594,
+  "blender_version": "4.3.2",
+  "output_path": "assets/household/round_wooden_stool/back.jpg",
+  "output_sha256": "53456613962f4a8ba1f06b96a12a741ca7ea9f9f784a9f8c4d1eaf78dd7d7af2",
+  "bytes": 143894,
+  "elapsed_seconds": 844.3023009320023,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 4.444444562182017,
+  "source_bounds": [
+    [
+      -0.15000000596046448,
+      -0.15000000596046448,
+      0.0
+    ],
+    [
+      0.15000000596046448,
+      0.15000000596046448,
+      0.44999998807907104
+    ]
+  ],
+  "camera_location": [
+    -6.311031341552734,
+    6.311033248901367,
+    5.510282516479492
+  ],
+  "camera_rotation": [
+    1.0998820066452026,
+    1.1037879943387452e-07,
+    -2.3561947345733643
+  ],
+  "ortho_scale": 3.0291576385498047,
+  "focus": "full object",
+  "focus_projected_width_height": [
+    1.5509414672851562,
+    2.423326015472412
+  ],
+  "full_object_fit": true,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        2.999999761581421,
+        3.999999523162842,
+        5.000001430511475
+      ],
+      "rotation": [
+        0.8605252504348755,
+        -5.99574647708323e-08,
+        2.498091697692871
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        -4.000000476837158,
+        1.0000011920928955,
+        2.9999985694885254
+      ],
+      "rotation": [
+        1.0619604587554932,
+        9.89387904937189e-10,
+        -1.8157753944396973
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        -1.0000020265579224,
+        -3.999999523162842,
+        4.0
+      ],
+      "rotation": [
+        0.895831286907196,
+        2.379176855527021e-08,
+        -0.24497920274734497
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": null,
+  "floor_hidden": false,
+  "diagnostic_only": false
+}

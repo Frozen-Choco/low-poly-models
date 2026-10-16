@@ -1,0 +1,60 @@
+{
+  "id": "wall_clock",
+  "title_ja": "\u58c1\u639b\u3051\u6642\u8a08",
+  "category": "household",
+  "units": "meters",
+  "origin": "bottom centered; clock front -Y",
+  "front_blend": "-Y",
+  "up_blend": "Z",
+  "up_glb": "Y",
+  "design": "Original unbranded diorama prop informed by real construction. No manufacturing or safety certification.",
+  "license": "Original geometry and packed original grain image. No external asset content.",
+  "review_status": "Geometry/function and canonical photography independently approved; publication integration pending",
+  "blender_version": "4.3.2",
+  "glb_bytes": 763884,
+  "blend_bytes": 188354,
+  "triangles": 13764,
+  "zero_area_triangles": 0,
+  "bounds_min": [
+    -0.15000000596046448,
+    -0.04300001263618469,
+    2.2649371267391416e-10
+  ],
+  "bounds_max": [
+    0.15000000596046448,
+    0.006000010296702385,
+    0.30000001192092896
+  ],
+  "dimensions_m": [
+    0.30000001192092896,
+    0.04900002293288708,
+    0.30000001169443524
+  ],
+  "mesh_objects": 85,
+  "references": [
+    "https://www.seiko-clock.co.jp/product-personal/wall_clock/standard/qxa709b.html",
+    "https://www.seiko-clock.co.jp/product-personal/QXA709B_back.jpg",
+    "https://www.seiko-clock.co.jp/product-personal/up_files/AKX-055P.pdf"
+  ],
+  "functional_validation_files": [
+    "generators/utility_batch05a/historical/numeric_use_validation.json",
+    "generators/utility_batch05a/historical/use_validation.json"
+  ],
+  "geometry_manifest_sha256": "cbb07f5fdb6d296c7de1dc5709b33a8679a059c9392ac858ca35dd32c848a12f",
+  "photography_standard": "preview-standard-v1",
+  "photography_configuration": "generators/utility_preview_standard_v1",
+  "canonical_images": [
+    "preview.jpg",
+    "back.jpg",
+    "rear.jpg",
+    "side.jpg",
+    "underside.jpg",
+    "close_up.jpg",
+    "front.jpg",
+    "hand_detail.jpg",
+    "front_three_quarter.jpg",
+    "underside_axial.jpg"
+  ],
+  "glb_sha256": "5f6d2b19e3a59bfb5bf6eb602c9cddb2561ee9939ae7095666b14eb75947dbbe",
+  "blend_sha256": "f2bf9743b42f6ec63e019efe5c4a952c0eb6663de4b289d736eeebb86585916f"
+}

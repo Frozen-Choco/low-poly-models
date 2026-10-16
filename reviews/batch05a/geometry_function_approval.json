@@ -1,0 +1,154 @@
+{
+  "decision": "GEOMETRY_FUNCTION_APPROVED",
+  "release_approved": false,
+  "photography_status": "PENDING shared standardized photography pipeline",
+  "scope": "Exact-hash original static diorama geometry, functional consistency, saved materials, metadata and source reproducibility only. Diagnostic photographs are reviewed as evidence but are not approved final photographs. Not engineering certification.",
+  "reviewed_standard": "review_standard_revision/docs/asset-standard.md",
+  "manifest_path": "lowpoly_batch05a/manifest.json",
+  "manifest_sha256": "cbb07f5fdb6d296c7de1dc5709b33a8679a059c9392ac858ca35dd32c848a12f",
+  "assets": [
+    {
+      "asset": "plastic_bail_bucket",
+      "files": [
+        {
+          "path": "lowpoly_batch05a/assets/plastic_bail_bucket/plastic_bail_bucket.glb",
+          "bytes": 276484,
+          "sha256": "3dfd396fcff13e461cb118cf0247634d35c561a1d1fd4e614f24b3945748abbc"
+        },
+        {
+          "path": "lowpoly_batch05a/assets/plastic_bail_bucket/plastic_bail_bucket.blend",
+          "bytes": 219353,
+          "sha256": "748e08f9005c1149a54c2e0e1ba059776c3bf3c481cfef66b6bf69ef3d98fd09"
+        }
+      ],
+      "checks": {
+        "glb_inspection_current": true,
+        "glb_triangles_match_metadata": true,
+        "glb_finite_nondegenerate": true,
+        "glb_dimensions_match_metadata": true,
+        "glb_under_100MB": true,
+        "glb_bytes_match_metadata": true,
+        "blend_inspection_current": true,
+        "blend_triangles_match_metadata": true,
+        "blend_finite_nondegenerate": true,
+        "blend_dimensions_match_metadata": true,
+        "blend_under_100MB": true,
+        "blend_bytes_match_metadata": true,
+        "canonical_preview": true,
+        "canonical_back": true,
+        "gallery_fields": true
+      },
+      "all_pass": true
+    },
+    {
+      "asset": "round_wooden_stool",
+      "files": [
+        {
+          "path": "lowpoly_batch05a/assets/round_wooden_stool/round_wooden_stool.glb",
+          "bytes": 681612,
+          "sha256": "233a1af3dd15e493c684e4a89395e7a49e31a1115a11caccb7c9baaf3dc2d6cf"
+        },
+        {
+          "path": "lowpoly_batch05a/assets/round_wooden_stool/round_wooden_stool.blend",
+          "bytes": 450232,
+          "sha256": "ac5e113fa998ac419a4110d46ff58c6cf05f63d32d3a909d9b231dabe08adbdc"
+        }
+      ],
+      "checks": {
+        "glb_inspection_current": true,
+        "glb_triangles_match_metadata": true,
+        "glb_finite_nondegenerate": true,
+        "glb_dimensions_match_metadata": true,
+        "glb_under_100MB": true,
+        "glb_bytes_match_metadata": true,
+        "blend_inspection_current": true,
+        "blend_triangles_match_metadata": true,
+        "blend_finite_nondegenerate": true,
+        "blend_dimensions_match_metadata": true,
+        "blend_under_100MB": true,
+        "blend_bytes_match_metadata": true,
+        "canonical_preview": true,
+        "canonical_back": true,
+        "gallery_fields": true
+      },
+      "all_pass": true
+    },
+    {
+      "asset": "wall_clock",
+      "files": [
+        {
+          "path": "lowpoly_batch05a/assets/wall_clock/wall_clock.glb",
+          "bytes": 763884,
+          "sha256": "5f6d2b19e3a59bfb5bf6eb602c9cddb2561ee9939ae7095666b14eb75947dbbe"
+        },
+        {
+          "path": "lowpoly_batch05a/assets/wall_clock/wall_clock.blend",
+          "bytes": 188354,
+          "sha256": "f2bf9743b42f6ec63e019efe5c4a952c0eb6663de4b289d736eeebb86585916f"
+        }
+      ],
+      "checks": {
+        "glb_inspection_current": true,
+        "glb_triangles_match_metadata": true,
+        "glb_finite_nondegenerate": true,
+        "glb_dimensions_match_metadata": true,
+        "glb_under_100MB": true,
+        "glb_bytes_match_metadata": true,
+        "blend_inspection_current": true,
+        "blend_triangles_match_metadata": true,
+        "blend_finite_nondegenerate": true,
+        "blend_dimensions_match_metadata": true,
+        "blend_under_100MB": true,
+        "blend_bytes_match_metadata": true,
+        "canonical_preview": true,
+        "canonical_back": true,
+        "gallery_fields": true
+      },
+      "all_pass": true
+    }
+  ],
+  "source_files": [
+    {
+      "path": "lowpoly_batch05a/scripts/bail_contact.py",
+      "bytes": 1228,
+      "sha256": "c28d85a7e7fb8230b3f972514beb2f3eb37536616365c0e2cd17bc2bcdccc7f5"
+    },
+    {
+      "path": "lowpoly_batch05a/scripts/build_assets.py",
+      "bytes": 15996,
+      "sha256": "1f54dc39b5b0b5e8ce29f6d09cc5a2380fa531457a23927a7b7d57b9cb0bcf1d"
+    },
+    {
+      "path": "lowpoly_batch05a/scripts/numeric_use_tests.py",
+      "bytes": 2277,
+      "sha256": "b13101bff1267eef16fe16bdb2960a691a7c96bb2299afa33b87aa7a8bf05887"
+    },
+    {
+      "path": "lowpoly_batch05a/scripts/package_manifest.py",
+      "bytes": 1741,
+      "sha256": "38cbeaa6b6ec380a54a412f44414da77b95536c140452026b191cf6386199d74"
+    },
+    {
+      "path": "lowpoly_batch05a/scripts/render_corrected.py",
+      "bytes": 187,
+      "sha256": "cdf594839d3d9dec2c92c490f60aabcea91e265f331f9ed1ae1fe6b20b9ace32"
+    },
+    {
+      "path": "lowpoly_batch05a/scripts/use_tests.py",
+      "bytes": 4607,
+      "sha256": "c43907d1a34f4eb534448444b5f70245afc51ec1655c6420828ddfd32182fff6"
+    },
+    {
+      "path": "lowpoly_batch05a/scripts/validate_and_context.py",
+      "bytes": 3854,
+      "sha256": "abdf9818851c7d8fcc331f90422b8cad675479e8bec205f22a5e241886a60b47"
+    }
+  ],
+  "package_checks": {
+    "manifest_matches_all_files": true,
+    "all_package_files_under_100MB": true,
+    "context_uses_current_glbs": true
+  },
+  "report": "reviews/batch05a/report.md",
+  "remaining_gate": "Standardized canonical photography review and final publication/package approval. Any geometry/material/source change requires re-review."
+}

@@ -1,0 +1,1842 @@
+[
+  {
+    "asset": "round_wooden_stool",
+    "format": "blend",
+    "supports": [
+      {
+        "name": "Square splayed leg -1 -1",
+        "bounds": [
+          [
+            -0.12391676753759384,
+            -0.12391676753759384,
+            0.0020000000949949026
+          ],
+          [
+            -0.07011639326810837,
+            -0.07011639326810837,
+            0.4099999964237213
+          ]
+        ]
+      },
+      {
+        "name": "Flat felt sole",
+        "bounds": [
+          [
+            -0.12350000441074371,
+            -0.12350000441074371,
+            0.0
+          ],
+          [
+            -0.09849999845027924,
+            -0.09849999845027924,
+            0.0020000000949949026
+          ]
+        ]
+      },
+      {
+        "name": "Square splayed leg -1 1",
+        "bounds": [
+          [
+            -0.12391676753759384,
+            0.07011639326810837,
+            0.0020000000949949026
+          ],
+          [
+            -0.07011639326810837,
+            0.12391676753759384,
+            0.4099999964237213
+          ]
+        ]
+      },
+      {
+        "name": "Flat felt sole.001",
+        "bounds": [
+          [
+            -0.12350000441074371,
+            0.09849999845027924,
+            0.0
+          ],
+          [
+            -0.09849999845027924,
+            0.12350000441074371,
+            0.0020000000949949026
+          ]
+        ]
+      },
+      {
+        "name": "Square splayed leg 1 -1",
+        "bounds": [
+          [
+            0.07011639326810837,
+            -0.12391676753759384,
+            0.0020000000949949026
+          ],
+          [
+            0.12391676753759384,
+            -0.07011639326810837,
+            0.4099999964237213
+          ]
+        ]
+      },
+      {
+        "name": "Flat felt sole.002",
+        "bounds": [
+          [
+            0.09849999845027924,
+            -0.12350000441074371,
+            0.0
+          ],
+          [
+            0.12350000441074371,
+            -0.09849999845027924,
+            0.0020000000949949026
+          ]
+        ]
+      },
+      {
+        "name": "Square splayed leg 1 1",
+        "bounds": [
+          [
+            0.07011639326810837,
+            0.07011639326810837,
+            0.0020000000949949026
+          ],
+          [
+            0.12391676753759384,
+            0.12391676753759384,
+            0.4099999964237213
+          ]
+        ]
+      },
+      {
+        "name": "Flat felt sole.003",
+        "bounds": [
+          [
+            0.09849999845027924,
+            0.09849999845027924,
+            0.0
+          ],
+          [
+            0.12350000441074371,
+            0.12350000441074371,
+            0.0020000000949949026
+          ]
+        ]
+      }
+    ],
+    "joints": [
+      {
+        "name": "Solid round seat",
+        "bounds": [
+          [
+            -0.15000000596046448,
+            -0.15000000596046448,
+            0.421999990940094
+          ],
+          [
+            0.15000000596046448,
+            0.15000000596046448,
+            0.44999998807907104
+          ]
+        ]
+      },
+      {
+        "name": "Side frame upper rail",
+        "bounds": [
+          [
+            -0.09950000047683716,
+            -0.08799999952316284,
+            0.36800000071525574
+          ],
+          [
+            -0.07449999451637268,
+            0.08799999952316284,
+            0.4099999964237213
+          ]
+        ]
+      },
+      {
+        "name": "Seat underside mounting cleat",
+        "bounds": [
+          [
+            -0.10499999672174454,
+            -0.08799999952316284,
+            0.4099999964237213
+          ],
+          [
+            -0.0689999982714653,
+            0.08799999952316284,
+            0.4220000207424164
+          ]
+        ]
+      },
+      {
+        "name": "Seat cleat recessed screw",
+        "bounds": [
+          [
+            -0.09029999375343323,
+            -0.059300001710653305,
+            0.4092499911785126
+          ],
+          [
+            -0.08370000123977661,
+            -0.05270000174641609,
+            0.41075000166893005
+          ]
+        ]
+      },
+      {
+        "name": "Seat cleat recessed screw.001",
+        "bounds": [
+          [
+            -0.09029999375343323,
+            0.05270000174641609,
+            0.4092499911785126
+          ],
+          [
+            -0.08370000123977661,
+            0.059300001710653305,
+            0.41075000166893005
+          ]
+        ]
+      },
+      {
+        "name": "Side frame upper rail.001",
+        "bounds": [
+          [
+            0.07449999451637268,
+            -0.08799999952316284,
+            0.36800000071525574
+          ],
+          [
+            0.09950000047683716,
+            0.08799999952316284,
+            0.4099999964237213
+          ]
+        ]
+      },
+      {
+        "name": "Seat underside mounting cleat.001",
+        "bounds": [
+          [
+            0.0689999982714653,
+            -0.08799999952316284,
+            0.4099999964237213
+          ],
+          [
+            0.10499999672174454,
+            0.08799999952316284,
+            0.4220000207424164
+          ]
+        ]
+      },
+      {
+        "name": "Seat cleat recessed screw.002",
+        "bounds": [
+          [
+            0.08370000123977661,
+            -0.059300001710653305,
+            0.4092499911785126
+          ],
+          [
+            0.09029999375343323,
+            -0.05270000174641609,
+            0.41075000166893005
+          ]
+        ]
+      },
+      {
+        "name": "Seat cleat recessed screw.003",
+        "bounds": [
+          [
+            0.08370000123977661,
+            0.05270000174641609,
+            0.4092499911785126
+          ],
+          [
+            0.09029999375343323,
+            0.059300001710653305,
+            0.41075000166893005
+          ]
+        ]
+      },
+      {
+        "name": "Cross upper apron",
+        "bounds": [
+          [
+            -0.08699999749660492,
+            -0.0989999994635582,
+            0.3779999911785126
+          ],
+          [
+            0.08699999749660492,
+            -0.07499999552965164,
+            0.4099999964237213
+          ]
+        ]
+      },
+      {
+        "name": "Cross upper apron.001",
+        "bounds": [
+          [
+            -0.08699999749660492,
+            0.07499999552965164,
+            0.3779999911785126
+          ],
+          [
+            0.08699999749660492,
+            0.0989999994635582,
+            0.4099999964237213
+          ]
+        ]
+      },
+      {
+        "name": "Side frame round stretcher",
+        "bounds": [
+          [
+            -0.11070588231086731,
+            -0.10070588439702988,
+            0.16699999570846558
+          ],
+          [
+            -0.09070588648319244,
+            0.10070588439702988,
+            0.18700000643730164
+          ]
+        ]
+      },
+      {
+        "name": "Side frame round stretcher.001",
+        "bounds": [
+          [
+            0.09070588648319244,
+            -0.10070588439702988,
+            0.16699999570846558
+          ],
+          [
+            0.11070588231086731,
+            0.10070588439702988,
+            0.18700000643730164
+          ]
+        ]
+      },
+      {
+        "name": "Cross round stretcher",
+        "bounds": [
+          [
+            -0.10270588099956512,
+            -0.11170588433742523,
+            0.1340000033378601
+          ],
+          [
+            0.10270588099956512,
+            -0.09370587766170502,
+            0.15200001001358032
+          ]
+        ]
+      },
+      {
+        "name": "Cross round stretcher.001",
+        "bounds": [
+          [
+            -0.10270588099956512,
+            0.09370587766170502,
+            0.1340000033378601
+          ],
+          [
+            0.10270588099956512,
+            0.11170588433742523,
+            0.15200001001358032
+          ]
+        ]
+      }
+    ],
+    "sole_minima": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "support_centers_xy": [
+      [
+        -0.11100000143051147,
+        -0.11100000143051147
+      ],
+      [
+        -0.11100000143051147,
+        0.11100000143051147
+      ],
+      [
+        0.11100000143051147,
+        -0.11100000143051147
+      ],
+      [
+        0.11100000143051147,
+        0.11100000143051147
+      ]
+    ],
+    "center_inside_support_polygon": true
+  },
+  {
+    "asset": "round_wooden_stool",
+    "format": "glb",
+    "supports": [
+      {
+        "name": "Square splayed leg -1 -1",
+        "bounds": [
+          [
+            -0.12391676753759384,
+            -0.12391676753759384,
+            0.0020000000949949026
+          ],
+          [
+            -0.07011639326810837,
+            -0.07011639326810837,
+            0.4099999964237213
+          ]
+        ]
+      },
+      {
+        "name": "Flat felt sole",
+        "bounds": [
+          [
+            -0.12350000441074371,
+            -0.12350000441074371,
+            0.0
+          ],
+          [
+            -0.09849999845027924,
+            -0.09849999845027924,
+            0.0020000000949949026
+          ]
+        ]
+      },
+      {
+        "name": "Square splayed leg -1 1",
+        "bounds": [
+          [
+            -0.12391676753759384,
+            0.07011639326810837,
+            0.0020000000949949026
+          ],
+          [
+            -0.07011639326810837,
+            0.12391676753759384,
+            0.4099999964237213
+          ]
+        ]
+      },
+      {
+        "name": "Flat felt sole.001",
+        "bounds": [
+          [
+            -0.12350000441074371,
+            0.09849999845027924,
+            0.0
+          ],
+          [
+            -0.09849999845027924,
+            0.12350000441074371,
+            0.0020000000949949026
+          ]
+        ]
+      },
+      {
+        "name": "Square splayed leg 1 -1",
+        "bounds": [
+          [
+            0.07011639326810837,
+            -0.12391676753759384,
+            0.0020000000949949026
+          ],
+          [
+            0.12391676753759384,
+            -0.07011639326810837,
+            0.4099999964237213
+          ]
+        ]
+      },
+      {
+        "name": "Flat felt sole.002",
+        "bounds": [
+          [
+            0.09849999845027924,
+            -0.12350000441074371,
+            0.0
+          ],
+          [
+            0.12350000441074371,
+            -0.09849999845027924,
+            0.0020000000949949026
+          ]
+        ]
+      },
+      {
+        "name": "Square splayed leg 1 1",
+        "bounds": [
+          [
+            0.07011639326810837,
+            0.07011639326810837,
+            0.0020000000949949026
+          ],
+          [
+            0.12391676753759384,
+            0.12391676753759384,
+            0.4099999964237213
+          ]
+        ]
+      },
+      {
+        "name": "Flat felt sole.003",
+        "bounds": [
+          [
+            0.09849999845027924,
+            0.09849999845027924,
+            0.0
+          ],
+          [
+            0.12350000441074371,
+            0.12350000441074371,
+            0.0020000000949949026
+          ]
+        ]
+      }
+    ],
+    "joints": [
+      {
+        "name": "Solid round seat",
+        "bounds": [
+          [
+            -0.15000000596046448,
+            -0.15000000596046448,
+            0.421999990940094
+          ],
+          [
+            0.15000000596046448,
+            0.15000000596046448,
+            0.44999998807907104
+          ]
+        ]
+      },
+      {
+        "name": "Side frame upper rail",
+        "bounds": [
+          [
+            -0.09950000047683716,
+            -0.08799999952316284,
+            0.36800000071525574
+          ],
+          [
+            -0.07449999451637268,
+            0.08799999952316284,
+            0.4099999964237213
+          ]
+        ]
+      },
+      {
+        "name": "Seat underside mounting cleat",
+        "bounds": [
+          [
+            -0.10499999672174454,
+            -0.08799999952316284,
+            0.4099999964237213
+          ],
+          [
+            -0.0689999982714653,
+            0.08799999952316284,
+            0.4220000207424164
+          ]
+        ]
+      },
+      {
+        "name": "Seat cleat recessed screw",
+        "bounds": [
+          [
+            -0.09029999375343323,
+            -0.059300001710653305,
+            0.4092499911785126
+          ],
+          [
+            -0.08370000123977661,
+            -0.05270000174641609,
+            0.41075000166893005
+          ]
+        ]
+      },
+      {
+        "name": "Seat cleat recessed screw.001",
+        "bounds": [
+          [
+            -0.09029999375343323,
+            0.05270000174641609,
+            0.4092499911785126
+          ],
+          [
+            -0.08370000123977661,
+            0.059300001710653305,
+            0.41075000166893005
+          ]
+        ]
+      },
+      {
+        "name": "Side frame upper rail.001",
+        "bounds": [
+          [
+            0.07449999451637268,
+            -0.08799999952316284,
+            0.36800000071525574
+          ],
+          [
+            0.09950000047683716,
+            0.08799999952316284,
+            0.4099999964237213
+          ]
+        ]
+      },
+      {
+        "name": "Seat underside mounting cleat.001",
+        "bounds": [
+          [
+            0.0689999982714653,
+            -0.08799999952316284,
+            0.4099999964237213
+          ],
+          [
+            0.10499999672174454,
+            0.08799999952316284,
+            0.4220000207424164
+          ]
+        ]
+      },
+      {
+        "name": "Seat cleat recessed screw.002",
+        "bounds": [
+          [
+            0.08370000123977661,
+            -0.059300001710653305,
+            0.4092499911785126
+          ],
+          [
+            0.09029999375343323,
+            -0.05270000174641609,
+            0.41075000166893005
+          ]
+        ]
+      },
+      {
+        "name": "Seat cleat recessed screw.003",
+        "bounds": [
+          [
+            0.08370000123977661,
+            0.05270000174641609,
+            0.4092499911785126
+          ],
+          [
+            0.09029999375343323,
+            0.059300001710653305,
+            0.41075000166893005
+          ]
+        ]
+      },
+      {
+        "name": "Cross upper apron",
+        "bounds": [
+          [
+            -0.08699999749660492,
+            -0.0989999994635582,
+            0.3779999911785126
+          ],
+          [
+            0.08699999749660492,
+            -0.07499999552965164,
+            0.4099999964237213
+          ]
+        ]
+      },
+      {
+        "name": "Cross upper apron.001",
+        "bounds": [
+          [
+            -0.08699999749660492,
+            0.07499999552965164,
+            0.3779999911785126
+          ],
+          [
+            0.08699999749660492,
+            0.0989999994635582,
+            0.4099999964237213
+          ]
+        ]
+      },
+      {
+        "name": "Side frame round stretcher",
+        "bounds": [
+          [
+            -0.11070588231086731,
+            -0.10070588439702988,
+            0.16699999570846558
+          ],
+          [
+            -0.09070588648319244,
+            0.10070588439702988,
+            0.18700000643730164
+          ]
+        ]
+      },
+      {
+        "name": "Side frame round stretcher.001",
+        "bounds": [
+          [
+            0.09070588648319244,
+            -0.10070588439702988,
+            0.16699999570846558
+          ],
+          [
+            0.11070588231086731,
+            0.10070588439702988,
+            0.18700000643730164
+          ]
+        ]
+      },
+      {
+        "name": "Cross round stretcher",
+        "bounds": [
+          [
+            -0.10270588099956512,
+            -0.11170588433742523,
+            0.1340000033378601
+          ],
+          [
+            0.10270588099956512,
+            -0.09370587766170502,
+            0.15200001001358032
+          ]
+        ]
+      },
+      {
+        "name": "Cross round stretcher.001",
+        "bounds": [
+          [
+            -0.10270588099956512,
+            0.09370587766170502,
+            0.1340000033378601
+          ],
+          [
+            0.10270588099956512,
+            0.11170588433742523,
+            0.15200001001358032
+          ]
+        ]
+      }
+    ],
+    "sole_minima": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "support_centers_xy": [
+      [
+        -0.11100000143051147,
+        -0.11100000143051147
+      ],
+      [
+        -0.11100000143051147,
+        0.11100000143051147
+      ],
+      [
+        0.11100000143051147,
+        -0.11100000143051147
+      ],
+      [
+        0.11100000143051147,
+        0.11100000143051147
+      ]
+    ],
+    "center_inside_support_polygon": true
+  },
+  {
+    "asset": "plastic_bail_bucket",
+    "format": "blend",
+    "body_bounds": [
+      [
+        -0.14000000059604645,
+        -0.16099999845027924,
+        0.0
+      ],
+      [
+        0.14000000059604645,
+        0.14000000059604645,
+        0.21699999272823334
+      ]
+    ],
+    "ear_bounds": [
+      [
+        [
+          -0.14000000059604645,
+          -0.012500000186264515,
+          0.21050000190734863
+        ],
+        [
+          -0.1339999884366989,
+          0.012500000186264515,
+          0.23750001192092896
+        ]
+      ],
+      [
+        [
+          0.1339999884366989,
+          -0.012500000186264515,
+          0.21050000190734863
+        ],
+        [
+          0.14000000059604645,
+          0.012500000186264515,
+          0.23750001192092896
+        ]
+      ]
+    ],
+    "sweep": [
+      {
+        "degrees": 0,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 5,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 10,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 15,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 20,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 25,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 30,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 35,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 40,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 45,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 50,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 55,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 60,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 65,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 70,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 75,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 80,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 85,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 90,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 95,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 59,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 100,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 32,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 105,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 18,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 110,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 20,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 115,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 33,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 120,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 80,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 125,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 149,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 130,
+        "bail_body_intersections": 76,
+        "grip_body_intersections": 246,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 135,
+        "bail_body_intersections": 130,
+        "grip_body_intersections": 357,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 140,
+        "bail_body_intersections": 168,
+        "grip_body_intersections": 292,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 145,
+        "bail_body_intersections": 136,
+        "grip_body_intersections": 64,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 150,
+        "bail_body_intersections": 128,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 155,
+        "bail_body_intersections": 124,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 160,
+        "bail_body_intersections": 116,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 165,
+        "bail_body_intersections": 116,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 170,
+        "bail_body_intersections": 116,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 175,
+        "bail_body_intersections": 116,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 180,
+        "bail_body_intersections": 116,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "asset": "plastic_bail_bucket",
+    "format": "glb",
+    "body_bounds": [
+      [
+        -0.14000000059604645,
+        -0.16099999845027924,
+        0.0
+      ],
+      [
+        0.14000000059604645,
+        0.14000000059604645,
+        0.21699999272823334
+      ]
+    ],
+    "ear_bounds": [
+      [
+        [
+          -0.14000000059604645,
+          -0.012500000186264515,
+          0.21050000190734863
+        ],
+        [
+          -0.1339999884366989,
+          0.012500000186264515,
+          0.23750001192092896
+        ]
+      ],
+      [
+        [
+          0.1339999884366989,
+          -0.012500000186264515,
+          0.21050000190734863
+        ],
+        [
+          0.14000000059604645,
+          0.012500000186264515,
+          0.23750001192092896
+        ]
+      ]
+    ],
+    "sweep": [
+      {
+        "degrees": 0,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 5,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 10,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 15,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 20,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 25,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 30,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 35,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 40,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 45,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 50,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 55,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 60,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 65,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 70,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 75,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 80,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 85,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 90,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 95,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 101,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 100,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 59,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 105,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 38,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 110,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 42,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 115,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 61,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 120,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 149,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 125,
+        "bail_body_intersections": 0,
+        "grip_body_intersections": 266,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 130,
+        "bail_body_intersections": 148,
+        "grip_body_intersections": 413,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 135,
+        "bail_body_intersections": 246,
+        "grip_body_intersections": 634,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 140,
+        "bail_body_intersections": 304,
+        "grip_body_intersections": 528,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 145,
+        "bail_body_intersections": 254,
+        "grip_body_intersections": 120,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 150,
+        "bail_body_intersections": 240,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 155,
+        "bail_body_intersections": 234,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 160,
+        "bail_body_intersections": 224,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 165,
+        "bail_body_intersections": 220,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 170,
+        "bail_body_intersections": 218,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 175,
+        "bail_body_intersections": 216,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      },
+      {
+        "degrees": 180,
+        "bail_body_intersections": 220,
+        "grip_body_intersections": 0,
+        "ear_intersections": [
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "asset": "wall_clock",
+    "format": "blend",
+    "layers": {
+      "Dial plate": [
+        [
+          -0.13500000536441803,
+          -0.022000014781951904,
+          0.015000000596046448
+        ],
+        [
+          0.13500000536441803,
+          -0.01999998465180397,
+          0.2850000262260437
+        ]
+      ],
+      "Hour hand": [
+        [
+          -0.06143640726804733,
+          -0.02550000697374344,
+          0.13836532831192017
+        ],
+        [
+          0.014827166683971882,
+          -0.02449999749660492,
+          0.19301822781562805
+        ]
+      ],
+      "Minute hand": [
+        [
+          -0.014856407418847084,
+          -0.02850000187754631,
+          0.14026795327663422
+        ],
+        [
+          0.08920062333345413,
+          -0.02749999426305294,
+          0.20149999856948853
+        ]
+      ],
+      "Seconds hand": [
+        [
+          -0.01979590393602848,
+          -0.03150001913309097,
+          0.03773193433880806
+        ],
+        [
+          0.003467738162726164,
+          -0.030499998480081558,
+          0.16587848961353302
+        ]
+      ],
+      "Hand retaining cap": [
+        [
+          -0.004000000189989805,
+          -0.03400000184774399,
+          0.14600001275539398
+        ],
+        [
+          0.004000000189989805,
+          -0.03199999779462814,
+          0.15399999916553497
+        ]
+      ],
+      "Front glass disc": [
+        [
+          -0.13300000131130219,
+          -0.03790001571178436,
+          0.017000004649162292
+        ],
+        [
+          0.13300000131130219,
+          -0.036099985241889954,
+          0.28300002217292786
+        ]
+      ],
+      "Hanging bridge with keyhole": [
+        [
+          -0.017999999225139618,
+          -0.00399999413639307,
+          0.23099999129772186
+        ],
+        [
+          0.017999999225139618,
+          9.577195925203341e-09,
+          0.2789999842643738
+        ]
+      ],
+      "Recessed back cover": [
+        [
+          -0.14300000667572021,
+          -0.00600001635029912,
+          0.006999999284744263
+        ],
+        [
+          0.14300000667572021,
+          -0.003999983426183462,
+          0.2930000126361847
+        ]
+      ],
+      "Unbranded AA battery": [
+        [
+          -0.024500001221895218,
+          -0.008700006641447544,
+          0.10480000078678131
+        ],
+        [
+          0.024500001221895218,
+          0.005700000561773777,
+          0.11920000612735748
+        ]
+      ],
+      "Time setting wheel": [
+        [
+          0.009000000543892384,
+          -1.0792436389017723e-10,
+          0.15299999713897705
+        ],
+        [
+          0.023000001907348633,
+          0.004000001586973667,
+          0.16699999570846558
+        ]
+      ]
+    },
+    "wall_feet": [
+      [
+        [
+          -0.085999995470047,
+          -7.4433024188635954e-09,
+          0.053999993950128555
+        ],
+        [
+          -0.07400000095367432,
+          0.005999993998557329,
+          0.06599999219179153
+        ]
+      ],
+      [
+        [
+          0.07400000095367432,
+          -7.4433024188635954e-09,
+          0.053999993950128555
+        ],
+        [
+          0.085999995470047,
+          0.005999993998557329,
+          0.06599999219179153
+        ]
+      ],
+      [
+        [
+          -0.006000000052154064,
+          9.325900052203906e-09,
+          0.27299997210502625
+        ],
+        [
+          0.006000000052154064,
+          0.006000010296702385,
+          0.2849999964237213
+        ]
+      ]
+    ],
+    "rotated_hands_collisions": []
+  },
+  {
+    "asset": "wall_clock",
+    "format": "glb",
+    "layers": {
+      "Dial plate": [
+        [
+          -0.13500003516674042,
+          -0.022000018507242203,
+          0.014999985694885254
+        ],
+        [
+          0.13500003516674042,
+          -0.019999980926513672,
+          0.2850000262260437
+        ]
+      ],
+      "Hour hand": [
+        [
+          -0.06143640726804733,
+          -0.025500008836388588,
+          0.13836532831192017
+        ],
+        [
+          0.014827166683971882,
+          -0.02449999749660492,
+          0.19301822781562805
+        ]
+      ],
+      "Minute hand": [
+        [
+          -0.014856407418847084,
+          -0.02850000187754631,
+          0.14026795327663422
+        ],
+        [
+          0.08920061588287354,
+          -0.02749999426305294,
+          0.20149999856948853
+        ]
+      ],
+      "Seconds hand": [
+        [
+          -0.01979590766131878,
+          -0.03150000423192978,
+          0.03773191571235657
+        ],
+        [
+          0.0034677383955568075,
+          -0.030500000342726707,
+          0.16587848961353302
+        ]
+      ],
+      "Hand retaining cap": [
+        [
+          -0.00400000112131238,
+          -0.03400000184774399,
+          0.1459999978542328
+        ],
+        [
+          0.00400000112131238,
+          -0.03199999779462814,
+          0.15400001406669617
+        ]
+      ],
+      "Front glass disc": [
+        [
+          -0.13300003111362457,
+          -0.03790001943707466,
+          0.0169999897480011
+        ],
+        [
+          0.13300003111362457,
+          -0.036099981516599655,
+          0.28300002217292786
+        ]
+      ],
+      "Hanging bridge with keyhole": [
+        [
+          -0.017999999225139618,
+          -0.003999995533376932,
+          0.23099999129772186
+        ],
+        [
+          0.017999999225139618,
+          1.1104967612141081e-08,
+          0.27900001406669617
+        ]
+      ],
+      "Recessed back cover": [
+        [
+          -0.1430000364780426,
+          -0.006000019609928131,
+          0.006999984383583069
+        ],
+        [
+          0.1430000364780426,
+          -0.003999980166554451,
+          0.2930000424385071
+        ]
+      ],
+      "Unbranded AA battery": [
+        [
+          -0.024500004947185516,
+          -0.008700006641447544,
+          0.10480000078678131
+        ],
+        [
+          0.024500004947185516,
+          0.005700000561773777,
+          0.11920000612735748
+        ]
+      ],
+      "Time setting wheel": [
+        [
+          0.008999998681247234,
+          -4.980790779818278e-10,
+          0.15299999713897705
+        ],
+        [
+          0.023000003769993782,
+          0.0040000020526349545,
+          0.16699999570846558
+        ]
+      ]
+    },
+    "wall_feet": [
+      [
+        [
+          -0.0860000029206276,
+          -8.045620170094026e-09,
+          0.053999993950128555
+        ],
+        [
+          -0.07399999350309372,
+          0.0059999944642186165,
+          0.06599999964237213
+        ]
+      ],
+      [
+        [
+          0.07399999350309372,
+          -8.045620170094026e-09,
+          0.053999993950128555
+        ],
+        [
+          0.0860000029206276,
+          0.0059999944642186165,
+          0.06599999964237213
+        ]
+      ],
+      [
+        [
+          -0.006000000052154064,
+          8.507072379870806e-09,
+          0.27299997210502625
+        ],
+        [
+          0.006000000052154064,
+          0.0060000112280249596,
+          0.2849999964237213
+        ]
+      ]
+    ],
+    "rotated_hands_collisions": []
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "asset": "plastic_bail_bucket",
+    "path": "assets/household/plastic_bail_bucket/preview.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "plastic_bail_bucket",
+    "path": "assets/household/plastic_bail_bucket/back.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "plastic_bail_bucket",
+    "path": "assets/household/plastic_bail_bucket/rear.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "plastic_bail_bucket",
+    "path": "assets/household/plastic_bail_bucket/side.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "plastic_bail_bucket",
+    "path": "assets/household/plastic_bail_bucket/underside.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "plastic_bail_bucket",
+    "path": "assets/household/plastic_bail_bucket/close_up.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "plastic_bail_bucket",
+    "path": "assets/household/plastic_bail_bucket/top.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "plastic_bail_bucket",
+    "path": "assets/household/plastic_bail_bucket/front_three_quarter.jpg",
+    "alias_of": "assets/household/plastic_bail_bucket/preview.jpg"
+  },
+  {
+    "asset": "plastic_bail_bucket",
+    "path": "assets/household/plastic_bail_bucket/underside_axial.jpg",
+    "alias_of": "assets/household/plastic_bail_bucket/underside.jpg"
+  },
+  {
+    "asset": "round_wooden_stool",
+    "path": "assets/household/round_wooden_stool/preview.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "round_wooden_stool",
+    "path": "assets/household/round_wooden_stool/back.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "round_wooden_stool",
+    "path": "assets/household/round_wooden_stool/rear.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "round_wooden_stool",
+    "path": "assets/household/round_wooden_stool/side.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "round_wooden_stool",
+    "path": "assets/household/round_wooden_stool/underside.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "round_wooden_stool",
+    "path": "assets/household/round_wooden_stool/close_up.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "round_wooden_stool",
+    "path": "assets/household/round_wooden_stool/front_three_quarter.jpg",
+    "alias_of": "assets/household/round_wooden_stool/preview.jpg"
+  },
+  {
+    "asset": "round_wooden_stool",
+    "path": "assets/household/round_wooden_stool/underside_axial.jpg",
+    "alias_of": "assets/household/round_wooden_stool/underside.jpg"
+  },
+  {
+    "asset": "wall_clock",
+    "path": "assets/household/wall_clock/preview.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "wall_clock",
+    "path": "assets/household/wall_clock/back.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "wall_clock",
+    "path": "assets/household/wall_clock/rear.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "wall_clock",
+    "path": "assets/household/wall_clock/side.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "wall_clock",
+    "path": "assets/household/wall_clock/underside.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "wall_clock",
+    "path": "assets/household/wall_clock/close_up.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "wall_clock",
+    "path": "assets/household/wall_clock/front.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "wall_clock",
+    "path": "assets/household/wall_clock/hand_detail.jpg",
+    "alias_of": null
+  },
+  {
+    "asset": "wall_clock",
+    "path": "assets/household/wall_clock/front_three_quarter.jpg",
+    "alias_of": "assets/household/wall_clock/preview.jpg"
+  },
+  {
+    "asset": "wall_clock",
+    "path": "assets/household/wall_clock/underside_axial.jpg",
+    "alias_of": "assets/household/wall_clock/underside.jpg"
+  }
+]

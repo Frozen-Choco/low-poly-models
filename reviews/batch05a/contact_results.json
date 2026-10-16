@@ -1,0 +1,92 @@
+[
+  {
+    "asset": "round_wooden_stool",
+    "format": "blend",
+    "measured_contacts": [
+      {
+        "x": -0.087,
+        "seat_cleat_gap": -2.9802322387695312e-08,
+        "cleat_rail_gap": 0.0
+      },
+      {
+        "x": 0.087,
+        "seat_cleat_gap": -2.9802322387695312e-08,
+        "cleat_rail_gap": 0.0
+      }
+    ]
+  },
+  {
+    "asset": "round_wooden_stool",
+    "format": "glb",
+    "measured_contacts": [
+      {
+        "x": -0.087,
+        "seat_cleat_gap": -2.9802322387695312e-08,
+        "cleat_rail_gap": 0.0
+      },
+      {
+        "x": 0.087,
+        "seat_cleat_gap": -2.9802322387695312e-08,
+        "cleat_rail_gap": 0.0
+      }
+    ]
+  },
+  {
+    "asset": "plastic_bail_bucket",
+    "format": "blend",
+    "center_base_thickness": 0.006000004708766937,
+    "mouth_open": true,
+    "walls": [
+      {
+        "height": 0.03,
+        "thickness": 0.0038312524557113647
+      },
+      {
+        "height": 0.1,
+        "thickness": 0.0037558674812316895
+      },
+      {
+        "height": 0.18,
+        "thickness": 0.003669753670692444
+      }
+    ]
+  },
+  {
+    "asset": "plastic_bail_bucket",
+    "format": "glb",
+    "center_base_thickness": 0.006000004708766937,
+    "mouth_open": true,
+    "walls": [
+      {
+        "height": 0.03,
+        "thickness": 0.0038312524557113647
+      },
+      {
+        "height": 0.1,
+        "thickness": 0.0037558674812316895
+      },
+      {
+        "height": 0.18,
+        "thickness": 0.003669753670692444
+      }
+    ]
+  },
+  {
+    "asset": "wall_clock",
+    "format": "blend",
+    "keyhole_open": true,
+    "neck_open": true,
+    "recess_open": true,
+    "shoulders_exist": true,
+    "screw_collisions": []
+  },
+  {
+    "asset": "wall_clock",
+    "format": "glb",
+    "keyhole_open": true,
+    "neck_open": true,
+    "recess_open": true,
+    "shoulders_exist": true,
+    "screw_collisions": []
+  }
+]

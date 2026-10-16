@@ -1,0 +1,111 @@
+{
+  "asset": "wall_clock",
+  "view": "close_up",
+  "input_repo_path": "assets/household/wall_clock/wall_clock.glb",
+  "input_sha256": "5f6d2b19e3a59bfb5bf6eb602c9cddb2561ee9939ae7095666b14eb75947dbbe",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "faf793b3d3390482983b3ebb584d3e774b14e0b0a3a81c794ccaeec640af2413",
+  "closeup_magnification_vs_full_fit": 3.3401100182708134,
+  "blender_version": "4.3.2",
+  "output_path": "assets/household/wall_clock/close_up.jpg",
+  "output_sha256": "e070a5fbb07c4e1c1e1e18f3d02e5a580cb1b0899aca01d7399f2b3bb6e840f8",
+  "bytes": 140932,
+  "elapsed_seconds": 887.7376192529991,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 6.666665739483433,
+  "source_bounds": [
+    [
+      -0.15000000596046448,
+      -0.04300002381205559,
+      -2.0141156298336682e-08
+    ],
+    [
+      0.15000000596046448,
+      0.0060000112280249596,
+      0.30000001192092896
+    ]
+  ],
+  "camera_location": [
+    3.2152066230773926,
+    9.316304206848145,
+    3.9299092292785645
+  ],
+  "camera_rotation": [
+    1.3390705585479736,
+    -4.646348639170128e-09,
+    2.804917812347412
+  ],
+  "ortho_scale": 0.7499998807907104,
+  "focus": {
+    "purpose": "Rear keyhole hanging bridge and surrounding housing",
+    "target_m": [
+      0,
+      0.001,
+      0.245
+    ],
+    "span_m": 0.09,
+    "direction": [
+      0.35,
+      1,
+      0.25
+    ]
+  },
+  "focus_projected_width_height": [
+    1.9670004844665527,
+    2.004065692424774
+  ],
+  "full_object_fit": false,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        5.211862087249756,
+        -0.09228748083114624,
+        4.71859884262085
+      ],
+      "rotation": [
+        0.9171649217605591,
+        4.4062609561024146e-08,
+        1.5659823417663574
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        -0.7109824419021606,
+        4.390045642852783,
+        2.105441093444824
+      ],
+      "rotation": [
+        1.270423412322998,
+        1.612485611701686e-08,
+        -2.988550901412964
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        -3.7830770015716553,
+        -0.10641688108444214,
+        4.417162895202637
+      ],
+      "rotation": [
+        0.7922511696815491,
+        -7.78162387859993e-08,
+        -1.5603348016738892
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": null,
+  "floor_hidden": false,
+  "diagnostic_only": false
+}

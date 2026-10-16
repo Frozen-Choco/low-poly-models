@@ -1,0 +1,111 @@
+{
+  "asset": "wall_clock",
+  "view": "hand_detail",
+  "input_repo_path": "assets/household/wall_clock/wall_clock.glb",
+  "input_sha256": "5f6d2b19e3a59bfb5bf6eb602c9cddb2561ee9939ae7095666b14eb75947dbbe",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "faf793b3d3390482983b3ebb584d3e774b14e0b0a3a81c794ccaeec640af2413",
+  "closeup_magnification_vs_full_fit": 2.507087142120259,
+  "blender_version": "4.3.2",
+  "output_path": "assets/household/wall_clock/hand_detail.jpg",
+  "output_sha256": "d0342ba6fb88c246f0457bd23df3cc3ec5c21b196485a454a85bcc94b6493d9a",
+  "bytes": 471862,
+  "elapsed_seconds": 3403.3055904669964,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 6.666665739483433,
+  "source_bounds": [
+    [
+      -0.15000000596046448,
+      -0.04300002381205559,
+      -2.0141156298336682e-08
+    ],
+    [
+      0.15000000596046448,
+      0.0060000112280249596,
+      0.30000001192092896
+    ]
+  ],
+  "camera_location": [
+    3.617725133895874,
+    -9.10097885131836,
+    3.261078119277954
+  ],
+  "camera_rotation": [
+    1.3427162170410156,
+    -4.702013356450152e-08,
+    0.3805064260959625
+  ],
+  "ortho_scale": 0.9999998807907104,
+  "focus": {
+    "purpose": "Coaxial hands viewed through original intact front glass",
+    "target_m": [
+      0,
+      -0.027,
+      0.15
+    ],
+    "span_m": 0.12,
+    "direction": [
+      0.4,
+      -1,
+      0.25
+    ]
+  },
+  "focus_projected_width_height": [
+    1.9460867643356323,
+    2.0056694746017456
+  ],
+  "full_object_fit": false,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        -3.9836061000823975,
+        -3.3685874938964844,
+        4.712615013122559
+      ],
+      "rotation": [
+        0.9183573722839355,
+        9.931490296821721e-09,
+        -0.8557935357093811
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        3.422741651535034,
+        -2.8450233936309814,
+        2.091184139251709
+      ],
+      "rotation": [
+        1.2736409902572632,
+        5.919974199741773e-08,
+        0.8696951270103455
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        2.7858452796936035,
+        2.5551035404205322,
+        4.422062873840332
+      ],
+      "rotation": [
+        0.7910165190696716,
+        5.2063708011473864e-08,
+        2.295051336288452
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": null,
+  "floor_hidden": false,
+  "diagnostic_only": false
+}

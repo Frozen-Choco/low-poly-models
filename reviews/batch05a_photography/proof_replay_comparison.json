@@ -1,0 +1,20 @@
+{
+  "numeric_use_validation.json": {
+    "data_equal": true
+  },
+  "bail_contact_validation.json": {
+    "data_equal": true
+  },
+  "use_validation.json": {
+    "data_equal": true
+  },
+  "regenerated_scene_names": [
+    "bucket_bail_swing_90.9.blend",
+    "bucket_bail_swing_90.blend",
+    "bucket_vessel_section.blend",
+    "clock_hand_layer_detail.blend",
+    "clock_rear_mount_detail.blend",
+    "stool_seat_attachment_detail.blend"
+  ],
+  "method": "Retained exact source on fresh approved GLBs; AST harness suppresses only image rendering, all scene construction, transforms, cuts, tests and Blend saves executed."
+}

@@ -1,0 +1,26 @@
+{
+  "round_wooden_stool": {
+    "triangles": true,
+    "zero_area_triangles": true,
+    "dimensions_m": true,
+    "mesh_objects": true,
+    "glb_bytes_match": true
+  },
+  "plastic_bail_bucket": {
+    "triangles": true,
+    "zero_area_triangles": true,
+    "dimensions_m": true,
+    "mesh_objects": true,
+    "glb_bytes_match": true
+  },
+  "wall_clock": {
+    "triangles": true,
+    "zero_area_triangles": true,
+    "dimensions_m": true,
+    "mesh_objects": true,
+    "glb_bytes_match": true
+  },
+  "scope_only_requested_asset": true,
+  "source_relocated": true,
+  "all_pass": true
+}

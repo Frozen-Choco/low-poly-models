@@ -1,0 +1,149 @@
+[
+  {
+    "asset": "plastic_bail_bucket",
+    "view": "close_up",
+    "sha256": "bfbe25890207591e8cf17c3828f7850ad8b241b2a01dfb96f35be79feb6e8c17",
+    "visual_status": "PASS",
+    "comments": "Inspected at native 1200px. Shared studio, functional target readability and complete intended crop pass."
+  },
+  {
+    "asset": "plastic_bail_bucket",
+    "view": "preview",
+    "sha256": "d34ed1fd2c80e9a7a05f77aaae5bef6065a96f77ae7847c19fddf2d265f60ed0",
+    "visual_status": "PASS",
+    "comments": "Inspected at native 1200px. Shared studio, functional target readability and complete intended crop pass."
+  },
+  {
+    "asset": "round_wooden_stool",
+    "view": "close_up",
+    "sha256": "42bda1f05fc0b3bb43fc16968ab21e19c99a6aab70faf927f633234b7e21e7ca",
+    "visual_status": "PASS",
+    "comments": "Inspected at native 1200px. Shared studio, functional target readability and complete intended crop pass."
+  },
+  {
+    "asset": "round_wooden_stool",
+    "view": "preview",
+    "sha256": "0a70059c76891da372e02d43d3078770a94d2a6dafc5be089190665b1baaac31",
+    "visual_status": "PASS",
+    "comments": "Inspected at native 1200px. Shared studio, functional target readability and complete intended crop pass."
+  },
+  {
+    "asset": "wall_clock",
+    "view": "close_up",
+    "sha256": "e070a5fbb07c4e1c1e1e18f3d02e5a580cb1b0899aca01d7399f2b3bb6e840f8",
+    "visual_status": "PASS",
+    "comments": "Inspected at native 1200px. Shared studio, functional target readability and complete intended crop pass."
+  },
+  {
+    "asset": "wall_clock",
+    "view": "front",
+    "sha256": "a8c948db66f049282fae4c8dad3ca3d60608bc563c215e2a5942320d7655f128",
+    "visual_status": "PASS",
+    "comments": "Inspected at native 1200px. Shared studio, functional target readability and complete intended crop pass."
+  },
+  {
+    "asset": "wall_clock",
+    "view": "preview",
+    "sha256": "c943ec303f0705a85147e3fa892b3424c9c9b9ae47256761ae6e3cfdb5ddfac2",
+    "visual_status": "PASS",
+    "comments": "Intact-glass hero. Complete silhouette/readable hands and indices. Visible fine transmission grain under common no-denoise settings."
+  },
+  {
+    "asset": "plastic_bail_bucket",
+    "view": "back",
+    "sha256": "e3b5bb058ffdc8f98462245b4f8a5e398431823b0bacdd439a50670dabe03b24",
+    "visual_status": "PASS",
+    "comments": "Secondary views contact sheet inspected: unobstructed shell, bottom, bail orientation and lip; true axial names consistent."
+  },
+  {
+    "asset": "plastic_bail_bucket",
+    "view": "rear",
+    "sha256": "73dffabd1aed2336cf115dfa6c4a9b5f18d23538f414346c4643392b089113af",
+    "visual_status": "PASS",
+    "comments": "Secondary views contact sheet inspected: unobstructed shell, bottom, bail orientation and lip; true axial names consistent."
+  },
+  {
+    "asset": "plastic_bail_bucket",
+    "view": "side",
+    "sha256": "b8c5f8c61582589d574bbc2c55317676c332abfd54b9f03854f2b0c35a3e49cd",
+    "visual_status": "PASS",
+    "comments": "Secondary views contact sheet inspected: unobstructed shell, bottom, bail orientation and lip; true axial names consistent."
+  },
+  {
+    "asset": "plastic_bail_bucket",
+    "view": "underside",
+    "sha256": "8aa8bb2aa0acbffb86e74f9b720b62ee9347bc3b51fe29a337daa574b5d230b8",
+    "visual_status": "PASS",
+    "comments": "Secondary views contact sheet inspected: unobstructed shell, bottom, bail orientation and lip; true axial names consistent."
+  },
+  {
+    "asset": "wall_clock",
+    "view": "hand_detail",
+    "sha256": "d0342ba6fb88c246f0457bd23df3cc3ec5c21b196485a454a85bcc94b6493d9a",
+    "visual_status": "PASS",
+    "comments": "Intact glass central spindle/detail readable; intentional cropped pointer ends covered by complete front/hero. Shared transmission grain visible."
+  },
+  {
+    "asset": "plastic_bail_bucket",
+    "view": "top",
+    "sha256": "fd1c186dfcc6584d2b78f0ac248c6db797c50f77cfcf7b11ad3e2d88b01257fd",
+    "visual_status": "PASS",
+    "comments": "Contact sheet inspection passes crop, whole form and axial semantics; open bucket interior or supported stool seat visible."
+  },
+  {
+    "asset": "round_wooden_stool",
+    "view": "back",
+    "sha256": "53456613962f4a8ba1f06b96a12a741ca7ea9f9f784a9f8c4d1eaf78dd7d7af2",
+    "visual_status": "PASS",
+    "comments": "Contact sheet inspection passes crop, whole form and axial semantics; open bucket interior or supported stool seat visible."
+  },
+  {
+    "asset": "round_wooden_stool",
+    "view": "rear",
+    "sha256": "5b9167fe92a4f339f4bffd48380a935c96aa25b4ef7bfe7577e51c73fccba4e0",
+    "visual_status": "PASS",
+    "comments": "Contact sheet inspection passes crop, whole form and axial semantics; open bucket interior or supported stool seat visible."
+  },
+  {
+    "asset": "round_wooden_stool",
+    "view": "side",
+    "sha256": "18fa34983114be56796c1d47262d202c3a17ac83701098ebdaddc1e0c912bdd5",
+    "visual_status": "PASS",
+    "comments": "Contact sheet inspection passes crop, whole form and axial semantics; open bucket interior or supported stool seat visible."
+  },
+  {
+    "asset": "round_wooden_stool",
+    "view": "underside",
+    "sha256": "182d04825b5b0b3ce9df1bba7c21a9bf27ff675fd5ffb42baa67f56c6b6b650c",
+    "visual_status": "PASS",
+    "comments": "Final secondary sheet inspected: unobstructed underside/back, complete profile, correct axial naming and neutral background."
+  },
+  {
+    "asset": "wall_clock",
+    "view": "back",
+    "sha256": "8c39ade770c1d78b2bf47f11a3d8cf0b7022a4a6f9b954bc1e005e4b45b13a26",
+    "visual_status": "PASS",
+    "comments": "Final secondary sheet inspected: unobstructed underside/back, complete profile, correct axial naming and neutral background."
+  },
+  {
+    "asset": "wall_clock",
+    "view": "rear",
+    "sha256": "cade5162ddded0e1f9054478a02374d20c4f8859977d7aed3848e2b8a1ce4a06",
+    "visual_status": "PASS",
+    "comments": "Final secondary sheet inspected: unobstructed underside/back, complete profile, correct axial naming and neutral background."
+  },
+  {
+    "asset": "wall_clock",
+    "view": "side",
+    "sha256": "87131c7619eaad22cbdfc0543b897f9bc6f8e6615b577dfc1256d8ea31c9feea",
+    "visual_status": "PASS",
+    "comments": "Final secondary sheet inspected: unobstructed underside/back, complete profile, correct axial naming and neutral background."
+  },
+  {
+    "asset": "wall_clock",
+    "view": "underside",
+    "sha256": "2fdcdfae7177318787deacb09e71386ec9b7c7d6ff464470ce34d73359e16c29",
+    "visual_status": "PASS",
+    "comments": "Final secondary sheet inspected: unobstructed underside/back, complete profile, correct axial naming and neutral background."
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "policy": "Only camera target/framing differs; approved GLB geometry/materials and common studio untouched. Coordinates in Blender source meters.",
+  "round_wooden_stool": {
+    "close_up": {
+      "purpose": "Underside seat cleats meeting apron rails and leg tops",
+      "target_m": [
+        0,
+        0,
+        0.405
+      ],
+      "span_m": 0.22,
+      "direction": [
+        1,
+        -2,
+        -1.7
+      ]
+    }
+  },
+  "plastic_bail_bucket": {
+    "close_up": {
+      "purpose": "Right pierced lug and hooked wire bail attachment",
+      "target_m": [
+        0.14,
+        0,
+        0.229
+      ],
+      "span_m": 0.085,
+      "direction": [
+        1,
+        -1,
+        0.7
+      ]
+    }
+  },
+  "wall_clock": {
+    "close_up": {
+      "purpose": "Rear keyhole hanging bridge and surrounding housing",
+      "target_m": [
+        0,
+        0.001,
+        0.245
+      ],
+      "span_m": 0.09,
+      "direction": [
+        0.35,
+        1,
+        0.25
+      ]
+    },
+    "hand_detail": {
+      "purpose": "Coaxial hands viewed through original intact front glass",
+      "target_m": [
+        0,
+        -0.027,
+        0.15
+      ],
+      "span_m": 0.12,
+      "direction": [
+        0.4,
+        -1,
+        0.25
+      ]
+    }
+  }
+}

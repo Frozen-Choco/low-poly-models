@@ -1,0 +1,75 @@
+{
+  "stool_measured_contacts": [
+    {
+      "x": -0.087,
+      "seat_hit": [
+        -0.08699999749660492,
+        0.0,
+        0.421999990940094
+      ],
+      "cleat_top": [
+        -0.08699999749660492,
+        0.0,
+        0.4220000207424164
+      ],
+      "cleat_bottom": [
+        -0.08699999749660492,
+        0.0,
+        0.4099999964237213
+      ],
+      "rail_top": [
+        -0.08699999749660492,
+        0.0,
+        0.4099999964237213
+      ],
+      "seat_cleat_gap": -2.9802322387695312e-08,
+      "cleat_rail_gap": 0.0
+    },
+    {
+      "x": 0.087,
+      "seat_hit": [
+        0.08699999749660492,
+        0.0,
+        0.421999990940094
+      ],
+      "cleat_top": [
+        0.08699999749660492,
+        0.0,
+        0.4220000207424164
+      ],
+      "cleat_bottom": [
+        0.08699999749660492,
+        0.0,
+        0.4099999964237213
+      ],
+      "rail_top": [
+        0.08699999749660492,
+        0.0,
+        0.4099999964237213
+      ],
+      "seat_cleat_gap": -2.9802322387695312e-08,
+      "cleat_rail_gap": 0.0
+    }
+  ],
+  "bucket_measured_shell": {
+    "bottom_inside_hit": [
+      0.0,
+      0.0,
+      0.01000000536441803
+    ],
+    "bottom_outside_hit": [
+      0.0,
+      0.0,
+      0.0040000006556510925
+    ],
+    "base_thickness_m": 0.006000004708766937,
+    "upward_center_mouth_unobstructed": true,
+    "midheight_wall_thickness_m": 0.0037558674812316895
+  },
+  "clock_measured_keyhole": {
+    "head_entry_open": true,
+    "upper_neck_open": true,
+    "backing_recess_open": true,
+    "solid_shoulder_exists": true
+  }
+}

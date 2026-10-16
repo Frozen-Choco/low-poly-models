@@ -1,0 +1,115 @@
+{
+  "asset": "round_wooden_stool",
+  "view": "close_up",
+  "input_repo_path": "assets/household/round_wooden_stool/round_wooden_stool.glb",
+  "input_sha256": "233a1af3dd15e493c684e4a89395e7a49e31a1115a11caccb7c9baaf3dc2d6cf",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "faf793b3d3390482983b3ebb584d3e774b14e0b0a3a81c794ccaeec640af2413",
+  "closeup_magnification_vs_full_fit": 2.4819400769140514,
+  "blender_version": "4.3.2",
+  "output_path": "assets/household/round_wooden_stool/close_up.jpg",
+  "output_sha256": "42bda1f05fc0b3bb43fc16968ab21e19c99a6aab70faf927f633234b7e21e7ca",
+  "bytes": 301423,
+  "elapsed_seconds": 747.9692395800012,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 4.444444562182017,
+  "source_bounds": [
+    [
+      -0.15000000596046448,
+      -0.15000000596046448,
+      0.0
+    ],
+    [
+      0.15000000596046448,
+      0.15000000596046448,
+      0.44999998807907104
+    ]
+  ],
+  "camera_location": [
+    3.5600943565368652,
+    -7.1201887130737305,
+    -4.25216007232666
+  ],
+  "camera_rotation": [
+    2.2208337783813477,
+    -1.8522127831488433e-08,
+    0.4636477530002594
+  ],
+  "ortho_scale": 1.2222222089767456,
+  "focus": {
+    "purpose": "Underside seat cleats meeting apron rails and leg tops",
+    "target_m": [
+      0,
+      0,
+      0.405
+    ],
+    "span_m": 0.22,
+    "direction": [
+      1,
+      -2,
+      -1.7
+    ]
+  },
+  "focus_projected_width_height": [
+    1.4725938439369202,
+    2.4267858266830444
+  ],
+  "full_object_fit": false,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        -2.67879319190979,
+        -5.71038293838501,
+        2.102541446685791
+      ],
+      "rotation": [
+        1.3827227354049683,
+        9.098966913256845e-09,
+        -0.40590083599090576
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        3.390331268310547,
+        -2.0372440814971924,
+        -1.314150094985962
+      ],
+      "rotation": [
+        2.0516414642333984,
+        -9.283847468566364e-09,
+        0.99509596824646
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        3.9579336643218994,
+        -0.010172009468078613,
+        4.214756965637207
+      ],
+      "rotation": [
+        0.8848190903663635,
+        3.676743531855209e-08,
+        1.509138584136963
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": [
+    184,
+    184,
+    184
+  ],
+  "floor_hidden": true,
+  "diagnostic_only": false
+}

@@ -1096,5 +1096,180 @@
       ],
       "record": "generators/preview_standard_v1/published/whole_red_apple.json"
     }
+  },
+  {
+    "id": "round_wooden_stool",
+    "title_ja": "木製丸スツール",
+    "category": "household",
+    "units": "meters",
+    "origin": "bottom centered; clock front -Y",
+    "front_blend": "-Y",
+    "up_blend": "Z",
+    "up_glb": "Y",
+    "design": "Original unbranded diorama prop informed by real construction. No manufacturing or safety certification.",
+    "license": "Original geometry and packed original grain image. No external asset content.",
+    "review_status": "Geometry/function and canonical photography independently approved; publication integration pending",
+    "blender_version": "4.3.2",
+    "glb_bytes": 681612,
+    "blend_bytes": 450232,
+    "triangles": 7428,
+    "zero_area_triangles": 0,
+    "bounds_min": [
+      -0.15000000596046448,
+      -0.15000000596046448,
+      0.0
+    ],
+    "bounds_max": [
+      0.15000000596046448,
+      0.15000000596046448,
+      0.44999998807907104
+    ],
+    "dimensions_m": [
+      0.30000001192092896,
+      0.30000001192092896,
+      0.44999998807907104
+    ],
+    "mesh_objects": 23,
+    "references": [
+      "https://www.pinefactory.jp/product.php?code=stool-s-na",
+      "https://www.pinefactory.jp/upload/images/dining/stool/s-na/tool-skumi_a.jpg"
+    ],
+    "functional_validation_files": [
+      "generators/utility_batch05a/historical/numeric_use_validation.json",
+      "generators/utility_batch05a/historical/use_validation.json"
+    ],
+    "geometry_manifest_sha256": "cbb07f5fdb6d296c7de1dc5709b33a8679a059c9392ac858ca35dd32c848a12f",
+    "photography_standard": "preview-standard-v1",
+    "photography_configuration": "generators/utility_preview_standard_v1",
+    "canonical_images": [
+      "preview.jpg",
+      "back.jpg",
+      "rear.jpg",
+      "side.jpg",
+      "underside.jpg",
+      "close_up.jpg",
+      "front_three_quarter.jpg",
+      "underside_axial.jpg"
+    ],
+    "glb_sha256": "233a1af3dd15e493c684e4a89395e7a49e31a1115a11caccb7c9baaf3dc2d6cf",
+    "blend_sha256": "ac5e113fa998ac419a4110d46ff58c6cf05f63d32d3a909d9b231dabe08adbdc"
+  },
+  {
+    "id": "plastic_bail_bucket",
+    "title_ja": "金属つる付き樹脂バケツ",
+    "category": "household",
+    "units": "meters",
+    "origin": "bottom centered; clock front -Y",
+    "front_blend": "-Y",
+    "up_blend": "Z",
+    "up_glb": "Y",
+    "design": "Original unbranded diorama prop informed by real construction. No manufacturing or safety certification.",
+    "license": "Original geometry and packed original grain image. No external asset content.",
+    "review_status": "Geometry/function and canonical photography independently approved; publication integration pending",
+    "blender_version": "4.3.2",
+    "glb_bytes": 276484,
+    "blend_bytes": 219353,
+    "triangles": 13092,
+    "zero_area_triangles": 0,
+    "bounds_min": [
+      -0.15168024599552155,
+      -0.16099999845027924,
+      0.0
+    ],
+    "bounds_max": [
+      0.15168024599552155,
+      0.14000000059604645,
+      0.4020000100135803
+    ],
+    "dimensions_m": [
+      0.3033604919910431,
+      0.3009999990463257,
+      0.4020000100135803
+    ],
+    "mesh_objects": 5,
+    "references": [
+      "https://www.risu.co.jp/products/search/detail/t000100014292/",
+      "https://www.risu.co.jp/group/search/cad/BR8.pdf"
+    ],
+    "functional_validation_files": [
+      "generators/utility_batch05a/historical/numeric_use_validation.json",
+      "generators/utility_batch05a/historical/use_validation.json"
+    ],
+    "geometry_manifest_sha256": "cbb07f5fdb6d296c7de1dc5709b33a8679a059c9392ac858ca35dd32c848a12f",
+    "photography_standard": "preview-standard-v1",
+    "photography_configuration": "generators/utility_preview_standard_v1",
+    "canonical_images": [
+      "preview.jpg",
+      "back.jpg",
+      "rear.jpg",
+      "side.jpg",
+      "underside.jpg",
+      "close_up.jpg",
+      "top.jpg",
+      "front_three_quarter.jpg",
+      "underside_axial.jpg"
+    ],
+    "glb_sha256": "3dfd396fcff13e461cb118cf0247634d35c561a1d1fd4e614f24b3945748abbc",
+    "blend_sha256": "748e08f9005c1149a54c2e0e1ba059776c3bf3c481cfef66b6bf69ef3d98fd09"
+  },
+  {
+    "id": "wall_clock",
+    "title_ja": "壁掛け時計",
+    "category": "household",
+    "units": "meters",
+    "origin": "bottom centered; clock front -Y",
+    "front_blend": "-Y",
+    "up_blend": "Z",
+    "up_glb": "Y",
+    "design": "Original unbranded diorama prop informed by real construction. No manufacturing or safety certification.",
+    "license": "Original geometry and packed original grain image. No external asset content.",
+    "review_status": "Geometry/function and canonical photography independently approved; publication integration pending",
+    "blender_version": "4.3.2",
+    "glb_bytes": 763884,
+    "blend_bytes": 188354,
+    "triangles": 13764,
+    "zero_area_triangles": 0,
+    "bounds_min": [
+      -0.15000000596046448,
+      -0.04300001263618469,
+      2.2649371267391416e-10
+    ],
+    "bounds_max": [
+      0.15000000596046448,
+      0.006000010296702385,
+      0.30000001192092896
+    ],
+    "dimensions_m": [
+      0.30000001192092896,
+      0.04900002293288708,
+      0.30000001169443524
+    ],
+    "mesh_objects": 85,
+    "references": [
+      "https://www.seiko-clock.co.jp/product-personal/wall_clock/standard/qxa709b.html",
+      "https://www.seiko-clock.co.jp/product-personal/QXA709B_back.jpg",
+      "https://www.seiko-clock.co.jp/product-personal/up_files/AKX-055P.pdf"
+    ],
+    "functional_validation_files": [
+      "generators/utility_batch05a/historical/numeric_use_validation.json",
+      "generators/utility_batch05a/historical/use_validation.json"
+    ],
+    "geometry_manifest_sha256": "cbb07f5fdb6d296c7de1dc5709b33a8679a059c9392ac858ca35dd32c848a12f",
+    "photography_standard": "preview-standard-v1",
+    "photography_configuration": "generators/utility_preview_standard_v1",
+    "canonical_images": [
+      "preview.jpg",
+      "back.jpg",
+      "rear.jpg",
+      "side.jpg",
+      "underside.jpg",
+      "close_up.jpg",
+      "front.jpg",
+      "hand_detail.jpg",
+      "front_three_quarter.jpg",
+      "underside_axial.jpg"
+    ],
+    "glb_sha256": "5f6d2b19e3a59bfb5bf6eb602c9cddb2561ee9939ae7095666b14eb75947dbbe",
+    "blend_sha256": "f2bf9743b42f6ec63e019efe5c4a952c0eb6663de4b289d736eeebb86585916f"
   }
 ]

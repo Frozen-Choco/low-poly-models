@@ -24,7 +24,10 @@
     "taped_shipping_box",
     "traffic_cone",
     "traffic_signal",
-    "wooden_cutting_board"
+    "wooden_cutting_board",
+    "round_wooden_stool",
+    "plastic_bail_bucket",
+    "wall_clock"
   ],
   "pending_assets": [],
   "scope": "Current canonical asset photographs only; historical generator evidence retained."

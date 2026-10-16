@@ -1,0 +1,83 @@
+{
+  "stool": {
+    "four_feet": true,
+    "all_soles_on_floor": true,
+    "seat_underside_z": 0.422,
+    "cleat_top_z": 0.422,
+    "rail_top_z": 0.41,
+    "cleat_bottom_z": 0.41,
+    "leg_top_z": 0.41,
+    "support_polygon_contains_center": true,
+    "stretcher_endpoint_inside_leg": true,
+    "scope": "Contact geometry only; no load or safety certification."
+  },
+  "bucket": {
+    "body_open_top": true,
+    "base_closed": true,
+    "wall_thickness_nominal_m": 0.003,
+    "base_thickness_m": 0.006,
+    "ear_hole_radius_m": 0.0037,
+    "bail_wire_radius_m": 0.0018,
+    "pivot_axis": "X at z=0.229 m",
+    "swing_samples": [
+      {
+        "angle_degrees": 0,
+        "body_triangle_intersections": {
+          "Swinging hooked steel bail": 0,
+          "Swinging molded hand grip": 0
+        },
+        "clear": true
+      },
+      {
+        "angle_degrees": 45,
+        "body_triangle_intersections": {
+          "Swinging hooked steel bail": 0,
+          "Swinging molded hand grip": 0
+        },
+        "clear": true
+      },
+      {
+        "angle_degrees": 90,
+        "body_triangle_intersections": {
+          "Swinging hooked steel bail": 0,
+          "Swinging molded hand grip": 0
+        },
+        "clear": true
+      },
+      {
+        "angle_degrees": 90.9,
+        "body_triangle_intersections": {
+          "Swinging hooked steel bail": 0,
+          "Swinging molded hand grip": 0
+        },
+        "clear": true
+      }
+    ],
+    "last_clear_degrees": 90.9,
+    "first_grip_lip_contact_degrees": 91.0,
+    "scope": "Rigid bail folds until grip naturally rests against pouring lip. 135-degree pose rejected for interference and excluded. Excludes intended hook-ear contact; no strength simulation."
+  },
+  "clock": {
+    "dial_front_depth_m": 0.022,
+    "hour_blade_depth_range_m": [
+      0.0245,
+      0.0255
+    ],
+    "minute_blade_depth_range_m": [
+      0.0275,
+      0.0285
+    ],
+    "second_blade_depth_range_m": [
+      0.0305,
+      0.0315
+    ],
+    "cap_front_depth_m": 0.034,
+    "glass_rear_depth_m": 0.0361,
+    "minimum_hand_glass_clearance_m": 0.0021,
+    "hand_axes_coincident": true,
+    "keyhole_head_diameter_m": 0.012,
+    "keyhole_neck_width_m": 0.006,
+    "wall_plane_y": 0.006,
+    "scope": "Geometric mounting/clearance only; no fixing-load claim."
+  }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "plastic_bail_bucket",
+    "repo_path": "assets/household/plastic_bail_bucket/plastic_bail_bucket.glb",
+    "sha256": "3dfd396fcff13e461cb118cf0247634d35c561a1d1fd4e614f24b3945748abbc",
+    "git_sha": null,
+    "source_manifest_sha256": "cbb07f5fdb6d296c7de1dc5709b33a8679a059c9392ac858ca35dd32c848a12f",
+    "approval_path": "reviews/batch05a/geometry_function_approval.json"
+  },
+  {
+    "id": "round_wooden_stool",
+    "repo_path": "assets/household/round_wooden_stool/round_wooden_stool.glb",
+    "sha256": "233a1af3dd15e493c684e4a89395e7a49e31a1115a11caccb7c9baaf3dc2d6cf",
+    "git_sha": null,
+    "source_manifest_sha256": "cbb07f5fdb6d296c7de1dc5709b33a8679a059c9392ac858ca35dd32c848a12f",
+    "approval_path": "reviews/batch05a/geometry_function_approval.json"
+  },
+  {
+    "id": "wall_clock",
+    "repo_path": "assets/household/wall_clock/wall_clock.glb",
+    "sha256": "5f6d2b19e3a59bfb5bf6eb602c9cddb2561ee9939ae7095666b14eb75947dbbe",
+    "git_sha": null,
+    "source_manifest_sha256": "cbb07f5fdb6d296c7de1dc5709b33a8679a059c9392ac858ca35dd32c848a12f",
+    "approval_path": "reviews/batch05a/geometry_function_approval.json"
+  }
+]

@@ -1,0 +1,57 @@
+{
+  "id": "round_wooden_stool",
+  "title_ja": "\u6728\u88fd\u4e38\u30b9\u30c4\u30fc\u30eb",
+  "category": "household",
+  "units": "meters",
+  "origin": "bottom centered; clock front -Y",
+  "front_blend": "-Y",
+  "up_blend": "Z",
+  "up_glb": "Y",
+  "design": "Original unbranded diorama prop informed by real construction. No manufacturing or safety certification.",
+  "license": "Original geometry and packed original grain image. No external asset content.",
+  "review_status": "Geometry/function and canonical photography independently approved; publication integration pending",
+  "blender_version": "4.3.2",
+  "glb_bytes": 681612,
+  "blend_bytes": 450232,
+  "triangles": 7428,
+  "zero_area_triangles": 0,
+  "bounds_min": [
+    -0.15000000596046448,
+    -0.15000000596046448,
+    0.0
+  ],
+  "bounds_max": [
+    0.15000000596046448,
+    0.15000000596046448,
+    0.44999998807907104
+  ],
+  "dimensions_m": [
+    0.30000001192092896,
+    0.30000001192092896,
+    0.44999998807907104
+  ],
+  "mesh_objects": 23,
+  "references": [
+    "https://www.pinefactory.jp/product.php?code=stool-s-na",
+    "https://www.pinefactory.jp/upload/images/dining/stool/s-na/tool-skumi_a.jpg"
+  ],
+  "functional_validation_files": [
+    "generators/utility_batch05a/historical/numeric_use_validation.json",
+    "generators/utility_batch05a/historical/use_validation.json"
+  ],
+  "geometry_manifest_sha256": "cbb07f5fdb6d296c7de1dc5709b33a8679a059c9392ac858ca35dd32c848a12f",
+  "photography_standard": "preview-standard-v1",
+  "photography_configuration": "generators/utility_preview_standard_v1",
+  "canonical_images": [
+    "preview.jpg",
+    "back.jpg",
+    "rear.jpg",
+    "side.jpg",
+    "underside.jpg",
+    "close_up.jpg",
+    "front_three_quarter.jpg",
+    "underside_axial.jpg"
+  ],
+  "glb_sha256": "233a1af3dd15e493c684e4a89395e7a49e31a1115a11caccb7c9baaf3dc2d6cf",
+  "blend_sha256": "ac5e113fa998ac419a4110d46ff58c6cf05f63d32d3a909d9b231dabe08adbdc"
+}
