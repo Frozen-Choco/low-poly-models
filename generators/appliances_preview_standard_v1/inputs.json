@@ -1,0 +1,32 @@
+[
+  {
+    "id": "microwave_oven",
+    "repo_path": "assets/appliances/microwave_oven/microwave_oven.glb",
+    "sha256": "3d53942250c89fa37f98a744be3ed008d88785847d8f635ddbda811079ece2ba",
+    "git_sha": null,
+    "provenance": "Original generic unbranded appliance"
+  },
+  {
+    "id": "microwave_oven_open",
+    "repo_path": "generators/appliances_batch08a/evidence/poses/microwave_oven/microwave_oven_open.glb",
+    "sha256": "c7896555a29770944471bde71d6f5e16470238b479fb3ace93e5a4421ce8dcba",
+    "git_sha": null,
+    "provenance": "Render-only rigid open pose derived from delivered animated GLB; evidence/poses/provenance.json",
+    "requires_regeneration": "Evidence-only source omitted from lean package; regenerate frame 61 via prepare_poses.py from exact delivered GLB."
+  },
+  {
+    "id": "rice_cooker",
+    "repo_path": "assets/appliances/rice_cooker/rice_cooker.glb",
+    "sha256": "7a7977f345bd999dd86ab4c96ab74f675043428fd9988ca8cc5b16dccd47cc4c",
+    "git_sha": null,
+    "provenance": "Original generic unbranded appliance"
+  },
+  {
+    "id": "rice_cooker_open",
+    "repo_path": "generators/appliances_batch08a/evidence/poses/rice_cooker/rice_cooker_open.glb",
+    "sha256": "2b215ed0bbad269b7407bd40f123c4252cf8bf97cd01d565b816331020462402",
+    "git_sha": null,
+    "provenance": "Render-only rigid open pose derived from delivered animated GLB; evidence/poses/provenance.json",
+    "requires_regeneration": "Evidence-only source omitted from lean package; regenerate frame 61 via prepare_poses.py from exact delivered GLB."
+  }
+]

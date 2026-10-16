@@ -1,0 +1,106 @@
+[
+  {
+    "id": "microwave_oven",
+    "title_ja": "電子レンジ",
+    "category": "appliances",
+    "description": "汎用の単機能電子レンジ。白い塗装鋼板、濃色の樹脂ドアと窓、金属庫内、フラットな底面。開閉する左ヒンジドア。 保存時の全体寸法は約50.1×51.1×29.8cm（コード・金具を含む）。ドアは0〜90度の可視化用アニメーション。電気・加熱・安全機構の動作や認証は再現していません。",
+    "units": "meter",
+    "up_axis_blend": "Z",
+    "up_axis_glb": "Y",
+    "front_blend": "-Y",
+    "origin": "lowest support at ground plane",
+    "triangles": 16604,
+    "dimensions_m": [
+      0.5010000020265579,
+      0.5112731158733368,
+      0.2980000078678131
+    ],
+    "blend_bytes": 217841,
+    "glb_bytes": 556380,
+    "validated": true,
+    "geometry_validated": true,
+    "status": "Independent geometry, full canonical photography and exact source package gates passed",
+    "photography": {
+      "standard": "preview_standard_v1",
+      "views": [
+        "preview",
+        "back",
+        "front",
+        "rear",
+        "side",
+        "left",
+        "top",
+        "underside",
+        "close_up",
+        "underside_detail",
+        "alternate_light",
+        "vent_detail",
+        "open",
+        "interior"
+      ]
+    },
+    "independent_review": {
+      "technical_status": "approved",
+      "scope": "Independent saved geometry, canonical photography and exact source package acceptance. Visual diorama model with illustrative hinge animation; no electrical or safety certification.",
+      "report": "reviews/appliances_integration/source_package_approval.json",
+      "report_sha256": "d869fc9b489ab3c82ecc6c2e48d682d190b7fa0d7b2cb95a72df3916316a3897",
+      "source_manifest_sha256": "73ff15aa80c08025a56f30d9de4a3582bb1de19be10b837f37f2b3444278b0df",
+      "path_base": "repository root"
+    },
+    "asset_path": "assets/appliances/microwave_oven",
+    "blend_sha256": "3c0e0197cb929dec245412d610eb833833c67bccebdd12a10cb7adac0ed415b8",
+    "glb_sha256": "3d53942250c89fa37f98a744be3ed008d88785847d8f635ddbda811079ece2ba"
+  },
+  {
+    "id": "rice_cooker",
+    "title_ja": "炊飯器",
+    "category": "appliances",
+    "description": "汎用の小型炊飯器。アイボリーの樹脂外装、濃色の内釜、金属内ぶた。後方ヒンジで開閉するふた、蒸気穴、操作部、電源コード付き。 保存時の全体寸法は約23.5×39.3×19.6cm（コード・金具を含む）。ふたは0〜100度の可視化用アニメーション。電気・加熱・安全機構の動作や認証は再現していません。",
+    "units": "meter",
+    "up_axis_blend": "Z",
+    "up_axis_glb": "Y",
+    "front_blend": "-Y",
+    "origin": "lowest support at ground plane",
+    "triangles": 19478,
+    "dimensions_m": [
+      0.23499999940395355,
+      0.3925327807664871,
+      0.19599999487400055
+    ],
+    "blend_bytes": 302184,
+    "glb_bytes": 659600,
+    "validated": true,
+    "geometry_validated": true,
+    "status": "Independent geometry, full canonical photography and exact source package gates passed",
+    "photography": {
+      "standard": "preview_standard_v1",
+      "views": [
+        "preview",
+        "back",
+        "front",
+        "rear",
+        "side",
+        "left",
+        "top",
+        "underside",
+        "close_up",
+        "underside_detail",
+        "alternate_light",
+        "vent_detail",
+        "open",
+        "interior"
+      ]
+    },
+    "independent_review": {
+      "technical_status": "approved",
+      "scope": "Independent saved geometry, canonical photography and exact source package acceptance. Visual diorama model with illustrative hinge animation; no electrical or safety certification.",
+      "report": "reviews/appliances_integration/source_package_approval.json",
+      "report_sha256": "d869fc9b489ab3c82ecc6c2e48d682d190b7fa0d7b2cb95a72df3916316a3897",
+      "source_manifest_sha256": "73ff15aa80c08025a56f30d9de4a3582bb1de19be10b837f37f2b3444278b0df",
+      "path_base": "repository root"
+    },
+    "asset_path": "assets/appliances/rice_cooker",
+    "blend_sha256": "a7082dede38d393a07c4172611906435199f473fef03653e6fc55edbc2df99b5",
+    "glb_sha256": "7a7977f345bd999dd86ab4c96ab74f675043428fd9988ca8cc5b16dccd47cc4c"
+  }
+]

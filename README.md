@@ -1,6 +1,6 @@
 # Low-poly diorama models
 
-現実世界のジオラマに配置するための、形状の自然さと素材の違いを保った、軽量なオリジナル小物集です。現在31モデル。目標は合計1,000モデルです。
+現実世界のジオラマに配置するための、形状の自然さと素材の違いを保った、軽量なオリジナル小物集です。現在33モデル。目標は合計1,000モデルです。
 
 ## 制作基準
 
@@ -222,7 +222,7 @@ generators/batch02bにある旧回収ボックスの生成・検証内容は履�
 
 [材質修正の根拠・生成手順](generators/apple_material_revision/README.md) · [統一撮影基準](generators/preview_standard_v1/README.md)
 
-確認画像を1,200×1,200、共通の背景・照明・露出・画面内比率で統一しました。材質そのものの明暗差は保持します。現在公開している全31モデルの現行確認画像は、この共通基準に統一しています。履歴用の比較・機構検証画像は別管理です。
+確認画像を1,200×1,200、共通の背景・照明・露出・画面内比率で統一しました。材質そのものの明暗差は保持します。現在公開している全33モデルの現行確認画像は、この共通基準に統一しています。履歴用の比較・機構検証画像は別管理です。
 
 ## 追加モデル：スツール・バケツ・掛け時計
 
@@ -289,3 +289,22 @@ GLB・編集用Blend・1,200×1,200の共通撮影画像を同梱しています
 [GLB](assets/vehicles/folding_platform_handcart/folding_platform_handcart.glb) · [Blend](assets/vehicles/folding_platform_handcart/folding_platform_handcart.blend) · [メタデータ](assets/vehicles/folding_platform_handcart/metadata.json)
 
 [レビュー・資料・再生成手順](docs/reviewed-eight.md)
+
+
+## 家電
+
+独立レビュー済みの電子レンジと炊飯器を追加。GLBとBlendはドア・ふたの開閉アニメーション付きです。電気・加熱・安全機構の動作は再現していません。
+
+### 電子レンジ
+
+![電子レンジ](assets/appliances/microwave_oven/preview.jpg)
+
+[GLB](assets/appliances/microwave_oven/microwave_oven.glb) · [Blend](assets/appliances/microwave_oven/microwave_oven.blend) · [開いた状態](assets/appliances/microwave_oven/open.jpg) · [内部](assets/appliances/microwave_oven/interior.jpg) · [メタデータ](assets/appliances/microwave_oven/metadata.json)
+
+### 炊飯器
+
+![炊飯器](assets/appliances/rice_cooker/preview.jpg)
+
+[GLB](assets/appliances/rice_cooker/rice_cooker.glb) · [Blend](assets/appliances/rice_cooker/rice_cooker.blend) · [開いた状態](assets/appliances/rice_cooker/open.jpg) · [内部](assets/appliances/rice_cooker/interior.jpg) · [メタデータ](assets/appliances/rice_cooker/metadata.json)
+
+[資料・再生成手順](generators/appliances_batch08a/README.md) · [レビューと配布情報](docs/reviewed-appliances.md)

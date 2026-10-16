@@ -1,0 +1,22 @@
+[
+  {
+    "asset": "rice_cooker",
+    "source": "assets/rice_cooker/rice_cooker.glb",
+    "source_sha256": "7a7977f345bd999dd86ab4c96ab74f675043428fd9988ca8cc5b16dccd47cc4c",
+    "frame": 61,
+    "derived": "evidence/poses/rice_cooker/rice_cooker_open.glb",
+    "derived_sha256": "2b215ed0bbad269b7407bd40f123c4252cf8bf97cd01d565b816331020462402",
+    "purpose": "Render-only pose; same saved model geometry and material, rigid transform only. Not a second catalog asset.",
+    "relocation_note": "Byte-identical input moved into per-asset folder to prevent render output name collision; prior production records remain immutable."
+  },
+  {
+    "asset": "microwave_oven",
+    "source": "/workspace/scratch/a456259dbd5d/lowpoly_batch08a/assets/microwave_oven/microwave_oven.glb",
+    "source_sha256": "3d53942250c89fa37f98a744be3ed008d88785847d8f635ddbda811079ece2ba",
+    "frame": 61,
+    "derived": "evidence/poses/microwave_oven/microwave_oven_open.glb",
+    "derived_sha256": "c7896555a29770944471bde71d6f5e16470238b479fb3ace93e5a4421ce8dcba",
+    "purpose": "Render-only pose; same saved model geometry and material, rigid transform only. Not a second catalog asset.",
+    "relocation_note": "Byte-identical input moved into per-asset folder to prevent render output name collision; prior production records remain immutable."
+  }
+]

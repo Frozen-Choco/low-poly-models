@@ -1,0 +1,111 @@
+{
+  "asset": "rice_cooker",
+  "view": "vent_detail",
+  "input_repo_path": "assets/rice_cooker/rice_cooker.glb",
+  "input_sha256": "7a7977f345bd999dd86ab4c96ab74f675043428fd9988ca8cc5b16dccd47cc4c",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "7442b62646ae8e58f9520763349893d64db3bb6f20db23463ed896bf9bf6bbd7",
+  "closeup_magnification_vs_full_fit": 5.102199460797881,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch08a/generators/preview_standard_v1/repo/assets/rice_cooker/vent_detail.jpg",
+  "output_sha256": "4f296b3de1ac9dbd15cb83427fc66ca4e61197eba5dc77392db02d4b5fafe986",
+  "bytes": 72443,
+  "elapsed_seconds": 863.4974453319992,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 5.095116061435188,
+  "source_bounds": [
+    [
+      -0.11749999970197678,
+      -0.17249999940395355,
+      0.0
+    ],
+    [
+      0.11749999970197678,
+      0.22003278136253357,
+      0.19599999487400055
+    ]
+  ],
+  "camera_location": [
+    3.015113353729248,
+    3.260869264602661,
+    9.987936973571777
+  ],
+  "camera_rotation": [
+    0.4405107796192169,
+    1.8369934906559138e-08,
+    2.3561947345733643
+  ],
+  "ortho_scale": 0.5095115900039673,
+  "focus": {
+    "direction": [
+      1,
+      1,
+      3
+    ],
+    "target_m": [
+      0,
+      0.072,
+      0.185
+    ],
+    "span_m": 0.08,
+    "purpose": "Real through steam outlet and lining"
+  },
+  "focus_projected_width_height": [
+    1.6747624278068542,
+    2.0797038078308105
+  ],
+  "full_object_fit": false,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        1.9455510377883911,
+        -5.05444860458374,
+        4.48974609375
+      ],
+      "rotation": [
+        0.9507845044136047,
+        8.775913329372997e-11,
+        0.38837334513664246
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        -0.6073192954063416,
+        2.39268159866333,
+        4.641739845275879
+      ],
+      "rotation": [
+        0.5664577484130859,
+        3.48486040024909e-08,
+        -2.9347283840179443
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        -5.202017307281494,
+        -0.20201826095581055,
+        1.9666166305541992
+      ],
+      "rotation": [
+        1.3203822374343872,
+        3.237018986190776e-10,
+        -1.5483007431030273
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": null,
+  "floor_hidden": false,
+  "diagnostic_only": false
+}

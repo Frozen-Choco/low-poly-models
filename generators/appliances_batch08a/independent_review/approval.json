@@ -1,0 +1,49 @@
+{
+  "decision": "PASS",
+  "gate": "independent_saved_geometry_and_cheap_views",
+  "reviewed_at_utc": "2026-10-16T15:12:40Z",
+  "reviewer": "review_home_appliance_models",
+  "files": [
+    {
+      "path": "lowpoly_batch08a/assets/microwave_oven/microwave_oven.blend",
+      "bytes": 217841,
+      "sha256": "3c0e0197cb929dec245412d610eb833833c67bccebdd12a10cb7adac0ed415b8",
+      "gate": "PASS"
+    },
+    {
+      "path": "lowpoly_batch08a/assets/microwave_oven/microwave_oven.glb",
+      "bytes": 556380,
+      "sha256": "3d53942250c89fa37f98a744be3ed008d88785847d8f635ddbda811079ece2ba",
+      "gate": "PASS"
+    },
+    {
+      "path": "lowpoly_batch08a/assets/rice_cooker/rice_cooker.blend",
+      "bytes": 302184,
+      "sha256": "a7082dede38d393a07c4172611906435199f473fef03653e6fc55edbc2df99b5",
+      "gate": "PASS"
+    },
+    {
+      "path": "lowpoly_batch08a/assets/rice_cooker/rice_cooker.glb",
+      "bytes": 659600,
+      "sha256": "7a7977f345bd999dd86ab4c96ab74f675043428fd9988ca8cc5b16dccd47cc4c",
+      "gate": "PASS"
+    }
+  ],
+  "checks": [
+    "Both saved formats reloaded; each intended solid manifold and connected",
+    "Zero degenerate or duplicate triangles; UVs and identical PBR materials",
+    "Full attachment graph and exposed coplanar audit",
+    "61frame moving/fixed intersection audit and8pose format comparison",
+    "Ground support hull and geometric COM checks",
+    "All24 final hash-bound cheap views and manufacturer reference pixels inspected",
+    "Microwave revision12 world triangle coordinates and material bindings identical to revision11 at all8 checked poses",
+    "Manufactured principal-plane normal correction inspected in3 high-resolution cheap views and16-sample frozen-light front",
+    "Frozen-light diagnostic differs only in sample ceiling and diagnostic labeling; production core unchanged",
+    "All12 refreshed revision12 hash-bound microwave cheap views inspected"
+  ],
+  "evidence_report": "reviews/batch08a/revision12/gate.md",
+  "canonical_render_executed": false,
+  "publication_executed": false,
+  "authorizes": "Microwave revision12 and unchanged cooker revision11 geometry/cheap-appearance gates pass. Parent may allocate unchanged canonical photographs. Final all-image and exact lean-package approval remain separate.",
+  "blocking_findings": []
+}

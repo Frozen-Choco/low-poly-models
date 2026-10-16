@@ -1,0 +1,217 @@
+{
+  "scope": "Exact copies of production model/photo bytes; immutable original records retain original input/output paths. Open sources are render-only rigid poses, not extra delivered models.",
+  "assets": [
+    {
+      "asset": "microwave_oven",
+      "production_input": "assets/microwave_oven/microwave_oven.glb",
+      "packaged_input": "assets/appliances/microwave_oven/microwave_oven.glb",
+      "sha256": "3d53942250c89fa37f98a744be3ed008d88785847d8f635ddbda811079ece2ba",
+      "views": [
+        {
+          "view": "preview",
+          "input_variant": "microwave_oven",
+          "packaged_image": "assets/appliances/microwave_oven/preview.jpg",
+          "sha256": "5dc6ce14bc195031cf5508438cf845b5b0eaf03ca90b5316cab27bede5b33d05",
+          "record": "generators/appliances_preview_standard_v1/records/microwave_oven/preview.json"
+        },
+        {
+          "view": "back",
+          "input_variant": "microwave_oven",
+          "packaged_image": "assets/appliances/microwave_oven/back.jpg",
+          "sha256": "85e5866cb9cf96df629194b3b22a202d5a4b033b42c0035276ed83872f1bd5c8",
+          "record": "generators/appliances_preview_standard_v1/records/microwave_oven/back.json"
+        },
+        {
+          "view": "front",
+          "input_variant": "microwave_oven",
+          "packaged_image": "assets/appliances/microwave_oven/front.jpg",
+          "sha256": "78bedf3977827b1c32d27ea04b54330f8d579b9541caccee21ef370083897508",
+          "record": "generators/appliances_preview_standard_v1/records/microwave_oven/front.json"
+        },
+        {
+          "view": "rear",
+          "input_variant": "microwave_oven",
+          "packaged_image": "assets/appliances/microwave_oven/rear.jpg",
+          "sha256": "0a5f69fd527d92d4da17583d1125f1b7a3b9408486901fd60bbb60c868a53ee9",
+          "record": "generators/appliances_preview_standard_v1/records/microwave_oven/rear.json"
+        },
+        {
+          "view": "side",
+          "input_variant": "microwave_oven",
+          "packaged_image": "assets/appliances/microwave_oven/side.jpg",
+          "sha256": "b5e4e0fcda7e924bca9b0545f81e4e8d734f9e6e50eed70508f5c792de6fa6cb",
+          "record": "generators/appliances_preview_standard_v1/records/microwave_oven/side.json"
+        },
+        {
+          "view": "left",
+          "input_variant": "microwave_oven",
+          "packaged_image": "assets/appliances/microwave_oven/left.jpg",
+          "sha256": "a4226ea9f9a2e8227e429ad789ed92093ed370fd7d40b9dc4927a089d632d250",
+          "record": "generators/appliances_preview_standard_v1/records/microwave_oven/left.json"
+        },
+        {
+          "view": "top",
+          "input_variant": "microwave_oven",
+          "packaged_image": "assets/appliances/microwave_oven/top.jpg",
+          "sha256": "10c9905cccb0b4c961a29850107951dd3ce3a387fb2b02a6b77382a7fb645beb",
+          "record": "generators/appliances_preview_standard_v1/records/microwave_oven/top.json"
+        },
+        {
+          "view": "underside",
+          "input_variant": "microwave_oven",
+          "packaged_image": "assets/appliances/microwave_oven/underside.jpg",
+          "sha256": "806f2736a28d966778ca4be9b3bc6c64c336cfda5618af1d1b56e80e0529f14d",
+          "record": "generators/appliances_preview_standard_v1/records/microwave_oven/underside.json"
+        },
+        {
+          "view": "close_up",
+          "input_variant": "microwave_oven",
+          "packaged_image": "assets/appliances/microwave_oven/close_up.jpg",
+          "sha256": "22fd07aa5e7c91c5365ae2877261822b12b078f86fe7b13e717ae594003da34a",
+          "record": "generators/appliances_preview_standard_v1/records/microwave_oven/close_up.json"
+        },
+        {
+          "view": "underside_detail",
+          "input_variant": "microwave_oven",
+          "packaged_image": "assets/appliances/microwave_oven/underside_detail.jpg",
+          "sha256": "2d1dc29e7a6282ea794fd1fe94d49f582d669fe230f8a9872236f2e192d11067",
+          "record": "generators/appliances_preview_standard_v1/records/microwave_oven/underside_detail.json"
+        },
+        {
+          "view": "alternate_light",
+          "input_variant": "microwave_oven",
+          "packaged_image": "assets/appliances/microwave_oven/alternate_light.jpg",
+          "sha256": "fc3193ceb8f2fc881c2d0fa2f838bcb2fca623af444b55051a96fcdb81ed1d9d",
+          "record": "generators/appliances_preview_standard_v1/records/microwave_oven/alternate_light.json"
+        },
+        {
+          "view": "vent_detail",
+          "input_variant": "microwave_oven",
+          "packaged_image": "assets/appliances/microwave_oven/vent_detail.jpg",
+          "sha256": "75a09e9503162941f106689a4a4b81fa87dc83852beefd2af307c2017f8093f5",
+          "record": "generators/appliances_preview_standard_v1/records/microwave_oven/vent_detail.json"
+        },
+        {
+          "view": "open",
+          "input_variant": "microwave_oven_open",
+          "packaged_image": "assets/appliances/microwave_oven/open.jpg",
+          "sha256": "782f3a86f9b1891171fff4a505ed4a7dad5e47060ea06309abe59dcd4765f4ac",
+          "record": "generators/appliances_preview_standard_v1/records/microwave_oven/open.json"
+        },
+        {
+          "view": "interior",
+          "input_variant": "microwave_oven_open",
+          "packaged_image": "assets/appliances/microwave_oven/interior.jpg",
+          "sha256": "fcc9993749cb3fb27c793f35fbab9921c83e175254aa89ac8435d0b772434ad1",
+          "record": "generators/appliances_preview_standard_v1/records/microwave_oven/interior.json"
+        }
+      ]
+    },
+    {
+      "asset": "rice_cooker",
+      "production_input": "assets/rice_cooker/rice_cooker.glb",
+      "packaged_input": "assets/appliances/rice_cooker/rice_cooker.glb",
+      "sha256": "7a7977f345bd999dd86ab4c96ab74f675043428fd9988ca8cc5b16dccd47cc4c",
+      "views": [
+        {
+          "view": "preview",
+          "input_variant": "rice_cooker",
+          "packaged_image": "assets/appliances/rice_cooker/preview.jpg",
+          "sha256": "e0ed3754a874bfe3e68d3f2900ff596da8e145a3429f4494bbd7e69ada0b11f9",
+          "record": "generators/appliances_preview_standard_v1/records/rice_cooker/preview.json"
+        },
+        {
+          "view": "back",
+          "input_variant": "rice_cooker",
+          "packaged_image": "assets/appliances/rice_cooker/back.jpg",
+          "sha256": "dca4d24b9bfdbf6c4b1d14bdd8c6dd6975855c3024fceb590b363ffce5a119af",
+          "record": "generators/appliances_preview_standard_v1/records/rice_cooker/back.json"
+        },
+        {
+          "view": "front",
+          "input_variant": "rice_cooker",
+          "packaged_image": "assets/appliances/rice_cooker/front.jpg",
+          "sha256": "81243d19dd73526d682b75532917301dcdfc904271425f75deb74f9a04f7a894",
+          "record": "generators/appliances_preview_standard_v1/records/rice_cooker/front.json"
+        },
+        {
+          "view": "rear",
+          "input_variant": "rice_cooker",
+          "packaged_image": "assets/appliances/rice_cooker/rear.jpg",
+          "sha256": "09b96f4682e8e3e2353dd565567648e81f7b2deed05195489c8073f11a16e0c4",
+          "record": "generators/appliances_preview_standard_v1/records/rice_cooker/rear.json"
+        },
+        {
+          "view": "side",
+          "input_variant": "rice_cooker",
+          "packaged_image": "assets/appliances/rice_cooker/side.jpg",
+          "sha256": "9fffb1366495d042242b3e7745b71de38d055b26dea5be273343acecf2a16258",
+          "record": "generators/appliances_preview_standard_v1/records/rice_cooker/side.json"
+        },
+        {
+          "view": "left",
+          "input_variant": "rice_cooker",
+          "packaged_image": "assets/appliances/rice_cooker/left.jpg",
+          "sha256": "6820216e9844062fa995715a8aaa18df4e6bb8c7004ea7204f48ff09547a8c56",
+          "record": "generators/appliances_preview_standard_v1/records/rice_cooker/left.json"
+        },
+        {
+          "view": "top",
+          "input_variant": "rice_cooker",
+          "packaged_image": "assets/appliances/rice_cooker/top.jpg",
+          "sha256": "1249ec8194500d7b1037d8c8c5237288936755862cdfc982428bf7be4ee0c66c",
+          "record": "generators/appliances_preview_standard_v1/records/rice_cooker/top.json"
+        },
+        {
+          "view": "underside",
+          "input_variant": "rice_cooker",
+          "packaged_image": "assets/appliances/rice_cooker/underside.jpg",
+          "sha256": "b6b5a12b1a736ffeffcbabf968cd7881b61bbe6fea550acf52e29bda7afc61a8",
+          "record": "generators/appliances_preview_standard_v1/records/rice_cooker/underside.json"
+        },
+        {
+          "view": "close_up",
+          "input_variant": "rice_cooker",
+          "packaged_image": "assets/appliances/rice_cooker/close_up.jpg",
+          "sha256": "601a5089e827cff0466a344bf20270a08973eff2ce42d50c7d7f1b8f85b4ff72",
+          "record": "generators/appliances_preview_standard_v1/records/rice_cooker/close_up.json"
+        },
+        {
+          "view": "underside_detail",
+          "input_variant": "rice_cooker",
+          "packaged_image": "assets/appliances/rice_cooker/underside_detail.jpg",
+          "sha256": "2d8b807fe7a46cac8426cc473c2d5678b219f58074bb3d15b52aaceef5b03089",
+          "record": "generators/appliances_preview_standard_v1/records/rice_cooker/underside_detail.json"
+        },
+        {
+          "view": "alternate_light",
+          "input_variant": "rice_cooker",
+          "packaged_image": "assets/appliances/rice_cooker/alternate_light.jpg",
+          "sha256": "366bc1da1a96099cceb4ed19a145dfb7e1ce2c3272f7b952ca459a7e0563729b",
+          "record": "generators/appliances_preview_standard_v1/records/rice_cooker/alternate_light.json"
+        },
+        {
+          "view": "vent_detail",
+          "input_variant": "rice_cooker",
+          "packaged_image": "assets/appliances/rice_cooker/vent_detail.jpg",
+          "sha256": "4f296b3de1ac9dbd15cb83427fc66ca4e61197eba5dc77392db02d4b5fafe986",
+          "record": "generators/appliances_preview_standard_v1/records/rice_cooker/vent_detail.json"
+        },
+        {
+          "view": "open",
+          "input_variant": "rice_cooker_open",
+          "packaged_image": "assets/appliances/rice_cooker/open.jpg",
+          "sha256": "c669b20fe81de1f7a9604245e0d48141d26ac44957040b2f98c60046dcc1efd2",
+          "record": "generators/appliances_preview_standard_v1/records/rice_cooker/open.json"
+        },
+        {
+          "view": "interior",
+          "input_variant": "rice_cooker_open",
+          "packaged_image": "assets/appliances/rice_cooker/interior.jpg",
+          "sha256": "3e18b7edb7613c42259b5c0dac958c4610a26fa4e4f9f838c1d6bf04a0e05992",
+          "record": "generators/appliances_preview_standard_v1/records/rice_cooker/interior.json"
+        }
+      ]
+    }
+  ]
+}

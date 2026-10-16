@@ -1,0 +1,1704 @@
+[
+  {
+    "id": "microwave_oven",
+    "format": "blend",
+    "sha256": "3c0e0197cb929dec245412d610eb833833c67bccebdd12a10cb7adac0ed415b8",
+    "bytes": 217841,
+    "finite": true,
+    "bounds": [
+      [
+        -0.25699999928474426,
+        -0.25200000405311584,
+        0.0
+      ],
+      [
+        0.24400000274181366,
+        0.25927311182022095,
+        0.2980000078678131
+      ]
+    ],
+    "objects": [
+      {
+        "name": "Case with open front cavity",
+        "vertices": 884,
+        "triangles": 1764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 0.021793326904863134,
+        "uv_layers": 1,
+        "material_slots": 2,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Flat ceramic cavity floor",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 0.000317137712355073,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Anti-slip foot",
+        "vertices": 384,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.4819026671665182e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Anti-slip foot.001",
+        "vertices": 384,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.4819026671665182e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Anti-slip foot.002",
+        "vertices": 384,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.4819026671665182e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Anti-slip foot.003",
+        "vertices": 384,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.4819026671665182e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Recessed rear ventilation baffle",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 2.014647096003523e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Control fascia",
+        "vertices": 160,
+        "triangles": 316,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 0.0002002689744491589,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "LCD bezel",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.06540139471411e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Unlit display",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.6105489994608463e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Inset control key",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.8509737357858417e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Inset control key.001",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.8509737357858417e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Inset control key.002",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.8509737357858417e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Inset control key.003",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.8509737357858417e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Inset control key.004",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.8509737357858417e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Inset control key.005",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.8509737357858417e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Inset control key.006",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.8509737357858417e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Inset control key.007",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.8509737357858417e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Start dial",
+        "vertices": 384,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.0409900046823717e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Door surround",
+        "vertices": 128,
+        "triangles": 256,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 0.0011774128684384855,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Smoked window sealed panel",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 0.00029724337377326677,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Handle foot",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 9.225969931962462e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Handle foot.001",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 9.225969931962462e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Vertical door pull",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 3.748975281304796e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Door closure tongue",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 6.447026167500109e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Door closure tongue.001",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 6.447026167500109e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Door hinge axle",
+        "vertices": 384,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 3.4801910586850327e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Fixed hinge barrel",
+        "vertices": 384,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 9.32277218682341e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Moving hinge barrel",
+        "vertices": 384,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 9.32277218682341e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Fixed hinge leaf",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 2.1957025749097674e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Moving hinge leaf",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.856702771191047e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Door hinge axle.001",
+        "vertices": 384,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 3.4801910586850327e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Fixed hinge barrel.001",
+        "vertices": 384,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 9.32277218682341e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Moving hinge barrel.001",
+        "vertices": 384,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 9.32277218682341e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Fixed hinge leaf.001",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 2.1957025749097674e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Moving hinge leaf.001",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.856702771191047e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Cord strain relief",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 3.0009698408384775e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Power cable",
+        "vertices": 490,
+        "triangles": 976,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 6.219066943628454e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Unplugged power plug",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 6.586970500130838e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Plug blade",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.1520097403687693e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Plug blade.001",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.1520097403687693e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      }
+    ],
+    "actions": [
+      "Door hinge open closeAction"
+    ]
+  },
+  {
+    "id": "microwave_oven",
+    "format": "glb",
+    "sha256": "3d53942250c89fa37f98a744be3ed008d88785847d8f635ddbda811079ece2ba",
+    "bytes": 556380,
+    "finite": true,
+    "bounds": [
+      [
+        -0.25699999928474426,
+        -0.25200000405311584,
+        0.0
+      ],
+      [
+        0.24400000274181366,
+        0.25927311182022095,
+        0.2980000078678131
+      ]
+    ],
+    "objects": [
+      {
+        "name": "Case with open front cavity",
+        "vertices": 1657,
+        "triangles": 1764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 0.02179332625347619,
+        "uv_layers": 1,
+        "material_slots": 2,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Flat ceramic cavity floor",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 0.000317137704905405,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Anti-slip foot",
+        "vertices": 770,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.4819026671660047e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Anti-slip foot.001",
+        "vertices": 770,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.4819026671660047e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Anti-slip foot.002",
+        "vertices": 770,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.4819026671660047e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Anti-slip foot.003",
+        "vertices": 770,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.4819026671660047e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Recessed rear ventilation baffle",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 2.0146467136235675e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Control fascia",
+        "vertices": 319,
+        "triangles": 316,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 0.00020026877296062715,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "LCD bezel",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.0653983367198053e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Unlit display",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.6105485213340294e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Inset control key",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.8509431676660355e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Inset control key.001",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.8509431676660355e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Inset control key.002",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.8509431676660355e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Inset control key.003",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.8509431676660355e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Inset control key.004",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.8509431676660355e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Inset control key.005",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.8509431676660355e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Inset control key.006",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.8509431676660355e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Inset control key.007",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.8509431676660355e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Start dial",
+        "vertices": 770,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.0409900046879462e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Door hinge axle",
+        "vertices": 770,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 3.480191058685183e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Fixed hinge barrel",
+        "vertices": 770,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 9.322772186812503e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Fixed hinge leaf",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 2.19569511238322e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Door hinge axle.001",
+        "vertices": 770,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 3.480191058685183e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Fixed hinge barrel.001",
+        "vertices": 770,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 9.322772186812503e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Fixed hinge leaf.001",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 2.19569511238322e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Door closure tongue",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 6.446951532116188e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Door closure tongue.001",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 6.446951532116188e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Door surround",
+        "vertices": 239,
+        "triangles": 256,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 0.0011774123856729192,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Handle foot",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 9.225768461370579e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Handle foot.001",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 9.225768461370579e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Moving hinge barrel",
+        "vertices": 770,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 9.322772186812503e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Moving hinge barrel.001",
+        "vertices": 770,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 9.322772186812503e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Moving hinge leaf",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.8566953082775569e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Moving hinge leaf.001",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.8566953082775569e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Smoked window sealed panel",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 0.000297243270589211,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Vertical door pull",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 3.7488140872458925e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Cord strain relief",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 3.000768335875551e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Power cable",
+        "vertices": 558,
+        "triangles": 976,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 6.219146132949028e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Unplugged power plug",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 6.5867689999093314e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Plug blade",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.1520077230316508e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Plug blade.001",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.1520077230316508e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      }
+    ],
+    "actions": [
+      "Door hinge open closeAction_Door hinge open close"
+    ]
+  },
+  {
+    "id": "rice_cooker",
+    "format": "blend",
+    "sha256": "a7082dede38d393a07c4172611906435199f473fef03653e6fc55edbc2df99b5",
+    "bytes": 302184,
+    "finite": true,
+    "bounds": [
+      [
+        -0.11749999970197678,
+        -0.17249999940395355,
+        0.0
+      ],
+      [
+        0.11749999970197678,
+        0.22003278136253357,
+        0.19599999487400055
+      ]
+    ],
+    "objects": [
+      {
+        "name": "Hollow cooker housing",
+        "vertices": 962,
+        "triangles": 1920,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 0.0019336878227291458,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Dark inner cavity liner",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 0.0006216650344383699,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Removable inner cooking pot",
+        "vertices": 770,
+        "triangles": 1536,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 0.00038743333431317276,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pot heater support seat",
+        "vertices": 384,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 0.0002331108662530295,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Rubber support foot",
+        "vertices": 384,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.1366157615722958e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Rubber support foot.001",
+        "vertices": 384,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.1366157615722958e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Rubber support foot.002",
+        "vertices": 384,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.1366157615722958e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Rubber support foot.003",
+        "vertices": 384,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.1366157615722958e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Front controls housing",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 0.00022175016658936307,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Control inset",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.1449141985914157e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "LCD window",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 7.998690083700294e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Control button",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 8.917820181411604e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Control button.001",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 8.917820181411604e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Lid shell",
+        "vertices": 626,
+        "triangles": 1252,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 0.0013336014048508915,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Lid sealing gasket",
+        "vertices": 480,
+        "triangles": 960,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.3942036858823434e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Inner lid plate",
+        "vertices": 513,
+        "triangles": 1026,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 3.8760525557765285e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Steam vent lining",
+        "vertices": 384,
+        "triangles": 768,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 2.9090494902198285e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Release button",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 8.44096445028802e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Fixed hinge barrel",
+        "vertices": 384,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 5.0043780234556905e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Rear hinge fixed bracket",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.895496848383913e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Rear hinge bracket neck",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 3.597620233254034e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Fixed hinge barrel.001",
+        "vertices": 384,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 5.0043780234556905e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Rear hinge fixed bracket.001",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.895496848383913e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Rear hinge bracket neck.001",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 3.597620233254034e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Lid hinge axle",
+        "vertices": 384,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 2.958959586513637e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Moving center hinge",
+        "vertices": 384,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 9.621377856852622e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Lid hinge bridge",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.7985969201730507e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Rear cord relief",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 3.936969953307211e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Power cable",
+        "vertices": 490,
+        "triangles": 976,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 3.839592419131241e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Unplugged power plug",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 6.323970309631203e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Plug blade",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.1520097403687693e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Plug blade.001",
+        "vertices": 96,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.1520097403687693e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      }
+    ],
+    "actions": [
+      "Lid hinge open closeAction"
+    ]
+  },
+  {
+    "id": "rice_cooker",
+    "format": "glb",
+    "sha256": "7a7977f345bd999dd86ab4c96ab74f675043428fd9988ca8cc5b16dccd47cc4c",
+    "bytes": 659600,
+    "finite": true,
+    "bounds": [
+      [
+        -0.11749999970197678,
+        -0.17249999940395355,
+        0.0
+      ],
+      [
+        0.11749999970197678,
+        0.22003278136253357,
+        0.19599999487400055
+      ]
+    ],
+    "objects": [
+      {
+        "name": "Hollow cooker housing",
+        "vertices": 1380,
+        "triangles": 1920,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 0.0019336878227291284,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Dark inner cavity liner",
+        "vertices": 998,
+        "triangles": 1344,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 0.0006216650344383731,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Removable inner cooking pot",
+        "vertices": 1180,
+        "triangles": 1536,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 0.0003874333343131701,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pot heater support seat",
+        "vertices": 770,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 0.00023311086625422256,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Rubber support foot",
+        "vertices": 770,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.1366157615717103e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Rubber support foot.001",
+        "vertices": 770,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.1366157615717103e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Rubber support foot.002",
+        "vertices": 770,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.1366157615717103e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Rubber support foot.003",
+        "vertices": 770,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.1366157615717103e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Front controls housing",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 0.00022174472566852647,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Control inset",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.1449129130452777e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "LCD window",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 7.998685335508024e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Control button",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 8.917691175622622e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Control button.001",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 8.917691175622622e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Fixed hinge barrel",
+        "vertices": 770,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 5.004378023447277e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Rear hinge fixed bracket",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.895476698568061e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Rear hinge bracket neck",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 3.5975605295697283e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Fixed hinge barrel.001",
+        "vertices": 770,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 5.004378023447277e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Rear hinge fixed bracket.001",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.895476698568061e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Rear hinge bracket neck.001",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 3.5975605295697283e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Lid hinge axle",
+        "vertices": 770,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 2.958959586508873e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Inner lid plate",
+        "vertices": 1158,
+        "triangles": 1026,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 3.876052555761664e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Lid hinge bridge",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.7985767663599305e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Lid sealing gasket",
+        "vertices": 884,
+        "triangles": 960,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.3942036858823212e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Lid shell",
+        "vertices": 964,
+        "triangles": 1252,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 0.0013336014048508972,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Moving center hinge",
+        "vertices": 770,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 9.621377856860006e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Release button",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 8.440486815931903e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Steam vent lining",
+        "vertices": 784,
+        "triangles": 768,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 2.9090494902198328e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Rear cord relief",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 3.936768435010163e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Power cable",
+        "vertices": 558,
+        "triangles": 976,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 3.839687645350631e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Unplugged power plug",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 6.32376881077628e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Plug blade",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.1520077230316508e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Plug blade.001",
+        "vertices": 131,
+        "triangles": 188,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.1520077230316508e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      }
+    ],
+    "actions": [
+      "Lid hinge open closeAction_Lid hinge open close"
+    ]
+  }
+]

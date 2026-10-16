@@ -1,0 +1,108 @@
+{
+  "asset": "microwave_oven_open",
+  "view": "open",
+  "input_repo_path": "evidence/poses/microwave_oven/microwave_oven_open.glb",
+  "input_sha256": "c7896555a29770944471bde71d6f5e16470238b479fb3ace93e5a4421ce8dcba",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "7442b62646ae8e58f9520763349893d64db3bb6f20db23463ed896bf9bf6bbd7",
+  "closeup_magnification_vs_full_fit": 1.0000000108772,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch08a/generators/preview_standard_v1/repo/evidence/poses/microwave_oven/open.jpg",
+  "output_sha256": "782f3a86f9b1891171fff4a505ed4a7dad5e47060ea06309abe59dcd4765f4ac",
+  "bytes": 125788,
+  "elapsed_seconds": 864.6072411069981,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 2.3549551185891393,
+  "source_bounds": [
+    [
+      -0.30400002002716064,
+      -0.5899999737739563,
+      0.0
+    ],
+    [
+      0.24400000274181366,
+      0.25927311182022095,
+      0.2980000078678131
+    ]
+  ],
+  "camera_location": [
+    6.249564170837402,
+    -6.268827438354492,
+    5.005161285400391
+  ],
+  "camera_rotation": [
+    1.099881887435913,
+    -1.1680641165412453e-07,
+    0.7853983044624329
+  ],
+  "ortho_scale": 2.739889144897461,
+  "focus": {
+    "direction": [
+      1,
+      -1,
+      0.72
+    ],
+    "mesh_name_contains": [
+      ""
+    ],
+    "purpose": "Complete appliance with fully opened hinge, same frozen lighting/framing"
+  },
+  "focus_projected_width_height": [
+    2.1919113397598267,
+    1.1940214335918427
+  ],
+  "full_object_fit": false,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        -2.9999988079071045,
+        -4.000000953674316,
+        5.000000476837158
+      ],
+      "rotation": [
+        0.8605254292488098,
+        1.9857164801351246e-09,
+        -0.6435009241104126
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        4.000000476837158,
+        -0.9999998211860657,
+        2.999999523162842
+      ],
+      "rotation": [
+        1.061960220336914,
+        -4.796916641680582e-09,
+        1.3258178234100342
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        0.9999996423721313,
+        3.999999761581421,
+        4.000000953674316
+      ],
+      "rotation": [
+        0.8958311080932617,
+        -3.908249368578254e-08,
+        2.8966140747070312
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": null,
+  "floor_hidden": false,
+  "diagnostic_only": false
+}

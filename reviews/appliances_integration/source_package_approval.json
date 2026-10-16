@@ -1,0 +1,25 @@
+{
+  "decision": "PASS",
+  "gate": "independent_exact_lean_package",
+  "reviewer": "review_home_appliance_models",
+  "reviewed_at_utc": "2026-10-16T17:00:38.367421+00:00",
+  "package_path": "lowpoly_batch08a/release_candidate",
+  "manifest_sha256": "73ff15aa80c08025a56f30d9de4a3582bb1de19be10b837f37f2b3444278b0df",
+  "manifest_listed_files": 83,
+  "total_files_including_manifest": 84,
+  "listed_bytes": 5191560,
+  "total_bytes_including_manifest": 5206615,
+  "checks": [
+    "Exact allowlist and every file size/SHA256 verified",
+    "Exactly 2 editable Blend files, 2 animated GLBs and 28 independently accepted canonical JPGs",
+    "Model bytes and all relocated photo/record bytes match independent gates",
+    "Frozen shared photography core and both retained exact camera plans preserved",
+    "Concise Japanese titles; dimensions, material and mechanism limitations in descriptions",
+    "Current metadata and documentation truthful; stale status corrected",
+    "No raw diagnostics, rejected images, external textures, duplicate poses or extra Blend files",
+    "Packaged prepare_poses.py executed in temporary copy with Blender 4.3.2 and 2 threads; both derived open GLB hashes exactly reproduced"
+  ],
+  "blocking_findings": [],
+  "publication_executed": false,
+  "scope": "Exact local candidate accepted. Parent controls publication. Any change to package files invalidates this manifest-bound approval."
+}

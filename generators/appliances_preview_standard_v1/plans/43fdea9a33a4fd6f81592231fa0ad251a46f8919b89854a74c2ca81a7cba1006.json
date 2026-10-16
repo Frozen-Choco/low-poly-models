@@ -1,0 +1,144 @@
+{
+  "microwave_oven": {
+    "close_up": {
+      "direction": [
+        2,
+        -3,
+        1
+      ],
+      "target_m": [
+        0.143,
+        -0.209,
+        0.177
+      ],
+      "span_m": 0.2,
+      "purpose": "Door pull, control fascia, inset LCD and key surfaces"
+    },
+    "underside_detail": {
+      "direction": [
+        1,
+        -1,
+        -2
+      ],
+      "target_m": [
+        0,
+        0,
+        0.025
+      ],
+      "span_m": 0.45,
+      "purpose": "Four stable support feet and continuous case base"
+    },
+    "vent_detail": {
+      "direction": [
+        1,
+        3,
+        0.7
+      ],
+      "target_m": [
+        0.16,
+        0.18,
+        0.16
+      ],
+      "span_m": 0.18,
+      "purpose": "Actual rear ventilation cuts and recessed baffle"
+    }
+  },
+  "microwave_oven_open": {
+    "open": {
+      "direction": [
+        1,
+        -1,
+        0.72
+      ],
+      "mesh_name_contains": [
+        ""
+      ],
+      "purpose": "Complete appliance with fully opened hinge, same frozen lighting/framing"
+    },
+    "interior": {
+      "direction": [
+        0.3,
+        -3,
+        0.5
+      ],
+      "target_m": [
+        -0.043,
+        -0.11,
+        0.164
+      ],
+      "span_m": 0.37,
+      "purpose": "Front-facing detail of open cavity, ceramic floor, back and side liner, and receiver edge; door shown separately in open hero"
+    }
+  },
+  "rice_cooker": {
+    "close_up": {
+      "direction": [
+        2,
+        -3,
+        2
+      ],
+      "target_m": [
+        0,
+        -0.133,
+        0.17
+      ],
+      "span_m": 0.17,
+      "purpose": "Release button, LCD and front controls"
+    },
+    "underside_detail": {
+      "direction": [
+        1,
+        -1,
+        -2
+      ],
+      "target_m": [
+        0,
+        0,
+        0.025
+      ],
+      "span_m": 0.25,
+      "purpose": "Closed vessel floor and four grounded rubber feet"
+    },
+    "vent_detail": {
+      "direction": [
+        1,
+        1,
+        3
+      ],
+      "target_m": [
+        0,
+        0.072,
+        0.185
+      ],
+      "span_m": 0.08,
+      "purpose": "Real through steam outlet and lining"
+    }
+  },
+  "rice_cooker_open": {
+    "open": {
+      "direction": [
+        1,
+        -1,
+        0.72
+      ],
+      "mesh_name_contains": [
+        ""
+      ],
+      "purpose": "Complete appliance with fully opened hinge, same frozen lighting/framing"
+    },
+    "interior": {
+      "direction": [
+        1,
+        -2,
+        1.6
+      ],
+      "target_m": [
+        0,
+        0,
+        0.17
+      ],
+      "span_m": 0.27,
+      "purpose": "Open pot, gasket and inner lid with through steam port"
+    }
+  }
+}

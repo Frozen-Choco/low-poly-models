@@ -1,0 +1,64 @@
+{
+  "reference_dimensions_m": [
+    0.235,
+    0.325,
+    0.195
+  ],
+  "mechanism": "Rear lid rotates 0–100 degrees, frames1–151; removable pot is separate editable mesh but no extraction animation. Steam bore and visible inner lid provided; no thermal, electrical, pressure or latch simulation.",
+  "references": [
+    "https://www.zojirushi.co.jp/syohin/rice/ricecooker/nl-bx/"
+  ],
+  "description": "汎用の小型炊飯器。アイボリーの樹脂外装、濃色の内釜、金属内ぶた。後方ヒンジで開閉するふた、蒸気穴、操作部、電源コード付き。 保存時の全体寸法は約23.5×39.3×19.6cm（コード・金具を含む）。ふたは0〜100度の可視化用アニメーション。電気・加熱・安全機構の動作や認証は再現していません。",
+  "id": "rice_cooker",
+  "title_ja": "炊飯器",
+  "revision": 11,
+  "dimensions_m": [
+    0.23499999940395355,
+    0.3925327807664871,
+    0.19599999487400055
+  ],
+  "triangles": 19478,
+  "units": "meter",
+  "up_axis_blend": "Z",
+  "up_axis_glb": "Y",
+  "review_status": "Independent geometry, full canonical photography and exact source package gates passed",
+  "photography_status": "28 canonical views complete across 2 assets",
+  "files": {
+    "blend": {
+      "bytes": 302184,
+      "sha256": "a7082dede38d393a07c4172611906435199f473fef03653e6fc55edbc2df99b5"
+    },
+    "glb": {
+      "bytes": 659600,
+      "sha256": "7a7977f345bd999dd86ab4c96ab74f675043428fd9988ca8cc5b16dccd47cc4c"
+    }
+  },
+  "photography": {
+    "standard": "preview_standard_v1",
+    "views": [
+      "preview",
+      "back",
+      "front",
+      "rear",
+      "side",
+      "left",
+      "top",
+      "underside",
+      "close_up",
+      "underside_detail",
+      "alternate_light",
+      "vent_detail",
+      "open",
+      "interior"
+    ],
+    "records": "../../../generators/appliances_preview_standard_v1/records/rice_cooker"
+  },
+  "independent_review": {
+    "technical_status": "approved",
+    "scope": "Independent saved geometry, canonical photography and exact source package acceptance. Visual diorama model with illustrative hinge animation; no electrical or safety certification.",
+    "report": "reviews/appliances_integration/source_package_approval.json",
+    "report_sha256": "d869fc9b489ab3c82ecc6c2e48d682d190b7fa0d7b2cb95a72df3916316a3897",
+    "source_manifest_sha256": "73ff15aa80c08025a56f30d9de4a3582bb1de19be10b837f37f2b3444278b0df",
+    "path_base": "repository root"
+  }
+}

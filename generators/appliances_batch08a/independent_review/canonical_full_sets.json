@@ -1,0 +1,319 @@
+{
+  "decision": "PASS",
+  "gate": "independent_full_canonical_photo_sets",
+  "reviewed_at_utc": "2026-10-16T16:58:55.587819+00:00",
+  "model_files": [
+    {
+      "path": "lowpoly_batch08a/assets/microwave_oven/microwave_oven.blend",
+      "bytes": 217841,
+      "sha256": "3c0e0197cb929dec245412d610eb833833c67bccebdd12a10cb7adac0ed415b8",
+      "gate": "PASS"
+    },
+    {
+      "path": "lowpoly_batch08a/assets/microwave_oven/microwave_oven.glb",
+      "bytes": 556380,
+      "sha256": "3d53942250c89fa37f98a744be3ed008d88785847d8f635ddbda811079ece2ba",
+      "gate": "PASS"
+    },
+    {
+      "path": "lowpoly_batch08a/assets/rice_cooker/rice_cooker.blend",
+      "bytes": 302184,
+      "sha256": "a7082dede38d393a07c4172611906435199f473fef03653e6fc55edbc2df99b5",
+      "gate": "PASS"
+    },
+    {
+      "path": "lowpoly_batch08a/assets/rice_cooker/rice_cooker.glb",
+      "bytes": 659600,
+      "sha256": "7a7977f345bd999dd86ab4c96ab74f675043428fd9988ca8cc5b16dccd47cc4c",
+      "gate": "PASS"
+    }
+  ],
+  "core_hashes": {
+    "render.py": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+    "standard.json": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa"
+  },
+  "views": [
+    {
+      "asset": "microwave_oven",
+      "view": "front",
+      "decision": "PASS",
+      "input_sha256": "3d53942250c89fa37f98a744be3ed008d88785847d8f635ddbda811079ece2ba",
+      "output_sha256": "78bedf3977827b1c32d27ea04b54330f8d579b9541caccee21ef370083897508",
+      "note": "Full-resolution planar shading correction confirmed; manufacturer-style dielectric surfaces and controls read cleanly.",
+      "record_sha256": "e065bc713d7ee7688c342b982cbaf8b1c959e5e8876bb90843e5dfe732f82be8",
+      "record_path": "lowpoly_batch08a/generators/preview_standard_v1/records/microwave_oven/front.json"
+    },
+    {
+      "asset": "rice_cooker",
+      "view": "preview",
+      "decision": "PASS",
+      "input_sha256": "7a7977f345bd999dd86ab4c96ab74f675043428fd9988ca8cc5b16dccd47cc4c",
+      "output_sha256": "e0ed3754a874bfe3e68d3f2900ff596da8e145a3429f4494bbd7e69ada0b11f9",
+      "note": "Full-resolution finish, silhouette, grounded pose and open mechanism inspected; no visible planar shading artifact.",
+      "record_sha256": "8545599329d664753c9dac76d231a15dd0be5a8e2e74df39aad45efab680e8e6",
+      "record_path": "lowpoly_batch08a/generators/preview_standard_v1/records/rice_cooker/preview.json"
+    },
+    {
+      "asset": "rice_cooker_open",
+      "view": "open",
+      "decision": "PASS",
+      "input_sha256": "2b215ed0bbad269b7407bd40f123c4252cf8bf97cd01d565b816331020462402",
+      "output_sha256": "c669b20fe81de1f7a9604245e0d48141d26ac44957040b2f98c60046dcc1efd2",
+      "note": "Full-resolution finish, silhouette, grounded pose and open mechanism inspected; no visible planar shading artifact.",
+      "record_sha256": "53b4604e4c735e973bb87a487873eafe899eb3d868be026999a5d5d37cb794db",
+      "record_path": "lowpoly_batch08a/generators/preview_standard_v1/records/rice_cooker_open/open.json"
+    },
+    {
+      "asset": "microwave_oven",
+      "view": "preview",
+      "decision": "PASS",
+      "input_sha256": "3d53942250c89fa37f98a744be3ed008d88785847d8f635ddbda811079ece2ba",
+      "output_sha256": "5dc6ce14bc195031cf5508438cf845b5b0eaf03ca90b5316cab27bede5b33d05",
+      "note": "Full-resolution hero inspected; uniform planar door, credible case/handle/PBR separation and clear silhouette.",
+      "record_sha256": "5d03385f3a00c97dba033934f7ab2f61feb06e724d939fae56e4a9012fa27179",
+      "record_path": "lowpoly_batch08a/generators/preview_standard_v1/records/microwave_oven/preview.json"
+    },
+    {
+      "asset": "microwave_oven",
+      "view": "back",
+      "decision": "PASS",
+      "input_sha256": "3d53942250c89fa37f98a744be3ed008d88785847d8f635ddbda811079ece2ba",
+      "output_sha256": "85e5866cb9cf96df629194b3b22a202d5a4b033b42c0035276ed83872f1bd5c8",
+      "note": "Independent full-resolution visual inspection passed; framing, surfaces, materials and semantic view checked.",
+      "record_sha256": "23d9471ad0dd6199e8d61e96fc48f716b473b95180696e267156682a5392b8ec",
+      "record_path": "lowpoly_batch08a/generators/preview_standard_v1/records/microwave_oven/back.json"
+    },
+    {
+      "asset": "microwave_oven_open",
+      "view": "open",
+      "decision": "PASS",
+      "input_sha256": "c7896555a29770944471bde71d6f5e16470238b479fb3ace93e5a4421ce8dcba",
+      "output_sha256": "782f3a86f9b1891171fff4a505ed4a7dad5e47060ea06309abe59dcd4765f4ac",
+      "note": "Independent full-resolution visual inspection passed; framing, surfaces, materials and semantic view checked.",
+      "record_sha256": "d03d1de9821a1eab6fbd9d51ad04cf3dc2f8da97b7e9a9de7fce1d1f86469c5f",
+      "record_path": "lowpoly_batch08a/generators/preview_standard_v1/records/microwave_oven_open/open.json"
+    },
+    {
+      "asset": "rice_cooker",
+      "view": "back",
+      "decision": "PASS",
+      "input_sha256": "7a7977f345bd999dd86ab4c96ab74f675043428fd9988ca8cc5b16dccd47cc4c",
+      "output_sha256": "dca4d24b9bfdbf6c4b1d14bdd8c6dd6975855c3024fceb590b363ffce5a119af",
+      "note": "Independent full-resolution visual inspection passed; framing, surfaces, materials and semantic view checked.",
+      "record_sha256": "a3e967a161beb077f84c658f0ce9895901a91d9740e4867e23a4f7e3348c07f9",
+      "record_path": "lowpoly_batch08a/generators/preview_standard_v1/records/rice_cooker/back.json"
+    },
+    {
+      "asset": "microwave_oven_open",
+      "view": "interior",
+      "decision": "PASS",
+      "input_sha256": "c7896555a29770944471bde71d6f5e16470238b479fb3ace93e5a4421ce8dcba",
+      "output_sha256": "fcc9993749cb3fb27c793f35fbab9921c83e175254aa89ac8435d0b772434ad1",
+      "note": "Independent full-resolution visual inspection passed; framing, surfaces, materials and semantic view checked.",
+      "record_sha256": "e48388fc1ba7d086d97b9ad05846cd4b70781f3c7bd8416ddb4ec995e11a9a67",
+      "record_path": "lowpoly_batch08a/generators/preview_standard_v1/records/microwave_oven_open/interior.json"
+    },
+    {
+      "asset": "microwave_oven",
+      "view": "rear",
+      "decision": "PASS",
+      "input_sha256": "3d53942250c89fa37f98a744be3ed008d88785847d8f635ddbda811079ece2ba",
+      "output_sha256": "0a5f69fd527d92d4da17583d1125f1b7a3b9408486901fd60bbb60c868a53ee9",
+      "note": "Independent full-resolution visual inspection passed; framing, surfaces, materials and semantic view checked.",
+      "record_sha256": "f2c4d165e290a96c29c6d863b30a56386e8fb2ad21a292342e86a68cce957bd6",
+      "record_path": "lowpoly_batch08a/generators/preview_standard_v1/records/microwave_oven/rear.json"
+    },
+    {
+      "asset": "rice_cooker",
+      "view": "front",
+      "decision": "PASS",
+      "input_sha256": "7a7977f345bd999dd86ab4c96ab74f675043428fd9988ca8cc5b16dccd47cc4c",
+      "output_sha256": "81243d19dd73526d682b75532917301dcdfc904271425f75deb74f9a04f7a894",
+      "note": "Independent full-resolution visual inspection passed; framing, surfaces, materials and semantic view checked.",
+      "record_sha256": "26a4964b6ef5c5a9e37522498b7547767a5661faee3835938b2c590a63ae089f",
+      "record_path": "lowpoly_batch08a/generators/preview_standard_v1/records/rice_cooker/front.json"
+    },
+    {
+      "asset": "rice_cooker",
+      "view": "rear",
+      "decision": "PASS",
+      "input_sha256": "7a7977f345bd999dd86ab4c96ab74f675043428fd9988ca8cc5b16dccd47cc4c",
+      "output_sha256": "09b96f4682e8e3e2353dd565567648e81f7b2deed05195489c8073f11a16e0c4",
+      "note": "Independent full-resolution visual inspection passed; framing, surfaces, materials and semantic view checked.",
+      "record_sha256": "9c174d6d7f1d22d4f22181fd968dd0af7d1b18a5d3df50a03c4594731b0fd220",
+      "record_path": "lowpoly_batch08a/generators/preview_standard_v1/records/rice_cooker/rear.json"
+    },
+    {
+      "asset": "rice_cooker",
+      "view": "side",
+      "decision": "PASS",
+      "input_sha256": "7a7977f345bd999dd86ab4c96ab74f675043428fd9988ca8cc5b16dccd47cc4c",
+      "output_sha256": "9fffb1366495d042242b3e7745b71de38d055b26dea5be273343acecf2a16258",
+      "note": "Independent full-resolution visual inspection passed; framing, surfaces, materials and semantic view checked.",
+      "record_sha256": "4d4a17a859dc0ce46cd8b0d0a106590e573de3c3208fce7ab100722f6668be2c",
+      "record_path": "lowpoly_batch08a/generators/preview_standard_v1/records/rice_cooker/side.json"
+    },
+    {
+      "asset": "microwave_oven",
+      "view": "side",
+      "decision": "PASS",
+      "input_sha256": "3d53942250c89fa37f98a744be3ed008d88785847d8f635ddbda811079ece2ba",
+      "output_sha256": "b5e4e0fcda7e924bca9b0545f81e4e8d734f9e6e50eed70508f5c792de6fa6cb",
+      "note": "Independent full-resolution visual inspection passed; framing, surfaces, materials and semantic view checked.",
+      "record_sha256": "cb53a41910eedecd53ca55eccb01bc2cc920e5dcd2cf3d1953f4afa086276ab2",
+      "record_path": "lowpoly_batch08a/generators/preview_standard_v1/records/microwave_oven/side.json"
+    },
+    {
+      "asset": "microwave_oven",
+      "view": "left",
+      "decision": "PASS",
+      "input_sha256": "3d53942250c89fa37f98a744be3ed008d88785847d8f635ddbda811079ece2ba",
+      "output_sha256": "a4226ea9f9a2e8227e429ad789ed92093ed370fd7d40b9dc4927a089d632d250",
+      "note": "Independent full-resolution visual inspection passed; framing, surfaces, materials and semantic view checked.",
+      "record_sha256": "065f38070495bb3c9f9c2f0df24681318b3504d1a8685c3b88f523e9745ba727",
+      "record_path": "lowpoly_batch08a/generators/preview_standard_v1/records/microwave_oven/left.json"
+    },
+    {
+      "asset": "rice_cooker",
+      "view": "left",
+      "decision": "PASS",
+      "input_sha256": "7a7977f345bd999dd86ab4c96ab74f675043428fd9988ca8cc5b16dccd47cc4c",
+      "output_sha256": "6820216e9844062fa995715a8aaa18df4e6bb8c7004ea7204f48ff09547a8c56",
+      "note": "Independent full-resolution visual inspection passed; framing, surfaces, materials and semantic view checked.",
+      "record_sha256": "5232b8643f99035a97dc2b6e76c45ff26b75d9e93e83546c0e38a2bed1a7d91d",
+      "record_path": "lowpoly_batch08a/generators/preview_standard_v1/records/rice_cooker/left.json"
+    },
+    {
+      "asset": "rice_cooker_open",
+      "view": "interior",
+      "decision": "PASS",
+      "input_sha256": "2b215ed0bbad269b7407bd40f123c4252cf8bf97cd01d565b816331020462402",
+      "output_sha256": "3e18b7edb7613c42259b5c0dac958c4610a26fa4e4f9f838c1d6bf04a0e05992",
+      "note": "Independent full-resolution visual inspection passed; framing, surfaces, materials and semantic view checked.",
+      "record_sha256": "5cea6d868ffbaec5d5b88c4316c68e9e18c5f2606312dfa8732cecd4f749dba1",
+      "record_path": "lowpoly_batch08a/generators/preview_standard_v1/records/rice_cooker_open/interior.json"
+    },
+    {
+      "asset": "microwave_oven",
+      "view": "underside",
+      "decision": "PASS",
+      "input_sha256": "3d53942250c89fa37f98a744be3ed008d88785847d8f635ddbda811079ece2ba",
+      "output_sha256": "806f2736a28d966778ca4be9b3bc6c64c336cfda5618af1d1b56e80e0529f14d",
+      "note": "Independent full-resolution visual inspection passed; framing, surfaces, materials and semantic view checked.",
+      "record_sha256": "d037d7006f0b4c9d3138025500d9a09bbd1c56bd1e2379d8f3b3389574b2354c",
+      "record_path": "lowpoly_batch08a/generators/preview_standard_v1/records/microwave_oven/underside.json"
+    },
+    {
+      "asset": "rice_cooker",
+      "view": "underside",
+      "decision": "PASS",
+      "input_sha256": "7a7977f345bd999dd86ab4c96ab74f675043428fd9988ca8cc5b16dccd47cc4c",
+      "output_sha256": "b6b5a12b1a736ffeffcbabf968cd7881b61bbe6fea550acf52e29bda7afc61a8",
+      "note": "Independent full-resolution visual inspection passed; framing, surfaces, materials and semantic view checked.",
+      "record_sha256": "163145dc1422d1697de806520252e7e6cb4448f4000ff2f360f5e0e36f996bf9",
+      "record_path": "lowpoly_batch08a/generators/preview_standard_v1/records/rice_cooker/underside.json"
+    },
+    {
+      "asset": "microwave_oven",
+      "view": "top",
+      "decision": "PASS",
+      "input_sha256": "3d53942250c89fa37f98a744be3ed008d88785847d8f635ddbda811079ece2ba",
+      "output_sha256": "10c9905cccb0b4c961a29850107951dd3ce3a387fb2b02a6b77382a7fb645beb",
+      "note": "Independent full-resolution visual inspection passed; framing, surfaces, materials and semantic view checked.",
+      "record_sha256": "e750b77ee10a3de64332e708a1762025f50955785ed6d6e04bc9b4010b7e92d1",
+      "record_path": "lowpoly_batch08a/generators/preview_standard_v1/records/microwave_oven/top.json"
+    },
+    {
+      "asset": "rice_cooker",
+      "view": "top",
+      "decision": "PASS",
+      "input_sha256": "7a7977f345bd999dd86ab4c96ab74f675043428fd9988ca8cc5b16dccd47cc4c",
+      "output_sha256": "1249ec8194500d7b1037d8c8c5237288936755862cdfc982428bf7be4ee0c66c",
+      "note": "Independent full-resolution visual inspection passed; framing, surfaces, materials and semantic view checked.",
+      "record_sha256": "cc42bf2c1cf50a99af5e6451aff7ef8d424e28dee0f0bc1075d7c96c7ebb8fa5",
+      "record_path": "lowpoly_batch08a/generators/preview_standard_v1/records/rice_cooker/top.json"
+    },
+    {
+      "asset": "microwave_oven",
+      "view": "underside_detail",
+      "decision": "PASS",
+      "input_sha256": "3d53942250c89fa37f98a744be3ed008d88785847d8f635ddbda811079ece2ba",
+      "output_sha256": "2d1dc29e7a6282ea794fd1fe94d49f582d669fe230f8a9872236f2e192d11067",
+      "note": "Independent full-resolution visual inspection passed; framing, surfaces, materials and semantic view checked.",
+      "record_sha256": "85d8c5d4b5dd775d2c0b182cc3ab4985b988c70d1a33d637de7ef0fe6229cf9e",
+      "record_path": "lowpoly_batch08a/generators/preview_standard_v1/records/microwave_oven/underside_detail.json"
+    },
+    {
+      "asset": "microwave_oven",
+      "view": "close_up",
+      "decision": "PASS",
+      "input_sha256": "3d53942250c89fa37f98a744be3ed008d88785847d8f635ddbda811079ece2ba",
+      "output_sha256": "22fd07aa5e7c91c5365ae2877261822b12b078f86fe7b13e717ae594003da34a",
+      "note": "Independent full-resolution visual inspection passed; framing, surfaces, materials and semantic view checked.",
+      "record_sha256": "75edc98fbf5e97925436ac4c6f308eb018adc7441d818eff8977d263f43df4a3",
+      "record_path": "lowpoly_batch08a/generators/preview_standard_v1/records/microwave_oven/close_up.json"
+    },
+    {
+      "asset": "rice_cooker",
+      "view": "close_up",
+      "decision": "PASS",
+      "input_sha256": "7a7977f345bd999dd86ab4c96ab74f675043428fd9988ca8cc5b16dccd47cc4c",
+      "output_sha256": "601a5089e827cff0466a344bf20270a08973eff2ce42d50c7d7f1b8f85b4ff72",
+      "note": "Independent full-resolution visual inspection passed; framing, surfaces, materials and semantic view checked.",
+      "record_sha256": "297d897cace6f9ac235ec67c43596e0f2678bc9baf17699ae181a7d0edbe87b1",
+      "record_path": "lowpoly_batch08a/generators/preview_standard_v1/records/rice_cooker/close_up.json"
+    },
+    {
+      "asset": "rice_cooker",
+      "view": "underside_detail",
+      "decision": "PASS",
+      "input_sha256": "7a7977f345bd999dd86ab4c96ab74f675043428fd9988ca8cc5b16dccd47cc4c",
+      "output_sha256": "2d8b807fe7a46cac8426cc473c2d5678b219f58074bb3d15b52aaceef5b03089",
+      "note": "Independent full-resolution visual inspection passed; framing, surfaces, materials and semantic view checked.",
+      "record_sha256": "3452debff05be3fadd8478c30b638799af114100225b772dead7d25ebdf3399b",
+      "record_path": "lowpoly_batch08a/generators/preview_standard_v1/records/rice_cooker/underside_detail.json"
+    },
+    {
+      "asset": "microwave_oven",
+      "view": "alternate_light",
+      "decision": "PASS",
+      "input_sha256": "3d53942250c89fa37f98a744be3ed008d88785847d8f635ddbda811079ece2ba",
+      "output_sha256": "fc3193ceb8f2fc881c2d0fa2f838bcb2fca623af444b55051a96fcdb81ed1d9d",
+      "note": "Independent full-resolution visual inspection passed; framing, surfaces, materials and semantic view checked.",
+      "record_sha256": "a0582d86403ec9a15407e63c4d78dc40420940269cc9a3d0346c5a4d3450096b",
+      "record_path": "lowpoly_batch08a/generators/preview_standard_v1/records/microwave_oven/alternate_light.json"
+    },
+    {
+      "asset": "rice_cooker",
+      "view": "alternate_light",
+      "decision": "PASS",
+      "input_sha256": "7a7977f345bd999dd86ab4c96ab74f675043428fd9988ca8cc5b16dccd47cc4c",
+      "output_sha256": "366bc1da1a96099cceb4ed19a145dfb7e1ce2c3272f7b952ca459a7e0563729b",
+      "note": "Independent full-resolution visual inspection passed; framing, surfaces, materials and semantic view checked.",
+      "record_sha256": "01c26f268609f039f4717b3b15af7a0a9a74361fcf1400eb6bcc877d885703dc",
+      "record_path": "lowpoly_batch08a/generators/preview_standard_v1/records/rice_cooker/alternate_light.json"
+    },
+    {
+      "asset": "rice_cooker",
+      "view": "vent_detail",
+      "decision": "PASS",
+      "input_sha256": "7a7977f345bd999dd86ab4c96ab74f675043428fd9988ca8cc5b16dccd47cc4c",
+      "output_sha256": "4f296b3de1ac9dbd15cb83427fc66ca4e61197eba5dc77392db02d4b5fafe986",
+      "note": "Independent full-resolution visual inspection passed; framing, surfaces, materials and semantic view checked.",
+      "record_sha256": "921a0be0931b2b0ec5dbd94d96c7bb05d38c35f8607d31f39ed9c66cec670319",
+      "record_path": "lowpoly_batch08a/generators/preview_standard_v1/records/rice_cooker/vent_detail.json"
+    },
+    {
+      "asset": "microwave_oven",
+      "view": "vent_detail",
+      "decision": "PASS",
+      "input_sha256": "3d53942250c89fa37f98a744be3ed008d88785847d8f635ddbda811079ece2ba",
+      "output_sha256": "75a09e9503162941f106689a4a4b81fa87dc83852beefd2af307c2017f8093f5",
+      "note": "Independent full-resolution visual inspection passed; framing, surfaces, materials and semantic view checked.",
+      "record_sha256": "d12935e8da9978f456fe90d70cad3040c0ceb78d80e2237b752183f181ef7fb8",
+      "record_path": "lowpoly_batch08a/generators/preview_standard_v1/records/microwave_oven/vent_detail.json"
+    }
+  ],
+  "scope": "All 28 final 1200px canonical photographs independently inspected; exact source/image/record/retained-plan provenance verified. Replacement microwave cavity detail accepted. Final lean package acceptance and publication are separate.",
+  "blocking_findings": []
+}

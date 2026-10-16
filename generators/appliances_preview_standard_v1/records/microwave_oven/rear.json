@@ -1,0 +1,102 @@
+{
+  "asset": "microwave_oven",
+  "view": "rear",
+  "input_repo_path": "assets/microwave_oven/microwave_oven.glb",
+  "input_sha256": "3d53942250c89fa37f98a744be3ed008d88785847d8f635ddbda811079ece2ba",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "7442b62646ae8e58f9520763349893d64db3bb6f20db23463ed896bf9bf6bbd7",
+  "closeup_magnification_vs_full_fit": 1.0000000182480562,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch08a/generators/preview_standard_v1/repo/assets/microwave_oven/rear.jpg",
+  "output_sha256": "0a5f69fd527d92d4da17583d1125f1b7a3b9408486901fd60bbb60c868a53ee9",
+  "bytes": 79297,
+  "elapsed_seconds": 335.2715322769982,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 3.9118033421390717,
+  "source_bounds": [
+    [
+      -0.25699999928474426,
+      -0.25200000405311584,
+      0.0
+    ],
+    [
+      0.24400000274181366,
+      0.25927311182022095,
+      0.2980000078678131
+    ]
+  ],
+  "camera_location": [
+    -2.9802196266359715e-08,
+    10.0,
+    0.5828579068183899
+  ],
+  "camera_rotation": [
+    -1.570796251296997,
+    3.141592502593994,
+    -0.0
+  ],
+  "ortho_scale": 2.4497668743133545,
+  "focus": "full object",
+  "focus_projected_width_height": [
+    1.9598135352134705,
+    1.1657177209854126
+  ],
+  "full_object_fit": true,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        4.949746608734131,
+        2.6342055797576904,
+        4.198396682739258
+      ],
+      "rotation": [
+        1.0093395709991455,
+        2.2192757853645162e-08,
+        2.0514585971832275
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        -2.1213204860687256,
+        4.2473649978637695,
+        1.1328251361846924
+      ],
+      "rotation": [
+        1.47627854347229,
+        4.6657358865331844e-08,
+        -2.673337697982788
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        -3.5355348587036133,
+        -0.34006035327911377,
+        4.5905022621154785
+      ],
+      "rotation": [
+        0.7390651702880859,
+        1.623998890920575e-08,
+        -1.460035800933838
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": [
+    184,
+    184,
+    184
+  ],
+  "floor_hidden": true,
+  "diagnostic_only": false
+}
