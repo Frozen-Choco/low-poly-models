@@ -1,0 +1,111 @@
+{
+  "asset": "washing_machine",
+  "view": "vent_detail",
+  "input_repo_path": "assets/washing_machine/washing_machine.glb",
+  "input_sha256": "062a5f699da5154500ea6c028e31a76be25d01c2e7af0e084f1ed65be2d6a4ab",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "f082d91f2e9cde2817539be8b6c8eccc8b0b6a84a34a476efa7e3fef6121e33a",
+  "closeup_magnification_vs_full_fit": 4.170448806514469,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch09a/generators/preview_standard_v1/repo/assets/washing_machine/vent_detail.jpg",
+  "output_sha256": "7ab2f031e9719a86d4a7ffd2b094dab5822441d4363b5bf63d09bf49476751fe",
+  "bytes": 100091,
+  "elapsed_seconds": 929.2939838739985,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 2.179549741765589,
+  "source_bounds": [
+    [
+      -0.34700000286102295,
+      -0.2709999978542328,
+      0.0
+    ],
+    [
+      0.38209086656570435,
+      0.3603874444961548,
+      0.9176207184791565
+    ]
+  ],
+  "camera_location": [
+    5.748008728027344,
+    8.342212677001953,
+    4.9887166023254395
+  ],
+  "camera_rotation": [
+    1.2495079040527344,
+    1.4536921000285474e-08,
+    2.5535900592803955
+  ],
+  "ortho_scale": 0.6811093091964722,
+  "focus": {
+    "direction": [
+      2,
+      3,
+      1.2
+    ],
+    "target_m": [
+      0.24,
+      0.25,
+      0.84
+    ],
+    "span_m": 0.25,
+    "purpose": "Hollow supply hose and coupler, inlet rings and lid fork hinge clearance"
+  },
+  "focus_projected_width_height": [
+    1.8145772814750671,
+    2.272425204515457
+  ],
+  "full_object_fit": false,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        4.83704137802124,
+        -1.667720913887024,
+        4.84990119934082
+      ],
+      "rotation": [
+        0.8908255100250244,
+        4.618730287120343e-08,
+        1.2472152709960938
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        0.33958032727241516,
+        4.333635330200195,
+        2.4506168365478516
+      ],
+      "rotation": [
+        1.191693663597107,
+        7.846220739793353e-08,
+        3.058417320251465
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        -3.857226610183716,
+        0.5879346132278442,
+        4.282702445983887
+      ],
+      "rotation": [
+        0.8260758519172668,
+        -9.054593164137259e-08,
+        -1.732492208480835
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": null,
+  "floor_hidden": false,
+  "diagnostic_only": false
+}

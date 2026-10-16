@@ -1,0 +1,217 @@
+{
+  "scope": "Exact copies of production model/photo bytes; immutable original records retain original input/output paths. Open sources are render-only rigid poses, not extra delivered models.",
+  "assets": [
+    {
+      "asset": "refrigerator",
+      "production_input": "assets/refrigerator/refrigerator.glb",
+      "packaged_input": "assets/appliances/refrigerator/refrigerator.glb",
+      "sha256": "1eb7808c836090ffe44e9d203430026c3e0d9b1d91967f534986f5c76dc0b4c8",
+      "views": [
+        {
+          "view": "preview",
+          "input_variant": "refrigerator",
+          "packaged_image": "assets/appliances/refrigerator/preview.jpg",
+          "sha256": "992ac169dde569a261693ead0e2ad237a7cc7ae08a304214c66a38f608ce553c",
+          "record": "generators/appliances_batch09a_preview_standard_v1/records/refrigerator/preview.json"
+        },
+        {
+          "view": "back",
+          "input_variant": "refrigerator",
+          "packaged_image": "assets/appliances/refrigerator/back.jpg",
+          "sha256": "1dd2a4bf65354bf31fe2d2113a3171cec1ce00ce1944a2ad7b6e39b5563685a5",
+          "record": "generators/appliances_batch09a_preview_standard_v1/records/refrigerator/back.json"
+        },
+        {
+          "view": "front",
+          "input_variant": "refrigerator",
+          "packaged_image": "assets/appliances/refrigerator/front.jpg",
+          "sha256": "ddf5cae810e02d10ae2e2cfd3b9910e6168332363d38074a323638900513c6e3",
+          "record": "generators/appliances_batch09a_preview_standard_v1/records/refrigerator/front.json"
+        },
+        {
+          "view": "rear",
+          "input_variant": "refrigerator",
+          "packaged_image": "assets/appliances/refrigerator/rear.jpg",
+          "sha256": "4f26bb3ff40ba5c8a1b5546b0f0b9128b5bb48eb974db45961def1e7a3675286",
+          "record": "generators/appliances_batch09a_preview_standard_v1/records/refrigerator/rear.json"
+        },
+        {
+          "view": "side",
+          "input_variant": "refrigerator",
+          "packaged_image": "assets/appliances/refrigerator/side.jpg",
+          "sha256": "1b58747b1419bfc8c3cd2381a760c27b0abbf4da46cd9370962724167145cc53",
+          "record": "generators/appliances_batch09a_preview_standard_v1/records/refrigerator/side.json"
+        },
+        {
+          "view": "left",
+          "input_variant": "refrigerator",
+          "packaged_image": "assets/appliances/refrigerator/left.jpg",
+          "sha256": "f00c5e9900778a9e3295a3a9529a9f320d31b133cc301724d8a4e35bb2f8d9d8",
+          "record": "generators/appliances_batch09a_preview_standard_v1/records/refrigerator/left.json"
+        },
+        {
+          "view": "top",
+          "input_variant": "refrigerator",
+          "packaged_image": "assets/appliances/refrigerator/top.jpg",
+          "sha256": "8ac9cfd8b38e1134060989b3f58abf9156dfef2ccfc973e38957e81e829f5885",
+          "record": "generators/appliances_batch09a_preview_standard_v1/records/refrigerator/top.json"
+        },
+        {
+          "view": "underside",
+          "input_variant": "refrigerator",
+          "packaged_image": "assets/appliances/refrigerator/underside.jpg",
+          "sha256": "5e2f59ddd348e5867a23aeac69ee5f2a57e452b9e8bcc61de368fce746c7c119",
+          "record": "generators/appliances_batch09a_preview_standard_v1/records/refrigerator/underside.json"
+        },
+        {
+          "view": "close_up",
+          "input_variant": "refrigerator",
+          "packaged_image": "assets/appliances/refrigerator/close_up.jpg",
+          "sha256": "c8927e4102b1ad9d5c1f29ef176b369265cdab1a7fbce3ce49e5c6e645820d26",
+          "record": "generators/appliances_batch09a_preview_standard_v1/records/refrigerator/close_up.json"
+        },
+        {
+          "view": "underside_detail",
+          "input_variant": "refrigerator",
+          "packaged_image": "assets/appliances/refrigerator/underside_detail.jpg",
+          "sha256": "b2bfb3493c73fdb7499f4d29bc5e590278004b2cc14bc96ac5ba1e5b3e29714f",
+          "record": "generators/appliances_batch09a_preview_standard_v1/records/refrigerator/underside_detail.json"
+        },
+        {
+          "view": "alternate_light",
+          "input_variant": "refrigerator",
+          "packaged_image": "assets/appliances/refrigerator/alternate_light.jpg",
+          "sha256": "18de8f8f6c4cd2cd8fbce0f828040959b408e02a13ddb35a6bbf93e237659f7f",
+          "record": "generators/appliances_batch09a_preview_standard_v1/records/refrigerator/alternate_light.json"
+        },
+        {
+          "view": "vent_detail",
+          "input_variant": "refrigerator",
+          "packaged_image": "assets/appliances/refrigerator/vent_detail.jpg",
+          "sha256": "6bfb173654ab6b09051f6d2733ea84ec04a479c7ac0f8b62190c8f6c03cdeae4",
+          "record": "generators/appliances_batch09a_preview_standard_v1/records/refrigerator/vent_detail.json"
+        },
+        {
+          "view": "open",
+          "input_variant": "refrigerator_open",
+          "packaged_image": "assets/appliances/refrigerator/open.jpg",
+          "sha256": "5b507cb4b9d3456e6e0be95779519e8198112e236780b49b260ef9683c77ecc1",
+          "record": "generators/appliances_batch09a_preview_standard_v1/records/refrigerator/open.json"
+        },
+        {
+          "view": "interior",
+          "input_variant": "refrigerator_open",
+          "packaged_image": "assets/appliances/refrigerator/interior.jpg",
+          "sha256": "b3a1e4fca8841bfec184b943b6d185f0eb2abadd30903feab541c60400aaf533",
+          "record": "generators/appliances_batch09a_preview_standard_v1/records/refrigerator/interior.json"
+        }
+      ]
+    },
+    {
+      "asset": "washing_machine",
+      "production_input": "assets/washing_machine/washing_machine.glb",
+      "packaged_input": "assets/appliances/washing_machine/washing_machine.glb",
+      "sha256": "062a5f699da5154500ea6c028e31a76be25d01c2e7af0e084f1ed65be2d6a4ab",
+      "views": [
+        {
+          "view": "preview",
+          "input_variant": "washing_machine",
+          "packaged_image": "assets/appliances/washing_machine/preview.jpg",
+          "sha256": "81670433426777e19b11ac3c4eb5ccd3ff5c6f4306ea19e9568d1ea41f87a0d9",
+          "record": "generators/appliances_batch09a_preview_standard_v1/records/washing_machine/preview.json"
+        },
+        {
+          "view": "back",
+          "input_variant": "washing_machine",
+          "packaged_image": "assets/appliances/washing_machine/back.jpg",
+          "sha256": "7d0ebc232184f1c6ee8bb22ae02399986753e522c835e95afbb5ba400b305fa2",
+          "record": "generators/appliances_batch09a_preview_standard_v1/records/washing_machine/back.json"
+        },
+        {
+          "view": "front",
+          "input_variant": "washing_machine",
+          "packaged_image": "assets/appliances/washing_machine/front.jpg",
+          "sha256": "03a60b7698d1f3313669a95a0b4daecee3fcd8245bbdd0173c4d2fe3ed21e22b",
+          "record": "generators/appliances_batch09a_preview_standard_v1/records/washing_machine/front.json"
+        },
+        {
+          "view": "rear",
+          "input_variant": "washing_machine",
+          "packaged_image": "assets/appliances/washing_machine/rear.jpg",
+          "sha256": "61fbac0e214b8eadc23deff6b30ef5835f4ac292be38e986253979250f4f88d1",
+          "record": "generators/appliances_batch09a_preview_standard_v1/records/washing_machine/rear.json"
+        },
+        {
+          "view": "side",
+          "input_variant": "washing_machine",
+          "packaged_image": "assets/appliances/washing_machine/side.jpg",
+          "sha256": "b0bee6f120f219d9e87028d68fdd3f6a8449e1e403c41aa8f25037ee0ae87350",
+          "record": "generators/appliances_batch09a_preview_standard_v1/records/washing_machine/side.json"
+        },
+        {
+          "view": "left",
+          "input_variant": "washing_machine",
+          "packaged_image": "assets/appliances/washing_machine/left.jpg",
+          "sha256": "d3ae77f1b045a7fe293190d934f31b731dbbbb9c8d7400141ff9feb5890dff10",
+          "record": "generators/appliances_batch09a_preview_standard_v1/records/washing_machine/left.json"
+        },
+        {
+          "view": "top",
+          "input_variant": "washing_machine",
+          "packaged_image": "assets/appliances/washing_machine/top.jpg",
+          "sha256": "425af74f3fb4973ffff2dd7c60a7d2c689a25f92b9e64e9bbd73d1c0ba74fa17",
+          "record": "generators/appliances_batch09a_preview_standard_v1/records/washing_machine/top.json"
+        },
+        {
+          "view": "underside",
+          "input_variant": "washing_machine",
+          "packaged_image": "assets/appliances/washing_machine/underside.jpg",
+          "sha256": "0b6b3645e2607f515114f2af5c9b5df4f45da7a23f989e431e4a9bd15971260a",
+          "record": "generators/appliances_batch09a_preview_standard_v1/records/washing_machine/underside.json"
+        },
+        {
+          "view": "close_up",
+          "input_variant": "washing_machine",
+          "packaged_image": "assets/appliances/washing_machine/close_up.jpg",
+          "sha256": "e1541ed5bb06945ec9ce4c03249d2fe0eb747d3810ce18164a58a6fdfc5e010b",
+          "record": "generators/appliances_batch09a_preview_standard_v1/records/washing_machine/close_up.json"
+        },
+        {
+          "view": "underside_detail",
+          "input_variant": "washing_machine",
+          "packaged_image": "assets/appliances/washing_machine/underside_detail.jpg",
+          "sha256": "ab437eab2d4d7bb4235ea4ac2fe5298039a504606d68fc1f40ea5a6a03ad94dc",
+          "record": "generators/appliances_batch09a_preview_standard_v1/records/washing_machine/underside_detail.json"
+        },
+        {
+          "view": "alternate_light",
+          "input_variant": "washing_machine",
+          "packaged_image": "assets/appliances/washing_machine/alternate_light.jpg",
+          "sha256": "32dc56fce0c769fd8eb88374b67698dc4c283274fd2ba2dd5242d8ac5d490821",
+          "record": "generators/appliances_batch09a_preview_standard_v1/records/washing_machine/alternate_light.json"
+        },
+        {
+          "view": "vent_detail",
+          "input_variant": "washing_machine",
+          "packaged_image": "assets/appliances/washing_machine/vent_detail.jpg",
+          "sha256": "7ab2f031e9719a86d4a7ffd2b094dab5822441d4363b5bf63d09bf49476751fe",
+          "record": "generators/appliances_batch09a_preview_standard_v1/records/washing_machine/vent_detail.json"
+        },
+        {
+          "view": "open",
+          "input_variant": "washing_machine_open",
+          "packaged_image": "assets/appliances/washing_machine/open.jpg",
+          "sha256": "81d73fcacefc9c90548e94aa63383eb2ce2bd7037663a764530298f5cac9b2fd",
+          "record": "generators/appliances_batch09a_preview_standard_v1/records/washing_machine/open.json"
+        },
+        {
+          "view": "interior",
+          "input_variant": "washing_machine_open",
+          "packaged_image": "assets/appliances/washing_machine/interior.jpg",
+          "sha256": "aad07ca24bb25d6359e7b17ded5ec3f970610df447685d5bc6bc1225a0bff041",
+          "record": "generators/appliances_batch09a_preview_standard_v1/records/washing_machine/interior.json"
+        }
+      ]
+    }
+  ]
+}

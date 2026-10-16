@@ -37,7 +37,9 @@
     "city_bicycle",
     "folding_platform_handcart",
     "microwave_oven",
-    "rice_cooker"
+    "rice_cooker",
+    "refrigerator",
+    "washing_machine"
   ],
   "pending_assets": [],
   "scope": "Current canonical asset photographs only; historical generator evidence retained."

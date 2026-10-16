@@ -1,0 +1,19 @@
+{
+  "decision": "PASS",
+  "script_sha256": "8af7b9e7d99f60bc421ebbbaaa10b643e6bdb59b82d9d295c819319996c30b2d",
+  "scope": "Clean separate directory regeneration yields byte-identical GLB files for both assets; source files untouched",
+  "results": [
+    {
+      "asset": "refrigerator",
+      "delivered_sha256": "1eb7808c836090ffe44e9d203430026c3e0d9b1d91967f534986f5c76dc0b4c8",
+      "regenerated_sha256": "1eb7808c836090ffe44e9d203430026c3e0d9b1d91967f534986f5c76dc0b4c8",
+      "byte_identical": true
+    },
+    {
+      "asset": "washing_machine",
+      "delivered_sha256": "062a5f699da5154500ea6c028e31a76be25d01c2e7af0e084f1ed65be2d6a4ab",
+      "regenerated_sha256": "062a5f699da5154500ea6c028e31a76be25d01c2e7af0e084f1ed65be2d6a4ab",
+      "byte_identical": true
+    }
+  ]
+}

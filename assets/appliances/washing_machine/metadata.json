@@ -1,0 +1,69 @@
+{
+  "reference_dimensions_m": [
+    0.562,
+    0.572,
+    0.88
+  ],
+  "modeled_cabinet_dimensions_m": [
+    0.52,
+    0.53,
+    0.764
+  ],
+  "mechanism": "Single-piece lid rotates0–105 degrees, frames1–151. Basket/pulsator are static editable components. Supply/drain hoses attached to appliance but free at far end. No motor, water, latch or electrical simulation.",
+  "references": [
+    "https://panasonic.jp/wash/products/NA-F6B3/spec.html"
+  ],
+  "description": "白い鋼板とアイボリー樹脂の縦型洗濯機。開閉ふた、ステンレス槽、パルセータ、給排水ホースと操作部。 保存時の全体寸法は約72.9×63.1×91.8cm（コード・金具を含む）。ふたは0〜105度の可視化用アニメーション。電気・冷却・給排水・安全機構の動作や認証は再現していません。",
+  "id": "washing_machine",
+  "title_ja": "洗濯機",
+  "revision": 7,
+  "dimensions_m": [
+    0.7290908694267273,
+    0.6313874423503876,
+    0.9176207184791565
+  ],
+  "triangles": 46956,
+  "units": "meter",
+  "up_axis_blend": "Z",
+  "up_axis_glb": "Y",
+  "review_status": "Independent geometry, full canonical photography and exact source package gates passed",
+  "photography_status": "28 canonical views complete across 2 assets",
+  "files": {
+    "blend": {
+      "bytes": 520597,
+      "sha256": "39731d38d9e63eaf9985b12cf635052ee8c723d97cafb3af5f436874440fdcd8"
+    },
+    "glb": {
+      "bytes": 1553876,
+      "sha256": "062a5f699da5154500ea6c028e31a76be25d01c2e7af0e084f1ed65be2d6a4ab"
+    }
+  },
+  "photography": {
+    "standard": "preview_standard_v1",
+    "views": [
+      "preview",
+      "back",
+      "front",
+      "rear",
+      "side",
+      "left",
+      "top",
+      "underside",
+      "close_up",
+      "underside_detail",
+      "alternate_light",
+      "vent_detail",
+      "open",
+      "interior"
+    ],
+    "records": "../../../generators/appliances_batch09a_preview_standard_v1/records/washing_machine"
+  },
+  "independent_review": {
+    "technical_status": "approved",
+    "scope": "Independent saved geometry, canonical photography and exact source package acceptance. Visual diorama model with illustrative hinge animation; no electrical or safety certification.",
+    "report": "reviews/large_appliances_integration/source_package_approval.json",
+    "report_sha256": "6d612ad81a377819250350ded9e527568c835502dacc1a83f06444853c693c26",
+    "source_manifest_sha256": "074375e5f361e608656f29fbe1f67bcaeffd1b2215bdf2f492f1916bf711cfca",
+    "path_base": "repository root"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "decision": "PASS",
+  "comparison": "Delivered animation frame61 versus static photograph GLB frame1",
+  "results": [
+    {
+      "asset": "refrigerator",
+      "source_sha256": "1eb7808c836090ffe44e9d203430026c3e0d9b1d91967f534986f5c76dc0b4c8",
+      "derived_sha256": "4fbfb2f0c9eaf29f097d94231683bb52e317084c957037bc4dd2f3eb7a8981ac",
+      "object_names_triangles_and_materials_match": true,
+      "max_distance_m": 7.450580596923828e-09
+    },
+    {
+      "asset": "washing_machine",
+      "source_sha256": "062a5f699da5154500ea6c028e31a76be25d01c2e7af0e084f1ed65be2d6a4ab",
+      "derived_sha256": "4ef1dd6d5605f582bc6a6d4c1aee8b0f72b4eaebd7e3c36a2754f619aa87fdbf",
+      "object_names_triangles_and_materials_match": true,
+      "max_distance_m": 6.143906006172983e-08
+    }
+  ]
+}

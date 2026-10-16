@@ -1,0 +1,11 @@
+# Reviewed appliance integration
+
+冷蔵庫 (refrigerator) and 洗濯機 (washing_machine) are original generic visual assets. The four delivered model files and all 28 canonical photos retain their exact independently accepted bytes. The full source package was accepted on 2026-10-16 in reviews/large_appliances_integration/source_package_approval.json, bound to the original manifest preserved as source_manifest.json in the same directory.
+
+The original package contains 82 files plus its manifest. All source items are retained in this integration; docs/large-appliances-relocation.json records original and delivered hashes, including current metadata/document and photography relocation-map transformations. Source code, the detail framing configuration, renderer/settings, original photo records and all images/models are unchanged. Earlier geometry/photo reports retain historical scope and paths; final source-package acceptance resolves the then-external package gate. Current metadata and catalog bind the actual final approval. Unchanged generator code can emit historical build-time statuses; regenerated output requires independent review before future publication.
+
+Reference URLs, inferred dimensions, materials and hinge limitations remain in generators/appliances_batch09a/docs/reference-and-design.md. Reproduction instructions in generators/appliances_batch09a/README.md are repository-root relative. Open-state canonical images derive from frame 61 of the delivered animated model via prepare_poses.py; no extra pose GLBs are included. Exact reproduction of both derived open GLB hashes was independently checked in a temporary copy. Keep generated output separate from delivered models and immutable photography records.
+
+The photography directory is relocated to generators/appliances_batch09a_preview_standard_v1 to preserve the previously published microwave/cooker inputs. All renderer, configuration and record bytes remain unchanged; metadata, README and the photography relocation map use the new folder path.
+
+No external reference downloads, private chat or assistant notes, raw intermediate renders, rejected candidates, duplicate poses or extra Blend files are included. These are visual diorama props, not certified electrical appliances or safety simulations. Technical acceptance does not itself claim GitHub publication.

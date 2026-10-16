@@ -1,0 +1,20 @@
+[
+  {
+    "asset": "refrigerator",
+    "source": "/workspace/scratch/a456259dbd5d/lowpoly_batch09a/assets/refrigerator/refrigerator.glb",
+    "source_sha256": "1eb7808c836090ffe44e9d203430026c3e0d9b1d91967f534986f5c76dc0b4c8",
+    "frame": 61,
+    "derived": "evidence/poses/refrigerator/refrigerator_open.glb",
+    "derived_sha256": "4fbfb2f0c9eaf29f097d94231683bb52e317084c957037bc4dd2f3eb7a8981ac",
+    "purpose": "Render-only pose; same saved model geometry and material, rigid transform only. Not a second catalog asset."
+  },
+  {
+    "asset": "washing_machine",
+    "source": "/workspace/scratch/a456259dbd5d/lowpoly_batch09a/assets/washing_machine/washing_machine.glb",
+    "source_sha256": "062a5f699da5154500ea6c028e31a76be25d01c2e7af0e084f1ed65be2d6a4ab",
+    "frame": 61,
+    "derived": "evidence/poses/washing_machine/washing_machine_open.glb",
+    "derived_sha256": "4ef1dd6d5605f582bc6a6d4c1aee8b0f72b4eaebd7e3c36a2754f619aa87fdbf",
+    "purpose": "Render-only pose; same saved model geometry and material, rigid transform only. Not a second catalog asset."
+  }
+]

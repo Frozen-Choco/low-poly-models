@@ -1,0 +1,111 @@
+{
+  "asset": "refrigerator",
+  "view": "vent_detail",
+  "input_repo_path": "assets/refrigerator/refrigerator.glb",
+  "input_sha256": "1eb7808c836090ffe44e9d203430026c3e0d9b1d91967f534986f5c76dc0b4c8",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "f082d91f2e9cde2817539be8b6c8eccc8b0b6a84a34a476efa7e3fef6121e33a",
+  "closeup_magnification_vs_full_fit": 2.861187806411679,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch09a/generators/preview_standard_v1/repo/assets/refrigerator/vent_detail.jpg",
+  "output_sha256": "6bfb173654ab6b09051f6d2733ea84ec04a479c7ac0f8b62190c8f6c03cdeae4",
+  "bytes": 156305,
+  "elapsed_seconds": 1125.9074282319998,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 1.6339869586593083,
+  "source_bounds": [
+    [
+      -0.2639999985694885,
+      -0.31200000643730164,
+      0.0
+    ],
+    [
+      0.2485000044107437,
+      0.3867689073085785,
+      1.2239999771118164
+    ]
+  ],
+  "camera_location": [
+    3.1195123195648193,
+    9.733316421508789,
+    2.223586320877075
+  ],
+  "camera_rotation": [
+    1.3832885026931763,
+    -4.460289471097667e-09,
+    2.8198421001434326
+  ],
+  "ortho_scale": 0.959967315196991,
+  "focus": {
+    "direction": [
+      1,
+      3,
+      0.6
+    ],
+    "target_m": [
+      0,
+      0.29,
+      0.22
+    ],
+    "span_m": 0.47,
+    "purpose": "Real service-cover slots with recessed dark baffle"
+  },
+  "focus_projected_width_height": [
+    1.069062352180481,
+    2.19731742143631
+  ],
+  "full_object_fit": false,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        5.264134407043457,
+        0.13992738723754883,
+        4.642707824707031
+      ],
+      "rotation": [
+        0.9322289228439331,
+        2.5277843818116708e-08,
+        1.6122627258300781
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        -0.7621752023696899,
+        4.42167854309082,
+        1.931581735610962
+      ],
+      "rotation": [
+        1.309507966041565,
+        5.05410930884409e-08,
+        -2.979593515396118
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        -3.732884168624878,
+        -0.01831144094467163,
+        4.473505973815918
+      ],
+      "rotation": [
+        0.7780773043632507,
+        -1.4616735199979303e-07,
+        -1.5873264074325562
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": null,
+  "floor_hidden": false,
+  "diagnostic_only": false
+}

@@ -1,0 +1,111 @@
+{
+  "asset": "washing_machine",
+  "view": "close_up",
+  "input_repo_path": "assets/washing_machine/washing_machine.glb",
+  "input_sha256": "062a5f699da5154500ea6c028e31a76be25d01c2e7af0e084f1ed65be2d6a4ab",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "f082d91f2e9cde2817539be8b6c8eccc8b0b6a84a34a476efa7e3fef6121e33a",
+  "closeup_magnification_vs_full_fit": 1.792909516435382,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch09a/generators/preview_standard_v1/repo/assets/washing_machine/close_up.jpg",
+  "output_sha256": "e1541ed5bb06945ec9ce4c03249d2fe0eb747d3810ce18164a58a6fdfc5e010b",
+  "bytes": 100752,
+  "elapsed_seconds": 890.3446022110002,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 2.179549741765589,
+  "source_bounds": [
+    [
+      -0.34700000286102295,
+      -0.2709999978542328,
+      0.0
+    ],
+    [
+      0.38209086656570435,
+      0.3603874444961548,
+      0.9176207184791565
+    ]
+  ],
+  "camera_location": [
+    2.634371280670166,
+    -8.529363632202148,
+    7.176046371459961
+  ],
+  "camera_rotation": [
+    1.0068539381027222,
+    4.035808487401482e-08,
+    0.32175061106681824
+  ],
+  "ortho_scale": 1.5801736116409302,
+  "focus": {
+    "direction": [
+      1,
+      -3,
+      2
+    ],
+    "target_m": [
+      0,
+      -0.19,
+      0.84
+    ],
+    "span_m": 0.58,
+    "purpose": "Control fascia, unlit display and real recessed lid grip"
+  },
+  "focus_projected_width_height": [
+    1.670241892337799,
+    2.266486644744873
+  ],
+  "full_object_fit": false,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        -4.590604305267334,
+        -1.8806607723236084,
+        5.048391342163086
+      ],
+      "rotation": [
+        0.8510679006576538,
+        1.6609546094059624e-07,
+        -1.187583327293396
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        3.0669100284576416,
+        -2.4925248622894287,
+        3.3197805881500244
+      ],
+      "rotation": [
+        0.9828912019729614,
+        5.879534370478723e-08,
+        0.892157793045044
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        2.598055601119995,
+        3.386173963546753,
+        3.789970636367798
+      ],
+      "rotation": [
+        0.9460958242416382,
+        4.962273436603937e-08,
+        2.4925291538238525
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": null,
+  "floor_hidden": false,
+  "diagnostic_only": false
+}

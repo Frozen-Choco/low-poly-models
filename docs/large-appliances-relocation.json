@@ -1,0 +1,663 @@
+[
+  {
+    "source": "README.md",
+    "destination": "generators/appliances_batch09a/README.md",
+    "source_sha256": "ac7ac6006a40d18252a23d5ebb6ec0080e6aa5e74b4396cfe015d50f3cde9070",
+    "source_bytes": 2341,
+    "sha256": "14ecf8cf47aa4c06ecc04286f6b0e2a58dd1d4a0ba53774accfaf022fb3d52d6",
+    "bytes": 2467,
+    "transformation": "Current final independent acceptance binding, repository paths, or usage documentation only. No model, photo, source code, render configuration or immutable record bytes changed."
+  },
+  {
+    "source": "assets/appliances/refrigerator/alternate_light.jpg",
+    "destination": "assets/appliances/refrigerator/alternate_light.jpg",
+    "source_sha256": "18de8f8f6c4cd2cd8fbce0f828040959b408e02a13ddb35a6bbf93e237659f7f",
+    "source_bytes": 98437,
+    "sha256": "18de8f8f6c4cd2cd8fbce0f828040959b408e02a13ddb35a6bbf93e237659f7f",
+    "bytes": 98437
+  },
+  {
+    "source": "assets/appliances/refrigerator/back.jpg",
+    "destination": "assets/appliances/refrigerator/back.jpg",
+    "source_sha256": "1dd2a4bf65354bf31fe2d2113a3171cec1ce00ce1944a2ad7b6e39b5563685a5",
+    "source_bytes": 105658,
+    "sha256": "1dd2a4bf65354bf31fe2d2113a3171cec1ce00ce1944a2ad7b6e39b5563685a5",
+    "bytes": 105658
+  },
+  {
+    "source": "assets/appliances/refrigerator/close_up.jpg",
+    "destination": "assets/appliances/refrigerator/close_up.jpg",
+    "source_sha256": "c8927e4102b1ad9d5c1f29ef176b369265cdab1a7fbce3ce49e5c6e645820d26",
+    "source_bytes": 92498,
+    "sha256": "c8927e4102b1ad9d5c1f29ef176b369265cdab1a7fbce3ce49e5c6e645820d26",
+    "bytes": 92498
+  },
+  {
+    "source": "assets/appliances/refrigerator/front.jpg",
+    "destination": "assets/appliances/refrigerator/front.jpg",
+    "source_sha256": "ddf5cae810e02d10ae2e2cfd3b9910e6168332363d38074a323638900513c6e3",
+    "source_bytes": 65409,
+    "sha256": "ddf5cae810e02d10ae2e2cfd3b9910e6168332363d38074a323638900513c6e3",
+    "bytes": 65409
+  },
+  {
+    "source": "assets/appliances/refrigerator/interior.jpg",
+    "destination": "assets/appliances/refrigerator/interior.jpg",
+    "source_sha256": "b3a1e4fca8841bfec184b943b6d185f0eb2abadd30903feab541c60400aaf533",
+    "source_bytes": 150934,
+    "sha256": "b3a1e4fca8841bfec184b943b6d185f0eb2abadd30903feab541c60400aaf533",
+    "bytes": 150934
+  },
+  {
+    "source": "assets/appliances/refrigerator/left.jpg",
+    "destination": "assets/appliances/refrigerator/left.jpg",
+    "source_sha256": "f00c5e9900778a9e3295a3a9529a9f320d31b133cc301724d8a4e35bb2f8d9d8",
+    "source_bytes": 70905,
+    "sha256": "f00c5e9900778a9e3295a3a9529a9f320d31b133cc301724d8a4e35bb2f8d9d8",
+    "bytes": 70905
+  },
+  {
+    "source": "assets/appliances/refrigerator/metadata.json",
+    "destination": "assets/appliances/refrigerator/metadata.json",
+    "source_sha256": "0eda8a22e61667f0097cd4bfa4450f6d7bc238ba7fe3affd29253cd74ea9fbdf",
+    "source_bytes": 1973,
+    "sha256": "c8ab9364720c82e198ee7d47a86c9e875035aa461e399be29867ab123b7d96a2",
+    "bytes": 2524,
+    "transformation": "Current final independent acceptance binding, repository paths, or usage documentation only. No model, photo, source code, render configuration or immutable record bytes changed."
+  },
+  {
+    "source": "assets/appliances/refrigerator/open.jpg",
+    "destination": "assets/appliances/refrigerator/open.jpg",
+    "source_sha256": "5b507cb4b9d3456e6e0be95779519e8198112e236780b49b260ef9683c77ecc1",
+    "source_bytes": 143348,
+    "sha256": "5b507cb4b9d3456e6e0be95779519e8198112e236780b49b260ef9683c77ecc1",
+    "bytes": 143348
+  },
+  {
+    "source": "assets/appliances/refrigerator/preview.jpg",
+    "destination": "assets/appliances/refrigerator/preview.jpg",
+    "source_sha256": "992ac169dde569a261693ead0e2ad237a7cc7ae08a304214c66a38f608ce553c",
+    "source_bytes": 94871,
+    "sha256": "992ac169dde569a261693ead0e2ad237a7cc7ae08a304214c66a38f608ce553c",
+    "bytes": 94871
+  },
+  {
+    "source": "assets/appliances/refrigerator/rear.jpg",
+    "destination": "assets/appliances/refrigerator/rear.jpg",
+    "source_sha256": "4f26bb3ff40ba5c8a1b5546b0f0b9128b5bb48eb974db45961def1e7a3675286",
+    "source_bytes": 75055,
+    "sha256": "4f26bb3ff40ba5c8a1b5546b0f0b9128b5bb48eb974db45961def1e7a3675286",
+    "bytes": 75055
+  },
+  {
+    "source": "assets/appliances/refrigerator/refrigerator.blend",
+    "destination": "assets/appliances/refrigerator/refrigerator.blend",
+    "source_sha256": "78b06cd2634ce9da8f490db02d739017dbd408f777a3d7f35f312647fef153b9",
+    "source_bytes": 243635,
+    "sha256": "78b06cd2634ce9da8f490db02d739017dbd408f777a3d7f35f312647fef153b9",
+    "bytes": 243635
+  },
+  {
+    "source": "assets/appliances/refrigerator/refrigerator.glb",
+    "destination": "assets/appliances/refrigerator/refrigerator.glb",
+    "source_sha256": "1eb7808c836090ffe44e9d203430026c3e0d9b1d91967f534986f5c76dc0b4c8",
+    "source_bytes": 802736,
+    "sha256": "1eb7808c836090ffe44e9d203430026c3e0d9b1d91967f534986f5c76dc0b4c8",
+    "bytes": 802736
+  },
+  {
+    "source": "assets/appliances/refrigerator/side.jpg",
+    "destination": "assets/appliances/refrigerator/side.jpg",
+    "source_sha256": "1b58747b1419bfc8c3cd2381a760c27b0abbf4da46cd9370962724167145cc53",
+    "source_bytes": 70015,
+    "sha256": "1b58747b1419bfc8c3cd2381a760c27b0abbf4da46cd9370962724167145cc53",
+    "bytes": 70015
+  },
+  {
+    "source": "assets/appliances/refrigerator/top.jpg",
+    "destination": "assets/appliances/refrigerator/top.jpg",
+    "source_sha256": "8ac9cfd8b38e1134060989b3f58abf9156dfef2ccfc973e38957e81e829f5885",
+    "source_bytes": 112688,
+    "sha256": "8ac9cfd8b38e1134060989b3f58abf9156dfef2ccfc973e38957e81e829f5885",
+    "bytes": 112688
+  },
+  {
+    "source": "assets/appliances/refrigerator/underside.jpg",
+    "destination": "assets/appliances/refrigerator/underside.jpg",
+    "source_sha256": "5e2f59ddd348e5867a23aeac69ee5f2a57e452b9e8bcc61de368fce746c7c119",
+    "source_bytes": 91590,
+    "sha256": "5e2f59ddd348e5867a23aeac69ee5f2a57e452b9e8bcc61de368fce746c7c119",
+    "bytes": 91590
+  },
+  {
+    "source": "assets/appliances/refrigerator/underside_detail.jpg",
+    "destination": "assets/appliances/refrigerator/underside_detail.jpg",
+    "source_sha256": "b2bfb3493c73fdb7499f4d29bc5e590278004b2cc14bc96ac5ba1e5b3e29714f",
+    "source_bytes": 121173,
+    "sha256": "b2bfb3493c73fdb7499f4d29bc5e590278004b2cc14bc96ac5ba1e5b3e29714f",
+    "bytes": 121173
+  },
+  {
+    "source": "assets/appliances/refrigerator/vent_detail.jpg",
+    "destination": "assets/appliances/refrigerator/vent_detail.jpg",
+    "source_sha256": "6bfb173654ab6b09051f6d2733ea84ec04a479c7ac0f8b62190c8f6c03cdeae4",
+    "source_bytes": 156305,
+    "sha256": "6bfb173654ab6b09051f6d2733ea84ec04a479c7ac0f8b62190c8f6c03cdeae4",
+    "bytes": 156305
+  },
+  {
+    "source": "assets/appliances/washing_machine/alternate_light.jpg",
+    "destination": "assets/appliances/washing_machine/alternate_light.jpg",
+    "source_sha256": "32dc56fce0c769fd8eb88374b67698dc4c283274fd2ba2dd5242d8ac5d490821",
+    "source_bytes": 112487,
+    "sha256": "32dc56fce0c769fd8eb88374b67698dc4c283274fd2ba2dd5242d8ac5d490821",
+    "bytes": 112487
+  },
+  {
+    "source": "assets/appliances/washing_machine/back.jpg",
+    "destination": "assets/appliances/washing_machine/back.jpg",
+    "source_sha256": "7d0ebc232184f1c6ee8bb22ae02399986753e522c835e95afbb5ba400b305fa2",
+    "source_bytes": 113699,
+    "sha256": "7d0ebc232184f1c6ee8bb22ae02399986753e522c835e95afbb5ba400b305fa2",
+    "bytes": 113699
+  },
+  {
+    "source": "assets/appliances/washing_machine/close_up.jpg",
+    "destination": "assets/appliances/washing_machine/close_up.jpg",
+    "source_sha256": "e1541ed5bb06945ec9ce4c03249d2fe0eb747d3810ce18164a58a6fdfc5e010b",
+    "source_bytes": 100752,
+    "sha256": "e1541ed5bb06945ec9ce4c03249d2fe0eb747d3810ce18164a58a6fdfc5e010b",
+    "bytes": 100752
+  },
+  {
+    "source": "assets/appliances/washing_machine/front.jpg",
+    "destination": "assets/appliances/washing_machine/front.jpg",
+    "source_sha256": "03a60b7698d1f3313669a95a0b4daecee3fcd8245bbdd0173c4d2fe3ed21e22b",
+    "source_bytes": 73805,
+    "sha256": "03a60b7698d1f3313669a95a0b4daecee3fcd8245bbdd0173c4d2fe3ed21e22b",
+    "bytes": 73805
+  },
+  {
+    "source": "assets/appliances/washing_machine/interior.jpg",
+    "destination": "assets/appliances/washing_machine/interior.jpg",
+    "source_sha256": "aad07ca24bb25d6359e7b17ded5ec3f970610df447685d5bc6bc1225a0bff041",
+    "source_bytes": 226117,
+    "sha256": "aad07ca24bb25d6359e7b17ded5ec3f970610df447685d5bc6bc1225a0bff041",
+    "bytes": 226117
+  },
+  {
+    "source": "assets/appliances/washing_machine/left.jpg",
+    "destination": "assets/appliances/washing_machine/left.jpg",
+    "source_sha256": "d3ae77f1b045a7fe293190d934f31b731dbbbb9c8d7400141ff9feb5890dff10",
+    "source_bytes": 76830,
+    "sha256": "d3ae77f1b045a7fe293190d934f31b731dbbbb9c8d7400141ff9feb5890dff10",
+    "bytes": 76830
+  },
+  {
+    "source": "assets/appliances/washing_machine/metadata.json",
+    "destination": "assets/appliances/washing_machine/metadata.json",
+    "source_sha256": "491d09c160823fe62846f87b094ed67bcd2ecdaf0d7723db34f05ec2fee7b9fd",
+    "source_bytes": 2006,
+    "sha256": "0db14ad3e20c8576634446ae18166dd5e809a27518f87ac744fcab7704ae6a62",
+    "bytes": 2557,
+    "transformation": "Current final independent acceptance binding, repository paths, or usage documentation only. No model, photo, source code, render configuration or immutable record bytes changed."
+  },
+  {
+    "source": "assets/appliances/washing_machine/open.jpg",
+    "destination": "assets/appliances/washing_machine/open.jpg",
+    "source_sha256": "81d73fcacefc9c90548e94aa63383eb2ce2bd7037663a764530298f5cac9b2fd",
+    "source_bytes": 108004,
+    "sha256": "81d73fcacefc9c90548e94aa63383eb2ce2bd7037663a764530298f5cac9b2fd",
+    "bytes": 108004
+  },
+  {
+    "source": "assets/appliances/washing_machine/preview.jpg",
+    "destination": "assets/appliances/washing_machine/preview.jpg",
+    "source_sha256": "81670433426777e19b11ac3c4eb5ccd3ff5c6f4306ea19e9568d1ea41f87a0d9",
+    "source_bytes": 107610,
+    "sha256": "81670433426777e19b11ac3c4eb5ccd3ff5c6f4306ea19e9568d1ea41f87a0d9",
+    "bytes": 107610
+  },
+  {
+    "source": "assets/appliances/washing_machine/rear.jpg",
+    "destination": "assets/appliances/washing_machine/rear.jpg",
+    "source_sha256": "61fbac0e214b8eadc23deff6b30ef5835f4ac292be38e986253979250f4f88d1",
+    "source_bytes": 86535,
+    "sha256": "61fbac0e214b8eadc23deff6b30ef5835f4ac292be38e986253979250f4f88d1",
+    "bytes": 86535
+  },
+  {
+    "source": "assets/appliances/washing_machine/side.jpg",
+    "destination": "assets/appliances/washing_machine/side.jpg",
+    "source_sha256": "b0bee6f120f219d9e87028d68fdd3f6a8449e1e403c41aa8f25037ee0ae87350",
+    "source_bytes": 77099,
+    "sha256": "b0bee6f120f219d9e87028d68fdd3f6a8449e1e403c41aa8f25037ee0ae87350",
+    "bytes": 77099
+  },
+  {
+    "source": "assets/appliances/washing_machine/top.jpg",
+    "destination": "assets/appliances/washing_machine/top.jpg",
+    "source_sha256": "425af74f3fb4973ffff2dd7c60a7d2c689a25f92b9e64e9bbd73d1c0ba74fa17",
+    "source_bytes": 126170,
+    "sha256": "425af74f3fb4973ffff2dd7c60a7d2c689a25f92b9e64e9bbd73d1c0ba74fa17",
+    "bytes": 126170
+  },
+  {
+    "source": "assets/appliances/washing_machine/underside.jpg",
+    "destination": "assets/appliances/washing_machine/underside.jpg",
+    "source_sha256": "0b6b3645e2607f515114f2af5c9b5df4f45da7a23f989e431e4a9bd15971260a",
+    "source_bytes": 81909,
+    "sha256": "0b6b3645e2607f515114f2af5c9b5df4f45da7a23f989e431e4a9bd15971260a",
+    "bytes": 81909
+  },
+  {
+    "source": "assets/appliances/washing_machine/underside_detail.jpg",
+    "destination": "assets/appliances/washing_machine/underside_detail.jpg",
+    "source_sha256": "ab437eab2d4d7bb4235ea4ac2fe5298039a504606d68fc1f40ea5a6a03ad94dc",
+    "source_bytes": 96723,
+    "sha256": "ab437eab2d4d7bb4235ea4ac2fe5298039a504606d68fc1f40ea5a6a03ad94dc",
+    "bytes": 96723
+  },
+  {
+    "source": "assets/appliances/washing_machine/vent_detail.jpg",
+    "destination": "assets/appliances/washing_machine/vent_detail.jpg",
+    "source_sha256": "7ab2f031e9719a86d4a7ffd2b094dab5822441d4363b5bf63d09bf49476751fe",
+    "source_bytes": 100091,
+    "sha256": "7ab2f031e9719a86d4a7ffd2b094dab5822441d4363b5bf63d09bf49476751fe",
+    "bytes": 100091
+  },
+  {
+    "source": "assets/appliances/washing_machine/washing_machine.blend",
+    "destination": "assets/appliances/washing_machine/washing_machine.blend",
+    "source_sha256": "39731d38d9e63eaf9985b12cf635052ee8c723d97cafb3af5f436874440fdcd8",
+    "source_bytes": 520597,
+    "sha256": "39731d38d9e63eaf9985b12cf635052ee8c723d97cafb3af5f436874440fdcd8",
+    "bytes": 520597
+  },
+  {
+    "source": "assets/appliances/washing_machine/washing_machine.glb",
+    "destination": "assets/appliances/washing_machine/washing_machine.glb",
+    "source_sha256": "062a5f699da5154500ea6c028e31a76be25d01c2e7af0e084f1ed65be2d6a4ab",
+    "source_bytes": 1553876,
+    "sha256": "062a5f699da5154500ea6c028e31a76be25d01c2e7af0e084f1ed65be2d6a4ab",
+    "bytes": 1553876
+  },
+  {
+    "source": "catalog.json",
+    "destination": "generators/appliances_batch09a/catalog.json",
+    "source_sha256": "d45e9c74356463eb4631d5a587f9168e578e75743d182211971b5116638a3a2d",
+    "source_bytes": 2665,
+    "sha256": "826f7fb14b14aeadc94fba6216c48064a72723f475b21e19e258bfc80364fc6b",
+    "bytes": 4316,
+    "transformation": "Current final independent acceptance binding, repository paths, or usage documentation only. No model, photo, source code, render configuration or immutable record bytes changed."
+  },
+  {
+    "source": "generators/appliances_batch09a/configs/attachments.json",
+    "destination": "generators/appliances_batch09a/configs/attachments.json",
+    "source_sha256": "857c016cd8f55cc5c0d2a34a91117397dfff3e7b7a5f51a5cb902f3767db31fc",
+    "source_bytes": 5302,
+    "sha256": "857c016cd8f55cc5c0d2a34a91117397dfff3e7b7a5f51a5cb902f3767db31fc",
+    "bytes": 5302
+  },
+  {
+    "source": "generators/appliances_batch09a/docs/reference-and-design.md",
+    "destination": "generators/appliances_batch09a/docs/reference-and-design.md",
+    "source_sha256": "8ea8e0bf697d28760d3c586551d4eb9c41606fd8acf79c7962eef511cee446a2",
+    "source_bytes": 9762,
+    "sha256": "8ea8e0bf697d28760d3c586551d4eb9c41606fd8acf79c7962eef511cee446a2",
+    "bytes": 9762
+  },
+  {
+    "source": "generators/appliances_batch09a/evidence/photography_validation.json",
+    "destination": "generators/appliances_batch09a/evidence/photography_validation.json",
+    "source_sha256": "5f1f71b9c318e4049cab9ab02fe193b984440f86912dea32aa3e5e3023637b85",
+    "source_bytes": 11912,
+    "sha256": "5f1f71b9c318e4049cab9ab02fe193b984440f86912dea32aa3e5e3023637b85",
+    "bytes": 11912
+  },
+  {
+    "source": "generators/appliances_batch09a/evidence/poses/provenance.json",
+    "destination": "generators/appliances_batch09a/evidence/poses/provenance.json",
+    "source_sha256": "a6eeb0f4736b53e04812efb5b0dc4034a8cbdc20105bc3ce256c3eb381cb6bb1",
+    "source_bytes": 1078,
+    "sha256": "a6eeb0f4736b53e04812efb5b0dc4034a8cbdc20105bc3ce256c3eb381cb6bb1",
+    "bytes": 1078
+  },
+  {
+    "source": "generators/appliances_batch09a/evidence/saved_validation.json",
+    "destination": "generators/appliances_batch09a/evidence/saved_validation.json",
+    "source_sha256": "1beb4e4cebf58c6d041c4eedf78a285e6f937f975fc56b84621d014021035b6f",
+    "source_bytes": 77513,
+    "sha256": "1beb4e4cebf58c6d041c4eedf78a285e6f937f975fc56b84621d014021035b6f",
+    "bytes": 77513
+  },
+  {
+    "source": "generators/appliances_batch09a/evidence/source_reproduction.json",
+    "destination": "generators/appliances_batch09a/evidence/source_reproduction.json",
+    "source_sha256": "5597eb600425b97e8981b24491ef09f02ba58582918298c063f3ee77ea1e46c7",
+    "source_bytes": 784,
+    "sha256": "5597eb600425b97e8981b24491ef09f02ba58582918298c063f3ee77ea1e46c7",
+    "bytes": 784
+  },
+  {
+    "source": "generators/appliances_batch09a/independent_review/approval.json",
+    "destination": "generators/appliances_batch09a/independent_review/approval.json",
+    "source_sha256": "a20208023cb8b20bb82fc323165fe085ec3135563729f7ba6539a6407399b94b",
+    "source_bytes": 9151,
+    "sha256": "a20208023cb8b20bb82fc323165fe085ec3135563729f7ba6539a6407399b94b",
+    "bytes": 9151
+  },
+  {
+    "source": "generators/appliances_batch09a/independent_review/canonical_full_sets.json",
+    "destination": "generators/appliances_batch09a/independent_review/canonical_full_sets.json",
+    "source_sha256": "3dd8adc584389af4c1c6da58020c73c4e8970e7b00872e88b8bda58363a48c32",
+    "source_bytes": 16235,
+    "sha256": "3dd8adc584389af4c1c6da58020c73c4e8970e7b00872e88b8bda58363a48c32",
+    "bytes": 16235
+  },
+  {
+    "source": "generators/appliances_batch09a/independent_review/canonical_full_sets.md",
+    "destination": "generators/appliances_batch09a/independent_review/canonical_full_sets.md",
+    "source_sha256": "0e7f40e78643afa715a5920ea91a201c8d1f3e027ef574ecc75d98a1ad604d70",
+    "source_bytes": 962,
+    "sha256": "0e7f40e78643afa715a5920ea91a201c8d1f3e027ef574ecc75d98a1ad604d70",
+    "bytes": 962
+  },
+  {
+    "source": "generators/appliances_batch09a/independent_review/open_pose_comparison.json",
+    "destination": "generators/appliances_batch09a/independent_review/open_pose_comparison.json",
+    "source_sha256": "76e06f745286dad6834702b272e1d9df2fb318cad445de8a4b835bd7eca23981",
+    "source_bytes": 791,
+    "sha256": "76e06f745286dad6834702b272e1d9df2fb318cad445de8a4b835bd7eca23981",
+    "bytes": 791
+  },
+  {
+    "source": "generators/appliances_batch09a/scripts/build_assets.py",
+    "destination": "generators/appliances_batch09a/scripts/build_assets.py",
+    "source_sha256": "8af7b9e7d99f60bc421ebbbaaa10b643e6bdb59b82d9d295c819319996c30b2d",
+    "source_bytes": 19668,
+    "sha256": "8af7b9e7d99f60bc421ebbbaaa10b643e6bdb59b82d9d295c819319996c30b2d",
+    "bytes": 19668
+  },
+  {
+    "source": "generators/appliances_batch09a/scripts/prepare_poses.py",
+    "destination": "generators/appliances_batch09a/scripts/prepare_poses.py",
+    "source_sha256": "8f6f25488646fe8e2205185f4a78c11ad60c393ef988dc020ac451cd7b588a0f",
+    "source_bytes": 1866,
+    "sha256": "8f6f25488646fe8e2205185f4a78c11ad60c393ef988dc020ac451cd7b588a0f",
+    "bytes": 1866
+  },
+  {
+    "source": "generators/appliances_batch09a/scripts/validate_saved.py",
+    "destination": "generators/appliances_batch09a/scripts/validate_saved.py",
+    "source_sha256": "2271dd7c158a7692b8d15431ced2ff33a801af8794ac7422663cba1083f7def1",
+    "source_bytes": 1823,
+    "sha256": "2271dd7c158a7692b8d15431ced2ff33a801af8794ac7422663cba1083f7def1",
+    "bytes": 1823
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/detail_targets.json",
+    "destination": "generators/appliances_batch09a_preview_standard_v1/detail_targets.json",
+    "source_sha256": "f082d91f2e9cde2817539be8b6c8eccc8b0b6a84a34a476efa7e3fef6121e33a",
+    "source_bytes": 2598,
+    "sha256": "f082d91f2e9cde2817539be8b6c8eccc8b0b6a84a34a476efa7e3fef6121e33a",
+    "bytes": 2598
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/inputs.json",
+    "destination": "generators/appliances_batch09a_preview_standard_v1/inputs.json",
+    "source_sha256": "4946b013b82a2716c28cce261bc32e52d73e97f34885c5dc81dd3ee6abc2c633",
+    "source_bytes": 1561,
+    "sha256": "4946b013b82a2716c28cce261bc32e52d73e97f34885c5dc81dd3ee6abc2c633",
+    "bytes": 1561
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/refrigerator/alternate_light.json",
+    "destination": "generators/appliances_batch09a_preview_standard_v1/records/refrigerator/alternate_light.json",
+    "source_sha256": "e54f502b9e4fec8ae1bd80c0ace460227d80851eae1b7bbf1449596e6d76fc4a",
+    "source_bytes": 2537,
+    "sha256": "e54f502b9e4fec8ae1bd80c0ace460227d80851eae1b7bbf1449596e6d76fc4a",
+    "bytes": 2537
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/refrigerator/back.json",
+    "destination": "generators/appliances_batch09a_preview_standard_v1/records/refrigerator/back.json",
+    "source_sha256": "6f1e4a1979c4f5aa13ff60e3adba4a6e22089d9500330c6cedf6213f78daec1b",
+    "source_bytes": 2525,
+    "sha256": "6f1e4a1979c4f5aa13ff60e3adba4a6e22089d9500330c6cedf6213f78daec1b",
+    "bytes": 2525
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/refrigerator/close_up.json",
+    "destination": "generators/appliances_batch09a_preview_standard_v1/records/refrigerator/close_up.json",
+    "source_sha256": "1f5f7fdbc019361e37da93a9659ca9d54c3ec9ee0314394ee3dba1340f8c8535",
+    "source_bytes": 2750,
+    "sha256": "1f5f7fdbc019361e37da93a9659ca9d54c3ec9ee0314394ee3dba1340f8c8535",
+    "bytes": 2750
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/refrigerator/front.json",
+    "destination": "generators/appliances_batch09a_preview_standard_v1/records/refrigerator/front.json",
+    "source_sha256": "152d2ad5abc6cb6edc00282d9fea93cb1fd4c948e4737728db9a8bb790e12182",
+    "source_bytes": 2532,
+    "sha256": "152d2ad5abc6cb6edc00282d9fea93cb1fd4c948e4737728db9a8bb790e12182",
+    "bytes": 2532
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/refrigerator/interior.json",
+    "destination": "generators/appliances_batch09a_preview_standard_v1/records/refrigerator/interior.json",
+    "source_sha256": "62055570e2f3ad83a5172d913994eb3145ec606c642b92672343f0e7f78b93d2",
+    "source_bytes": 2756,
+    "sha256": "62055570e2f3ad83a5172d913994eb3145ec606c642b92672343f0e7f78b93d2",
+    "bytes": 2756
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/refrigerator/left.json",
+    "destination": "generators/appliances_batch09a_preview_standard_v1/records/refrigerator/left.json",
+    "source_sha256": "183628404403313bf364683ec024d128822e90b2037598cab0b838f1b2424483",
+    "source_bytes": 2500,
+    "sha256": "183628404403313bf364683ec024d128822e90b2037598cab0b838f1b2424483",
+    "bytes": 2500
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/refrigerator/open.json",
+    "destination": "generators/appliances_batch09a_preview_standard_v1/records/refrigerator/open.json",
+    "source_sha256": "9f6abb55fd8ad6c94a1f1c0bd917b1250b6cf225a4b52a34fbb429db3ef3cf60",
+    "source_bytes": 2739,
+    "sha256": "9f6abb55fd8ad6c94a1f1c0bd917b1250b6cf225a4b52a34fbb429db3ef3cf60",
+    "bytes": 2739
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/refrigerator/preview.json",
+    "destination": "generators/appliances_batch09a_preview_standard_v1/records/refrigerator/preview.json",
+    "source_sha256": "c0f6f737f766b1735fd518d5154904c1a7b5a511a8f1a1e22fd4592e925537dd",
+    "source_bytes": 2546,
+    "sha256": "c0f6f737f766b1735fd518d5154904c1a7b5a511a8f1a1e22fd4592e925537dd",
+    "bytes": 2546
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/refrigerator/rear.json",
+    "destination": "generators/appliances_batch09a_preview_standard_v1/records/refrigerator/rear.json",
+    "source_sha256": "c6a6b268ceabfaf64e61ac4ccbdfc20d64070cfb3acde9145038a708df45ddf2",
+    "source_bytes": 2540,
+    "sha256": "c6a6b268ceabfaf64e61ac4ccbdfc20d64070cfb3acde9145038a708df45ddf2",
+    "bytes": 2540
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/refrigerator/side.json",
+    "destination": "generators/appliances_batch09a_preview_standard_v1/records/refrigerator/side.json",
+    "source_sha256": "495999963b61f3500925f4fe49b45f52ecf780d6431c5faecb9360c99a40f7b3",
+    "source_bytes": 2493,
+    "sha256": "495999963b61f3500925f4fe49b45f52ecf780d6431c5faecb9360c99a40f7b3",
+    "bytes": 2493
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/refrigerator/top.json",
+    "destination": "generators/appliances_batch09a_preview_standard_v1/records/refrigerator/top.json",
+    "source_sha256": "0bf8699dc295fe1c11d7c4c595ee7defb4dfdfe5d0a83a2faee61dbe8525d555",
+    "source_bytes": 2475,
+    "sha256": "0bf8699dc295fe1c11d7c4c595ee7defb4dfdfe5d0a83a2faee61dbe8525d555",
+    "bytes": 2475
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/refrigerator/underside.json",
+    "destination": "generators/appliances_batch09a_preview_standard_v1/records/refrigerator/underside.json",
+    "source_sha256": "473a9ebd30d797eabe8a2fa4b984f5e66fb6bc1f13e02f3600d90d68a10f8a8e",
+    "source_bytes": 2582,
+    "sha256": "473a9ebd30d797eabe8a2fa4b984f5e66fb6bc1f13e02f3600d90d68a10f8a8e",
+    "bytes": 2582
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/refrigerator/underside_detail.json",
+    "destination": "generators/appliances_batch09a_preview_standard_v1/records/refrigerator/underside_detail.json",
+    "source_sha256": "ae6c3ae357e82d0b64d55b7b9bfc20a9e9a4cb100382342a620dd9743ad202d8",
+    "source_bytes": 2793,
+    "sha256": "ae6c3ae357e82d0b64d55b7b9bfc20a9e9a4cb100382342a620dd9743ad202d8",
+    "bytes": 2793
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/refrigerator/vent_detail.json",
+    "destination": "generators/appliances_batch09a_preview_standard_v1/records/refrigerator/vent_detail.json",
+    "source_sha256": "62fd0469c1c16f503e8ac6de49c055ed2c72ef50c48f00e538cac34932457d6b",
+    "source_bytes": 2745,
+    "sha256": "62fd0469c1c16f503e8ac6de49c055ed2c72ef50c48f00e538cac34932457d6b",
+    "bytes": 2745
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/washing_machine/alternate_light.json",
+    "destination": "generators/appliances_batch09a_preview_standard_v1/records/washing_machine/alternate_light.json",
+    "source_sha256": "3e495c50e780e9e49d1f8aeeee075c15da3100a76956ed1f9307270f524fe6b6",
+    "source_bytes": 2548,
+    "sha256": "3e495c50e780e9e49d1f8aeeee075c15da3100a76956ed1f9307270f524fe6b6",
+    "bytes": 2548
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/washing_machine/back.json",
+    "destination": "generators/appliances_batch09a_preview_standard_v1/records/washing_machine/back.json",
+    "source_sha256": "9eed6050c16e2709038a18654962d0102b5a17e4d4228b1369b142f8c2e04b1e",
+    "source_bytes": 2538,
+    "sha256": "9eed6050c16e2709038a18654962d0102b5a17e4d4228b1369b142f8c2e04b1e",
+    "bytes": 2538
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/washing_machine/close_up.json",
+    "destination": "generators/appliances_batch09a_preview_standard_v1/records/washing_machine/close_up.json",
+    "source_sha256": "4348375b5bd9d89d4e53f451d6d5e4eae87aa6e81600c91f7976e255afcc44c8",
+    "source_bytes": 2756,
+    "sha256": "4348375b5bd9d89d4e53f451d6d5e4eae87aa6e81600c91f7976e255afcc44c8",
+    "bytes": 2756
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/washing_machine/front.json",
+    "destination": "generators/appliances_batch09a_preview_standard_v1/records/washing_machine/front.json",
+    "source_sha256": "2e448ef595b8ba4dda94055bb2592b4852d2842f94c0669a13578daf7fdcb232",
+    "source_bytes": 2510,
+    "sha256": "2e448ef595b8ba4dda94055bb2592b4852d2842f94c0669a13578daf7fdcb232",
+    "bytes": 2510
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/washing_machine/interior.json",
+    "destination": "generators/appliances_batch09a_preview_standard_v1/records/washing_machine/interior.json",
+    "source_sha256": "e9b8236cb5a94f33f7365b1938020944827be179f8cc68e8a9415ca23b893e22",
+    "source_bytes": 2761,
+    "sha256": "e9b8236cb5a94f33f7365b1938020944827be179f8cc68e8a9415ca23b893e22",
+    "bytes": 2761
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/washing_machine/left.json",
+    "destination": "generators/appliances_batch09a_preview_standard_v1/records/washing_machine/left.json",
+    "source_sha256": "aa27851e1b407acf9a4fd5482954f563fcf15bd04415f98e655f01646c265713",
+    "source_bytes": 2512,
+    "sha256": "aa27851e1b407acf9a4fd5482954f563fcf15bd04415f98e655f01646c265713",
+    "bytes": 2512
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/washing_machine/open.json",
+    "destination": "generators/appliances_batch09a_preview_standard_v1/records/washing_machine/open.json",
+    "source_sha256": "38a6a110e83be8953798836b7ed59966594c76a4620aa308c9fbc7b6b159e7cc",
+    "source_bytes": 2753,
+    "sha256": "38a6a110e83be8953798836b7ed59966594c76a4620aa308c9fbc7b6b159e7cc",
+    "bytes": 2753
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/washing_machine/preview.json",
+    "destination": "generators/appliances_batch09a_preview_standard_v1/records/washing_machine/preview.json",
+    "source_sha256": "2872b5fca412dfe2ffb078692801e78036e21af03756bc8c7e67786f1693b064",
+    "source_bytes": 2557,
+    "sha256": "2872b5fca412dfe2ffb078692801e78036e21af03756bc8c7e67786f1693b064",
+    "bytes": 2557
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/washing_machine/rear.json",
+    "destination": "generators/appliances_batch09a_preview_standard_v1/records/washing_machine/rear.json",
+    "source_sha256": "0dda730df42094184d792ad1a44ecd562d0dd1303717ff520476c2b9b18d0be2",
+    "source_bytes": 2537,
+    "sha256": "0dda730df42094184d792ad1a44ecd562d0dd1303717ff520476c2b9b18d0be2",
+    "bytes": 2537
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/washing_machine/side.json",
+    "destination": "generators/appliances_batch09a_preview_standard_v1/records/washing_machine/side.json",
+    "source_sha256": "46be22ba8591148200fc644141d34125a314c3bd6c5896662ed2a214c2e55230",
+    "source_bytes": 2504,
+    "sha256": "46be22ba8591148200fc644141d34125a314c3bd6c5896662ed2a214c2e55230",
+    "bytes": 2504
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/washing_machine/top.json",
+    "destination": "generators/appliances_batch09a_preview_standard_v1/records/washing_machine/top.json",
+    "source_sha256": "563c07945afedf436dbd455736a36c72312861c2037ed6cf922fdbd91827fea1",
+    "source_bytes": 2484,
+    "sha256": "563c07945afedf436dbd455736a36c72312861c2037ed6cf922fdbd91827fea1",
+    "bytes": 2484
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/washing_machine/underside.json",
+    "destination": "generators/appliances_batch09a_preview_standard_v1/records/washing_machine/underside.json",
+    "source_sha256": "5bb2ccbad9ad5cc66002bfc653972397eaa75cdbb61e483ff63721839ad029c3",
+    "source_bytes": 2594,
+    "sha256": "5bb2ccbad9ad5cc66002bfc653972397eaa75cdbb61e483ff63721839ad029c3",
+    "bytes": 2594
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/washing_machine/underside_detail.json",
+    "destination": "generators/appliances_batch09a_preview_standard_v1/records/washing_machine/underside_detail.json",
+    "source_sha256": "6a6caeef2138251558f3a3cd875390ece14d69cdb3038c3dbb162866c45cf867",
+    "source_bytes": 2788,
+    "sha256": "6a6caeef2138251558f3a3cd875390ece14d69cdb3038c3dbb162866c45cf867",
+    "bytes": 2788
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/records/washing_machine/vent_detail.json",
+    "destination": "generators/appliances_batch09a_preview_standard_v1/records/washing_machine/vent_detail.json",
+    "source_sha256": "5fd672e38d7876917a5022bcffff23e619f4789a0f19c8e5b0289192ff4b6603",
+    "source_bytes": 2778,
+    "sha256": "5fd672e38d7876917a5022bcffff23e619f4789a0f19c8e5b0289192ff4b6603",
+    "bytes": 2778
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/relocation.json",
+    "destination": "generators/appliances_batch09a_preview_standard_v1/relocation.json",
+    "source_sha256": "033b3baf61a53c37ebf2b28d1ec6d1a36f8bfcb1a37a53c1ee43bf1f05bf0a00",
+    "source_bytes": 10869,
+    "sha256": "d626aa0ed77307160d5c4680f03ba699fa5929c827aab9ae2bd82a2d4b8bfecf",
+    "bytes": 11121,
+    "transformation": "Current final independent acceptance binding, repository paths, or usage documentation only. No model, photo, source code, render configuration or immutable record bytes changed."
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/render.py",
+    "destination": "generators/appliances_batch09a_preview_standard_v1/render.py",
+    "source_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+    "source_bytes": 8516,
+    "sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+    "bytes": 8516
+  },
+  {
+    "source": "generators/appliances_preview_standard_v1/standard.json",
+    "destination": "generators/appliances_batch09a_preview_standard_v1/standard.json",
+    "source_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+    "source_bytes": 3145,
+    "sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+    "bytes": 3145
+  }
+]

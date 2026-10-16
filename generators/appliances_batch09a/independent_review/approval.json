@@ -1,0 +1,177 @@
+{
+  "decision": "PASS",
+  "gate": "independent_saved_geometry_and_cheap_views",
+  "reviewer": "review_refrigerator_washer_models",
+  "reviewed_at_utc": "2026-10-16T19:04:24Z",
+  "revision": {
+    "refrigerator": 7,
+    "washing_machine": 7
+  },
+  "files": [
+    {
+      "path": "lowpoly_batch09a/assets/refrigerator/refrigerator.blend",
+      "bytes": 243635,
+      "sha256": "78b06cd2634ce9da8f490db02d739017dbd408f777a3d7f35f312647fef153b9",
+      "gate": "PASS"
+    },
+    {
+      "path": "lowpoly_batch09a/assets/refrigerator/refrigerator.glb",
+      "bytes": 802736,
+      "sha256": "1eb7808c836090ffe44e9d203430026c3e0d9b1d91967f534986f5c76dc0b4c8",
+      "gate": "PASS"
+    },
+    {
+      "path": "lowpoly_batch09a/assets/washing_machine/washing_machine.blend",
+      "bytes": 520597,
+      "sha256": "39731d38d9e63eaf9985b12cf635052ee8c723d97cafb3af5f436874440fdcd8",
+      "gate": "PASS"
+    },
+    {
+      "path": "lowpoly_batch09a/assets/washing_machine/washing_machine.glb",
+      "bytes": 1553876,
+      "sha256": "062a5f699da5154500ea6c028e31a76be25d01c2e7af0e084f1ed65be2d6a4ab",
+      "gate": "PASS"
+    }
+  ],
+  "checks": [
+    "All4 saved formats independently reloaded; all124 intended mesh solids manifold and single connected components",
+    "Zero degenerate and duplicate triangles; all finite; UVs and identical PBR materials; no texture dependencies",
+    "Complete attachment mapping and whole-assembly contact connectivity; positive grounded supports",
+    "61 opening samples in each format: only coaxial pin/bearing and closed 1mm soft gasket intersections remain; no unrelated moving/fixed or independent door intersections",
+    "8pose GLB/Blend bidirectional geometry distance below0.39micrometer",
+    "Feet minimum Z0 and uniform-density geometric COM inside feet hull at closed/middle/open",
+    "All26 hash-bound cheap views and both manufacturer reference photographs independently viewed",
+    "Manufacturer primary dimensions cross-checked; generic deviations and mechanism limits documented",
+    "Refrigerator revision7 all13 refreshed cheap views independently viewed",
+    "Refrigerator large planar normal fix confirmed: cavity front and rear diagonal gradients resolved",
+    "Revision7 exact world triangle positions and material bindings identical to revision5 at all8 tested poses; mechanics/attachment evidence retained",
+    "Both revision7 saved formats independently reloaded; no topology regression",
+    "Washer revision6 all13 refreshed cheap views independently viewed",
+    "Washer rear crescent gap corrected by lid depth/hinge relocation;720vertical rays at each of3aperture edge radii all meet closed lid",
+    "Washer both formats independently rechecked:61opening samples only coaxial bearing intersections; one connected support assembly; feet stability; UV/PBR agreement",
+    "Washer8pose format error below0.29micrometer",
+    "Washer revision7 all13 refreshed32sample cheap views independently viewed",
+    "Washer basket perforation normal separation A/B independently viewed; unintended rectangular dent-like shading resolved",
+    "All8pose washer triangle positions and material bindings identical to revision6; closure coverage/motion/support evidence retained",
+    "Both washer7 saved formats reloaded: zero degenerates/duplicates/nonmanifold edges, UV and PBR match"
+  ],
+  "cheap_images": [
+    {
+      "path": "lowpoly_batch09a/evidence/revision7_full/refrigerator/front.png",
+      "sha256": "6a4e57f7632f9df5d6766bba23ef3f0677fc7ad85f4bb25f6f5ad86a708452d2"
+    },
+    {
+      "path": "lowpoly_batch09a/evidence/revision7_full/refrigerator/back.png",
+      "sha256": "70ff97c196bba5a3e0a2ae216718e1c216935a7c1d8b6c31286641cc5feed59f"
+    },
+    {
+      "path": "lowpoly_batch09a/evidence/revision7_full/refrigerator/top.png",
+      "sha256": "55c58188858e0a5698cbf81b950ccb77c2ac4d079abcdb80e1982126bda1b93b"
+    },
+    {
+      "path": "lowpoly_batch09a/evidence/revision7_full/refrigerator/side.png",
+      "sha256": "8c9a33118dcc38e2391f19643fe0651a476121d89494c65fa5464c77676c0b0a"
+    },
+    {
+      "path": "lowpoly_batch09a/evidence/revision7_full/refrigerator/underside.png",
+      "sha256": "85b3439b66a2ec6d0866d9e0929e752f6474c6e8e6f9d0e5f4a4baa157e055db"
+    },
+    {
+      "path": "lowpoly_batch09a/evidence/revision7_full/refrigerator/true_front.png",
+      "sha256": "65fe91d43daa18474199e17966fce3f494d8b1dec69d71508a81b618f525e226"
+    },
+    {
+      "path": "lowpoly_batch09a/evidence/revision7_full/refrigerator/rear.png",
+      "sha256": "0fd6dfb74044960eab971c44ded0e0cf15789986ab13ffb287e15af83ba0934b"
+    },
+    {
+      "path": "lowpoly_batch09a/evidence/revision7_full/refrigerator/left.png",
+      "sha256": "f5b90d11ef9a5fcd89d13064bf95ccc33a65ad3aca0b31dc56847acc7ed128bd"
+    },
+    {
+      "path": "lowpoly_batch09a/evidence/revision7_full/refrigerator/open_front.png",
+      "sha256": "88ac3110185521ba9ad5bc1b6ede0585e8f6768e85816cc736917582c8c049f9"
+    },
+    {
+      "path": "lowpoly_batch09a/evidence/revision7_full/refrigerator/open_side.png",
+      "sha256": "55de23d60799dcbc081c4308ae1acee56e04366900bae84ca78c98d4b4fb4c20"
+    },
+    {
+      "path": "lowpoly_batch09a/evidence/revision7_full/refrigerator/open_rear.png",
+      "sha256": "c2c92c5e8c328b1e45f49180959d1c2f7b3f7333c3e4e53a0a4fa9bd97acbdf3"
+    },
+    {
+      "path": "lowpoly_batch09a/evidence/revision7_full/refrigerator/open_top.png",
+      "sha256": "4f75ff8059dbac10d0ae1ddc1743d81e8bf10b34d8950b2f23664886feb5307d"
+    },
+    {
+      "path": "lowpoly_batch09a/evidence/revision7_full/refrigerator/interior.png",
+      "sha256": "8e19cef135667de4aceb8f0cb777548bb759d3aa81ac07a8e7c3041e721c133d"
+    },
+    {
+      "path": "lowpoly_batch09a/evidence/washer_revision7_full/washing_machine/front.png",
+      "sha256": "5462b9b44a228ed59797f93611f97de99cba56081a49f43397de835218ae2fdd"
+    },
+    {
+      "path": "lowpoly_batch09a/evidence/washer_revision7_full/washing_machine/back.png",
+      "sha256": "eb61aa61de0193b65a207bf0c33aec0ef76cfce917b1f8d24a7039f34e42ac5b"
+    },
+    {
+      "path": "lowpoly_batch09a/evidence/washer_revision7_full/washing_machine/top.png",
+      "sha256": "dab5373f5f40dff4038ba326f761372b84ff403a71866cf16ac1ba1d5d0cf05f"
+    },
+    {
+      "path": "lowpoly_batch09a/evidence/washer_revision7_full/washing_machine/side.png",
+      "sha256": "82c792c06f445dcc2c66f6bb06cd5e9b577d3907e47da70efc346c0182e14b3d"
+    },
+    {
+      "path": "lowpoly_batch09a/evidence/washer_revision7_full/washing_machine/underside.png",
+      "sha256": "f3f91fdbeada1456c820fb76065935ced89319e6cd4e13b58a476087f545cf73"
+    },
+    {
+      "path": "lowpoly_batch09a/evidence/washer_revision7_full/washing_machine/true_front.png",
+      "sha256": "30deece28ed439e774ce9bd59e3c33ad01194c5bdbb14fa96c796651be63eafd"
+    },
+    {
+      "path": "lowpoly_batch09a/evidence/washer_revision7_full/washing_machine/rear.png",
+      "sha256": "64a44215be59e318f56cf18c81e73161ba01328d5c6ac9d1447e18a011b31666"
+    },
+    {
+      "path": "lowpoly_batch09a/evidence/washer_revision7_full/washing_machine/left.png",
+      "sha256": "c07f8d8cc2098c0c128447f2a39f1a29263b8fbc402c7a3b391187cb899f2920"
+    },
+    {
+      "path": "lowpoly_batch09a/evidence/washer_revision7_full/washing_machine/open_front.png",
+      "sha256": "f6a9ce32e9bbaf022774fbc5928acf96f6ab7471806f8fa5780a8ce5bafa3a26"
+    },
+    {
+      "path": "lowpoly_batch09a/evidence/washer_revision7_full/washing_machine/open_side.png",
+      "sha256": "00278d59f1726be8e26ef91348790f7527719baf9c440d20bb1532d4ad07d646"
+    },
+    {
+      "path": "lowpoly_batch09a/evidence/washer_revision7_full/washing_machine/open_rear.png",
+      "sha256": "2a3bd72e9d4e46576a2d0e6f8556b24e22cbba73b475bb7956a588f2d9a862c2"
+    },
+    {
+      "path": "lowpoly_batch09a/evidence/washer_revision7_full/washing_machine/open_top.png",
+      "sha256": "da254978dcdf2d833d308c436cba7ffde3ed210c57d7daa6d44995179fc3e17c"
+    },
+    {
+      "path": "lowpoly_batch09a/evidence/washer_revision7_full/washing_machine/interior.png",
+      "sha256": "314ed68ee86d7d9bdfd7f30c71e699ab2c7cf7acfb96085f2592d1e125ebc924"
+    }
+  ],
+  "contact_classification": {
+    "refrigerator": "Remaining moving contacts are hinge pin to moving bearing/leaf and soft closed gasket to cabinet. Two shelf-back coplanar faces meet cavity back wall; concealed fixed contact, no visible overlay.",
+    "washing_machine": "Remaining moving contacts are coaxial axle to barrel/fork. Previously blocking water inlet, bridge, deck and supply-hose intersections resolved."
+  },
+  "limits": [
+    "61 sampled opening poses are not continuous collision proof",
+    "Uniform-density COM is geometric proxy, not engineered mass simulation",
+    "Canonical images and exact release candidate still require separate independent approval"
+  ],
+  "blocking_findings": [],
+  "canonical_render_executed": false,
+  "publication_executed": false,
+  "authorizes": "Exact refrigerator7 and washer7 pass geometry/cheap-view gate. Frozen-standard photography may proceed under parent allocation. Washer6 images superseded; final all-image and package acceptance pending."
+}

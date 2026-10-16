@@ -1,0 +1,234 @@
+{
+  "decision": "PASS",
+  "scope": "All28 exact hash-bound canonical files,1200px JPEG, unchanged core and512sample ceiling; independent visual review separate.",
+  "core_hashes": {
+    "render.py": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+    "standard.json": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa"
+  },
+  "views": [
+    {
+      "asset": "refrigerator",
+      "view": "preview",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch09a/generators/preview_standard_v1/repo/assets/refrigerator/preview.jpg",
+      "image_sha256": "992ac169dde569a261693ead0e2ad237a7cc7ae08a304214c66a38f608ce553c",
+      "record_sha256": "c0f6f737f766b1735fd518d5154904c1a7b5a511a8f1a1e22fd4592e925537dd",
+      "bytes": 94871
+    },
+    {
+      "asset": "refrigerator",
+      "view": "back",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch09a/generators/preview_standard_v1/repo/assets/refrigerator/back.jpg",
+      "image_sha256": "1dd2a4bf65354bf31fe2d2113a3171cec1ce00ce1944a2ad7b6e39b5563685a5",
+      "record_sha256": "6f1e4a1979c4f5aa13ff60e3adba4a6e22089d9500330c6cedf6213f78daec1b",
+      "bytes": 105658
+    },
+    {
+      "asset": "refrigerator",
+      "view": "front",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch09a/generators/preview_standard_v1/repo/assets/refrigerator/front.jpg",
+      "image_sha256": "ddf5cae810e02d10ae2e2cfd3b9910e6168332363d38074a323638900513c6e3",
+      "record_sha256": "152d2ad5abc6cb6edc00282d9fea93cb1fd4c948e4737728db9a8bb790e12182",
+      "bytes": 65409
+    },
+    {
+      "asset": "refrigerator",
+      "view": "rear",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch09a/generators/preview_standard_v1/repo/assets/refrigerator/rear.jpg",
+      "image_sha256": "4f26bb3ff40ba5c8a1b5546b0f0b9128b5bb48eb974db45961def1e7a3675286",
+      "record_sha256": "c6a6b268ceabfaf64e61ac4ccbdfc20d64070cfb3acde9145038a708df45ddf2",
+      "bytes": 75055
+    },
+    {
+      "asset": "refrigerator",
+      "view": "side",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch09a/generators/preview_standard_v1/repo/assets/refrigerator/side.jpg",
+      "image_sha256": "1b58747b1419bfc8c3cd2381a760c27b0abbf4da46cd9370962724167145cc53",
+      "record_sha256": "495999963b61f3500925f4fe49b45f52ecf780d6431c5faecb9360c99a40f7b3",
+      "bytes": 70015
+    },
+    {
+      "asset": "refrigerator",
+      "view": "left",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch09a/generators/preview_standard_v1/repo/assets/refrigerator/left.jpg",
+      "image_sha256": "f00c5e9900778a9e3295a3a9529a9f320d31b133cc301724d8a4e35bb2f8d9d8",
+      "record_sha256": "183628404403313bf364683ec024d128822e90b2037598cab0b838f1b2424483",
+      "bytes": 70905
+    },
+    {
+      "asset": "refrigerator",
+      "view": "top",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch09a/generators/preview_standard_v1/repo/assets/refrigerator/top.jpg",
+      "image_sha256": "8ac9cfd8b38e1134060989b3f58abf9156dfef2ccfc973e38957e81e829f5885",
+      "record_sha256": "0bf8699dc295fe1c11d7c4c595ee7defb4dfdfe5d0a83a2faee61dbe8525d555",
+      "bytes": 112688
+    },
+    {
+      "asset": "refrigerator",
+      "view": "underside",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch09a/generators/preview_standard_v1/repo/assets/refrigerator/underside.jpg",
+      "image_sha256": "5e2f59ddd348e5867a23aeac69ee5f2a57e452b9e8bcc61de368fce746c7c119",
+      "record_sha256": "473a9ebd30d797eabe8a2fa4b984f5e66fb6bc1f13e02f3600d90d68a10f8a8e",
+      "bytes": 91590
+    },
+    {
+      "asset": "refrigerator",
+      "view": "close_up",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch09a/generators/preview_standard_v1/repo/assets/refrigerator/close_up.jpg",
+      "image_sha256": "c8927e4102b1ad9d5c1f29ef176b369265cdab1a7fbce3ce49e5c6e645820d26",
+      "record_sha256": "1f5f7fdbc019361e37da93a9659ca9d54c3ec9ee0314394ee3dba1340f8c8535",
+      "bytes": 92498
+    },
+    {
+      "asset": "refrigerator",
+      "view": "underside_detail",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch09a/generators/preview_standard_v1/repo/assets/refrigerator/underside_detail.jpg",
+      "image_sha256": "b2bfb3493c73fdb7499f4d29bc5e590278004b2cc14bc96ac5ba1e5b3e29714f",
+      "record_sha256": "ae6c3ae357e82d0b64d55b7b9bfc20a9e9a4cb100382342a620dd9743ad202d8",
+      "bytes": 121173
+    },
+    {
+      "asset": "refrigerator",
+      "view": "alternate_light",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch09a/generators/preview_standard_v1/repo/assets/refrigerator/alternate_light.jpg",
+      "image_sha256": "18de8f8f6c4cd2cd8fbce0f828040959b408e02a13ddb35a6bbf93e237659f7f",
+      "record_sha256": "e54f502b9e4fec8ae1bd80c0ace460227d80851eae1b7bbf1449596e6d76fc4a",
+      "bytes": 98437
+    },
+    {
+      "asset": "refrigerator",
+      "view": "vent_detail",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch09a/generators/preview_standard_v1/repo/assets/refrigerator/vent_detail.jpg",
+      "image_sha256": "6bfb173654ab6b09051f6d2733ea84ec04a479c7ac0f8b62190c8f6c03cdeae4",
+      "record_sha256": "62fd0469c1c16f503e8ac6de49c055ed2c72ef50c48f00e538cac34932457d6b",
+      "bytes": 156305
+    },
+    {
+      "asset": "refrigerator_open",
+      "view": "open",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch09a/generators/preview_standard_v1/repo/evidence/poses/refrigerator/open.jpg",
+      "image_sha256": "5b507cb4b9d3456e6e0be95779519e8198112e236780b49b260ef9683c77ecc1",
+      "record_sha256": "9f6abb55fd8ad6c94a1f1c0bd917b1250b6cf225a4b52a34fbb429db3ef3cf60",
+      "bytes": 143348
+    },
+    {
+      "asset": "refrigerator_open",
+      "view": "interior",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch09a/generators/preview_standard_v1/repo/evidence/poses/refrigerator/interior.jpg",
+      "image_sha256": "b3a1e4fca8841bfec184b943b6d185f0eb2abadd30903feab541c60400aaf533",
+      "record_sha256": "62055570e2f3ad83a5172d913994eb3145ec606c642b92672343f0e7f78b93d2",
+      "bytes": 150934
+    },
+    {
+      "asset": "washing_machine",
+      "view": "preview",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch09a/generators/preview_standard_v1/repo/assets/washing_machine/preview.jpg",
+      "image_sha256": "81670433426777e19b11ac3c4eb5ccd3ff5c6f4306ea19e9568d1ea41f87a0d9",
+      "record_sha256": "2872b5fca412dfe2ffb078692801e78036e21af03756bc8c7e67786f1693b064",
+      "bytes": 107610
+    },
+    {
+      "asset": "washing_machine",
+      "view": "back",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch09a/generators/preview_standard_v1/repo/assets/washing_machine/back.jpg",
+      "image_sha256": "7d0ebc232184f1c6ee8bb22ae02399986753e522c835e95afbb5ba400b305fa2",
+      "record_sha256": "9eed6050c16e2709038a18654962d0102b5a17e4d4228b1369b142f8c2e04b1e",
+      "bytes": 113699
+    },
+    {
+      "asset": "washing_machine",
+      "view": "front",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch09a/generators/preview_standard_v1/repo/assets/washing_machine/front.jpg",
+      "image_sha256": "03a60b7698d1f3313669a95a0b4daecee3fcd8245bbdd0173c4d2fe3ed21e22b",
+      "record_sha256": "2e448ef595b8ba4dda94055bb2592b4852d2842f94c0669a13578daf7fdcb232",
+      "bytes": 73805
+    },
+    {
+      "asset": "washing_machine",
+      "view": "rear",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch09a/generators/preview_standard_v1/repo/assets/washing_machine/rear.jpg",
+      "image_sha256": "61fbac0e214b8eadc23deff6b30ef5835f4ac292be38e986253979250f4f88d1",
+      "record_sha256": "0dda730df42094184d792ad1a44ecd562d0dd1303717ff520476c2b9b18d0be2",
+      "bytes": 86535
+    },
+    {
+      "asset": "washing_machine",
+      "view": "side",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch09a/generators/preview_standard_v1/repo/assets/washing_machine/side.jpg",
+      "image_sha256": "b0bee6f120f219d9e87028d68fdd3f6a8449e1e403c41aa8f25037ee0ae87350",
+      "record_sha256": "46be22ba8591148200fc644141d34125a314c3bd6c5896662ed2a214c2e55230",
+      "bytes": 77099
+    },
+    {
+      "asset": "washing_machine",
+      "view": "left",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch09a/generators/preview_standard_v1/repo/assets/washing_machine/left.jpg",
+      "image_sha256": "d3ae77f1b045a7fe293190d934f31b731dbbbb9c8d7400141ff9feb5890dff10",
+      "record_sha256": "aa27851e1b407acf9a4fd5482954f563fcf15bd04415f98e655f01646c265713",
+      "bytes": 76830
+    },
+    {
+      "asset": "washing_machine",
+      "view": "top",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch09a/generators/preview_standard_v1/repo/assets/washing_machine/top.jpg",
+      "image_sha256": "425af74f3fb4973ffff2dd7c60a7d2c689a25f92b9e64e9bbd73d1c0ba74fa17",
+      "record_sha256": "563c07945afedf436dbd455736a36c72312861c2037ed6cf922fdbd91827fea1",
+      "bytes": 126170
+    },
+    {
+      "asset": "washing_machine",
+      "view": "underside",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch09a/generators/preview_standard_v1/repo/assets/washing_machine/underside.jpg",
+      "image_sha256": "0b6b3645e2607f515114f2af5c9b5df4f45da7a23f989e431e4a9bd15971260a",
+      "record_sha256": "5bb2ccbad9ad5cc66002bfc653972397eaa75cdbb61e483ff63721839ad029c3",
+      "bytes": 81909
+    },
+    {
+      "asset": "washing_machine",
+      "view": "close_up",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch09a/generators/preview_standard_v1/repo/assets/washing_machine/close_up.jpg",
+      "image_sha256": "e1541ed5bb06945ec9ce4c03249d2fe0eb747d3810ce18164a58a6fdfc5e010b",
+      "record_sha256": "4348375b5bd9d89d4e53f451d6d5e4eae87aa6e81600c91f7976e255afcc44c8",
+      "bytes": 100752
+    },
+    {
+      "asset": "washing_machine",
+      "view": "underside_detail",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch09a/generators/preview_standard_v1/repo/assets/washing_machine/underside_detail.jpg",
+      "image_sha256": "ab437eab2d4d7bb4235ea4ac2fe5298039a504606d68fc1f40ea5a6a03ad94dc",
+      "record_sha256": "6a6caeef2138251558f3a3cd875390ece14d69cdb3038c3dbb162866c45cf867",
+      "bytes": 96723
+    },
+    {
+      "asset": "washing_machine",
+      "view": "alternate_light",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch09a/generators/preview_standard_v1/repo/assets/washing_machine/alternate_light.jpg",
+      "image_sha256": "32dc56fce0c769fd8eb88374b67698dc4c283274fd2ba2dd5242d8ac5d490821",
+      "record_sha256": "3e495c50e780e9e49d1f8aeeee075c15da3100a76956ed1f9307270f524fe6b6",
+      "bytes": 112487
+    },
+    {
+      "asset": "washing_machine",
+      "view": "vent_detail",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch09a/generators/preview_standard_v1/repo/assets/washing_machine/vent_detail.jpg",
+      "image_sha256": "7ab2f031e9719a86d4a7ffd2b094dab5822441d4363b5bf63d09bf49476751fe",
+      "record_sha256": "5fd672e38d7876917a5022bcffff23e619f4789a0f19c8e5b0289192ff4b6603",
+      "bytes": 100091
+    },
+    {
+      "asset": "washing_machine_open",
+      "view": "open",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch09a/generators/preview_standard_v1/repo/evidence/poses/washing_machine/open.jpg",
+      "image_sha256": "81d73fcacefc9c90548e94aa63383eb2ce2bd7037663a764530298f5cac9b2fd",
+      "record_sha256": "38a6a110e83be8953798836b7ed59966594c76a4620aa308c9fbc7b6b159e7cc",
+      "bytes": 108004
+    },
+    {
+      "asset": "washing_machine_open",
+      "view": "interior",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch09a/generators/preview_standard_v1/repo/evidence/poses/washing_machine/interior.jpg",
+      "image_sha256": "aad07ca24bb25d6359e7b17ded5ec3f970610df447685d5bc6bc1225a0bff041",
+      "record_sha256": "e9b8236cb5a94f33f7365b1938020944827be179f8cc68e8a9415ca23b893e22",
+      "bytes": 226117
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "refrigerator",
+    "title_ja": "冷蔵庫",
+    "category": "appliances",
+    "description": "白い塗装鋼板の二ドア冷蔵庫。上部冷蔵室、下部冷凍室、棚と収納ポケット、パッキンを備えた開閉扉。 保存時の全体寸法は約51.3×69.9×122.4cm（コード・金具を含む）。ドアは0〜100度の可視化用アニメーション。電気・冷却・給排水・安全機構の動作や認証は再現していません。",
+    "units": "meter",
+    "up_axis_blend": "Z",
+    "up_axis_glb": "Y",
+    "front_blend": "-Y",
+    "origin": "lowest support at ground plane",
+    "triangles": 24106,
+    "dimensions_m": [
+      0.5125000029802322,
+      0.6987689137458801,
+      1.2239999771118164
+    ],
+    "blend_bytes": 243635,
+    "glb_bytes": 802736,
+    "validated": true,
+    "geometry_validated": true,
+    "status": "Independent geometry, full canonical photography and exact source package gates passed",
+    "photography": {
+      "standard": "preview_standard_v1",
+      "views": [
+        "preview",
+        "back",
+        "front",
+        "rear",
+        "side",
+        "left",
+        "top",
+        "underside",
+        "close_up",
+        "underside_detail",
+        "alternate_light",
+        "vent_detail",
+        "open",
+        "interior"
+      ]
+    },
+    "independent_review": {
+      "technical_status": "approved",
+      "scope": "Independent saved geometry, canonical photography and exact source package acceptance. Visual diorama model with illustrative hinge animation; no electrical or safety certification.",
+      "report": "reviews/large_appliances_integration/source_package_approval.json",
+      "report_sha256": "6d612ad81a377819250350ded9e527568c835502dacc1a83f06444853c693c26",
+      "source_manifest_sha256": "074375e5f361e608656f29fbe1f67bcaeffd1b2215bdf2f492f1916bf711cfca",
+      "path_base": "repository root"
+    },
+    "asset_path": "assets/appliances/refrigerator",
+    "blend_sha256": "78b06cd2634ce9da8f490db02d739017dbd408f777a3d7f35f312647fef153b9",
+    "glb_sha256": "1eb7808c836090ffe44e9d203430026c3e0d9b1d91967f534986f5c76dc0b4c8"
+  },
+  {
+    "id": "washing_machine",
+    "title_ja": "洗濯機",
+    "category": "appliances",
+    "description": "白い鋼板とアイボリー樹脂の縦型洗濯機。開閉ふた、ステンレス槽、パルセータ、給排水ホースと操作部。 保存時の全体寸法は約72.9×63.1×91.8cm（コード・金具を含む）。ふたは0〜105度の可視化用アニメーション。電気・冷却・給排水・安全機構の動作や認証は再現していません。",
+    "units": "meter",
+    "up_axis_blend": "Z",
+    "up_axis_glb": "Y",
+    "front_blend": "-Y",
+    "origin": "lowest support at ground plane",
+    "triangles": 46956,
+    "dimensions_m": [
+      0.7290908694267273,
+      0.6313874423503876,
+      0.9176207184791565
+    ],
+    "blend_bytes": 520597,
+    "glb_bytes": 1553876,
+    "validated": true,
+    "geometry_validated": true,
+    "status": "Independent geometry, full canonical photography and exact source package gates passed",
+    "photography": {
+      "standard": "preview_standard_v1",
+      "views": [
+        "preview",
+        "back",
+        "front",
+        "rear",
+        "side",
+        "left",
+        "top",
+        "underside",
+        "close_up",
+        "underside_detail",
+        "alternate_light",
+        "vent_detail",
+        "open",
+        "interior"
+      ]
+    },
+    "independent_review": {
+      "technical_status": "approved",
+      "scope": "Independent saved geometry, canonical photography and exact source package acceptance. Visual diorama model with illustrative hinge animation; no electrical or safety certification.",
+      "report": "reviews/large_appliances_integration/source_package_approval.json",
+      "report_sha256": "6d612ad81a377819250350ded9e527568c835502dacc1a83f06444853c693c26",
+      "source_manifest_sha256": "074375e5f361e608656f29fbe1f67bcaeffd1b2215bdf2f492f1916bf711cfca",
+      "path_base": "repository root"
+    },
+    "asset_path": "assets/appliances/washing_machine",
+    "blend_sha256": "39731d38d9e63eaf9985b12cf635052ee8c723d97cafb3af5f436874440fdcd8",
+    "glb_sha256": "062a5f699da5154500ea6c028e31a76be25d01c2e7af0e084f1ed65be2d6a4ab"
+  }
+]
