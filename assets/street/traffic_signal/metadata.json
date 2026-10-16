@@ -9,12 +9,12 @@
   "origin": "ground plane; approximate footprint center (signal mast base)",
   "style": "lightweight geometry with smooth curved surfaces; solid-color materials; no image textures",
   "blender_version": "4.3.2",
-  "triangles": 7078,
-  "vertices": 6604,
+  "triangles": 10522,
+  "vertices": 8342,
   "dimensions_m": [
-    1.415,
-    0.57,
-    4.9505
+    1.4150000214576721,
+    0.5895985066890717,
+    4.950500011444092
   ],
   "bounds_min": [
     -0.18000000715255737,
@@ -23,10 +23,10 @@
   ],
   "bounds_max": [
     1.2350000143051147,
-    0.18000000715255737,
+    0.1995985209941864,
     4.950500011444092
   ],
-  "notes": "Generic Japanese-style hooded LED signal in red phase. Neutral subtly warm light-gray housing, non-chrome matte galvanized mast. Palette estimated from qualitative photographic reference, not measured albedo. Geometry and lamp layout unchanged.",
+  "notes": "Generic Japanese-style hooded LED signal in red phase. Neutral subtly warm light-gray housing, non-chrome matte galvanized mast. Palette estimated from qualitative photographic reference, not measured albedo. Lamp layout and palette preserved; rear cable geometry revised. Attachment/contact revision. Dimensions remain artist estimates; geometric tests are not manufacturing or safety certification.",
   "reference_urls": [
     "https://sales.signal.co.jp/traffic_signal/",
     "https://www.nippon-tsushin.jp/wp/wp-content/themes/nippontsushin/file/business/electric/singou.pdf",
@@ -34,8 +34,8 @@
     "https://www.police.pref.kanagawa.jp/kotsu/jutai/mesf3025.html",
     "https://signallift1.com/traffic/tokyo/led/ns-horizontal/thin4_ed1151a/"
   ],
-  "glb_bytes": 295036,
-  "blend_bytes": 143649,
+  "glb_bytes": 379888,
+  "blend_bytes": 190146,
   "validated": true,
   "palette_revision": {
     "housing_linear_rgb": [
@@ -51,6 +51,45 @@
     "housing_roughness": 0.72,
     "mast_roughness": 0.86,
     "mast_metallic": 0.35,
-    "geometry_sha256": "d699ef2edfb2183e1158cdb80e25e168de478443dfe14ff52b18f5e77009edef"
-  }
+    "historical_palette_input_geometry_sha256": "d699ef2edfb2183e1158cdb80e25e168de478443dfe14ff52b18f5e77009edef"
+  },
+  "zero_area_triangles": 0,
+  "finite_coordinates": true,
+  "review_status": "approved_bounded_functional",
+  "attachment_revision": {
+    "baseline_sha256": "48eae1558590d0877f9e2ba96a80bcc5c8c70729b2d0d178395b877ef3fd2162",
+    "changes": [
+      "Floating rear conduit replaced by flexible cable connected to underside of support arm and rear cover gland, following photographed rear cable loop.",
+      "Rear gasket, cover and screws shifted 3 mm toward housing to seat gasket; screw heads seated a further 1 mm into cover. Palette and lamp phases preserved."
+    ],
+    "material_parameters_exactly_preserved": true
+  },
+  "reviewed_binary_hashes": {
+    "blend": {
+      "sha256": "5078e37462a9c1949014713130fd4b4fd1c91220055769a4d28f981a9cd6be6d",
+      "bytes": 190146,
+      "git_blob": "7a2403cedeb283d60d07810bb952e1a23447d197"
+    },
+    "glb": {
+      "sha256": "751b558f1dbdae7914d550336901992d7bb47977594206d99bf2f5850154623f",
+      "bytes": 379888,
+      "git_blob": "6d8fdc5acdf500a80bbe70e8a7913cd179fed22f"
+    }
+  },
+  "files_bytes": {
+    "back.jpg": 62147,
+    "base.jpg": 96871,
+    "close_up.jpg": 92450,
+    "detail.jpg": 92450,
+    "front_three_quarter.jpg": 43190,
+    "preview.jpg": 43190,
+    "rear.jpg": 62147,
+    "traffic_signal.blend": 190146,
+    "traffic_signal.glb": 379888
+  },
+  "functional_evidence": "../../../generators/street_attachment_revision/functional/validation.json",
+  "construction_notes": "../../../generators/street_attachment_revision/docs/attachment-revision.md",
+  "vertices_blend": 8342,
+  "vertices_glb": 10785,
+  "assembly_evidence": "../../../generators/street_attachment_revision/functional/assembly_test.json"
 }

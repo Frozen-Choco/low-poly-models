@@ -2,8 +2,8 @@
   "id": "railway_crossing_lowered",
   "title_ja": "踏切警報機・遮断機（下降）",
   "category": "street",
-  "glb_bytes": 1431316,
-  "blend_bytes": 315995,
+  "glb_bytes": 1494440,
+  "blend_bytes": 325555,
   "units": "meters",
   "front_blend": "-Y",
   "up_blend": "Z",
@@ -14,11 +14,11 @@
     "https://www.kyosan.co.jp/product/pdf/signal06_01.pdf",
     "https://www.mlit.go.jp/english/2006/h_railway_bureau/Laws_concerning/14.pdf"
   ],
-  "notes": "One roadside warning mast with yellow-black crossmark, paired hooded red warning lamps, sounder, rear conduit, plus separate gray electric barrier pedestal and 4 m tapered striped boom. Static LOWERED horizontal state, left lamp red lit and right lamp dark. No animation, opposite gate, road, rails, direction arrow or emergency button. Generic inferred dimensions; not a measured product or safety-certified replica.",
+  "notes": "One roadside warning mast with yellow-black crossmark, paired hooded red warning lamps, sounder, rear conduit, plus separate gray electric barrier pedestal and 4 m tapered striped boom. Static LOWERED horizontal state, left lamp red lit and right lamp dark. No animation, opposite gate, road, rails, direction arrow or emergency button. Generic inferred dimensions; not a measured product or safety-certified replica. Attachment/contact revision. Dimensions remain artist estimates; geometric tests are not manufacturing or safety certification.",
   "blender_version": "4.3.2",
   "textures": "none; all PBR materials embedded",
-  "review_status": "approved",
-  "triangles": 40296,
+  "review_status": "approved_bounded_functional",
+  "triangles": 42452,
   "zero_area_triangles": 0,
   "finite_coordinates": true,
   "bounds_min": [
@@ -27,23 +27,51 @@
     0.0
   ],
   "bounds_max": [
-    4.670000076293945,
+    4.769999980926514,
     0.28999999165534973,
     3.788802146911621
   ],
   "dimensions_m": [
-    5.181000113487244,
+    5.281000018119812,
     0.7150000035762787,
     3.788802146911621
   ],
   "files_bytes": {
-    "preview.jpg": 59245,
-    "railway_crossing_lowered.blend": 315995,
-    "front_three_quarter.jpg": 59245,
-    "rear.jpg": 61203,
-    "back.jpg": 61203,
-    "close_up.jpg": 101407,
-    "railway_crossing_lowered.glb": 1431316
+    "back.jpg": 90115,
+    "base.jpg": 130865,
+    "close_up.jpg": 139677,
+    "detail.jpg": 139677,
+    "front_three_quarter.jpg": 82698,
+    "preview.jpg": 82698,
+    "railway_crossing_lowered.blend": 325555,
+    "railway_crossing_lowered.glb": 1494440,
+    "rear.jpg": 90115
   },
-  "review_scope": "Independent multi-view/contextual-lighting, construction/material, saved-file and source-scope review."
+  "attachment_revision": {
+    "baseline_sha256": "9785c6d533c3f739576bc337dfc1d272cb957874808cfee71937be7ba899528c",
+    "changes": [
+      "Mast bottom ring extended down 10 mm to contact base plate; all upper bands and attachments preserved.",
+      "Crossbuck mounting plate and two U-bolts added using documented manufacturer attachment principle; artist-estimated dimensions.",
+      "Complete separate barrier foundation, drive, pivot and boom assembly translated 100 mm outward to clear warning lamp hood through conventional upright diagnostic."
+    ],
+    "material_parameters_exactly_preserved": true
+  },
+  "reviewed_binary_hashes": {
+    "blend": {
+      "sha256": "6eb873ac7febb446cf57c394604588b7833d302366ce9a7905a3f28914c71519",
+      "bytes": 325555,
+      "git_blob": "21b8f3845b6ae2ce9d970b3e94774d3880a0ff7d"
+    },
+    "glb": {
+      "sha256": "71c349cabcce6cdae3b3b4bed14d665b5e99c9f0a11d310a074a2885ba78e20b",
+      "bytes": 1494440,
+      "git_blob": "2b81c545c2eda2c938307b62a459ae972ee8b822"
+    }
+  },
+  "functional_evidence": "../../../generators/street_attachment_revision/functional/validation.json",
+  "construction_notes": "../../../generators/street_attachment_revision/docs/attachment-revision.md",
+  "vertices": 21532,
+  "vertices_blend": 21532,
+  "vertices_glb": 46571,
+  "assembly_evidence": "../../../generators/street_attachment_revision/functional/assembly_test.json"
 }

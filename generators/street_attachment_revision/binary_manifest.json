@@ -1,0 +1,30 @@
+[
+  {
+    "path": "assets/street/railway_crossing_lowered/railway_crossing_lowered.blend",
+    "bytes": 325555,
+    "sha256": "6eb873ac7febb446cf57c394604588b7833d302366ce9a7905a3f28914c71519",
+    "git_blob": "21b8f3845b6ae2ce9d970b3e94774d3880a0ff7d",
+    "path_scope": "repository root"
+  },
+  {
+    "path": "assets/street/railway_crossing_lowered/railway_crossing_lowered.glb",
+    "bytes": 1494440,
+    "sha256": "71c349cabcce6cdae3b3b4bed14d665b5e99c9f0a11d310a074a2885ba78e20b",
+    "git_blob": "2b81c545c2eda2c938307b62a459ae972ee8b822",
+    "path_scope": "repository root"
+  },
+  {
+    "path": "assets/street/traffic_signal/traffic_signal.blend",
+    "bytes": 190146,
+    "sha256": "5078e37462a9c1949014713130fd4b4fd1c91220055769a4d28f981a9cd6be6d",
+    "git_blob": "7a2403cedeb283d60d07810bb952e1a23447d197",
+    "path_scope": "repository root"
+  },
+  {
+    "path": "assets/street/traffic_signal/traffic_signal.glb",
+    "bytes": 379888,
+    "sha256": "751b558f1dbdae7914d550336901992d7bb47977594206d99bf2f5850154623f",
+    "git_blob": "6d8fdc5acdf500a80bbe70e8a7913cd179fed22f",
+    "path_scope": "repository root"
+  }
+]

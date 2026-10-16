@@ -26,8 +26,8 @@
 | [木製テーブル](assets/furniture/oak_table) | 616 | 56.3 KB | 99.2 KB | 1.2 × 0.7 × 0.75 |
 | [オープンシェルフ](assets/furniture/open_shelf) | 2,088 | 145.5 KB | 107.1 KB | 0.905 × 0.3715 × 1.51 |
 | [マグカップ](assets/household/mug) | 1,684 | 40.1 KB | 110.3 KB | 0.123 × 0.086 × 0.108 |
-| [横型信号機](assets/street/traffic_signal) | 7,078 | 295.0 KB | 143.6 KB | 1.415 × 0.57 × 4.9505 |
-| [踏切警報機・遮断機（下降）](assets/street/railway_crossing_lowered) | 40,296 | 1431.3 KB | 316.0 KB | 5.181 × 0.715 × 3.789 |
+| [横型信号機](assets/street/traffic_signal) | 10,522 | 379.9 KB | 190.1 KB | 1.4150 × 0.5896 × 4.9505 |
+| [踏切警報機・遮断機（下降）](assets/street/railway_crossing_lowered) | 42,452 | 1494.4 KB | 325.6 KB | 5.2810 × 0.7150 × 3.7888 |
 | [公共用分別回収ボックス](assets/street/public_recycling_bin) | 14,708 | 773.2 KB | 197.3 KB | 0.480 × 0.489 × 1.018 |
 
 ## プレビューとファイル
@@ -62,11 +62,11 @@
 
 [GLB](assets/street/traffic_signal/traffic_signal.glb) · [Blend](assets/street/traffic_signal/traffic_signal.blend) · [背面画像](assets/street/traffic_signal/back.jpg) · [メタデータ](assets/street/traffic_signal/metadata.json)
 
-### 信号機の接写
+### 信号機の背面接続部
 
-![信号機の曲面・レンズ・塗装](assets/street/traffic_signal/detail.jpg)
+![信号機の背面ケーブルとサービスカバー](assets/street/traffic_signal/detail.jpg)
 
-明るさを抑えたライトグレーの塗装筐体・高粗さの金属支柱・暗い光学ベース・個別のLED配列・黒い保持リングを分けています。支柱はクロームのような強い鏡面反射を抑え、ライトは赤点灯／青・黄消灯を区別しています。フード付きの汎用モデルで、特定製品の複製ではありません。国内灯器の白い外装・LED配列の参考：[日本信号の製品写真](https://sales.signal.co.jp/traffic_signal/)。寸法・材質の参考：[日本通信電材の製品資料](https://www.nippon-tsushin.jp/wp/wp-content/themes/nippontsushin/file/business/electric/singou.pdf)。資料の製品はフードレスで、本モデルとは構造が異なります。
+上の写真は修正した背面接続部です。モデル全体では、明るさを抑えたライトグレーの塗装筐体・高粗さの金属支柱・暗い光学ベース・個別のLED配列・黒い保持リングを分けています。支柱はクロームのような強い鏡面反射を抑え、ライトは赤点灯／青・黄消灯を区別しています。フード付きの汎用モデルで、特定製品の複製ではありません。国内灯器の白い外装・LED配列の参考：[日本信号の製品写真](https://sales.signal.co.jp/traffic_signal/)。寸法・材質の参考：[日本通信電材の製品資料](https://www.nippon-tsushin.jp/wp/wp-content/themes/nippontsushin/file/business/electric/singou.pdf)。資料の製品はフードレスで、本モデルとは構造が異なります。
 
 ## 独立レビュー済みの追加モデル
 
@@ -169,3 +169,11 @@ python scripts/update_catalog_readme.py
 [修正内容・現行生成手順](generators/original_function_revision/docs/repair-notes.md) · [棚の比較](generators/original_function_revision/previews/open_shelf_before_after.jpg) · [マグの比較](generators/original_function_revision/previews/mug_before_after.jpg)
 
 棚とマグを再生成する場合は上記の名前付き修正版フォルダでONLY_ASSETS=open_shelf,mugを指定してください。ルートscriptsの初版手順は棚・マグの現行版を再現しないため、現行ファイルの上書きに使用しないでください。
+
+## 信号機・踏切の接続部修正
+
+信号機の背面ケーブル・サービスパネル、踏切の支柱根元と交差板の取り付けを、実物資料をもとに接続し直しました。信号機の配色・点灯状態は維持しています。遮断機の配置も調整し、保存モデルで可動部を含む0〜90度の干渉確認を行いました。静的な下降姿勢のモデルであり、電気的動作や構造強度の認証ではありません。
+
+[現行の修正内容・生成手順](generators/street_attachment_revision/docs/attachment-revision.md)
+
+信号機・踏切の再生成はこの修正版を使用してください。ルートscriptsおよびgenerators/batch02b内の該当モデルの手順・検証画像は旧版履歴です。現行モデルを上書きする用途には使用しないでください。

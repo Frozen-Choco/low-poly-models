@@ -1,0 +1,408 @@
+{
+  "scope": [
+    "traffic_signal",
+    "railway_crossing_lowered"
+  ],
+  "files": [
+    {
+      "repo_relative_path": "assets/street/railway_crossing_lowered/back.jpg",
+      "bytes": 90115,
+      "sha256": "377dc95f519f328a014a8114a10a7bd9c40c809cb399b55bfc8ab03b229fcda5"
+    },
+    {
+      "repo_relative_path": "assets/street/railway_crossing_lowered/base.jpg",
+      "bytes": 130865,
+      "sha256": "ed5aa8a70c1e4eced992c2e54e6f59e694de115ce53a2530616dc575dd08e1ee"
+    },
+    {
+      "repo_relative_path": "assets/street/railway_crossing_lowered/close_up.jpg",
+      "bytes": 139677,
+      "sha256": "a0bc800c8e42fede76da7ce2c921aa12740c76b7cc1a0077570c3882342d2eb2"
+    },
+    {
+      "repo_relative_path": "assets/street/railway_crossing_lowered/detail.jpg",
+      "bytes": 139677,
+      "sha256": "a0bc800c8e42fede76da7ce2c921aa12740c76b7cc1a0077570c3882342d2eb2"
+    },
+    {
+      "repo_relative_path": "assets/street/railway_crossing_lowered/front_three_quarter.jpg",
+      "bytes": 82698,
+      "sha256": "8c1a4753c8d70b6f474e79f0eaa062f7299ea6f34c4975eb9daf079260ac4cb9"
+    },
+    {
+      "repo_relative_path": "assets/street/railway_crossing_lowered/metadata.json",
+      "bytes": 3266,
+      "sha256": "3c898524b9ac90b67f683657bba3438bda5e577812fb692754e7872a669a52ba"
+    },
+    {
+      "repo_relative_path": "assets/street/railway_crossing_lowered/preview.jpg",
+      "bytes": 82698,
+      "sha256": "8c1a4753c8d70b6f474e79f0eaa062f7299ea6f34c4975eb9daf079260ac4cb9"
+    },
+    {
+      "repo_relative_path": "assets/street/railway_crossing_lowered/railway_crossing_lowered.blend",
+      "bytes": 325555,
+      "sha256": "6eb873ac7febb446cf57c394604588b7833d302366ce9a7905a3f28914c71519"
+    },
+    {
+      "repo_relative_path": "assets/street/railway_crossing_lowered/railway_crossing_lowered.glb",
+      "bytes": 1494440,
+      "sha256": "71c349cabcce6cdae3b3b4bed14d665b5e99c9f0a11d310a074a2885ba78e20b"
+    },
+    {
+      "repo_relative_path": "assets/street/railway_crossing_lowered/rear.jpg",
+      "bytes": 90115,
+      "sha256": "377dc95f519f328a014a8114a10a7bd9c40c809cb399b55bfc8ab03b229fcda5"
+    },
+    {
+      "repo_relative_path": "assets/street/traffic_signal/back.jpg",
+      "bytes": 62147,
+      "sha256": "4f390eb14d93d2e101e7cdc6bceea3bbc0da1db55beea8d088614801049a2765"
+    },
+    {
+      "repo_relative_path": "assets/street/traffic_signal/base.jpg",
+      "bytes": 96871,
+      "sha256": "2243910ce64cbd324016c5b3a9cd5186cfa0b637ba739667f52ceb7387ba6a45"
+    },
+    {
+      "repo_relative_path": "assets/street/traffic_signal/close_up.jpg",
+      "bytes": 92450,
+      "sha256": "1ecd7dc5bcf068695820a3a5ff5ad3b2798f6f1345a387a77a7301e807366820"
+    },
+    {
+      "repo_relative_path": "assets/street/traffic_signal/detail.jpg",
+      "bytes": 92450,
+      "sha256": "1ecd7dc5bcf068695820a3a5ff5ad3b2798f6f1345a387a77a7301e807366820"
+    },
+    {
+      "repo_relative_path": "assets/street/traffic_signal/front_three_quarter.jpg",
+      "bytes": 43190,
+      "sha256": "8da23b41ef6321443f9de1e8424bffaf3c44b89ef22caea4ed9934742ffcd2ba"
+    },
+    {
+      "repo_relative_path": "assets/street/traffic_signal/metadata.json",
+      "bytes": 3633,
+      "sha256": "c6ac62330bbe85c6a05546347b5d097d634db3813c3ed8fc08eff65db7a570db"
+    },
+    {
+      "repo_relative_path": "assets/street/traffic_signal/preview.jpg",
+      "bytes": 43190,
+      "sha256": "8da23b41ef6321443f9de1e8424bffaf3c44b89ef22caea4ed9934742ffcd2ba"
+    },
+    {
+      "repo_relative_path": "assets/street/traffic_signal/rear.jpg",
+      "bytes": 62147,
+      "sha256": "4f390eb14d93d2e101e7cdc6bceea3bbc0da1db55beea8d088614801049a2765"
+    },
+    {
+      "repo_relative_path": "assets/street/traffic_signal/traffic_signal.blend",
+      "bytes": 190146,
+      "sha256": "5078e37462a9c1949014713130fd4b4fd1c91220055769a4d28f981a9cd6be6d"
+    },
+    {
+      "repo_relative_path": "assets/street/traffic_signal/traffic_signal.glb",
+      "bytes": 379888,
+      "sha256": "751b558f1dbdae7914d550336901992d7bb47977594206d99bf2f5850154623f"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/baseline/railway_crossing_lowered/metadata.json",
+      "bytes": 1677,
+      "sha256": "be84596af388f6519499545b0f923d8092227a7ca3174c78aa242b151492a9b1"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/baseline/railway_crossing_lowered/railway_crossing_lowered.blend",
+      "bytes": 315995,
+      "sha256": "9785c6d533c3f739576bc337dfc1d272cb957874808cfee71937be7ba899528c"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/baseline/traffic_signal/metadata.json",
+      "bytes": 1740,
+      "sha256": "1363b834e3c29d8aeb0576af70f5ef41cb4632b005d6b22fbf0cb3e187a2e5e6"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/baseline/traffic_signal/traffic_signal.blend",
+      "bytes": 143649,
+      "sha256": "48eae1558590d0877f9e2ba96a80bcc5c8c70729b2d0d178395b877ef3fd2162"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/binary_manifest.json",
+      "bytes": 1132,
+      "sha256": "4e265463ae9a9e047ad208ad712e1b797d619340f88c68cfac05e7ef0cbccbb9"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/docs/attachment-revision.md",
+      "bytes": 7705,
+      "sha256": "fe7fb925e052c28f539c98f8d203740d688cba23dff049fc1663b45aefd18fc8"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/functional/assembly_test.json",
+      "bytes": 1466,
+      "sha256": "e51e0aa96c44a12b76a9766eeba3ac0bd82f194eb6f26c62c6d979bcfa53f7a4"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/functional/railway_crossing_lowered_blend_base.png",
+      "bytes": 542346,
+      "sha256": "6e60d34e3537a5f594a08a97f88b7f308c6fab94753faa7a886cb99dc33513bc"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/functional/railway_crossing_lowered_blend_crossbuck_rear.png",
+      "bytes": 651889,
+      "sha256": "3601e957c7378c778319f0cd33c350032e8141ec064f20eb9fb61a530ec1458c"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/functional/railway_crossing_lowered_blend_front.png",
+      "bytes": 401539,
+      "sha256": "5b5ffc921be2540e5c2f6d435e564f62f7e305ceb92625affbfd423a22c69ef0"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/functional/railway_crossing_lowered_blend_raised.png",
+      "bytes": 544886,
+      "sha256": "c7e74d45d1cd9b3f9f1d531ccf9be208d5a55159917db6c75a0a4f1326b1516b"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/functional/railway_crossing_lowered_blend_rear.png",
+      "bytes": 398380,
+      "sha256": "1f26b78b00e6e08c02292cbe23e4c05abf0b6a9d211d514c9b36079ad9c17f30"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/functional/railway_crossing_lowered_blend_section.png",
+      "bytes": 544450,
+      "sha256": "3ff4ac5e7545397003b61d09a716b5ca89779a8df95969172e301f12ccc81da3"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/functional/railway_crossing_lowered_blend_side.png",
+      "bytes": 388246,
+      "sha256": "0f1be6bcff728f5385e59ab10f92c37f02c77e9cce8bc97397964b39b1d07460"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/functional/railway_crossing_lowered_blend_underside.png",
+      "bytes": 393995,
+      "sha256": "cfae52e270278b6e900c0465ae67003a92d7dcd94374a8b86619bc2d7d74321e"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/functional/railway_crossing_lowered_glb_base.png",
+      "bytes": 613781,
+      "sha256": "63642b68be448e0be91466dc2f81cdd67f525f8f5ab07877da55dba04c7c27cc"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/functional/railway_crossing_lowered_glb_crossbuck_rear.png",
+      "bytes": 747648,
+      "sha256": "8893081b9720eb13a2ab335daf571286dfcad9f8327819d664b758097d458194"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/functional/railway_crossing_lowered_glb_front.png",
+      "bytes": 434801,
+      "sha256": "8616afe6c406351a898f733689e669612f94196b9a2a76a882990ca9249ef915"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/functional/railway_crossing_lowered_glb_raised.png",
+      "bytes": 609651,
+      "sha256": "c30a7b54c59141ed26ae6ff3fedcecb678f9b1f33a653303c4bb92733b6a2a5b"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/functional/railway_crossing_lowered_glb_rear.png",
+      "bytes": 430395,
+      "sha256": "101c97000f3b38ff6abee326f0d585daadb52db550e78c0ab50945b886f78c8e"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/functional/railway_crossing_lowered_glb_section.png",
+      "bytes": 613934,
+      "sha256": "acf4076ca259d4e0d13960ba0646be6161136fed0384ab26ff25e0dfe8015b59"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/functional/railway_crossing_lowered_glb_side.png",
+      "bytes": 419795,
+      "sha256": "d834ea89a4ab66e0e5a23f0138b10b24bb291c4951b2c2286b526e29affb1607"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/functional/railway_crossing_lowered_glb_underside.png",
+      "bytes": 427983,
+      "sha256": "b69efc2ce1e9d545c3a5121c6333830521147152820dc1843ca241055bae061c"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/functional/traffic_signal_blend_cable_contact.png",
+      "bytes": 645390,
+      "sha256": "4abfa78067e256b539c6f26494693c68be7bac12d442b7cbabc567e6da5362c7"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/functional/traffic_signal_blend_front.png",
+      "bytes": 702820,
+      "sha256": "a4a8d3c18d8943551a83c7016047ec1a77b1735489a7c159dcc802c18dfcfeef"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/functional/traffic_signal_blend_rear.png",
+      "bytes": 660885,
+      "sha256": "526bc8dca8831036cdb26491dfc5ece0cb871fa2f5cb2b6387feb9d75d8bf76d"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/functional/traffic_signal_blend_section.png",
+      "bytes": 665282,
+      "sha256": "be970fffe2cc6202bf5a361c0e65a44b93c04ae785a13ba90b5ca8e9c4e73ac2"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/functional/traffic_signal_blend_side.png",
+      "bytes": 545757,
+      "sha256": "fa2b7c62d8f1a5232e82b8e1d0b4f4b971be1a7c44bc4c7a09c52fe07fafc10d"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/functional/traffic_signal_blend_underside.png",
+      "bytes": 500245,
+      "sha256": "fbf841e5e39aa9e30f56bcdb5d35ece60dcf1fd0daa87b436f7e5199673d1742"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/functional/traffic_signal_glb_cable_contact.png",
+      "bytes": 631379,
+      "sha256": "2305981fb148799231518c40bae772114a5b4979143f694eb3c0dfacd8ed7203"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/functional/traffic_signal_glb_front.png",
+      "bytes": 524662,
+      "sha256": "0153a82f176b68fae6db4b8ae33548be07309a853f82b7e4106cf3d1f30fce8f"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/functional/traffic_signal_glb_rear.png",
+      "bytes": 491334,
+      "sha256": "93555a51a2f08fd9992ab62eb062d4259211d1d8483d9984ce6358d62574e4c9"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/functional/traffic_signal_glb_section.png",
+      "bytes": 536381,
+      "sha256": "11e94014afb35cebd500da1459121c891fdcce555f35ac27b0195ff3b9a50b2b"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/functional/traffic_signal_glb_side.png",
+      "bytes": 536139,
+      "sha256": "d45b655298dceb9e3ef9ff444a17670baf8fa184f8e5b0b97ae522072a942ce4"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/functional/traffic_signal_glb_underside.png",
+      "bytes": 493124,
+      "sha256": "74d29572fbdbe4cad8f9a66b8029fd1e934392f37fd6e6596b1db7450ba8ca58"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/functional/validation.json",
+      "bytes": 83930,
+      "sha256": "3ef5a4cb2c8b222b57fc7ccfbdc58c7dc0785549704cef62c741b6b3586e850b"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/previews/railway_crossing_lowered_after_base_neutral.jpg",
+      "bytes": 130865,
+      "sha256": "ed5aa8a70c1e4eced992c2e54e6f59e694de115ce53a2530616dc575dd08e1ee"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/previews/railway_crossing_lowered_after_detail_alternate.jpg",
+      "bytes": 160403,
+      "sha256": "4465292c9107e72115fead10a11b3785100cb9f39bdc83ec7354261b50ebc09a"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/previews/railway_crossing_lowered_after_detail_neutral.jpg",
+      "bytes": 139677,
+      "sha256": "a0bc800c8e42fede76da7ce2c921aa12740c76b7cc1a0077570c3882342d2eb2"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/previews/railway_crossing_lowered_after_front_neutral.jpg",
+      "bytes": 82698,
+      "sha256": "8c1a4753c8d70b6f474e79f0eaa062f7299ea6f34c4975eb9daf079260ac4cb9"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/previews/railway_crossing_lowered_after_rear_neutral.jpg",
+      "bytes": 90115,
+      "sha256": "377dc95f519f328a014a8114a10a7bd9c40c809cb399b55bfc8ab03b229fcda5"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/previews/railway_crossing_lowered_before_base_neutral.jpg",
+      "bytes": 143231,
+      "sha256": "f800b710d84dfa6713287c01593e2faefb73203181261fe9210a460cd445074a"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/previews/railway_crossing_lowered_before_detail_alternate.jpg",
+      "bytes": 156937,
+      "sha256": "9d2a5f50c9cb51697a1caca45544f0b9167300b095952dbe46c66f8cb703fe72"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/previews/railway_crossing_lowered_before_detail_neutral.jpg",
+      "bytes": 136241,
+      "sha256": "5493322833a74dca32161c9f8c04d9650d5f424e05f1c3034ee0c575949e4126"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/previews/traffic_signal_after_base_neutral.jpg",
+      "bytes": 96871,
+      "sha256": "2243910ce64cbd324016c5b3a9cd5186cfa0b637ba739667f52ceb7387ba6a45"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/previews/traffic_signal_after_detail_alternate.jpg",
+      "bytes": 98460,
+      "sha256": "948a274691e4e55a771e21abd957c24d28f8a14e1c644e4129e3330a3788ef17"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/previews/traffic_signal_after_detail_neutral.jpg",
+      "bytes": 92450,
+      "sha256": "1ecd7dc5bcf068695820a3a5ff5ad3b2798f6f1345a387a77a7301e807366820"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/previews/traffic_signal_after_front_neutral.jpg",
+      "bytes": 43190,
+      "sha256": "8da23b41ef6321443f9de1e8424bffaf3c44b89ef22caea4ed9934742ffcd2ba"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/previews/traffic_signal_after_input.sha256",
+      "bytes": 64,
+      "sha256": "25bf735d0d1a6ef6a76dc55725e38915369b4d1dadccae7b53c82c62c1848b95"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/previews/traffic_signal_after_rear_neutral.jpg",
+      "bytes": 62147,
+      "sha256": "4f390eb14d93d2e101e7cdc6bceea3bbc0da1db55beea8d088614801049a2765"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/previews/traffic_signal_before_base_neutral.jpg",
+      "bytes": 96821,
+      "sha256": "92769565c1a78b4c566b7a58e8aa66b738604135b38930a7698a8a250238e29e"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/previews/traffic_signal_before_detail_alternate.jpg",
+      "bytes": 98032,
+      "sha256": "3d612e4f24899b6c80f8e53e954d90b802d53fc200b82cf70167829146431958"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/previews/traffic_signal_before_detail_neutral.jpg",
+      "bytes": 91676,
+      "sha256": "a9da1b4f7be3474a21d98d0812731944db0a17b249171a6dbb752307a72e6ced"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/scripts/additional_views.py",
+      "bytes": 1773,
+      "sha256": "35afddec10220a8f144236401b7e514122a3d1888cd1ce6d8300ef996117b22c"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/scripts/assembly_test.py",
+      "bytes": 2194,
+      "sha256": "0ea7be802dc02d6058abeee40e04ac03875a5f2d5edeac7354718036c633a51d"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/scripts/package.py",
+      "bytes": 1573,
+      "sha256": "21a15194adc9f78f0a690e209811689977200dc1a9fa7e97b2bd75bc0ab865b0"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/scripts/render.py",
+      "bytes": 2865,
+      "sha256": "4615f2154afb1ed33e2a6d829e50968db6a5636f84e56ee991c0c5ae036d4b7b"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/scripts/repair.py",
+      "bytes": 7585,
+      "sha256": "b02a15e925160898945735afa329978eaabb8311c5e938666514dc45b9289fc0"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/scripts/sections.py",
+      "bytes": 1894,
+      "sha256": "3f18602591b3cae48e62e283c5b8c96285008f914927e7df637603a093bd4d37"
+    },
+    {
+      "repo_relative_path": "generators/street_attachment_revision/scripts/validate.py",
+      "bytes": 4973,
+      "sha256": "cd4072dee07aa4785dde1e9df39fb5245de8cbf95882c209d712008ebefc843f"
+    }
+  ]
+}

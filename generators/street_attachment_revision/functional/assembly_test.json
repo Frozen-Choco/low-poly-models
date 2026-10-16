@@ -1,0 +1,48 @@
+{
+  "traffic_signal": {
+    "blend": {
+      "sha256": "5078e37462a9c1949014713130fd4b4fd1c91220055769a4d28f981a9cd6be6d",
+      "triangles": 10522,
+      "zero_area_triangles": [],
+      "finite": true
+    },
+    "glb": {
+      "sha256": "751b558f1dbdae7914d550336901992d7bb47977594206d99bf2f5850154623f",
+      "triangles": 10522,
+      "zero_area_triangles": [],
+      "finite": true
+    }
+  },
+  "railway_crossing_lowered": {
+    "blend": {
+      "sha256": "6eb873ac7febb446cf57c394604588b7833d302366ce9a7905a3f28914c71519",
+      "triangles": 42452,
+      "zero_area_triangles": [],
+      "finite": true,
+      "moving_parts": [
+        "Boom pivot hub",
+        "Boom socket clamp",
+        "Four metre tapered lowered striped boom",
+        "Boom clamp bolt",
+        "Boom clamp bolt.001"
+      ],
+      "shaft_contact_excluded": "Drive shaft intentionally couples to rotating hub",
+      "full_assembly_361_pose_intersections": []
+    },
+    "glb": {
+      "sha256": "71c349cabcce6cdae3b3b4bed14d665b5e99c9f0a11d310a074a2885ba78e20b",
+      "triangles": 42452,
+      "zero_area_triangles": [],
+      "finite": true,
+      "moving_parts": [
+        "Boom clamp bolt",
+        "Boom clamp bolt.001",
+        "Boom pivot hub",
+        "Boom socket clamp",
+        "Four metre tapered lowered striped boom"
+      ],
+      "shaft_contact_excluded": "Drive shaft intentionally couples to rotating hub",
+      "full_assembly_361_pose_intersections": []
+    }
+  }
+}
