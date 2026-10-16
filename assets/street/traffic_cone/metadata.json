@@ -1,6 +1,6 @@
 {
   "id": "traffic_cone",
-  "title_ja": "中空・積み重ね可能な三角コーン",
+  "title_ja": "三角コーン",
   "category": "street",
   "units": "meters",
   "dimensions_m": [
