@@ -1,6 +1,6 @@
 # Low-poly diorama models
 
-現実世界のジオラマに配置するための、形状の自然さと素材の違いを保った、軽量なオリジナル小物集です。現在16モデル。目標は合計1,000モデルです。
+現実世界のジオラマに配置するための、形状の自然さと素材の違いを保った、軽量なオリジナル小物集です。現在19モデル。目標は合計1,000モデルです。
 
 ## 制作基準
 
@@ -197,3 +197,15 @@ generators/batch02bにある旧回収ボックスの生成・検証内容は履�
 汎用的な道路小物です。寸法は参考値で、施工図や認定製品の複製ではありません。確認画像には若干のサンプリングノイズがあります。
 
 [生成・検証手順](generators/pavement_function_revision/README.md) · [検証結果](generators/pavement_function_revision/validation.json)
+
+## 追加モデル：梱包箱・ホチキス・クリップボード
+
+実物の梱包方法やメーカー資料に照らし、箱の上下フラップとテープ、ホチキスの押下位置、クリップと紙の接触・開く空間を独立レビューで確認しています。
+
+- [A4クリップボード](assets/household/a4_clipboard)：5,524三角形、GLB 910,908 bytes
+- [オフィス用ホチキス](assets/household/office_stapler)：18,232三角形、GLB 1,484,696 bytes
+- [梱包用段ボール箱](assets/household/taped_shipping_box)：5,736三角形、GLB 766,796 bytes
+
+静的な汎用小物です。紙・ばねの弾性や実際の針打ち動作を物理シミュレーションするものではありません。
+
+[参照資料・使用検証と生成手順](generators/batch04b/README.md)

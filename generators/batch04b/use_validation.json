@@ -1,0 +1,38 @@
+[
+  {
+    "id": "taped_shipping_box",
+    "checks": {
+      "bottom_tape_exposed": true,
+      "top_tape_above_box": true,
+      "manufacturer_joint_present": true
+    },
+    "all_pass": true
+  },
+  {
+    "id": "office_stapler",
+    "checks": {
+      "driver_and_anvil_center_aligned": true,
+      "paper_entry_clearance_over_4mm": true,
+      "hinge_transverse": true
+    },
+    "all_pass": true
+  },
+  {
+    "id": "a4_clipboard",
+    "checks": {
+      "paper_supported": true,
+      "pad_contacts_paper": true,
+      "paper_clear_of_rivets": true
+    },
+    "all_pass": true
+  },
+  {
+    "id": "office_stapler_press",
+    "checks": {
+      "pressed_driver_over_anvil": true,
+      "pressed_driver_not_through_anvil": true,
+      "pressed_magazine_clear_of_base": true
+    },
+    "all_pass": true
+  }
+]

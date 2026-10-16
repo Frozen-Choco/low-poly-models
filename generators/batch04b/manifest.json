@@ -1,0 +1,346 @@
+{
+  "files": [
+    {
+      "source_path": "README.md",
+      "repo_relative_path": "generators/batch04b/README.md",
+      "bytes": 2202,
+      "sha256": "136073c490875b4240690be51b66a0289bd9432933659c09081bc2a4813e9985"
+    },
+    {
+      "source_path": "assets/a4_clipboard/a4_clipboard.blend",
+      "repo_relative_path": "assets/household/a4_clipboard/a4_clipboard.blend",
+      "bytes": 885016,
+      "sha256": "7255453d0c939eb02ea5d0b438bda220feba137b064dc7d2e717c2b6a0d1cb25"
+    },
+    {
+      "source_path": "assets/a4_clipboard/a4_clipboard.glb",
+      "repo_relative_path": "assets/household/a4_clipboard/a4_clipboard.glb",
+      "bytes": 910908,
+      "sha256": "0381ec78b5f37da58e44ebc7af70890cc2025f612b58d56c6c492c3c1f83ef6c"
+    },
+    {
+      "source_path": "assets/a4_clipboard/back.jpg",
+      "repo_relative_path": "assets/household/a4_clipboard/back.jpg",
+      "bytes": 73101,
+      "sha256": "2f076675a405fe3aba12388ce51cb8afeebe6d35a2fc0bc958e8b4f31327a1c2"
+    },
+    {
+      "source_path": "assets/a4_clipboard/close_up.jpg",
+      "repo_relative_path": "assets/household/a4_clipboard/close_up.jpg",
+      "bytes": 87358,
+      "sha256": "805b3b45236d096f11758c5a563bf946c9536eac081510f7ef8cd1129e71fad0"
+    },
+    {
+      "source_path": "assets/a4_clipboard/detail.jpg",
+      "repo_relative_path": "assets/household/a4_clipboard/detail.jpg",
+      "bytes": 83944,
+      "sha256": "90a3b7758dbeb89b374ad0b546fa624a52b92f09c579a01dc514e781e3175b41"
+    },
+    {
+      "source_path": "assets/a4_clipboard/front_three_quarter.jpg",
+      "repo_relative_path": "assets/household/a4_clipboard/front_three_quarter.jpg",
+      "bytes": 76200,
+      "sha256": "6ec99105e0e568766f79f0b74bee84ca304a8b6d0f3ae1a93fadd6dd01baec6c"
+    },
+    {
+      "source_path": "assets/a4_clipboard/metadata.json",
+      "repo_relative_path": "assets/household/a4_clipboard/metadata.json",
+      "bytes": 891,
+      "sha256": "0ba54e9745e636d634a2a49d36443cacc50c909c67bc471e9ee985bafd907d50"
+    },
+    {
+      "source_path": "assets/a4_clipboard/preview.jpg",
+      "repo_relative_path": "assets/household/a4_clipboard/preview.jpg",
+      "bytes": 76200,
+      "sha256": "6ec99105e0e568766f79f0b74bee84ca304a8b6d0f3ae1a93fadd6dd01baec6c"
+    },
+    {
+      "source_path": "assets/a4_clipboard/rear.jpg",
+      "repo_relative_path": "assets/household/a4_clipboard/rear.jpg",
+      "bytes": 73101,
+      "sha256": "2f076675a405fe3aba12388ce51cb8afeebe6d35a2fc0bc958e8b4f31327a1c2"
+    },
+    {
+      "source_path": "assets/a4_clipboard/side.jpg",
+      "repo_relative_path": "assets/household/a4_clipboard/side.jpg",
+      "bytes": 71491,
+      "sha256": "41cf2096e869d8b1336508a6e741bfbcf057db39a2e830709e669ef1167e1e2f"
+    },
+    {
+      "source_path": "assets/a4_clipboard/underside.jpg",
+      "repo_relative_path": "assets/household/a4_clipboard/underside.jpg",
+      "bytes": 30243,
+      "sha256": "df30eecb5046f3a4956d465991c8b27963798a6d39b7108c4da02a3d7290eaa6"
+    },
+    {
+      "source_path": "assets/office_stapler/back.jpg",
+      "repo_relative_path": "assets/household/office_stapler/back.jpg",
+      "bytes": 98606,
+      "sha256": "107ca2717a594597e19c68c429903196322c09f36a248a5b081afb1c247fae47"
+    },
+    {
+      "source_path": "assets/office_stapler/close_up.jpg",
+      "repo_relative_path": "assets/household/office_stapler/close_up.jpg",
+      "bytes": 143740,
+      "sha256": "fd286f7bb9c56cfb73e4bac58ee7d9e396142972e64e1e1a270b2c816551626f"
+    },
+    {
+      "source_path": "assets/office_stapler/detail.jpg",
+      "repo_relative_path": "assets/household/office_stapler/detail.jpg",
+      "bytes": 171836,
+      "sha256": "6f0485a6cf1e0b3157965887c101bfd1a1ceb5eec3dfbf6f06c4c729bba3d39c"
+    },
+    {
+      "source_path": "assets/office_stapler/front_three_quarter.jpg",
+      "repo_relative_path": "assets/household/office_stapler/front_three_quarter.jpg",
+      "bytes": 106204,
+      "sha256": "da8219b91711dbed0508d70a6fcbcf8ee17ec97fbf70b21d8363e0028e1e5ce6"
+    },
+    {
+      "source_path": "assets/office_stapler/metadata.json",
+      "repo_relative_path": "assets/household/office_stapler/metadata.json",
+      "bytes": 901,
+      "sha256": "efbca22bf5cfa419de4a5c29065dff16fc4384c564ace95a12767261820b2bc7"
+    },
+    {
+      "source_path": "assets/office_stapler/office_stapler.blend",
+      "repo_relative_path": "assets/household/office_stapler/office_stapler.blend",
+      "bytes": 193489,
+      "sha256": "bd9fb53636b2bfc5962f2de69074b6ee6e01642cb6fb2560e2f2f65c9d0ce23e"
+    },
+    {
+      "source_path": "assets/office_stapler/office_stapler.glb",
+      "repo_relative_path": "assets/household/office_stapler/office_stapler.glb",
+      "bytes": 1484696,
+      "sha256": "98db33ea4d4321102dddaac4c3c039378842eab3532705977ea1cf3fa0aa10df"
+    },
+    {
+      "source_path": "assets/office_stapler/preview.jpg",
+      "repo_relative_path": "assets/household/office_stapler/preview.jpg",
+      "bytes": 106204,
+      "sha256": "da8219b91711dbed0508d70a6fcbcf8ee17ec97fbf70b21d8363e0028e1e5ce6"
+    },
+    {
+      "source_path": "assets/office_stapler/rear.jpg",
+      "repo_relative_path": "assets/household/office_stapler/rear.jpg",
+      "bytes": 98606,
+      "sha256": "107ca2717a594597e19c68c429903196322c09f36a248a5b081afb1c247fae47"
+    },
+    {
+      "source_path": "assets/office_stapler/side.jpg",
+      "repo_relative_path": "assets/household/office_stapler/side.jpg",
+      "bytes": 112215,
+      "sha256": "261ac2f3db76e34a00ea4bf57039eb855d565f79399b39cb1f31fb8ae6eaf826"
+    },
+    {
+      "source_path": "assets/office_stapler/underside.jpg",
+      "repo_relative_path": "assets/household/office_stapler/underside.jpg",
+      "bytes": 39321,
+      "sha256": "06df5d9a021ad2aa0d47806a6f8ad8fcaa1e15bc199f7b933018bb9317498f85"
+    },
+    {
+      "source_path": "assets/taped_shipping_box/back.jpg",
+      "repo_relative_path": "assets/household/taped_shipping_box/back.jpg",
+      "bytes": 143205,
+      "sha256": "b314207e165a0f6304355d42b22582ea6abb0d65d1d083e1cad6a03fb3fde3f8"
+    },
+    {
+      "source_path": "assets/taped_shipping_box/close_up.jpg",
+      "repo_relative_path": "assets/household/taped_shipping_box/close_up.jpg",
+      "bytes": 175631,
+      "sha256": "149b9f678c8cf80545b55cb929f10f3bd56e48434662d03fe7084abc79a48739"
+    },
+    {
+      "source_path": "assets/taped_shipping_box/detail.jpg",
+      "repo_relative_path": "assets/household/taped_shipping_box/detail.jpg",
+      "bytes": 129053,
+      "sha256": "0ed4000e7845427ef65b2c15d226f992fe4c6dea4f945ae06a8190982ee431a4"
+    },
+    {
+      "source_path": "assets/taped_shipping_box/front_three_quarter.jpg",
+      "repo_relative_path": "assets/household/taped_shipping_box/front_three_quarter.jpg",
+      "bytes": 161874,
+      "sha256": "19e8a593c28a0223978d1fb84cf498304eb1243200826c8c9c7403f6765cdbf2"
+    },
+    {
+      "source_path": "assets/taped_shipping_box/metadata.json",
+      "repo_relative_path": "assets/household/taped_shipping_box/metadata.json",
+      "bytes": 896,
+      "sha256": "29880807c8e6b4fef4f42ec82a78db4270c1e032f5824875e222605eb85667bd"
+    },
+    {
+      "source_path": "assets/taped_shipping_box/preview.jpg",
+      "repo_relative_path": "assets/household/taped_shipping_box/preview.jpg",
+      "bytes": 161874,
+      "sha256": "19e8a593c28a0223978d1fb84cf498304eb1243200826c8c9c7403f6765cdbf2"
+    },
+    {
+      "source_path": "assets/taped_shipping_box/rear.jpg",
+      "repo_relative_path": "assets/household/taped_shipping_box/rear.jpg",
+      "bytes": 143205,
+      "sha256": "b314207e165a0f6304355d42b22582ea6abb0d65d1d083e1cad6a03fb3fde3f8"
+    },
+    {
+      "source_path": "assets/taped_shipping_box/side.jpg",
+      "repo_relative_path": "assets/household/taped_shipping_box/side.jpg",
+      "bytes": 135602,
+      "sha256": "182872f701abee95d89dcb513d49e347fea70d1ece1720989d07370dd7b3a2cf"
+    },
+    {
+      "source_path": "assets/taped_shipping_box/taped_shipping_box.blend",
+      "repo_relative_path": "assets/household/taped_shipping_box/taped_shipping_box.blend",
+      "bytes": 489040,
+      "sha256": "b0f4c3324b1070ecd9e5eee848a15eff187b776999d13ebcd965a135bc6d4ee5"
+    },
+    {
+      "source_path": "assets/taped_shipping_box/taped_shipping_box.glb",
+      "repo_relative_path": "assets/household/taped_shipping_box/taped_shipping_box.glb",
+      "bytes": 766796,
+      "sha256": "baf79737710c3367d1811bd4edf7b44972f9e189a5031a090f9b331b83cfce56"
+    },
+    {
+      "source_path": "assets/taped_shipping_box/underside.jpg",
+      "repo_relative_path": "assets/household/taped_shipping_box/underside.jpg",
+      "bytes": 74023,
+      "sha256": "cdfe6138452e48fc8eb62f168c13e45f2c5b02238d8de62a9c6a9b6db757b6c7"
+    },
+    {
+      "source_path": "catalog.json",
+      "repo_relative_path": "generators/batch04b/catalog.json",
+      "bytes": 2898,
+      "sha256": "4c94d7247cd586992caf325e5b5908070656fefc7340f4ec8beed82d7272ff34"
+    },
+    {
+      "source_path": "docs/reference-and-use.md",
+      "repo_relative_path": "generators/batch04b/docs/reference-and-use.md",
+      "bytes": 4418,
+      "sha256": "b4be1c9a1a1ca7687b72afdf3dbc32ca70eeaec2ebf71a355e29463beaa7ac3f"
+    },
+    {
+      "source_path": "previews/carton_open_flap_test.blend",
+      "repo_relative_path": "generators/batch04b/previews/carton_open_flap_test.blend",
+      "bytes": 1261607,
+      "sha256": "bf821e66a7365efbf29c62a5babacf76f58b4520bd3bc1f400fddb512b9b1d7c"
+    },
+    {
+      "source_path": "previews/carton_open_flap_test.jpg",
+      "repo_relative_path": "generators/batch04b/previews/carton_open_flap_test.jpg",
+      "bytes": 189375,
+      "sha256": "c134c798aa2a328f1b858016f239d5479d1550a7ccfb5fe95e455585844601d4"
+    },
+    {
+      "source_path": "previews/clipboard_open_jaw_test.blend",
+      "repo_relative_path": "generators/batch04b/previews/clipboard_open_jaw_test.blend",
+      "bytes": 1685871,
+      "sha256": "dd1e4abce30a67a7dcedd1c7108c7de5cdf7b81289a3f49d71cef6d5adf26fb4"
+    },
+    {
+      "source_path": "previews/clipboard_open_jaw_test.jpg",
+      "repo_relative_path": "generators/batch04b/previews/clipboard_open_jaw_test.jpg",
+      "bytes": 75272,
+      "sha256": "33e5e39599abc31df7d713894361004dacc22fbcb7a1a368abfc154792ad8a9f"
+    },
+    {
+      "source_path": "previews/context_alternate_light.jpg",
+      "repo_relative_path": "generators/batch04b/previews/context_alternate_light.jpg",
+      "bytes": 198769,
+      "sha256": "49450bdfec7af68ec304ddaab2d78e3beb5502cd5e286784e37ca4572443871c"
+    },
+    {
+      "source_path": "previews/context_daylight.jpg",
+      "repo_relative_path": "generators/batch04b/previews/context_daylight.jpg",
+      "bytes": 167863,
+      "sha256": "e1564c1f03bc9527ec0bdd0b4586ab5ff28a8bb38ef80d84b28e6de781606a1c"
+    },
+    {
+      "source_path": "previews/context_review.blend",
+      "repo_relative_path": "generators/batch04b/previews/context_review.blend",
+      "bytes": 1884594,
+      "sha256": "5c665bf9b2cb91a1dbad210b6ca3a67abeccb58240cb4f97e9a83e6556310e36"
+    },
+    {
+      "source_path": "previews/input_provenance.json",
+      "repo_relative_path": "generators/batch04b/previews/input_provenance.json",
+      "bytes": 551,
+      "sha256": "331eb9ea4bee149d9ec7f12805fac6e315fd34efbb259dd2a0c694f1f1646e83"
+    },
+    {
+      "source_path": "previews/stapler_press_test.blend",
+      "repo_relative_path": "generators/batch04b/previews/stapler_press_test.blend",
+      "bytes": 1758806,
+      "sha256": "1f99aa2f00a84e24f81df74f0bda7aed9eaaa88c1ae192e2c33b4b726234138b"
+    },
+    {
+      "source_path": "previews/stapler_press_test.jpg",
+      "repo_relative_path": "generators/batch04b/previews/stapler_press_test.jpg",
+      "bytes": 101512,
+      "sha256": "1a5022ce52ce4d52d95dd60a0f1dc228ef435e995f5a5396339d33a3f4490ba1"
+    },
+    {
+      "source_path": "previews/stapler_raised_arm_test.blend",
+      "repo_relative_path": "generators/batch04b/previews/stapler_raised_arm_test.blend",
+      "bytes": 1380996,
+      "sha256": "2c13ff795aa18eab871db6d2ce1719f25376151edb19a03c4f3207d2c38ca735"
+    },
+    {
+      "source_path": "previews/stapler_raised_arm_test.jpg",
+      "repo_relative_path": "generators/batch04b/previews/stapler_raised_arm_test.jpg",
+      "bytes": 113626,
+      "sha256": "99d380ab5da59e349319909cf320421615b4a73ca305d62c7618a5a1582d092a"
+    },
+    {
+      "source_path": "reproduction_validation.json",
+      "repo_relative_path": "generators/batch04b/reproduction_validation.json",
+      "bytes": 662,
+      "sha256": "81d62e06fabb08d57bf42d9781bfdd14d03bf11ca367ec6e72f335db1a8ea1cb"
+    },
+    {
+      "source_path": "scripts/build_assets.py",
+      "repo_relative_path": "generators/batch04b/scripts/build_assets.py",
+      "bytes": 12872,
+      "sha256": "eb3ad5caa4bc35dd66dc3fc8473d6350d726ef462fdc9187caf3e8940b85ac52"
+    },
+    {
+      "source_path": "scripts/package_manifest.py",
+      "repo_relative_path": "generators/batch04b/scripts/package_manifest.py",
+      "bytes": 920,
+      "sha256": "aaa9a7eafd66cf425fc38459c62a0a1a05cca282777e877219bdf9084b46fbf3"
+    },
+    {
+      "source_path": "scripts/render_detail_views.py",
+      "repo_relative_path": "generators/batch04b/scripts/render_detail_views.py",
+      "bytes": 779,
+      "sha256": "4f5ac412f0bc77bf226e2d0a1ecc7ee733a4e5d550b62646c28db7cf16bdf9a8"
+    },
+    {
+      "source_path": "scripts/render_side_views.py",
+      "repo_relative_path": "generators/batch04b/scripts/render_side_views.py",
+      "bytes": 632,
+      "sha256": "e691dc2b495fc6e3da097473e5fbb36657428f8d7602f12f23c145810c5b5194"
+    },
+    {
+      "source_path": "scripts/use_tests.py",
+      "repo_relative_path": "generators/batch04b/scripts/use_tests.py",
+      "bytes": 4647,
+      "sha256": "eefc5080443f61116c6c0fdf03016824d6c913e806aa99add56dc04a7a1bf1bc"
+    },
+    {
+      "source_path": "scripts/validate_and_context.py",
+      "repo_relative_path": "generators/batch04b/scripts/validate_and_context.py",
+      "bytes": 3594,
+      "sha256": "73cd22b687426f6ac459627f0128ebe41f28bda9a1ff7b1849614c64e03d3af6"
+    },
+    {
+      "source_path": "use_validation.json",
+      "repo_relative_path": "generators/batch04b/use_validation.json",
+      "bytes": 804,
+      "sha256": "2240545b182b881bf39c175e4bfc92829b1a5d73e4512410023a53aef71d0624"
+    },
+    {
+      "source_path": "validation.json",
+      "repo_relative_path": "generators/batch04b/validation.json",
+      "bytes": 3715,
+      "sha256": "94bdca30aa9c1a6b81eb8df0edb38e4f1c09a9b17db479923d7e225fa3f0b460"
+    }
+  ]
+}

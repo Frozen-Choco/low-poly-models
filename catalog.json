@@ -797,5 +797,107 @@
     "title_ja": "鋼製車止め",
     "glb_bytes": 2578260,
     "blend_bytes": 2328152
+  },
+  {
+    "id": "a4_clipboard",
+    "title_ja": "A4クリップボード",
+    "category": "household",
+    "units": "meters",
+    "origin": "bottom centered",
+    "front_blend": "-Y",
+    "up_blend": "Z",
+    "up_glb": "Y",
+    "design": "Original unbranded generic prop at plausible real-world scale; not a replica.",
+    "license": "Original geometry and packed procedural fiber images. No external assets.",
+    "review_status": "approved independent factual and functional review",
+    "blender_version": "4.3.2",
+    "glb_bytes": 910908,
+    "blend_bytes": 885016,
+    "triangles": 5524,
+    "zero_area_triangles": 0,
+    "bounds_min": [
+      -0.11749999970197678,
+      -0.17000000178813934,
+      0.0
+    ],
+    "bounds_max": [
+      0.11749999970197678,
+      0.17000000178813934,
+      0.011300000362098217
+    ],
+    "dimensions_m": [
+      0.23499999940395355,
+      0.3400000035762787,
+      0.011300000362098217
+    ],
+    "mesh_objects": 15
+  },
+  {
+    "id": "office_stapler",
+    "title_ja": "オフィス用ホチキス",
+    "category": "household",
+    "units": "meters",
+    "origin": "bottom centered",
+    "front_blend": "-Y",
+    "up_blend": "Z",
+    "up_glb": "Y",
+    "design": "Original unbranded generic prop at plausible real-world scale; not a replica.",
+    "license": "Original geometry and packed procedural fiber images. No external assets.",
+    "review_status": "approved independent factual and functional review",
+    "blender_version": "4.3.2",
+    "glb_bytes": 1484696,
+    "blend_bytes": 193489,
+    "triangles": 18232,
+    "zero_area_triangles": 0,
+    "bounds_min": [
+      -0.023499999195337296,
+      -0.07900000363588333,
+      0.0
+    ],
+    "bounds_max": [
+      0.023499999195337296,
+      0.07900000363588333,
+      0.04699999839067459
+    ],
+    "dimensions_m": [
+      0.04699999839067459,
+      0.15800000727176666,
+      0.04699999839067459
+    ],
+    "mesh_objects": 315
+  },
+  {
+    "id": "taped_shipping_box",
+    "title_ja": "梱包用段ボール箱",
+    "category": "household",
+    "units": "meters",
+    "origin": "bottom centered",
+    "front_blend": "-Y",
+    "up_blend": "Z",
+    "up_glb": "Y",
+    "design": "Original unbranded generic prop at plausible real-world scale; not a replica.",
+    "license": "Original geometry and packed procedural fiber images. No external assets.",
+    "review_status": "approved independent factual and functional review",
+    "blender_version": "4.3.2",
+    "glb_bytes": 766796,
+    "blend_bytes": 489040,
+    "triangles": 5736,
+    "zero_area_triangles": 0,
+    "bounds_min": [
+      -0.16085000336170197,
+      -0.12050000578165054,
+      0.0
+    ],
+    "bounds_max": [
+      0.16085000336170197,
+      0.12050000578165054,
+      0.20659999549388885
+    ],
+    "dimensions_m": [
+      0.32170000672340393,
+      0.2410000115633011,
+      0.20659999549388885
+    ],
+    "mesh_objects": 22
   }
 ]

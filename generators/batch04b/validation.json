@@ -1,0 +1,164 @@
+[
+  {
+    "asset": "taped_shipping_box",
+    "blend": {
+      "triangles": 5736,
+      "zero_area_triangles": 0,
+      "bounds_min": [
+        -0.16085000336170197,
+        -0.12050000578165054,
+        0.0
+      ],
+      "bounds_max": [
+        0.16085000336170197,
+        0.12050000578165054,
+        0.20659999549388885
+      ],
+      "dimensions_m": [
+        0.32170000672340393,
+        0.2410000115633011,
+        0.20659999549388885
+      ],
+      "mesh_objects": 22
+    },
+    "glb": {
+      "triangles": 5736,
+      "zero_area_triangles": 0,
+      "bounds_min": [
+        -0.16085000336170197,
+        -0.12050000578165054,
+        0.0
+      ],
+      "bounds_max": [
+        0.16085000336170197,
+        0.12050000578165054,
+        0.20659999549388885
+      ],
+      "dimensions_m": [
+        0.32170000672340393,
+        0.2410000115633011,
+        0.20659999549388885
+      ],
+      "mesh_objects": 22
+    },
+    "checks": {
+      "finite_coordinates": true,
+      "triangle_count_matches": true,
+      "no_degenerate_triangles": true,
+      "dimensions_match": true,
+      "parts_match": true,
+      "self_contained_images": true,
+      "under_100MB": true,
+      "canonical_aliases": true
+    },
+    "all_pass": true
+  },
+  {
+    "asset": "office_stapler",
+    "blend": {
+      "triangles": 18232,
+      "zero_area_triangles": 0,
+      "bounds_min": [
+        -0.023499999195337296,
+        -0.07900000363588333,
+        0.0
+      ],
+      "bounds_max": [
+        0.023499999195337296,
+        0.07900000363588333,
+        0.04699999839067459
+      ],
+      "dimensions_m": [
+        0.04699999839067459,
+        0.15800000727176666,
+        0.04699999839067459
+      ],
+      "mesh_objects": 315
+    },
+    "glb": {
+      "triangles": 18232,
+      "zero_area_triangles": 0,
+      "bounds_min": [
+        -0.023499999195337296,
+        -0.07900000363588333,
+        0.0
+      ],
+      "bounds_max": [
+        0.023499999195337296,
+        0.07900000363588333,
+        0.04699999839067459
+      ],
+      "dimensions_m": [
+        0.04699999839067459,
+        0.15800000727176666,
+        0.04699999839067459
+      ],
+      "mesh_objects": 315
+    },
+    "checks": {
+      "finite_coordinates": true,
+      "triangle_count_matches": true,
+      "no_degenerate_triangles": true,
+      "dimensions_match": true,
+      "parts_match": true,
+      "self_contained_images": true,
+      "under_100MB": true,
+      "canonical_aliases": true
+    },
+    "all_pass": true
+  },
+  {
+    "asset": "a4_clipboard",
+    "blend": {
+      "triangles": 5524,
+      "zero_area_triangles": 0,
+      "bounds_min": [
+        -0.11749999970197678,
+        -0.17000000178813934,
+        0.0
+      ],
+      "bounds_max": [
+        0.11749999970197678,
+        0.17000000178813934,
+        0.011300000362098217
+      ],
+      "dimensions_m": [
+        0.23499999940395355,
+        0.3400000035762787,
+        0.011300000362098217
+      ],
+      "mesh_objects": 15
+    },
+    "glb": {
+      "triangles": 5524,
+      "zero_area_triangles": 0,
+      "bounds_min": [
+        -0.11749999970197678,
+        -0.17000000178813934,
+        0.0
+      ],
+      "bounds_max": [
+        0.11749999970197678,
+        0.17000000178813934,
+        0.011300000362098217
+      ],
+      "dimensions_m": [
+        0.23499999940395355,
+        0.3400000035762787,
+        0.011300000362098217
+      ],
+      "mesh_objects": 15
+    },
+    "checks": {
+      "finite_coordinates": true,
+      "triangle_count_matches": true,
+      "no_degenerate_triangles": true,
+      "dimensions_match": true,
+      "parts_match": true,
+      "self_contained_images": true,
+      "under_100MB": true,
+      "canonical_aliases": true
+    },
+    "all_pass": true
+  }
+]

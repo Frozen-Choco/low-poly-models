@@ -1,0 +1,29 @@
+[
+  {
+    "asset": "taped_shipping_box",
+    "sha256": "baf79737710c3367d1811bd4edf7b44972f9e189a5031a090f9b331b83cfce56",
+    "placement_m": [
+      0.19,
+      0.11,
+      0
+    ]
+  },
+  {
+    "asset": "a4_clipboard",
+    "sha256": "0381ec78b5f37da58e44ebc7af70890cc2025f612b58d56c6c492c3c1f83ef6c",
+    "placement_m": [
+      -0.17,
+      -0.03,
+      0
+    ]
+  },
+  {
+    "asset": "office_stapler",
+    "sha256": "98db33ea4d4321102dddaac4c3c039378842eab3532705977ea1cf3fa0aa10df",
+    "placement_m": [
+      0.08,
+      -0.16,
+      0
+    ]
+  }
+]

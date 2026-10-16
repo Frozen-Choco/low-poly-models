@@ -1,0 +1,34 @@
+{
+  "id": "office_stapler",
+  "title_ja": "オフィス用ホチキス",
+  "category": "household",
+  "units": "meters",
+  "origin": "bottom centered",
+  "front_blend": "-Y",
+  "up_blend": "Z",
+  "up_glb": "Y",
+  "design": "Original unbranded generic prop at plausible real-world scale; not a replica.",
+  "license": "Original geometry and packed procedural fiber images. No external assets.",
+  "review_status": "approved independent factual and functional review",
+  "blender_version": "4.3.2",
+  "glb_bytes": 1484696,
+  "blend_bytes": 193489,
+  "triangles": 18232,
+  "zero_area_triangles": 0,
+  "bounds_min": [
+    -0.023499999195337296,
+    -0.07900000363588333,
+    0.0
+  ],
+  "bounds_max": [
+    0.023499999195337296,
+    0.07900000363588333,
+    0.04699999839067459
+  ],
+  "dimensions_m": [
+    0.04699999839067459,
+    0.15800000727176666,
+    0.04699999839067459
+  ],
+  "mesh_objects": 315
+}

@@ -1,0 +1,34 @@
+{
+  "id": "a4_clipboard",
+  "title_ja": "A4クリップボード",
+  "category": "household",
+  "units": "meters",
+  "origin": "bottom centered",
+  "front_blend": "-Y",
+  "up_blend": "Z",
+  "up_glb": "Y",
+  "design": "Original unbranded generic prop at plausible real-world scale; not a replica.",
+  "license": "Original geometry and packed procedural fiber images. No external assets.",
+  "review_status": "approved independent factual and functional review",
+  "blender_version": "4.3.2",
+  "glb_bytes": 910908,
+  "blend_bytes": 885016,
+  "triangles": 5524,
+  "zero_area_triangles": 0,
+  "bounds_min": [
+    -0.11749999970197678,
+    -0.17000000178813934,
+    0.0
+  ],
+  "bounds_max": [
+    0.11749999970197678,
+    0.17000000178813934,
+    0.011300000362098217
+  ],
+  "dimensions_m": [
+    0.23499999940395355,
+    0.3400000035762787,
+    0.011300000362098217
+  ],
+  "mesh_objects": 15
+}

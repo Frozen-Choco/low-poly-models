@@ -1,0 +1,28 @@
+{
+  "fresh_override_root": true,
+  "geometry_matches": true,
+  "scope": "SKIP_RENDER=1, whole three-asset build in isolated /tmp output root",
+  "assets": [
+    {
+      "id": "a4_clipboard",
+      "triangles_match": true,
+      "bounds_match": true,
+      "zero_area_triangles": 0,
+      "files_under_limit": true
+    },
+    {
+      "id": "office_stapler",
+      "triangles_match": true,
+      "bounds_match": true,
+      "zero_area_triangles": 0,
+      "files_under_limit": true
+    },
+    {
+      "id": "taped_shipping_box",
+      "triangles_match": true,
+      "bounds_match": true,
+      "zero_area_triangles": 0,
+      "files_under_limit": true
+    }
+  ]
+}
