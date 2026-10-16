@@ -1,0 +1,14 @@
+[
+  {
+    "id": "cast_iron_manhole",
+    "glb_sha256": "cc63b16acbabc0c7ceb9c262699b54f6912bb9f9f439b74ea3a92ca613c3d2ac"
+  },
+  {
+    "id": "concrete_curb_straight",
+    "glb_sha256": "18d5a920dcab807ebe4a3c2af0c55856b8994df5d9889444afcd0c181e4353d3"
+  },
+  {
+    "id": "steel_roadside_bollard",
+    "glb_sha256": "381aef5ecaca4db5afc13b1d48c953e9e0be3bc91fcdfe1ad3c5c7d5372a9e6a"
+  }
+]

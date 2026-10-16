@@ -1,0 +1,50 @@
+{
+  "id": "cast_iron_manhole",
+  "category": "street",
+  "units": "meters",
+  "front_blend": "-Y",
+  "up_blend": "Z",
+  "up_glb": "Y",
+  "origin": "bottom center",
+  "reference_urls": [
+    "https://hinodesuido.co.jp/cast_line/products/single-01_manhole.html",
+    "https://www.kaneso.co.jp/topnews/2022/img_121/catalog/19-1.pdf",
+    "https://www.kaneso.co.jp/onepoint/21_manhole/2018/P180831.htm"
+  ],
+  "notes": "Generic 0.72 m outer frame, 0.604 m cover, 0.08 m overall depth; estimated scale, not a certified replica. Independent cover and frame, seating ledge, two genuine through-slots accepting turn keys, integral herringbone grip and clear underside reinforcing ribs. Flat bearing at Z 0.047 m, ribs stop at radius 0.2801 m inside 0.285 m ledge opening. Lift with both opposed keys; review geometry shows insertion, turn and parallel lift. Generic mechanism and dimensions, not a manufacturer replica; no lock, seal, flood restraint or road load-rating claim. No municipality logo.",
+  "blender_version": "4.3.2",
+  "textures": "Original seeded raster base color, normal, and roughness; packed in blend and embedded in GLB. No external inputs.",
+  "review_status": "approved independent review",
+  "triangles": 30256,
+  "zero_area_triangles": 0,
+  "finite_coordinates": true,
+  "bounds_min": [
+    -0.36000001430511475,
+    -0.36000001430511475,
+    0.0
+  ],
+  "bounds_max": [
+    0.36000001430511475,
+    0.36000001430511475,
+    0.08299999684095383
+  ],
+  "dimensions_m": [
+    0.7200000286102295,
+    0.7200000286102295,
+    0.08299999684095383
+  ],
+  "files_bytes": {
+    "preview.jpg": 86436,
+    "front_three_quarter.jpg": 86436,
+    "rear.jpg": 86512,
+    "cast_iron_manhole.glb": 4370320,
+    "side.jpg": 73213,
+    "back.jpg": 86512,
+    "close_up.jpg": 84691,
+    "cast_iron_manhole.blend": 2597083,
+    "underside.jpg": 59478
+  },
+  "title_ja": "鋳鉄製マンホール",
+  "glb_bytes": 4370320,
+  "blend_bytes": 2597083
+}

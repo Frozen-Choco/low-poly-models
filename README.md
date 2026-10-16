@@ -1,6 +1,6 @@
 # Low-poly diorama models
 
-現実世界のジオラマに配置するための、形状の自然さと素材の違いを保った、軽量なオリジナル小物集です。現在13モデル。目標は合計1,000モデルです。
+現実世界のジオラマに配置するための、形状の自然さと素材の違いを保った、軽量なオリジナル小物集です。現在16モデル。目標は合計1,000モデルです。
 
 ## 制作基準
 
@@ -185,3 +185,15 @@ python scripts/update_catalog_readme.py
 [現行の生成手順・サービス確認](generators/bin_function_revision/README.md) · [底面](assets/street/public_recycling_bin/underside.jpg)
 
 generators/batch02bにある旧回収ボックスの生成・検証内容は履歴です。現在の回収ボックスの再生成には修正版を使用してください。
+
+## 追加モデル：マンホール・縁石・車止め
+
+実物の公式資料に照らし、マンホールの工具の掛かりと引き上げ、蓋の支持・補強リブの隙間、車止めの取付穴と連続したアンカーを保存モデルで独立確認しています。縁石の設置文脈は簡略化され、現場の排水設計や完全な施工図ではありません。
+
+- [鋳鉄製マンホール](assets/street/cast_iron_manhole)：30,256三角形、GLB 4,370,320 bytes
+- [コンクリート縁石](assets/street/concrete_curb_straight)：188三角形、GLB 958,648 bytes
+- [鋼製車止め](assets/street/steel_roadside_bollard)：11,524三角形、GLB 2,578,260 bytes
+
+汎用的な道路小物です。寸法は参考値で、施工図や認定製品の複製ではありません。確認画像には若干のサンプリングノイズがあります。
+
+[生成・検証手順](generators/pavement_function_revision/README.md) · [検証結果](generators/pavement_function_revision/validation.json)

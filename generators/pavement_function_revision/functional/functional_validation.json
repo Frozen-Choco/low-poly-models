@@ -1,0 +1,53 @@
+{
+  "source": "saved GLBs, freshly imported",
+  "inputs": {
+    "cast_iron_manhole": "cc63b16acbabc0c7ceb9c262699b54f6912bb9f9f439b74ea3a92ca613c3d2ac",
+    "steel_roadside_bollard": "381aef5ecaca4db5afc13b1d48c953e9e0be3bc91fcdfe1ad3c5c7d5372a9e6a",
+    "concrete_curb_straight": "18d5a920dcab807ebe4a3c2af0c55856b8994df5d9889444afcd0c181e4353d3"
+  },
+  "checks": {
+    "seat_exact_bearing": true,
+    "seat_no_plate_penetration": true,
+    "ribs_positive_ledge_clearance": true,
+    "ribs_no_ledge_penetration": true,
+    "key_insertion_no_collision": true,
+    "key_rotation_no_collision": true,
+    "positive_underface_engagement": true,
+    "slots_are_through": true,
+    "engaged_keys_do_not_penetrate_cover": true,
+    "parallel_vertical_lift_clear": true,
+    "four_continuous_shanks": true,
+    "shanks_clear_drilled_flange": true,
+    "continuous_embedment_to_above_nut": true,
+    "washers_contact_flange": true,
+    "nuts_contact_washers": true,
+    "wrench_radial_access": true,
+    "proof_foundation_open_bores": true,
+    "saved_proof_foundation_open_bores": true
+  },
+  "measurements": {
+    "cover_bottom": 0.04699999839067459,
+    "seat_top": 0.04699999839067459,
+    "rib_max_radius": 0.280036173935755,
+    "rib_radial_clearance": 0.004963826064245003,
+    "frame_radial_clearance": 0.0050000000000000044,
+    "insertion_max_intersection_m3": 0.0,
+    "nominal_bearing_overlap_each_side_m": 0.006,
+    "visible_bollard_height_m": 0.85,
+    "total_bollard_bounds_m": 0.9499999657273293,
+    "anchor_embedment_assumed_m": 0.1,
+    "flange_hole_radial_clearance_m": 0.0015,
+    "washer_hole_radial_clearance_m": 0.0005,
+    "proof_foundation_bore_bottoms": [
+      -0.10399998724460602,
+      -0.10399997234344482,
+      -0.10399998724460602,
+      -0.10400000214576721
+    ],
+    "saved_proof_rear_bore_bottoms": [
+      -0.10399998724460602,
+      -0.10399998724460602
+    ]
+  },
+  "all_pass": true
+}

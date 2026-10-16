@@ -1,0 +1,49 @@
+{
+  "id": "steel_roadside_bollard",
+  "category": "street",
+  "units": "meters",
+  "front_blend": "-Y",
+  "up_blend": "Z",
+  "up_glb": "Y",
+  "origin": "flange underside mounting plane; anchors extend 0.100 m below",
+  "reference_urls": [
+    "https://www.sunpole.co.jp/product-detail/?no=397",
+    "https://www.sunpole.co.jp/product-detail/?no=407"
+  ],
+  "notes": "Generic surface-mounted steel roadside bollard, 76.3 mm shaft diameter, 850 mm visible height above mounting plane; total mesh height 950 mm including 100 mm below-plane anchor continuations. Scale informed by Sunpole FPA-8 family; generic 180x180x10 mm flange and 128 mm square anchor pitch are explicitly NOT the manufacturer drawing flange. Four 13 mm bores, continuous M10-like shanks, bored washers and nuts form coherent attachment. Threads are simplified contact envelopes. The 100 mm buried anchor depth and concrete support demonstration are inferred visual assumptions, not an anchor specification. Internal tube wall and drain detail are omitted; no functional drainage claim. Weld bead and pressed cap remain estimated original construction. Muted ivory baked enamel; no logos, hooks or crash-rating claim.",
+  "blender_version": "4.3.2",
+  "textures": "Original seeded raster base color, normal, and roughness; packed in blend and embedded in GLB. No external inputs.",
+  "review_status": "approved independent review",
+  "triangles": 11524,
+  "zero_area_triangles": 0,
+  "finite_coordinates": true,
+  "bounds_min": [
+    -0.09000000357627869,
+    -0.09000000357627869,
+    -0.10000000149011612
+  ],
+  "bounds_max": [
+    0.09000000357627869,
+    0.09000000357627869,
+    0.8499999642372131
+  ],
+  "dimensions_m": [
+    0.18000000715255737,
+    0.18000000715255737,
+    0.9499999657273293
+  ],
+  "files_bytes": {
+    "preview.jpg": 56265,
+    "front_three_quarter.jpg": 56265,
+    "rear.jpg": 56159,
+    "steel_roadside_bollard.blend": 2328152,
+    "steel_roadside_bollard.glb": 2578260,
+    "side.jpg": 50564,
+    "back.jpg": 56159,
+    "close_up.jpg": 132184,
+    "underside.jpg": 62121
+  },
+  "title_ja": "鋼製車止め",
+  "glb_bytes": 2578260,
+  "blend_bytes": 2328152
+}

@@ -649,5 +649,153 @@
     "title_ja": "木製まな板",
     "glb_bytes": 1267908,
     "blend_bytes": 1357594
+  },
+  {
+    "id": "cast_iron_manhole",
+    "category": "street",
+    "units": "meters",
+    "front_blend": "-Y",
+    "up_blend": "Z",
+    "up_glb": "Y",
+    "origin": "bottom center",
+    "reference_urls": [
+      "https://hinodesuido.co.jp/cast_line/products/single-01_manhole.html",
+      "https://www.kaneso.co.jp/topnews/2022/img_121/catalog/19-1.pdf",
+      "https://www.kaneso.co.jp/onepoint/21_manhole/2018/P180831.htm"
+    ],
+    "notes": "Generic 0.72 m outer frame, 0.604 m cover, 0.08 m overall depth; estimated scale, not a certified replica. Independent cover and frame, seating ledge, two genuine through-slots accepting turn keys, integral herringbone grip and clear underside reinforcing ribs. Flat bearing at Z 0.047 m, ribs stop at radius 0.2801 m inside 0.285 m ledge opening. Lift with both opposed keys; review geometry shows insertion, turn and parallel lift. Generic mechanism and dimensions, not a manufacturer replica; no lock, seal, flood restraint or road load-rating claim. No municipality logo.",
+    "blender_version": "4.3.2",
+    "textures": "Original seeded raster base color, normal, and roughness; packed in blend and embedded in GLB. No external inputs.",
+    "review_status": "approved independent review",
+    "triangles": 30256,
+    "zero_area_triangles": 0,
+    "finite_coordinates": true,
+    "bounds_min": [
+      -0.36000001430511475,
+      -0.36000001430511475,
+      0.0
+    ],
+    "bounds_max": [
+      0.36000001430511475,
+      0.36000001430511475,
+      0.08299999684095383
+    ],
+    "dimensions_m": [
+      0.7200000286102295,
+      0.7200000286102295,
+      0.08299999684095383
+    ],
+    "files_bytes": {
+      "preview.jpg": 86436,
+      "front_three_quarter.jpg": 86436,
+      "rear.jpg": 86512,
+      "cast_iron_manhole.glb": 4370320,
+      "side.jpg": 73213,
+      "back.jpg": 86512,
+      "close_up.jpg": 84691,
+      "cast_iron_manhole.blend": 2597083,
+      "underside.jpg": 59478
+    },
+    "title_ja": "鋳鉄製マンホール",
+    "glb_bytes": 4370320,
+    "blend_bytes": 2597083
+  },
+  {
+    "id": "concrete_curb_straight",
+    "category": "street",
+    "units": "meters",
+    "front_blend": "-Y",
+    "up_blend": "Z",
+    "up_glb": "Y",
+    "origin": "bottom center",
+    "reference_urls": [
+      "https://kawamoto-con.jp/product/p0012/",
+      "https://www.toyo-con.co.jp/toyodb/catalogue.php?f=95be6a8eb9de4551277e69fd1f5a0b90"
+    ],
+    "notes": "Generic Japanese B-type 600 mm length, 205 mm base width, 180 mm nominal top width, 250 mm height with 30 mm road-side rounded shoulder. Reference-informed nominal scale; bevels and seeded fine aggregate are original interpretation. Full depth block, intended to be partly embedded when installed. Rounded/battered -Y is road-facing. Visual context embeds 140 mm and leaves 110 mm exposed (artistic assumptions). Curb bedding, foundation, crossfall, gutter and outlet are omitted; the context is not a functionally complete installation demonstration.",
+    "blender_version": "4.3.2",
+    "textures": "Original seeded raster base color, normal, and roughness; packed in blend and embedded in GLB. No external inputs.",
+    "review_status": "approved independent review",
+    "triangles": 188,
+    "zero_area_triangles": 0,
+    "finite_coordinates": true,
+    "bounds_min": [
+      -0.30000001192092896,
+      -0.10243193060159683,
+      0.0
+    ],
+    "bounds_max": [
+      0.30000001192092896,
+      0.10244007408618927,
+      0.25
+    ],
+    "dimensions_m": [
+      0.6000000238418579,
+      0.2048720046877861,
+      0.25
+    ],
+    "files_bytes": {
+      "preview.jpg": 94880,
+      "front_three_quarter.jpg": 94880,
+      "rear.jpg": 97376,
+      "side.jpg": 71990,
+      "back.jpg": 97376,
+      "close_up.jpg": 105746,
+      "concrete_curb_straight.blend": 1049377,
+      "concrete_curb_straight.glb": 958648,
+      "underside.jpg": 57216
+    },
+    "title_ja": "コンクリート縁石",
+    "glb_bytes": 958648,
+    "blend_bytes": 1049377
+  },
+  {
+    "id": "steel_roadside_bollard",
+    "category": "street",
+    "units": "meters",
+    "front_blend": "-Y",
+    "up_blend": "Z",
+    "up_glb": "Y",
+    "origin": "flange underside mounting plane; anchors extend 0.100 m below",
+    "reference_urls": [
+      "https://www.sunpole.co.jp/product-detail/?no=397",
+      "https://www.sunpole.co.jp/product-detail/?no=407"
+    ],
+    "notes": "Generic surface-mounted steel roadside bollard, 76.3 mm shaft diameter, 850 mm visible height above mounting plane; total mesh height 950 mm including 100 mm below-plane anchor continuations. Scale informed by Sunpole FPA-8 family; generic 180x180x10 mm flange and 128 mm square anchor pitch are explicitly NOT the manufacturer drawing flange. Four 13 mm bores, continuous M10-like shanks, bored washers and nuts form coherent attachment. Threads are simplified contact envelopes. The 100 mm buried anchor depth and concrete support demonstration are inferred visual assumptions, not an anchor specification. Internal tube wall and drain detail are omitted; no functional drainage claim. Weld bead and pressed cap remain estimated original construction. Muted ivory baked enamel; no logos, hooks or crash-rating claim.",
+    "blender_version": "4.3.2",
+    "textures": "Original seeded raster base color, normal, and roughness; packed in blend and embedded in GLB. No external inputs.",
+    "review_status": "approved independent review",
+    "triangles": 11524,
+    "zero_area_triangles": 0,
+    "finite_coordinates": true,
+    "bounds_min": [
+      -0.09000000357627869,
+      -0.09000000357627869,
+      -0.10000000149011612
+    ],
+    "bounds_max": [
+      0.09000000357627869,
+      0.09000000357627869,
+      0.8499999642372131
+    ],
+    "dimensions_m": [
+      0.18000000715255737,
+      0.18000000715255737,
+      0.9499999657273293
+    ],
+    "files_bytes": {
+      "preview.jpg": 56265,
+      "front_three_quarter.jpg": 56265,
+      "rear.jpg": 56159,
+      "steel_roadside_bollard.blend": 2328152,
+      "steel_roadside_bollard.glb": 2578260,
+      "side.jpg": 50564,
+      "back.jpg": 56159,
+      "close_up.jpg": 132184,
+      "underside.jpg": 62121
+    },
+    "title_ja": "鋼製車止め",
+    "glb_bytes": 2578260,
+    "blend_bytes": 2328152
   }
 ]

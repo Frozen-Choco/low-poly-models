@@ -1,0 +1,49 @@
+{
+  "id": "concrete_curb_straight",
+  "category": "street",
+  "units": "meters",
+  "front_blend": "-Y",
+  "up_blend": "Z",
+  "up_glb": "Y",
+  "origin": "bottom center",
+  "reference_urls": [
+    "https://kawamoto-con.jp/product/p0012/",
+    "https://www.toyo-con.co.jp/toyodb/catalogue.php?f=95be6a8eb9de4551277e69fd1f5a0b90"
+  ],
+  "notes": "Generic Japanese B-type 600 mm length, 205 mm base width, 180 mm nominal top width, 250 mm height with 30 mm road-side rounded shoulder. Reference-informed nominal scale; bevels and seeded fine aggregate are original interpretation. Full depth block, intended to be partly embedded when installed. Rounded/battered -Y is road-facing. Visual context embeds 140 mm and leaves 110 mm exposed (artistic assumptions). Curb bedding, foundation, crossfall, gutter and outlet are omitted; the context is not a functionally complete installation demonstration.",
+  "blender_version": "4.3.2",
+  "textures": "Original seeded raster base color, normal, and roughness; packed in blend and embedded in GLB. No external inputs.",
+  "review_status": "approved independent review",
+  "triangles": 188,
+  "zero_area_triangles": 0,
+  "finite_coordinates": true,
+  "bounds_min": [
+    -0.30000001192092896,
+    -0.10243193060159683,
+    0.0
+  ],
+  "bounds_max": [
+    0.30000001192092896,
+    0.10244007408618927,
+    0.25
+  ],
+  "dimensions_m": [
+    0.6000000238418579,
+    0.2048720046877861,
+    0.25
+  ],
+  "files_bytes": {
+    "preview.jpg": 94880,
+    "front_three_quarter.jpg": 94880,
+    "rear.jpg": 97376,
+    "side.jpg": 71990,
+    "back.jpg": 97376,
+    "close_up.jpg": 105746,
+    "concrete_curb_straight.blend": 1049377,
+    "concrete_curb_straight.glb": 958648,
+    "underside.jpg": 57216
+  },
+  "title_ja": "コンクリート縁石",
+  "glb_bytes": 958648,
+  "blend_bytes": 1049377
+}

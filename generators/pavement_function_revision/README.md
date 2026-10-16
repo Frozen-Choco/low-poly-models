@@ -1,0 +1,8 @@
+# Pavement props / functional revision
+Three distinct generic Japanese roadside props. Files are meters with installation-plane origins (bollard has 100 mm below-plane anchor continuation), Blender Z-up and GLB Y-up. Every asset directory has self-contained GLB, editable packed Blend, metadata, preview.jpg, back.jpg, side.jpg, close_up.jpg and canonical aliases.
+
+Original source: scripts/build_assets.py. Rebuild with Blender 4.3.2:
+    OPENBLAS_NUM_THREADS=1 OMP_NUM_THREADS=2 blender -b -t 2 --python-exit-code 1 --python scripts/build_assets.py
+Set ASSET_OUTPUT_ROOT to a fresh assets directory, and optionally ONLY_ASSETS to comma-separated IDs. All generation writes are scoped to ASSET_OUTPUT_ROOT. Run scripts/validate_assets.py and scripts/render_context.py with the same output root; validation and contextual previews write to its parent. Blender uses at most two render threads; no denoising.
+
+Textures are deterministic original seeded raster textures, generated locally and embedded. No external service generation, licensed logos, external image dependencies or product-replica claims. Construction assumptions and official references are in docs/reference_notes.md. This candidate supersedes withdrawn batch03b. Read docs/functional_revision.md for source-backed mechanisms, stated inferences, and installation limitations. scripts/functional_proof.py reimports saved GLBs and validates/render-tests key insertion, engagement, parallel lift, and anchor attachment. Review-only keys/support are excluded from the asset GLBs. A manifest freezes exact delivered hashes; independent functional review is required before release. Context geometry is not part of asset GLBs.

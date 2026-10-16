@@ -1,0 +1,161 @@
+[
+  {
+    "asset": "cast_iron_manhole",
+    "checks": {
+      "finite": true,
+      "no_degenerate_triangles": true,
+      "triangle_count_matches": true,
+      "dimensions_match": true,
+      "all_files_under_100MB": true,
+      "no_external_image_dependency": true,
+      "canonical_preview_aliases_match": true
+    },
+    "blend_reopened": {
+      "triangles": 30256,
+      "zero_area_triangles": 0,
+      "finite_coordinates": true,
+      "bounds_min": [
+        -0.36000001430511475,
+        -0.36000001430511475,
+        0.0
+      ],
+      "bounds_max": [
+        0.36000001430511475,
+        0.36000001430511475,
+        0.08299999684095383
+      ],
+      "dimensions_m": [
+        0.7200000286102295,
+        0.7200000286102295,
+        0.08299999684095383
+      ]
+    },
+    "glb_reimported": {
+      "triangles": 30256,
+      "zero_area_triangles": 0,
+      "finite_coordinates": true,
+      "bounds_min": [
+        -0.36000001430511475,
+        -0.36000001430511475,
+        0.0
+      ],
+      "bounds_max": [
+        0.36000001430511475,
+        0.36000001430511475,
+        0.08299999684095383
+      ],
+      "dimensions_m": [
+        0.7200000286102295,
+        0.7200000286102295,
+        0.08299999684095383
+      ]
+    },
+    "all_pass": true
+  },
+  {
+    "asset": "concrete_curb_straight",
+    "checks": {
+      "finite": true,
+      "no_degenerate_triangles": true,
+      "triangle_count_matches": true,
+      "dimensions_match": true,
+      "all_files_under_100MB": true,
+      "no_external_image_dependency": true,
+      "canonical_preview_aliases_match": true
+    },
+    "blend_reopened": {
+      "triangles": 188,
+      "zero_area_triangles": 0,
+      "finite_coordinates": true,
+      "bounds_min": [
+        -0.30000001192092896,
+        -0.10243193060159683,
+        0.0
+      ],
+      "bounds_max": [
+        0.30000001192092896,
+        0.10244007408618927,
+        0.25
+      ],
+      "dimensions_m": [
+        0.6000000238418579,
+        0.2048720046877861,
+        0.25
+      ]
+    },
+    "glb_reimported": {
+      "triangles": 188,
+      "zero_area_triangles": 0,
+      "finite_coordinates": true,
+      "bounds_min": [
+        -0.30000001192092896,
+        -0.10243193060159683,
+        0.0
+      ],
+      "bounds_max": [
+        0.30000001192092896,
+        0.10244007408618927,
+        0.25
+      ],
+      "dimensions_m": [
+        0.6000000238418579,
+        0.2048720046877861,
+        0.25
+      ]
+    },
+    "all_pass": true
+  },
+  {
+    "asset": "steel_roadside_bollard",
+    "checks": {
+      "finite": true,
+      "no_degenerate_triangles": true,
+      "triangle_count_matches": true,
+      "dimensions_match": true,
+      "all_files_under_100MB": true,
+      "no_external_image_dependency": true,
+      "canonical_preview_aliases_match": true
+    },
+    "blend_reopened": {
+      "triangles": 11524,
+      "zero_area_triangles": 0,
+      "finite_coordinates": true,
+      "bounds_min": [
+        -0.09000000357627869,
+        -0.09000000357627869,
+        -0.10000000149011612
+      ],
+      "bounds_max": [
+        0.09000000357627869,
+        0.09000000357627869,
+        0.8499999642372131
+      ],
+      "dimensions_m": [
+        0.18000000715255737,
+        0.18000000715255737,
+        0.9499999657273293
+      ]
+    },
+    "glb_reimported": {
+      "triangles": 11524,
+      "zero_area_triangles": 0,
+      "finite_coordinates": true,
+      "bounds_min": [
+        -0.09000000357627869,
+        -0.09000000357627869,
+        -0.10000000149011612
+      ],
+      "bounds_max": [
+        0.09000000357627869,
+        0.09000000357627869,
+        0.8499999642372131
+      ],
+      "dimensions_m": [
+        0.18000000715255737,
+        0.18000000715255737,
+        0.9499999657273293
+      ]
+    },
+    "all_pass": true
+  }
+]

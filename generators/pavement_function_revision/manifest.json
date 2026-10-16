@@ -1,0 +1,384 @@
+{
+  "revision": "pavement-functional-r2",
+  "review_status": "approved independent review; integration metadata synchronized",
+  "files": [
+    {
+      "local_path": "assets/cast_iron_manhole/back.jpg",
+      "repo_relative_path": "assets/street/cast_iron_manhole/back.jpg",
+      "bytes": 86512,
+      "sha256": "a03872821eec3cc137124c7d9dec92a104eb3fe6ecd0d6739dfd20b7a8e9ba73"
+    },
+    {
+      "local_path": "assets/cast_iron_manhole/cast_iron_manhole.blend",
+      "repo_relative_path": "assets/street/cast_iron_manhole/cast_iron_manhole.blend",
+      "bytes": 2597083,
+      "sha256": "0bbc944a28962d1a6d0eb5c4ea8a601f67f48606fae05da42e3a2ba3d254d520"
+    },
+    {
+      "local_path": "assets/cast_iron_manhole/cast_iron_manhole.glb",
+      "repo_relative_path": "assets/street/cast_iron_manhole/cast_iron_manhole.glb",
+      "bytes": 4370320,
+      "sha256": "cc63b16acbabc0c7ceb9c262699b54f6912bb9f9f439b74ea3a92ca613c3d2ac"
+    },
+    {
+      "local_path": "assets/cast_iron_manhole/close_up.jpg",
+      "repo_relative_path": "assets/street/cast_iron_manhole/close_up.jpg",
+      "bytes": 84691,
+      "sha256": "df50ae8344215d76b1699d2dae9e2f4a7a1a5def54c94c4e2bbd7ebc7e145ab5"
+    },
+    {
+      "local_path": "assets/cast_iron_manhole/front_three_quarter.jpg",
+      "repo_relative_path": "assets/street/cast_iron_manhole/front_three_quarter.jpg",
+      "bytes": 86436,
+      "sha256": "c7d32134dcc83a606519ef5a7252c3f2c1d57356e3bf3d2f1abe7bb0b8640234"
+    },
+    {
+      "local_path": "assets/cast_iron_manhole/metadata.json",
+      "repo_relative_path": "assets/street/cast_iron_manhole/metadata.json",
+      "bytes": 1945,
+      "sha256": "33229aeacc1ee68a39f4308217f58b5071be6b2b333e6e6e8f1666653173a592"
+    },
+    {
+      "local_path": "assets/cast_iron_manhole/preview.jpg",
+      "repo_relative_path": "assets/street/cast_iron_manhole/preview.jpg",
+      "bytes": 86436,
+      "sha256": "c7d32134dcc83a606519ef5a7252c3f2c1d57356e3bf3d2f1abe7bb0b8640234"
+    },
+    {
+      "local_path": "assets/cast_iron_manhole/rear.jpg",
+      "repo_relative_path": "assets/street/cast_iron_manhole/rear.jpg",
+      "bytes": 86512,
+      "sha256": "a03872821eec3cc137124c7d9dec92a104eb3fe6ecd0d6739dfd20b7a8e9ba73"
+    },
+    {
+      "local_path": "assets/cast_iron_manhole/side.jpg",
+      "repo_relative_path": "assets/street/cast_iron_manhole/side.jpg",
+      "bytes": 73213,
+      "sha256": "2e5f7caf21c72784de198fc5edae52d28fac7728022ff3e77156432cc1644c7d"
+    },
+    {
+      "local_path": "assets/cast_iron_manhole/underside.jpg",
+      "repo_relative_path": "assets/street/cast_iron_manhole/underside.jpg",
+      "bytes": 59478,
+      "sha256": "ef4463b7c0e4458cc73ca852ce012126cd27cf48fcdd1608e5e28448a962e8f5"
+    },
+    {
+      "local_path": "assets/concrete_curb_straight/back.jpg",
+      "repo_relative_path": "assets/street/concrete_curb_straight/back.jpg",
+      "bytes": 97376,
+      "sha256": "482b9a6776f1204c6faecfdd014320ff5e6448f83b54b1a4fd018598e3e5220e"
+    },
+    {
+      "local_path": "assets/concrete_curb_straight/close_up.jpg",
+      "repo_relative_path": "assets/street/concrete_curb_straight/close_up.jpg",
+      "bytes": 105746,
+      "sha256": "a7f4b758bb0e66d0468379a7d93e66b98ce9eeb432421a57d31948d0232a47d0"
+    },
+    {
+      "local_path": "assets/concrete_curb_straight/concrete_curb_straight.blend",
+      "repo_relative_path": "assets/street/concrete_curb_straight/concrete_curb_straight.blend",
+      "bytes": 1049377,
+      "sha256": "002baa83db478a4cfa9364da83dcc6b471fcaa518bb711eb8db28c55f8bd51bd"
+    },
+    {
+      "local_path": "assets/concrete_curb_straight/concrete_curb_straight.glb",
+      "repo_relative_path": "assets/street/concrete_curb_straight/concrete_curb_straight.glb",
+      "bytes": 958648,
+      "sha256": "18d5a920dcab807ebe4a3c2af0c55856b8994df5d9889444afcd0c181e4353d3"
+    },
+    {
+      "local_path": "assets/concrete_curb_straight/front_three_quarter.jpg",
+      "repo_relative_path": "assets/street/concrete_curb_straight/front_three_quarter.jpg",
+      "bytes": 94880,
+      "sha256": "03acd69d04326e03fb10799f9d73d3a8a60b623803b5a4582cdfd5f8d4813767"
+    },
+    {
+      "local_path": "assets/concrete_curb_straight/metadata.json",
+      "repo_relative_path": "assets/street/concrete_curb_straight/metadata.json",
+      "bytes": 1825,
+      "sha256": "2d5be49fdd0bd6074a438e8b1c434addc9565d051a713faaf7d5442287e6539c"
+    },
+    {
+      "local_path": "assets/concrete_curb_straight/preview.jpg",
+      "repo_relative_path": "assets/street/concrete_curb_straight/preview.jpg",
+      "bytes": 94880,
+      "sha256": "03acd69d04326e03fb10799f9d73d3a8a60b623803b5a4582cdfd5f8d4813767"
+    },
+    {
+      "local_path": "assets/concrete_curb_straight/rear.jpg",
+      "repo_relative_path": "assets/street/concrete_curb_straight/rear.jpg",
+      "bytes": 97376,
+      "sha256": "482b9a6776f1204c6faecfdd014320ff5e6448f83b54b1a4fd018598e3e5220e"
+    },
+    {
+      "local_path": "assets/concrete_curb_straight/side.jpg",
+      "repo_relative_path": "assets/street/concrete_curb_straight/side.jpg",
+      "bytes": 71990,
+      "sha256": "cdfb0fe7281f3579d5387ffa1c997cf80511a629a48cadc3d33602037d82b9d3"
+    },
+    {
+      "local_path": "assets/concrete_curb_straight/underside.jpg",
+      "repo_relative_path": "assets/street/concrete_curb_straight/underside.jpg",
+      "bytes": 57216,
+      "sha256": "97bccbb58ac954d268ec554282815850248b040d3906383de5f71551fcb8b90d"
+    },
+    {
+      "local_path": "assets/steel_roadside_bollard/back.jpg",
+      "repo_relative_path": "assets/street/steel_roadside_bollard/back.jpg",
+      "bytes": 56159,
+      "sha256": "0d4fa6e03942a366e4b9780cda28459e4251297937cb01facc4f6173bfebfc89"
+    },
+    {
+      "local_path": "assets/steel_roadside_bollard/close_up.jpg",
+      "repo_relative_path": "assets/street/steel_roadside_bollard/close_up.jpg",
+      "bytes": 132184,
+      "sha256": "8fb9125092fd3dd586bbc9cfe0eee6b6f6ade12f0f10d3526262d4429b0ad2b7"
+    },
+    {
+      "local_path": "assets/steel_roadside_bollard/front_three_quarter.jpg",
+      "repo_relative_path": "assets/street/steel_roadside_bollard/front_three_quarter.jpg",
+      "bytes": 56265,
+      "sha256": "41bcb03f74614e370404dca8d3b83806be7b005078d46c7e3c2ae27e7697c090"
+    },
+    {
+      "local_path": "assets/steel_roadside_bollard/metadata.json",
+      "repo_relative_path": "assets/street/steel_roadside_bollard/metadata.json",
+      "bytes": 2158,
+      "sha256": "33abbbf57be4b8b6b150ac370ef1da6e55c3ea07320a5bef73206e185a28285b"
+    },
+    {
+      "local_path": "assets/steel_roadside_bollard/preview.jpg",
+      "repo_relative_path": "assets/street/steel_roadside_bollard/preview.jpg",
+      "bytes": 56265,
+      "sha256": "41bcb03f74614e370404dca8d3b83806be7b005078d46c7e3c2ae27e7697c090"
+    },
+    {
+      "local_path": "assets/steel_roadside_bollard/rear.jpg",
+      "repo_relative_path": "assets/street/steel_roadside_bollard/rear.jpg",
+      "bytes": 56159,
+      "sha256": "0d4fa6e03942a366e4b9780cda28459e4251297937cb01facc4f6173bfebfc89"
+    },
+    {
+      "local_path": "assets/steel_roadside_bollard/side.jpg",
+      "repo_relative_path": "assets/street/steel_roadside_bollard/side.jpg",
+      "bytes": 50564,
+      "sha256": "77a32edf986bd0d31a4084b88acd025484b52b3d7d286110ea21061bc1402e68"
+    },
+    {
+      "local_path": "assets/steel_roadside_bollard/steel_roadside_bollard.blend",
+      "repo_relative_path": "assets/street/steel_roadside_bollard/steel_roadside_bollard.blend",
+      "bytes": 2328152,
+      "sha256": "465fc5c17db94e0a2cb1add65ed7c66fbc07e586ff6e137594b53d9bced0e188"
+    },
+    {
+      "local_path": "assets/steel_roadside_bollard/steel_roadside_bollard.glb",
+      "repo_relative_path": "assets/street/steel_roadside_bollard/steel_roadside_bollard.glb",
+      "bytes": 2578260,
+      "sha256": "381aef5ecaca4db5afc13b1d48c953e9e0be3bc91fcdfe1ad3c5c7d5372a9e6a"
+    },
+    {
+      "local_path": "assets/steel_roadside_bollard/underside.jpg",
+      "repo_relative_path": "assets/street/steel_roadside_bollard/underside.jpg",
+      "bytes": 62121,
+      "sha256": "ae2e5dc7b460a49a58e42fe5de72f0420df9887610c96203b3841974804d51ab"
+    },
+    {
+      "local_path": "README.md",
+      "repo_relative_path": "generators/pavement_function_revision/README.md",
+      "bytes": 1687,
+      "sha256": "4f29159122b72ff3a6d731e86eaedbf8644f49542cb5d39ada7a1f6b541e149b"
+    },
+    {
+      "local_path": "catalog.json",
+      "repo_relative_path": "generators/pavement_function_revision/catalog.json",
+      "bytes": 6230,
+      "sha256": "4d2d1be8a4819a90dd923847631884fc56fc41d76a5a5a80cf252cec79c585e6"
+    },
+    {
+      "local_path": "context_geometry_audit.json",
+      "repo_relative_path": "generators/pavement_function_revision/context_geometry_audit.json",
+      "bytes": 2063,
+      "sha256": "5e31824081b3e081f2a4a092ad0a8097e540fb523944d084366214e327fad460"
+    },
+    {
+      "local_path": "docs/functional_revision.md",
+      "repo_relative_path": "generators/pavement_function_revision/docs/functional_revision.md",
+      "bytes": 4406,
+      "sha256": "e5eb43091541f45dfc457fd07eedc52013a7b6062e8439c3d0e96664e99e1ee4"
+    },
+    {
+      "local_path": "docs/reference_notes.md",
+      "repo_relative_path": "generators/pavement_function_revision/docs/reference_notes.md",
+      "bytes": 1802,
+      "sha256": "bc9ea0c8133314c6801834baf4736ac4fe0280580e537b744c520552372625b6"
+    },
+    {
+      "local_path": "functional/bollard_anchor_cutaway.blend",
+      "repo_relative_path": "generators/pavement_function_revision/functional/bollard_anchor_cutaway.blend",
+      "bytes": 4828785,
+      "sha256": "d145342fcd6540b7c02601587bcb5e2cf030febb30d21656a742df4e9160f98a"
+    },
+    {
+      "local_path": "functional/bollard_anchor_cutaway.jpg",
+      "repo_relative_path": "generators/pavement_function_revision/functional/bollard_anchor_cutaway.jpg",
+      "bytes": 81467,
+      "sha256": "3ad0f44b45b609de54b31c66766b806bac8e029b83457a8ee3b292a9d846ab07"
+    },
+    {
+      "local_path": "functional/bollard_drilled_underside.blend",
+      "repo_relative_path": "generators/pavement_function_revision/functional/bollard_drilled_underside.blend",
+      "bytes": 4795896,
+      "sha256": "93e98e9e27d39c6f6d9c1c22c8c26ff083e0958a8a7f193786aa0939ccf64bd4"
+    },
+    {
+      "local_path": "functional/bollard_drilled_underside.jpg",
+      "repo_relative_path": "generators/pavement_function_revision/functional/bollard_drilled_underside.jpg",
+      "bytes": 62121,
+      "sha256": "ae2e5dc7b460a49a58e42fe5de72f0420df9887610c96203b3841974804d51ab"
+    },
+    {
+      "local_path": "functional/curb_underside.blend",
+      "repo_relative_path": "generators/pavement_function_revision/functional/curb_underside.blend",
+      "bytes": 5536361,
+      "sha256": "5b0d4c0b08692564000ea9c51a588bc75d35091e9fcadcdce4ca51a32a527bf3"
+    },
+    {
+      "local_path": "functional/curb_underside.jpg",
+      "repo_relative_path": "generators/pavement_function_revision/functional/curb_underside.jpg",
+      "bytes": 57216,
+      "sha256": "97bccbb58ac954d268ec554282815850248b040d3906383de5f71551fcb8b90d"
+    },
+    {
+      "local_path": "functional/functional_validation.json",
+      "repo_relative_path": "generators/pavement_function_revision/functional/functional_validation.json",
+      "bytes": 1920,
+      "sha256": "753b032a32bff77a0a1958645d2169150917510c058d053664fbac70b215e45a"
+    },
+    {
+      "local_path": "functional/manhole_engaged_underside.blend",
+      "repo_relative_path": "generators/pavement_function_revision/functional/manhole_engaged_underside.blend",
+      "bytes": 2674360,
+      "sha256": "39f2d89ff03d6b1acf5a2579e116980b78c759288381ee5574ebf9b54baa52a5"
+    },
+    {
+      "local_path": "functional/manhole_engaged_underside.jpg",
+      "repo_relative_path": "generators/pavement_function_revision/functional/manhole_engaged_underside.jpg",
+      "bytes": 55472,
+      "sha256": "729d8f9f7f19b00536c18ed984c8188a56190474e8b76b4d234f73cbf6f380d1"
+    },
+    {
+      "local_path": "functional/manhole_engagement_cutaway.blend",
+      "repo_relative_path": "generators/pavement_function_revision/functional/manhole_engagement_cutaway.blend",
+      "bytes": 2599670,
+      "sha256": "dae9e182cd3a6d205a038364497f817eba07d3babf642d07f68ce3e5f5a1eb9c"
+    },
+    {
+      "local_path": "functional/manhole_engagement_cutaway.jpg",
+      "repo_relative_path": "generators/pavement_function_revision/functional/manhole_engagement_cutaway.jpg",
+      "bytes": 132481,
+      "sha256": "15c6017281714e2258a23cf3a11f03c4b7f1d42f6530a6cadf27387de8dede6b"
+    },
+    {
+      "local_path": "functional/manhole_key_insertion.blend",
+      "repo_relative_path": "generators/pavement_function_revision/functional/manhole_key_insertion.blend",
+      "bytes": 2674330,
+      "sha256": "e10dcc1bd9a72c9b625e2d491175dd2c9e46cbafcb0702b334773b78d9b523b1"
+    },
+    {
+      "local_path": "functional/manhole_key_insertion.jpg",
+      "repo_relative_path": "generators/pavement_function_revision/functional/manhole_key_insertion.jpg",
+      "bytes": 69120,
+      "sha256": "a943af1225fb05ad3aac5de21b0369473c489f90d9ac5ffbeeb982973ef66f45"
+    },
+    {
+      "local_path": "functional/manhole_parallel_lift.blend",
+      "repo_relative_path": "generators/pavement_function_revision/functional/manhole_parallel_lift.blend",
+      "bytes": 2676634,
+      "sha256": "6bd2a004e1a20ecef1c0e6b87792d8c3c17ef27f99d5c72e4957bc5be25242ba"
+    },
+    {
+      "local_path": "functional/manhole_parallel_lift.jpg",
+      "repo_relative_path": "generators/pavement_function_revision/functional/manhole_parallel_lift.jpg",
+      "bytes": 58735,
+      "sha256": "dae84ff4b011861bc8824989f576d131b5bdbfb983d084314e82f5ff13a3d675"
+    },
+    {
+      "local_path": "functional/manhole_underside.blend",
+      "repo_relative_path": "generators/pavement_function_revision/functional/manhole_underside.blend",
+      "bytes": 2669512,
+      "sha256": "aa807114a643815210629e5983288b0f3a47a03c4b7c65246d3888e8f1ea426b"
+    },
+    {
+      "local_path": "functional/manhole_underside.jpg",
+      "repo_relative_path": "generators/pavement_function_revision/functional/manhole_underside.jpg",
+      "bytes": 59478,
+      "sha256": "ef4463b7c0e4458cc73ca852ce012126cd27cf48fcdd1608e5e28448a962e8f5"
+    },
+    {
+      "local_path": "previews/context_alternate_light.jpg",
+      "repo_relative_path": "generators/pavement_function_revision/previews/context_alternate_light.jpg",
+      "bytes": 118440,
+      "sha256": "ceb570a46a62efd7617b1143ba28038437bd5449c48b82fbcb78cd38e3f1554c"
+    },
+    {
+      "local_path": "previews/context_daylight.jpg",
+      "repo_relative_path": "generators/pavement_function_revision/previews/context_daylight.jpg",
+      "bytes": 118015,
+      "sha256": "ed7a36969631048289a331693be26fcc9f62654c09ec15f8217db72470ed935b"
+    },
+    {
+      "local_path": "previews/context_review.blend",
+      "repo_relative_path": "generators/pavement_function_revision/previews/context_review.blend",
+      "bytes": 8042582,
+      "sha256": "7aa78e45426b35213d950d16ad1e3d8894b51dbc3a2c087d53fbbe4135535359"
+    },
+    {
+      "local_path": "previews/input_provenance.json",
+      "repo_relative_path": "generators/pavement_function_revision/previews/input_provenance.json",
+      "bytes": 388,
+      "sha256": "29f85305f75f12ba518b5e4ff0b1ed94a3ee486fef8aa4caf8ab9e4744b96c96"
+    },
+    {
+      "local_path": "scripts/audit_context.py",
+      "repo_relative_path": "generators/pavement_function_revision/scripts/audit_context.py",
+      "bytes": 1677,
+      "sha256": "6b50fafe3fb5b4bfe9887b168e582d2a123adfd21f4da808b86b0de900522b31"
+    },
+    {
+      "local_path": "scripts/build_assets.py",
+      "repo_relative_path": "generators/pavement_function_revision/scripts/build_assets.py",
+      "bytes": 15727,
+      "sha256": "343ca6fdecbb55599a7498e55195178fc17bc507338f5015867e89513c349cdc"
+    },
+    {
+      "local_path": "scripts/functional_proof.py",
+      "repo_relative_path": "generators/pavement_function_revision/scripts/functional_proof.py",
+      "bytes": 11361,
+      "sha256": "1d84111c090d2c6e328ca06f2b3de814685a2ec881379d46ea1d083432dae535"
+    },
+    {
+      "local_path": "scripts/package_manifest.py",
+      "repo_relative_path": "generators/pavement_function_revision/scripts/package_manifest.py",
+      "bytes": 3066,
+      "sha256": "4da85005b00215ad4075b5dca7fd2494e58939e0f0d84b0438c74f26ce448948"
+    },
+    {
+      "local_path": "scripts/render_context.py",
+      "repo_relative_path": "generators/pavement_function_revision/scripts/render_context.py",
+      "bytes": 3946,
+      "sha256": "eea764f22a7dbeaf9e1336bdb8d8fd9663d586329d8018a765f4b8e311744fa0"
+    },
+    {
+      "local_path": "scripts/validate_assets.py",
+      "repo_relative_path": "generators/pavement_function_revision/scripts/validate_assets.py",
+      "bytes": 2210,
+      "sha256": "3a5133d9534b0908aa6cab31b4dcad23c7dbb0bf57ee439e8345912effb99ac0"
+    },
+    {
+      "local_path": "validation.json",
+      "repo_relative_path": "generators/pavement_function_revision/validation.json",
+      "bytes": 3772,
+      "sha256": "963d21f16f83e54fb64f8371ad4c06870338c369543a5aa7cdf7d10def6de007"
+    }
+  ]
+}
