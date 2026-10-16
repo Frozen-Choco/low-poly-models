@@ -29,16 +29,24 @@
   ],
   "mesh_objects": 1,
   "files_bytes": {
-    "preview.jpg": 67886,
-    "front_three_quarter.jpg": 67886,
-    "rear.jpg": 62165,
-    "side.jpg": 61813,
+    "preview.jpg": 121619,
+    "front_three_quarter.jpg": 121619,
+    "rear.jpg": 57192,
+    "side.jpg": 64739,
     "wooden_cutting_board.blend": 1357594,
-    "back.jpg": 62165,
-    "close_up.jpg": 84193,
+    "back.jpg": 121211,
+    "close_up.jpg": 219583,
     "wooden_cutting_board.glb": 1267908
   },
   "title_ja": "木製まな板",
   "glb_bytes": 1267908,
-  "blend_bytes": 1357594
+  "blend_bytes": 1357594,
+  "photography": {
+    "standard": "preview_standard_v1",
+    "resolution": [
+      1200,
+      1200
+    ],
+    "record": "generators/preview_standard_v1/published/wooden_cutting_board.json"
+  }
 }

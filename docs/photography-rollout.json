@@ -21,12 +21,11 @@
     "stainless_kitchen_kettle",
     "steel_roadside_bollard",
     "streetlight",
-    "taped_shipping_box"
-  ],
-  "pending_assets": [
-    "traffic_signal",
+    "taped_shipping_box",
     "traffic_cone",
+    "traffic_signal",
     "wooden_cutting_board"
   ],
+  "pending_assets": [],
   "scope": "Current canonical asset photographs only; historical generator evidence retained."
 }

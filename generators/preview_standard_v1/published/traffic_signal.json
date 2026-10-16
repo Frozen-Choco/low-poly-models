@@ -1,0 +1,1097 @@
+{
+  "asset": "traffic_signal",
+  "photography_version": "preview-standard-v1",
+  "input": {
+    "id": "traffic_signal",
+    "repo_path": "assets/street/traffic_signal/traffic_signal.glb",
+    "sha256": "751b558f1dbdae7914d550336901992d7bb47977594206d99bf2f5850154623f",
+    "git_sha": "6d8fdc5acdf500a80bbe70e8a7913cd179fed22f"
+  },
+  "reproduction_renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "reproduction_spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "detail_targets_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+  "provenance_note": "Original producer hashes are retained. The portable reproduction renderer uses the same photographic code and effective per-view configuration; scheduling, cache checks and descriptive metadata are excluded. Camera/light values and input/output hashes are recorded for verification.",
+  "outputs": [
+    {
+      "path": "assets/street/traffic_signal/back.jpg",
+      "sha256": "b24ed5193b616c5d0d00f7e384efda6ea4073852b2461c16856d9dd385c08232",
+      "bytes": 80186,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "back",
+      "original_render_record": {
+        "input_sha256": "751b558f1dbdae7914d550336901992d7bb47977594206d99bf2f5850154623f",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 595.4043173179962,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 0.4039995950664764,
+        "source_bounds": [
+          [
+            -0.18000000715255737,
+            -0.38999998569488525,
+            0.0
+          ],
+          [
+            1.2350000143051147,
+            0.1995985209941864,
+            4.950500011444092
+          ]
+        ],
+        "camera_location": [
+          -6.317296028137207,
+          6.3335394859313965,
+          5.470323085784912
+        ],
+        "camera_rotation": [
+          1.0998820066452026,
+          1.1037879943387452e-07,
+          -2.3561947345733643
+        ],
+        "ortho_scale": 2.3430116176605225,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          0.4613587260246277,
+          1.874409258365631
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              2.999999761581421,
+              3.999999523162842,
+              5.000001430511475
+            ],
+            "rotation": [
+              0.8605252504348755,
+              -5.99574647708323e-08,
+              2.498091697692871
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              -4.000000476837158,
+              1.0000011920928955,
+              2.9999985694885254
+            ],
+            "rotation": [
+              1.0619604587554932,
+              9.89387904937189e-10,
+              -1.8157753944396973
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -1.0000020265579224,
+              -3.999999523162842,
+              4.0
+            ],
+            "rotation": [
+              0.895831286907196,
+              2.379176855527021e-08,
+              -0.24497920274734497
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 0.9999999809205028
+      }
+    },
+    {
+      "path": "assets/street/traffic_signal/back.png",
+      "sha256": "a35afdb498a3fb804361a94f0290bbf63c6d562638263d9838d41c3627d521a7",
+      "bytes": 261362,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "PNG",
+      "alias_of": "assets/street/traffic_signal/back.jpg",
+      "render_view": "back",
+      "original_render_record": {
+        "input_sha256": "751b558f1dbdae7914d550336901992d7bb47977594206d99bf2f5850154623f",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 595.4043173179962,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 0.4039995950664764,
+        "source_bounds": [
+          [
+            -0.18000000715255737,
+            -0.38999998569488525,
+            0.0
+          ],
+          [
+            1.2350000143051147,
+            0.1995985209941864,
+            4.950500011444092
+          ]
+        ],
+        "camera_location": [
+          -6.317296028137207,
+          6.3335394859313965,
+          5.470323085784912
+        ],
+        "camera_rotation": [
+          1.0998820066452026,
+          1.1037879943387452e-07,
+          -2.3561947345733643
+        ],
+        "ortho_scale": 2.3430116176605225,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          0.4613587260246277,
+          1.874409258365631
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              2.999999761581421,
+              3.999999523162842,
+              5.000001430511475
+            ],
+            "rotation": [
+              0.8605252504348755,
+              -5.99574647708323e-08,
+              2.498091697692871
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              -4.000000476837158,
+              1.0000011920928955,
+              2.9999985694885254
+            ],
+            "rotation": [
+              1.0619604587554932,
+              9.89387904937189e-10,
+              -1.8157753944396973
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -1.0000020265579224,
+              -3.999999523162842,
+              4.0
+            ],
+            "rotation": [
+              0.895831286907196,
+              2.379176855527021e-08,
+              -0.24497920274734497
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 0.9999999809205028
+      }
+    },
+    {
+      "path": "assets/street/traffic_signal/base.jpg",
+      "sha256": "ba648a1e57f67408982c9d74c96485241896d8920b8c89a3986b76e9b821dbf8",
+      "bytes": 95594,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "base",
+      "original_render_record": {
+        "input_sha256": "751b558f1dbdae7914d550336901992d7bb47977594206d99bf2f5850154623f",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 671.730981738001,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 0.4039995950664764,
+        "source_bounds": [
+          [
+            -0.18000000715255737,
+            -0.38999998569488525,
+            0.0
+          ],
+          [
+            1.2350000143051147,
+            0.1995985209941864,
+            4.950500011444092
+          ]
+        ],
+        "camera_location": [
+          6.1322126388549805,
+          -6.298781394958496,
+          4.565349578857422
+        ],
+        "camera_rotation": [
+          1.1111770868301392,
+          -5.514942102990972e-08,
+          0.7853983044624329
+        ],
+        "ortho_scale": 0.4292495548725128,
+        "focus": {
+          "purpose": "Anchors and foundation contact",
+          "target_m": [
+            0.02,
+            0,
+            0.32
+          ],
+          "span_m": 0.85,
+          "direction": [
+            1,
+            -1,
+            0.7
+          ]
+        },
+        "focus_projected_width_height": [
+          0.4613585025072098,
+          1.8449900150299072
+        ],
+        "full_object_fit": false,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              -2.9680838584899902,
+              -4.031915664672852,
+              4.991759300231934
+            ],
+            "rotation": [
+              0.8621763586997986,
+              -4.94315983701199e-08,
+              -0.6339073181152344
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              4.015814304351807,
+              -1.0158137083053589,
+              2.9599380493164062
+            ],
+            "rotation": [
+              1.071655035018921,
+              3.145727944797727e-08,
+              1.3226213455200195
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              1.0240557193756104,
+              3.9759440422058105,
+              4.023769378662109
+            ],
+            "rotation": [
+              0.8900575637817383,
+              -2.1280742501517125e-08,
+              2.8887977600097656
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 5.372719651328088
+      }
+    },
+    {
+      "path": "assets/street/traffic_signal/close_up.jpg",
+      "sha256": "363fab7b1b92ca1ff96dd4a76cec8337bd64a8206a3e55bf7089ce2bd32e435c",
+      "bytes": 162613,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "close_up",
+      "original_render_record": {
+        "input_sha256": "751b558f1dbdae7914d550336901992d7bb47977594206d99bf2f5850154623f",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 296.1995261819975,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 0.4039995950664764,
+        "source_bounds": [
+          [
+            -0.18000000715255737,
+            -0.38999998569488525,
+            0.0
+          ],
+          [
+            1.2350000143051147,
+            0.1995985209941864,
+            4.950500011444092
+          ]
+        ],
+        "camera_location": [
+          1.2532776594161987,
+          -9.939908027648926,
+          2.25156831741333
+        ],
+        "camera_rotation": [
+          1.5211933851242065,
+          9.674010037485914e-09,
+          0.11942894756793976
+        ],
+        "ortho_scale": 0.5762115716934204,
+        "focus": {
+          "purpose": "Unobscured LED/lens colors and front housing",
+          "mesh_name_contains": [
+            "LED array",
+            "optical backing",
+            "retaining gasket",
+            "sun visor",
+            "signal housing"
+          ],
+          "direction": [
+            0.12,
+            -1,
+            0.05
+          ]
+        },
+        "focus_projected_width_height": [
+          0.4609692394733429,
+          0.1590430662035942
+        ],
+        "full_object_fit": false,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              -4.642706394195557,
+              -2.8545944690704346,
+              4.361037254333496
+            ],
+            "rotation": [
+              0.9870296716690063,
+              -2.5392772329269064e-09,
+              -0.9992742538452148
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              2.588066577911377,
+              -3.762725353240967,
+              1.3792223930358887
+            ],
+            "rotation": [
+              1.4320423603057861,
+              -3.355505384661228e-08,
+              0.5903143882751465
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              3.425882577896118,
+              1.1251370906829834,
+              4.605190277099609
+            ],
+            "rotation": [
+              0.7458697557449341,
+              1.850717126217205e-07,
+              1.8545489311218262
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": [
+          184,
+          184,
+          184
+        ],
+        "floor_hidden": true,
+        "closeup_magnification_vs_full_fit": 4.3440534932151165
+      }
+    },
+    {
+      "path": "assets/street/traffic_signal/detail.jpg",
+      "sha256": "7bbb27b89892ad3c4cb6d522d4e6fb99c601c8dd34e387fa716f1dc67f1176e8",
+      "bytes": 105715,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "detail",
+      "original_render_record": {
+        "input_sha256": "751b558f1dbdae7914d550336901992d7bb47977594206d99bf2f5850154623f",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 500.6759952889988,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 0.4039995950664764,
+        "source_bounds": [
+          [
+            -0.18000000715255737,
+            -0.38999998569488525,
+            0.0
+          ],
+          [
+            1.2350000143051147,
+            0.1995985209941864,
+            4.950500011444092
+          ]
+        ],
+        "camera_location": [
+          4.368832111358643,
+          8.685225486755371,
+          4.369203567504883
+        ],
+        "camera_rotation": [
+          1.3086435794830322,
+          -1.3386444663865404e-07,
+          2.677945137023926
+        ],
+        "ortho_scale": 0.8332491517066956,
+        "focus": {
+          "purpose": "Rear mounting brackets, service cover and cable glands",
+          "target_m": [
+            0.65,
+            0.02,
+            4.4
+          ],
+          "span_m": 1.65,
+          "direction": [
+            0.5,
+            1,
+            0.3
+          ]
+        },
+        "focus_projected_width_height": [
+          0.594598263502121,
+          1.9611755311489105
+        ],
+        "full_object_fit": false,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              5.107288837432861,
+              -0.8533940315246582,
+              4.766606330871582
+            ],
+            "rotation": [
+              0.9075726270675659,
+              -3.123857794662399e-08,
+              1.416669487953186
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              -0.16518844664096832,
+              4.4130401611328125,
+              2.223841428756714
+            ],
+            "rotation": [
+              1.2436054944992065,
+              9.387660782067542e-08,
+              -3.110858678817749
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -3.812309741973877,
+              0.2810736298561096,
+              4.374505996704102
+            ],
+            "rotation": [
+              0.8030007481575012,
+              1.8093848197509033e-08,
+              -1.6595267057418823
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 2.9420604976493965
+      }
+    },
+    {
+      "path": "assets/street/traffic_signal/detail.png",
+      "sha256": "f9946a9cf8b65dccf9fefb8ff625e1d5efb867816123b73590ea6990dadc2592",
+      "bytes": 344870,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "PNG",
+      "alias_of": "assets/street/traffic_signal/detail.jpg",
+      "render_view": "detail",
+      "original_render_record": {
+        "input_sha256": "751b558f1dbdae7914d550336901992d7bb47977594206d99bf2f5850154623f",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 500.6759952889988,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 0.4039995950664764,
+        "source_bounds": [
+          [
+            -0.18000000715255737,
+            -0.38999998569488525,
+            0.0
+          ],
+          [
+            1.2350000143051147,
+            0.1995985209941864,
+            4.950500011444092
+          ]
+        ],
+        "camera_location": [
+          4.368832111358643,
+          8.685225486755371,
+          4.369203567504883
+        ],
+        "camera_rotation": [
+          1.3086435794830322,
+          -1.3386444663865404e-07,
+          2.677945137023926
+        ],
+        "ortho_scale": 0.8332491517066956,
+        "focus": {
+          "purpose": "Rear mounting brackets, service cover and cable glands",
+          "target_m": [
+            0.65,
+            0.02,
+            4.4
+          ],
+          "span_m": 1.65,
+          "direction": [
+            0.5,
+            1,
+            0.3
+          ]
+        },
+        "focus_projected_width_height": [
+          0.594598263502121,
+          1.9611755311489105
+        ],
+        "full_object_fit": false,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              5.107288837432861,
+              -0.8533940315246582,
+              4.766606330871582
+            ],
+            "rotation": [
+              0.9075726270675659,
+              -3.123857794662399e-08,
+              1.416669487953186
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              -0.16518844664096832,
+              4.4130401611328125,
+              2.223841428756714
+            ],
+            "rotation": [
+              1.2436054944992065,
+              9.387660782067542e-08,
+              -3.110858678817749
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -3.812309741973877,
+              0.2810736298561096,
+              4.374505996704102
+            ],
+            "rotation": [
+              0.8030007481575012,
+              1.8093848197509033e-08,
+              -1.6595267057418823
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 2.9420604976493965
+      }
+    },
+    {
+      "path": "assets/street/traffic_signal/front_three_quarter.jpg",
+      "sha256": "31c6667ac77e16f552ed0eb6a4b50e833da762bd8defea5b8224c51cfc7739fa",
+      "bytes": 82831,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": "assets/street/traffic_signal/preview.jpg",
+      "render_view": "preview",
+      "original_render_record": {
+        "input_sha256": "751b558f1dbdae7914d550336901992d7bb47977594206d99bf2f5850154623f",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 600.4420948049956,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 0.4039995950664764,
+        "source_bounds": [
+          [
+            -0.18000000715255737,
+            -0.38999998569488525,
+            0.0
+          ],
+          [
+            1.2350000143051147,
+            0.1995985209941864,
+            4.950500011444092
+          ]
+        ],
+        "camera_location": [
+          6.287907123565674,
+          -6.271665096282959,
+          5.597077369689941
+        ],
+        "camera_rotation": [
+          1.099881887435913,
+          -1.1680641165412453e-07,
+          0.7853983044624329
+        ],
+        "ortho_scale": 2.295063018798828,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          0.46135857701301575,
+          1.8360503315925598
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              -2.9999990463256836,
+              -4.000000953674316,
+              5.000000476837158
+            ],
+            "rotation": [
+              0.8605254888534546,
+              7.73745867377329e-09,
+              -0.6435010433197021
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              4.000000476837158,
+              -0.9999997615814209,
+              2.999999523162842
+            ],
+            "rotation": [
+              1.061960220336914,
+              9.897669173142276e-08,
+              1.3258179426193237
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              0.9999995827674866,
+              3.999999761581421,
+              4.000000953674316
+            ],
+            "rotation": [
+              0.8958309888839722,
+              -5.2051913002060246e-08,
+              2.8966140747070312
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 0.9999999545510831
+      }
+    },
+    {
+      "path": "assets/street/traffic_signal/preview.jpg",
+      "sha256": "31c6667ac77e16f552ed0eb6a4b50e833da762bd8defea5b8224c51cfc7739fa",
+      "bytes": 82831,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "preview",
+      "original_render_record": {
+        "input_sha256": "751b558f1dbdae7914d550336901992d7bb47977594206d99bf2f5850154623f",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 600.4420948049956,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 0.4039995950664764,
+        "source_bounds": [
+          [
+            -0.18000000715255737,
+            -0.38999998569488525,
+            0.0
+          ],
+          [
+            1.2350000143051147,
+            0.1995985209941864,
+            4.950500011444092
+          ]
+        ],
+        "camera_location": [
+          6.287907123565674,
+          -6.271665096282959,
+          5.597077369689941
+        ],
+        "camera_rotation": [
+          1.099881887435913,
+          -1.1680641165412453e-07,
+          0.7853983044624329
+        ],
+        "ortho_scale": 2.295063018798828,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          0.46135857701301575,
+          1.8360503315925598
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              -2.9999990463256836,
+              -4.000000953674316,
+              5.000000476837158
+            ],
+            "rotation": [
+              0.8605254888534546,
+              7.73745867377329e-09,
+              -0.6435010433197021
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              4.000000476837158,
+              -0.9999997615814209,
+              2.999999523162842
+            ],
+            "rotation": [
+              1.061960220336914,
+              9.897669173142276e-08,
+              1.3258179426193237
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              0.9999995827674866,
+              3.999999761581421,
+              4.000000953674316
+            ],
+            "rotation": [
+              0.8958309888839722,
+              -5.2051913002060246e-08,
+              2.8966140747070312
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 0.9999999545510831
+      }
+    },
+    {
+      "path": "assets/street/traffic_signal/preview.png",
+      "sha256": "f532808201a0ca887a5c029d0f00b28ebae365ad6f84fa3bf498ea8c586a244e",
+      "bytes": 271591,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "PNG",
+      "alias_of": "assets/street/traffic_signal/preview.jpg",
+      "render_view": "preview",
+      "original_render_record": {
+        "input_sha256": "751b558f1dbdae7914d550336901992d7bb47977594206d99bf2f5850154623f",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 600.4420948049956,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 0.4039995950664764,
+        "source_bounds": [
+          [
+            -0.18000000715255737,
+            -0.38999998569488525,
+            0.0
+          ],
+          [
+            1.2350000143051147,
+            0.1995985209941864,
+            4.950500011444092
+          ]
+        ],
+        "camera_location": [
+          6.287907123565674,
+          -6.271665096282959,
+          5.597077369689941
+        ],
+        "camera_rotation": [
+          1.099881887435913,
+          -1.1680641165412453e-07,
+          0.7853983044624329
+        ],
+        "ortho_scale": 2.295063018798828,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          0.46135857701301575,
+          1.8360503315925598
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              -2.9999990463256836,
+              -4.000000953674316,
+              5.000000476837158
+            ],
+            "rotation": [
+              0.8605254888534546,
+              7.73745867377329e-09,
+              -0.6435010433197021
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              4.000000476837158,
+              -0.9999997615814209,
+              2.999999523162842
+            ],
+            "rotation": [
+              1.061960220336914,
+              9.897669173142276e-08,
+              1.3258179426193237
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              0.9999995827674866,
+              3.999999761581421,
+              4.000000953674316
+            ],
+            "rotation": [
+              0.8958309888839722,
+              -5.2051913002060246e-08,
+              2.8966140747070312
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 0.9999999545510831
+      }
+    },
+    {
+      "path": "assets/street/traffic_signal/rear.jpg",
+      "sha256": "aab9692210bb0d78d899a0d21ab9c4c32593dfa16186fefda35b862cf8a5c788",
+      "bytes": 48569,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "rear",
+      "original_render_record": {
+        "input_sha256": "751b558f1dbdae7914d550336901992d7bb47977594206d99bf2f5850154623f",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 35.750926469998376,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 0.4039995950664764,
+        "source_bounds": [
+          [
+            -0.18000000715255737,
+            -0.38999998569488525,
+            0.0
+          ],
+          [
+            1.2350000143051147,
+            0.1995985209941864,
+            4.950500011444092
+          ]
+        ],
+        "camera_location": [
+          -1.4901057276972551e-08,
+          10.0,
+          0.9999992847442627
+        ],
+        "camera_rotation": [
+          -1.570796251296997,
+          3.141592502593994,
+          -0.0
+        ],
+        "ortho_scale": 2.5,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          0.5716597139835358,
+          2.0000000596046448
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              4.949746608734131,
+              2.4449477195739746,
+              4.243801116943359
+            ],
+            "rotation": [
+              1.009339690208435,
+              1.5022574473277928e-07,
+              2.0514585971832275
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              -2.1213204860687256,
+              4.058107376098633,
+              1.1782294511795044
+            ],
+            "rotation": [
+              1.47627854347229,
+              4.6657358865331844e-08,
+              -2.673337697982788
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -3.535534620285034,
+              -0.5293179750442505,
+              4.63590669631958
+            ],
+            "rotation": [
+              0.7390650510787964,
+              -1.1492829798953608e-08,
+              -1.4600355625152588
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": [
+          184,
+          184,
+          184
+        ],
+        "floor_hidden": true,
+        "closeup_magnification_vs_full_fit": 1.0000000298023224
+      }
+    }
+  ]
+}

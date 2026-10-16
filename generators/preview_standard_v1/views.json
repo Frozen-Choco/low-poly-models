@@ -547,7 +547,7 @@
   {
     "asset": "traffic_cone",
     "path": "assets/street/traffic_cone/underside_axial.jpg",
-    "alias_of": null
+    "alias_of": "assets/street/traffic_cone/underside.jpg"
   },
   {
     "asset": "traffic_signal",

@@ -77,19 +77,30 @@
     }
   },
   "files_bytes": {
-    "back.jpg": 62147,
-    "base.jpg": 96871,
-    "close_up.jpg": 92450,
-    "detail.jpg": 92450,
-    "front_three_quarter.jpg": 43190,
-    "preview.jpg": 43190,
-    "rear.jpg": 62147,
+    "back.jpg": 80186,
+    "base.jpg": 95594,
+    "close_up.jpg": 162613,
+    "detail.jpg": 105715,
+    "front_three_quarter.jpg": 82831,
+    "preview.jpg": 82831,
+    "rear.jpg": 48569,
     "traffic_signal.blend": 190146,
-    "traffic_signal.glb": 379888
+    "traffic_signal.glb": 379888,
+    "back.png": 261362,
+    "detail.png": 344870,
+    "preview.png": 271591
   },
   "functional_evidence": "../../../generators/street_attachment_revision/functional/validation.json",
   "construction_notes": "../../../generators/street_attachment_revision/docs/attachment-revision.md",
   "vertices_blend": 8342,
   "vertices_glb": 10785,
-  "assembly_evidence": "../../../generators/street_attachment_revision/functional/assembly_test.json"
+  "assembly_evidence": "../../../generators/street_attachment_revision/functional/assembly_test.json",
+  "photography": {
+    "standard": "preview_standard_v1",
+    "resolution": [
+      1200,
+      1200
+    ],
+    "record": "generators/preview_standard_v1/published/traffic_signal.json"
+  }
 }
