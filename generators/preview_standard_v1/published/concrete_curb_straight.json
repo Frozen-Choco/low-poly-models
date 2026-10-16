@@ -1,0 +1,755 @@
+{
+  "asset": "concrete_curb_straight",
+  "photography_version": "preview-standard-v1",
+  "input": {
+    "id": "concrete_curb_straight",
+    "repo_path": "assets/street/concrete_curb_straight/concrete_curb_straight.glb",
+    "sha256": "18d5a920dcab807ebe4a3c2af0c55856b8994df5d9889444afcd0c181e4353d3",
+    "git_sha": "45fea7d1cc39ed6b5d23a8ac7f3a96ee71d698f5"
+  },
+  "reproduction_renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "reproduction_spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "detail_targets_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+  "provenance_note": "Original producer hashes are retained. The portable reproduction renderer uses the same photographic code and effective per-view configuration; scheduling, cache checks and descriptive metadata are excluded. Camera/light values and input/output hashes are recorded for verification.",
+  "outputs": [
+    {
+      "path": "assets/street/concrete_curb_straight/back.jpg",
+      "sha256": "259e4ae54f7004699554582312bbc678f2885c590e6f2ee068a17b344b4640ee",
+      "bytes": 156955,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "back",
+      "original_render_record": {
+        "input_sha256": "18d5a920dcab807ebe4a3c2af0c55856b8994df5d9889444afcd0c181e4353d3",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 691.9926302099993,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 3.3333332008785725,
+        "source_bounds": [
+          [
+            -0.30000001192092896,
+            -0.10243193060159683,
+            0.0
+          ],
+          [
+            0.30000001192092896,
+            0.10244007408618927,
+            0.25
+          ]
+        ],
+        "camera_location": [
+          -6.307609558105469,
+          6.307612419128418,
+          4.936452388763428
+        ],
+        "camera_rotation": [
+          1.0998820066452026,
+          1.1037879943387452e-07,
+          -2.3561947345733643
+        ],
+        "ortho_scale": 2.367229700088501,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          1.8937838077545166,
+          1.5596771836280823
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              2.999999523162842,
+              3.999999523162842,
+              5.000001430511475
+            ],
+            "rotation": [
+              0.8605250716209412,
+              4.998531011324303e-08,
+              2.498091459274292
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              -4.000000476837158,
+              1.0000011920928955,
+              2.9999988079071045
+            ],
+            "rotation": [
+              1.0619604587554932,
+              9.89387904937189e-10,
+              -1.8157753944396973
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -1.000002145767212,
+              -3.999999523162842,
+              4.0
+            ],
+            "rotation": [
+              0.8958315253257751,
+              1.692055562330097e-08,
+              -0.24497926235198975
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 1.000000025179071
+      }
+    },
+    {
+      "path": "assets/street/concrete_curb_straight/close_up.jpg",
+      "sha256": "ad9aba841021b3930b938a99673952c17cd395535b0ef43d11605063e7ea27fc",
+      "bytes": 193080,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "close_up",
+      "original_render_record": {
+        "input_sha256": "18d5a920dcab807ebe4a3c2af0c55856b8994df5d9889444afcd0c181e4353d3",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 726.8745836710004,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 3.3333332008785725,
+        "source_bounds": [
+          [
+            -0.30000001192092896,
+            -0.10243193060159683,
+            0.0
+          ],
+          [
+            0.30000001192092896,
+            0.10244007408618927,
+            0.25
+          ]
+        ],
+        "camera_location": [
+          3.8131425380706787,
+          -6.536829948425293,
+          7.136816501617432
+        ],
+        "camera_rotation": [
+          0.8583571314811707,
+          4.571613487769355e-08,
+          0.5280744433403015
+        ],
+        "ortho_scale": 1.5,
+        "focus": {
+          "purpose": "Concrete surface and rounded shoulder",
+          "target_m": [
+            0,
+            0,
+            0.18
+          ],
+          "span_m": 0.36,
+          "direction": [
+            0.7,
+            -1.2,
+            1.2
+          ]
+        },
+        "focus_projected_width_height": [
+          2.0684471130371094,
+          1.6461045742034912
+        ],
+        "full_object_fit": false,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              -4.48190975189209,
+              -2.1401660442352295,
+              5.03609561920166
+            ],
+            "rotation": [
+              0.8516272902488708,
+              1.1731479787613353e-07,
+              -1.1116877794265747
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              3.250760555267334,
+              -1.3626854419708252,
+              3.770657777786255
+            ],
+            "rotation": [
+              0.8603981733322144,
+              -3.9327915146714076e-08,
+              1.1624621152877808
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              1.584218144416809,
+              4.3009419441223145,
+              3.3886072635650635
+            ],
+            "rotation": [
+              1.034847378730774,
+              4.37058957913905e-08,
+              2.7771589756011963
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 1.7237059275309246
+      }
+    },
+    {
+      "path": "assets/street/concrete_curb_straight/front_three_quarter.jpg",
+      "sha256": "e634b1c50af64bdd6a4ac731d0383a4a7cde949949d3bb32e23a9dc698c4c60a",
+      "bytes": 157677,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": "assets/street/concrete_curb_straight/preview.jpg",
+      "render_view": "preview",
+      "original_render_record": {
+        "input_sha256": "18d5a920dcab807ebe4a3c2af0c55856b8994df5d9889444afcd0c181e4353d3",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 690.7634215880025,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 3.3333332008785725,
+        "source_bounds": [
+          [
+            -0.30000001192092896,
+            -0.10243193060159683,
+            0.0
+          ],
+          [
+            0.30000001192092896,
+            0.10244007408618927,
+            0.25
+          ]
+        ],
+        "camera_location": [
+          6.303555011749268,
+          -6.303553581237793,
+          4.947721481323242
+        ],
+        "camera_rotation": [
+          1.099881887435913,
+          -1.1680641165412453e-07,
+          0.7853983044624329
+        ],
+        "ortho_scale": 2.3672292232513428,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          1.893783450126648,
+          1.5849853157997131
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              -2.9999988079071045,
+              -4.000000953674316,
+              5.000000476837158
+            ],
+            "rotation": [
+              0.8605254292488098,
+              1.9857164801351246e-09,
+              -0.6435009241104126
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              4.000000476837158,
+              -0.9999998211860657,
+              2.999999523162842
+            ],
+            "rotation": [
+              1.061960220336914,
+              -4.796916641680582e-09,
+              1.3258178234100342
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              0.9999996423721313,
+              3.999999761581421,
+              4.000000476837158
+            ],
+            "rotation": [
+              0.895831286907196,
+              -4.6209912341055315e-08,
+              2.8966140747070312
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 1.0000000377686142
+      }
+    },
+    {
+      "path": "assets/street/concrete_curb_straight/preview.jpg",
+      "sha256": "e634b1c50af64bdd6a4ac731d0383a4a7cde949949d3bb32e23a9dc698c4c60a",
+      "bytes": 157677,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "preview",
+      "original_render_record": {
+        "input_sha256": "18d5a920dcab807ebe4a3c2af0c55856b8994df5d9889444afcd0c181e4353d3",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 690.7634215880025,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 3.3333332008785725,
+        "source_bounds": [
+          [
+            -0.30000001192092896,
+            -0.10243193060159683,
+            0.0
+          ],
+          [
+            0.30000001192092896,
+            0.10244007408618927,
+            0.25
+          ]
+        ],
+        "camera_location": [
+          6.303555011749268,
+          -6.303553581237793,
+          4.947721481323242
+        ],
+        "camera_rotation": [
+          1.099881887435913,
+          -1.1680641165412453e-07,
+          0.7853983044624329
+        ],
+        "ortho_scale": 2.3672292232513428,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          1.893783450126648,
+          1.5849853157997131
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              -2.9999988079071045,
+              -4.000000953674316,
+              5.000000476837158
+            ],
+            "rotation": [
+              0.8605254292488098,
+              1.9857164801351246e-09,
+              -0.6435009241104126
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              4.000000476837158,
+              -0.9999998211860657,
+              2.999999523162842
+            ],
+            "rotation": [
+              1.061960220336914,
+              -4.796916641680582e-09,
+              1.3258178234100342
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              0.9999996423721313,
+              3.999999761581421,
+              4.000000476837158
+            ],
+            "rotation": [
+              0.895831286907196,
+              -4.6209912341055315e-08,
+              2.8966140747070312
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 1.0000000377686142
+      }
+    },
+    {
+      "path": "assets/street/concrete_curb_straight/rear.jpg",
+      "sha256": "874fc05d40700d8e59ad4aa95f2b39ec90e1530a0ecf93d2b62b5632e695ab0d",
+      "bytes": 113759,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "rear",
+      "original_render_record": {
+        "input_sha256": "18d5a920dcab807ebe4a3c2af0c55856b8994df5d9889444afcd0c181e4353d3",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 145.49662256800002,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 3.3333332008785725,
+        "source_bounds": [
+          [
+            -0.30000001192092896,
+            -0.10243193060159683,
+            0.0
+          ],
+          [
+            0.30000001192092896,
+            0.10244007408618927,
+            0.25
+          ]
+        ],
+        "camera_location": [
+          1.1250063922975395e-13,
+          10.0,
+          0.4166659116744995
+        ],
+        "camera_rotation": [
+          -1.570796251296997,
+          3.141592502593994,
+          -0.0
+        ],
+        "ortho_scale": 2.500000238418579,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          2.000000238418579,
+          0.8333336710929871
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              4.949746608734131,
+              2.7096071243286133,
+              4.180307388305664
+            ],
+            "rotation": [
+              1.0093393325805664,
+              -4.423131372277567e-08,
+              2.0514585971832275
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              -2.1213204860687256,
+              4.322766304016113,
+              1.114735722541809
+            ],
+            "rotation": [
+              1.47627854347229,
+              2.8047377753637193e-08,
+              -2.673337697982788
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -3.5355348587036133,
+              -0.26465868949890137,
+              4.572412967681885
+            ],
+            "rotation": [
+              0.7390651702880859,
+              1.623998890920575e-08,
+              -1.460035800933838
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": [
+          184,
+          184,
+          184
+        ],
+        "floor_hidden": true,
+        "closeup_magnification_vs_full_fit": 1.0000000238418556
+      }
+    },
+    {
+      "path": "assets/street/concrete_curb_straight/side.jpg",
+      "sha256": "fa4dd059f575e3d043459015d1f187ff62116b26bae98fb020c3450b0a21e6de",
+      "bytes": 127456,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "side",
+      "original_render_record": {
+        "input_sha256": "18d5a920dcab807ebe4a3c2af0c55856b8994df5d9889444afcd0c181e4353d3",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 313.547685507001,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 3.3333332008785725,
+        "source_bounds": [
+          [
+            -0.30000001192092896,
+            -0.10243193060159683,
+            0.0
+          ],
+          [
+            0.30000001192092896,
+            0.10244007408618927,
+            0.25
+          ]
+        ],
+        "camera_location": [
+          10.0,
+          4.470348358154297e-07,
+          0.4166662096977234
+        ],
+        "camera_rotation": [
+          1.5707963705062866,
+          -0.0,
+          1.5707963705062866
+        ],
+        "ortho_scale": 1.0416667461395264,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          0.6829067468643188,
+          0.8333333730697632
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              2.7096071243286133,
+              -4.949746608734131,
+              4.180306911468506
+            ],
+            "rotation": [
+              1.009339690208435,
+              2.4823147981578586e-09,
+              0.4806620180606842
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              4.322766304016113,
+              2.1213204860687256,
+              1.1147364377975464
+            ],
+            "rotation": [
+              1.47627854347229,
+              -4.7215717557946846e-08,
+              2.0390515327453613
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -0.2646588683128357,
+              3.535534143447876,
+              4.572413921356201
+            ],
+            "rotation": [
+              0.7390648126602173,
+              -6.695697152281355e-08,
+              -3.030831813812256
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": [
+          184,
+          184,
+          184
+        ],
+        "floor_hidden": true,
+        "closeup_magnification_vs_full_fit": 0.9999999713897727
+      }
+    },
+    {
+      "path": "assets/street/concrete_curb_straight/underside.jpg",
+      "sha256": "cd72b701ba0d3fcc61419a14caf98c0b24cecacc4cac43b682a57d2767687419",
+      "bytes": 103480,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "underside",
+      "original_render_record": {
+        "input_sha256": "18d5a920dcab807ebe4a3c2af0c55856b8994df5d9889444afcd0c181e4353d3",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 119.33500737199938,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 3.3333332008785725,
+        "source_bounds": [
+          [
+            -0.30000001192092896,
+            -0.10243193060159683,
+            0.0
+          ],
+          [
+            0.30000001192092896,
+            0.10244007408618927,
+            0.25
+          ]
+        ],
+        "camera_location": [
+          -8.940697284742782e-07,
+          -8.195638088182022e-07,
+          -9.583333015441895
+        ],
+        "camera_rotation": [
+          8.742277657347586e-08,
+          3.1415927410125732,
+          -8.742277657347586e-08
+        ],
+        "ortho_scale": 2.500000238418579,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          2.0000001192092896,
+          0.682906836271286
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              4.949747085571289,
+              3.7636396884918213,
+              -2.292940855026245
+            ],
+            "rotation": [
+              1.9729315042495728,
+              2.555704270434944e-07,
+              2.1877756118774414
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              -2.1213207244873047,
+              0.6980695724487305,
+              -3.906099557876587
+            ],
+            "rotation": [
+              2.66458797454834,
+              2.79390661717116e-07,
+              -1.7778329849243164
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -3.535533905029297,
+              4.155747413635254,
+              0.6813255548477173
+            ],
+            "rotation": [
+              1.4962716102600098,
+              -1.0442674636124138e-07,
+              -2.4055871963500977
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": [
+          184,
+          184,
+          184
+        ],
+        "floor_hidden": true,
+        "closeup_magnification_vs_full_fit": 0.9999999642372166
+      }
+    }
+  ]
+}

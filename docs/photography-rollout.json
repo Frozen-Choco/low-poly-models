@@ -7,7 +7,9 @@
   "completed_assets": [
     "whole_red_apple",
     "a4_clipboard",
-    "cast_iron_manhole"
+    "cast_iron_manhole",
+    "ceramic_rice_bowl",
+    "concrete_curb_straight"
   ],
   "pending_assets": [
     "dining_chair",
@@ -20,10 +22,8 @@
     "park_bench",
     "streetlight",
     "traffic_cone",
-    "ceramic_rice_bowl",
     "stainless_kitchen_kettle",
     "wooden_cutting_board",
-    "concrete_curb_straight",
     "steel_roadside_bollard",
     "office_stapler",
     "taped_shipping_box"

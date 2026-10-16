@@ -29,16 +29,24 @@
   ],
   "mesh_objects": 1,
   "files_bytes": {
-    "preview.jpg": 102128,
-    "front_three_quarter.jpg": 102128,
-    "rear.jpg": 89574,
-    "side.jpg": 100137,
-    "back.jpg": 89574,
-    "close_up.jpg": 110639,
+    "preview.jpg": 124749,
+    "front_three_quarter.jpg": 124749,
+    "rear.jpg": 85413,
+    "side.jpg": 85590,
+    "back.jpg": 124803,
+    "close_up.jpg": 139694,
     "ceramic_rice_bowl.glb": 121412,
     "ceramic_rice_bowl.blend": 168456
   },
   "title_ja": "陶器の茶碗",
   "glb_bytes": 121412,
-  "blend_bytes": 168456
+  "blend_bytes": 168456,
+  "photography": {
+    "standard": "preview_standard_v1",
+    "resolution": [
+      1200,
+      1200
+    ],
+    "record": "generators/preview_standard_v1/published/ceramic_rice_bowl.json"
+  }
 }

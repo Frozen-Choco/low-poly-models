@@ -1,0 +1,649 @@
+{
+  "asset": "ceramic_rice_bowl",
+  "photography_version": "preview-standard-v1",
+  "input": {
+    "id": "ceramic_rice_bowl",
+    "repo_path": "assets/household/ceramic_rice_bowl/ceramic_rice_bowl.glb",
+    "sha256": "6903438238cb329bc0857963af3a80ac9bfd777bc5c12f47d8e4ed0f0ae2b539",
+    "git_sha": "9dd3e9ab5354ed44f527df85a5737d519e30e746"
+  },
+  "reproduction_renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "reproduction_spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "detail_targets_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+  "provenance_note": "Original producer hashes are retained. The portable reproduction renderer uses the same photographic code and effective per-view configuration; scheduling, cache checks and descriptive metadata are excluded. Camera/light values and input/output hashes are recorded for verification.",
+  "outputs": [
+    {
+      "path": "assets/household/ceramic_rice_bowl/back.jpg",
+      "sha256": "fe6ee3929a0272c5c20ed8f1a275de569388b3a69c975022cc3ac4a86c79746f",
+      "bytes": 124803,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "back",
+      "original_render_record": {
+        "input_sha256": "6903438238cb329bc0857963af3a80ac9bfd777bc5c12f47d8e4ed0f0ae2b539",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 931.5754182470009,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 16.0,
+        "source_bounds": [
+          [
+            -0.0625,
+            -0.0625,
+            0.0
+          ],
+          [
+            0.0625,
+            0.0625,
+            0.06750000268220901
+          ]
+        ],
+        "camera_location": [
+          -6.265310764312744,
+          6.265313148498535,
+          5.177283763885498
+        ],
+        "camera_rotation": [
+          1.0998820066452026,
+          1.1037879943387452e-07,
+          -2.3561947345733643
+        ],
+        "ortho_scale": 2.5,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          2.0,
+          1.623035192489624
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              2.999999523162842,
+              3.999999523162842,
+              5.000001430511475
+            ],
+            "rotation": [
+              0.8605252504348755,
+              4.2826759028002925e-08,
+              2.498091697692871
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              -4.000000476837158,
+              1.0000011920928955,
+              2.9999988079071045
+            ],
+            "rotation": [
+              1.0619604587554932,
+              9.89387904937189e-10,
+              -1.8157753944396973
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -1.000002145767212,
+              -3.999999523162842,
+              4.000000476837158
+            ],
+            "rotation": [
+              0.895831286907196,
+              4.056056823742438e-09,
+              -0.24497920274734497
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 1.0
+      }
+    },
+    {
+      "path": "assets/household/ceramic_rice_bowl/close_up.jpg",
+      "sha256": "98f400a972490d898040f06d4aa2fbce62a4678c734c1c6c258384ecf2e77009",
+      "bytes": 139694,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "close_up",
+      "original_render_record": {
+        "input_sha256": "6903438238cb329bc0857963af3a80ac9bfd777bc5c12f47d8e4ed0f0ae2b539",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 1191.8289328719984,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 16.0,
+        "source_bounds": [
+          [
+            -0.0625,
+            -0.0625,
+            0.0
+          ],
+          [
+            0.0625,
+            0.0625,
+            0.06750000268220901
+          ]
+        ],
+        "camera_location": [
+          4.850712776184082,
+          -5.490712642669678,
+          8.204069137573242
+        ],
+        "camera_rotation": [
+          0.7559695839881897,
+          -7.762207765438234e-09,
+          0.7853983044624329
+        ],
+        "ortho_scale": 1.2000000476837158,
+        "focus": {
+          "purpose": "Magnified front rim, glaze bands and inner ceramic surface",
+          "target_m": [
+            0,
+            -0.04,
+            0.058
+          ],
+          "span_m": 0.06,
+          "direction": [
+            1,
+            -1,
+            1.5
+          ]
+        },
+        "focus_projected_width_height": [
+          1.9999998211860657,
+          1.8012681603431702
+        ],
+        "full_object_fit": false,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              -4.092618465423584,
+              -2.907381057739258,
+              4.977253437042236
+            ],
+            "rotation": [
+              0.863197922706604,
+              -1.0147952167471885e-07,
+              -0.942513108253479
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              3.2671010494232178,
+              -0.26710039377212524,
+              4.048035144805908
+            ],
+            "rotation": [
+              0.7796931862831116,
+              -1.4784620816499228e-07,
+              1.4787052869796753
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              0.2629120945930481,
+              4.737087726593018,
+              3.0821404457092285
+            ],
+            "rotation": [
+              1.1008446216583252,
+              7.816523606152259e-08,
+              3.077610492706299
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 2.0833330642846004
+      }
+    },
+    {
+      "path": "assets/household/ceramic_rice_bowl/front_three_quarter.jpg",
+      "sha256": "1352ee83c5882293d9152c8a3aed70d54cc190cb5f39a905038afd7be1c075d0",
+      "bytes": 124749,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": "assets/household/ceramic_rice_bowl/preview.jpg",
+      "render_view": "preview",
+      "original_render_record": {
+        "input_sha256": "6903438238cb329bc0857963af3a80ac9bfd777bc5c12f47d8e4ed0f0ae2b539",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 925.9772030979984,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 16.0,
+        "source_bounds": [
+          [
+            -0.0625,
+            -0.0625,
+            0.0
+          ],
+          [
+            0.0625,
+            0.0625,
+            0.06750000268220901
+          ]
+        ],
+        "camera_location": [
+          6.265312194824219,
+          -6.265310764312744,
+          5.177284240722656
+        ],
+        "camera_rotation": [
+          1.099881887435913,
+          -1.1680641165412453e-07,
+          0.7853983044624329
+        ],
+        "ortho_scale": 2.5,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          2.0,
+          1.6230353116989136
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              -2.9999988079071045,
+              -4.000000953674316,
+              5.000000476837158
+            ],
+            "rotation": [
+              0.8605254292488098,
+              6.123980256234063e-08,
+              -0.6435009241104126
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              4.000000476837158,
+              -0.9999998211860657,
+              2.999999523162842
+            ],
+            "rotation": [
+              1.061960220336914,
+              -4.796916641680582e-09,
+              1.3258178234100342
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              0.9999996423721313,
+              3.999999761581421,
+              4.000000953674316
+            ],
+            "rotation": [
+              0.8958311080932617,
+              -3.2157092988427394e-08,
+              2.8966140747070312
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 1.0
+      }
+    },
+    {
+      "path": "assets/household/ceramic_rice_bowl/preview.jpg",
+      "sha256": "1352ee83c5882293d9152c8a3aed70d54cc190cb5f39a905038afd7be1c075d0",
+      "bytes": 124749,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "preview",
+      "original_render_record": {
+        "input_sha256": "6903438238cb329bc0857963af3a80ac9bfd777bc5c12f47d8e4ed0f0ae2b539",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 925.9772030979984,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 16.0,
+        "source_bounds": [
+          [
+            -0.0625,
+            -0.0625,
+            0.0
+          ],
+          [
+            0.0625,
+            0.0625,
+            0.06750000268220901
+          ]
+        ],
+        "camera_location": [
+          6.265312194824219,
+          -6.265310764312744,
+          5.177284240722656
+        ],
+        "camera_rotation": [
+          1.099881887435913,
+          -1.1680641165412453e-07,
+          0.7853983044624329
+        ],
+        "ortho_scale": 2.5,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          2.0,
+          1.6230353116989136
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              -2.9999988079071045,
+              -4.000000953674316,
+              5.000000476837158
+            ],
+            "rotation": [
+              0.8605254292488098,
+              6.123980256234063e-08,
+              -0.6435009241104126
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              4.000000476837158,
+              -0.9999998211860657,
+              2.999999523162842
+            ],
+            "rotation": [
+              1.061960220336914,
+              -4.796916641680582e-09,
+              1.3258178234100342
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              0.9999996423721313,
+              3.999999761581421,
+              4.000000953674316
+            ],
+            "rotation": [
+              0.8958311080932617,
+              -3.2157092988427394e-08,
+              2.8966140747070312
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 1.0
+      }
+    },
+    {
+      "path": "assets/household/ceramic_rice_bowl/rear.jpg",
+      "sha256": "999a3b0b2143c9095e3f5e7c8967bc8497642a64122d12f0965e618765e56201",
+      "bytes": 85413,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "rear",
+      "original_render_record": {
+        "input_sha256": "6903438238cb329bc0857963af3a80ac9bfd777bc5c12f47d8e4ed0f0ae2b539",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 180.4316222439993,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 16.0,
+        "source_bounds": [
+          [
+            -0.0625,
+            -0.0625,
+            0.0
+          ],
+          [
+            0.0625,
+            0.0625,
+            0.06750000268220901
+          ]
+        ],
+        "camera_location": [
+          8.94070737444963e-08,
+          10.0,
+          0.5399993062019348
+        ],
+        "camera_rotation": [
+          -1.570796251296997,
+          3.141592502593994,
+          -0.0
+        ],
+        "ortho_scale": 2.5,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          2.0000000596046448,
+          1.0800002813339233
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              4.949746608734131,
+              2.6536505222320557,
+              4.193731784820557
+            ],
+            "rotation": [
+              1.009339690208435,
+              1.5022574473277928e-07,
+              2.0514585971832275
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              -2.1213204860687256,
+              4.266809940338135,
+              1.1281602382659912
+            ],
+            "rotation": [
+              1.47627854347229,
+              2.5213394039269588e-08,
+              -2.673337697982788
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -3.5355348587036133,
+              -0.32061517238616943,
+              4.585837364196777
+            ],
+            "rotation": [
+              0.7390651702880859,
+              -4.153458021960432e-08,
+              -1.460035800933838
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": [
+          184,
+          184,
+          184
+        ],
+        "floor_hidden": true,
+        "closeup_magnification_vs_full_fit": 1.0000000298023224
+      }
+    },
+    {
+      "path": "assets/household/ceramic_rice_bowl/side.jpg",
+      "sha256": "7b85981c0db6fb5c7c9f65cbbd0daf637e9f71f2ea59936d4510ea6a1257fca9",
+      "bytes": 85590,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "side",
+      "original_render_record": {
+        "input_sha256": "6903438238cb329bc0857963af3a80ac9bfd777bc5c12f47d8e4ed0f0ae2b539",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 183.78739713399773,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 16.0,
+        "source_bounds": [
+          [
+            -0.0625,
+            -0.0625,
+            0.0
+          ],
+          [
+            0.0625,
+            0.0625,
+            0.06750000268220901
+          ]
+        ],
+        "camera_location": [
+          10.0,
+          4.470348358154297e-07,
+          0.5399996042251587
+        ],
+        "camera_rotation": [
+          1.5707963705062866,
+          -0.0,
+          1.5707963705062866
+        ],
+        "ortho_scale": 2.5,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          2.0000000596046448,
+          1.080000102519989
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              2.6536505222320557,
+              -4.949746608734131,
+              4.193731307983398
+            ],
+            "rotation": [
+              1.009339690208435,
+              2.4823147981578586e-09,
+              0.4806620180606842
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              4.266809463500977,
+              2.1213204860687256,
+              1.1281607151031494
+            ],
+            "rotation": [
+              1.4762786626815796,
+              -1.9745262136439123e-07,
+              2.0390515327453613
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -0.32061535120010376,
+              3.535534143447876,
+              4.585838317871094
+            ],
+            "rotation": [
+              0.7390648722648621,
+              8.00284922775063e-08,
+              -3.030832052230835
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": [
+          184,
+          184,
+          184
+        ],
+        "floor_hidden": true,
+        "closeup_magnification_vs_full_fit": 1.0000000298023224
+      }
+    }
+  ]
+}
