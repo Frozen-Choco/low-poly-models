@@ -227,7 +227,7 @@ def publish_local(slug,title,category,build):
   meta['functional_revision']='Rear brace assembly' if slug=='open_shelf' else 'Connected lower handle root'
  (folder/'metadata.json').write_text(json.dumps(meta,ensure_ascii=False,indent=2)+'\n');CATALOG.append(meta)
  print('ASSET_COMPLETE',slug,stats,flush=True)
-for args in [('oak_table','木製テーブル','furniture',table),('dining_chair','ダイニングチェア','furniture',chair),('open_shelf','オープンシェルフ','furniture',shelf),('mug','マグカップ','household',mug),('traffic_signal','横型信号機','street',signal)]:
+for args in [('oak_table','テーブル','furniture',table),('dining_chair','椅子','furniture',chair),('open_shelf','棚','furniture',shelf),('mug','マグカップ','household',mug),('traffic_signal','信号機','street',signal)]:
  if not os.environ.get('ONLY_ASSETS') or args[0] in os.environ['ONLY_ASSETS'].split(','):publish_local(*args)
 CATALOG=[json.loads(p.read_text()) for p in sorted((ROOT/'assets').rglob('metadata.json'))]
 (ROOT/'catalog.json').write_text(json.dumps(CATALOG,ensure_ascii=False,indent=2)+'\n')

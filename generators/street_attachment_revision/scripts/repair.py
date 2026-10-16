@@ -73,7 +73,7 @@ for slug,base in BASE.items():
  bpy.context.view_layer.objects.active=root
  bpy.ops.export_scene.gltf(filepath=str(folder/(slug+'.glb')),export_format='GLB',use_selection=True,export_extras=True,export_apply=True)
  bpy.ops.wm.save_as_mainfile(filepath=str(folder/(slug+'.blend')),compress=True)
- meta=json.loads((base/'metadata.json').read_text());meta.update(st);meta['review_status']='pending independent exact-file functional review';meta['attachment_revision']={'baseline_sha256':EXPECTED[slug],'changes':changes,'material_parameters_exactly_preserved':True};meta['notes']+=' Attachment/contact revision. Dimensions remain artist estimates; geometric tests are not manufacturing or safety certification.'
+ meta=json.loads((base/'metadata.json').read_text());meta.update(st);meta['title_ja']={'traffic_signal':'信号機','railway_crossing_lowered':'踏切'}[slug];meta['review_status']='pending independent exact-file functional review';meta['attachment_revision']={'baseline_sha256':EXPECTED[slug],'changes':changes,'material_parameters_exactly_preserved':True};meta['notes']+=' Attachment/contact revision. Dimensions remain artist estimates; geometric tests are not manufacturing or safety certification.'
  if slug=='traffic_signal':meta['notes']=meta['notes'].replace('Geometry and lamp layout unchanged.','Lamp layout and palette preserved; rear cable geometry revised.')
  for ext in ['glb','blend']:meta[ext+'_bytes']=(folder/(slug+'.'+ext)).stat().st_size
  (folder/'metadata.json').write_text(json.dumps(meta,ensure_ascii=False,indent=2)+'\n')

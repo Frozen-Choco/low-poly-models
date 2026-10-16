@@ -7,7 +7,7 @@ IDS=['public_recycling_bin','railway_crossing_lowered']
 cat=[]
 for asset_id in IDS:
  f=A/asset_id
- m=json.loads((f/'metadata.json').read_text());m.update(title_ja='踏切警報機・遮断機（下降）' if f.name.startswith('railway') else '公共用分別回収ボックス',category='street',glb_bytes=(f/(f.name+'.glb')).stat().st_size,blend_bytes=(f/(f.name+'.blend')).stat().st_size)
+ m=json.loads((f/'metadata.json').read_text());m.update(title_ja='踏切' if f.name.startswith('railway') else '分別ごみ箱',category='street',glb_bytes=(f/(f.name+'.glb')).stat().st_size,blend_bytes=(f/(f.name+'.blend')).stat().st_size)
  m['files_bytes']={p.name:p.stat().st_size for p in f.iterdir() if p.suffix in ['.glb','.blend','.jpg']};(f/'metadata.json').write_text(json.dumps(m,ensure_ascii=False,indent=2)+'\n');cat.append(m)
 (R/'catalog.json').write_text(json.dumps(cat,ensure_ascii=False,indent=2)+'\n')
 files=[]

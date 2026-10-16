@@ -1,6 +1,6 @@
 {
   "id": "traffic_signal",
-  "title_ja": "横型信号機",
+  "title_ja": "信号機",
   "category": "street",
   "units": "meter",
   "up_axis_blend": "Z",

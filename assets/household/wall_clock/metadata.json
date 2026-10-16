@@ -1,6 +1,6 @@
 {
   "id": "wall_clock",
-  "title_ja": "\u58c1\u639b\u3051\u6642\u8a08",
+  "title_ja": "\u639b\u3051\u6642\u8a08",
   "category": "household",
   "units": "meters",
   "origin": "bottom centered; clock front -Y",

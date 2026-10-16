@@ -3,7 +3,7 @@ from pathlib import Path
 sys.path.insert(0,str(Path(__file__).resolve().parent))
 from common import *
 IDS=['whole_red_apple']
-TITLES=['赤いりんご','スライス食パン','海苔巻きおにぎり']
+TITLES=['りんご','スライス食パン','海苔巻きおにぎり']
 def texmat(n,base,kind,N=1024):
  m=mat(n,base,0,.43 if kind=='apple' else .88);rng=np.random.default_rng(840+len(kind));y,x=np.mgrid[0:N,0:N]/N;rgb=np.zeros((N,N,3),np.float32)
  if kind=='apple':

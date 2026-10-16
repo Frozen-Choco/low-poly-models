@@ -22,31 +22,31 @@
 
 | モデル | 三角形 | GLB | 編集用Blend | 寸法 X × Y × Z（m、Blender座標） |
 |---|---:|---:|---:|---|
-| [ダイニングチェア](assets/furniture/dining_chair) | 640 | 57.6 KB | 100.1 KB | 0.43 × 0.45073 × 0.88121 |
-| [木製テーブル](assets/furniture/oak_table) | 616 | 56.3 KB | 99.2 KB | 1.2 × 0.7 × 0.75 |
-| [オープンシェルフ](assets/furniture/open_shelf) | 2,088 | 145.5 KB | 107.1 KB | 0.905 × 0.3715 × 1.51 |
+| [椅子](assets/furniture/dining_chair) | 640 | 57.6 KB | 100.1 KB | 0.43 × 0.45073 × 0.88121 |
+| [テーブル](assets/furniture/oak_table) | 616 | 56.3 KB | 99.2 KB | 1.2 × 0.7 × 0.75 |
+| [棚](assets/furniture/open_shelf) | 2,088 | 145.5 KB | 107.1 KB | 0.905 × 0.3715 × 1.51 |
 | [マグカップ](assets/household/mug) | 1,684 | 40.1 KB | 110.3 KB | 0.123 × 0.086 × 0.108 |
-| [横型信号機](assets/street/traffic_signal) | 10,522 | 379.9 KB | 190.1 KB | 1.4150 × 0.5896 × 4.9505 |
-| [踏切警報機・遮断機（下降）](assets/street/railway_crossing_lowered) | 42,452 | 1494.4 KB | 325.6 KB | 5.2810 × 0.7150 × 3.7888 |
-| [公共用分別回収ボックス](assets/street/public_recycling_bin) | 22,240 | 1127.4 KB | 216.6 KB | 0.4800 × 0.4890 × 1.0175 |
+| [信号機](assets/street/traffic_signal) | 10,522 | 379.9 KB | 190.1 KB | 1.4150 × 0.5896 × 4.9505 |
+| [踏切](assets/street/railway_crossing_lowered) | 42,452 | 1494.4 KB | 325.6 KB | 5.2810 × 0.7150 × 3.7888 |
+| [分別ごみ箱](assets/street/public_recycling_bin) | 22,240 | 1127.4 KB | 216.6 KB | 0.4800 × 0.4890 × 1.0175 |
 
 ## プレビューとファイル
 
-### ダイニングチェア
+### 椅子
 
-![ダイニングチェア](assets/furniture/dining_chair/preview.jpg)
+![椅子](assets/furniture/dining_chair/preview.jpg)
 
 [GLB](assets/furniture/dining_chair/dining_chair.glb) · [Blend](assets/furniture/dining_chair/dining_chair.blend) · [背面画像](assets/furniture/dining_chair/back.jpg) · [メタデータ](assets/furniture/dining_chair/metadata.json)
 
-### 木製テーブル
+### テーブル
 
-![木製テーブル](assets/furniture/oak_table/preview.jpg)
+![テーブル](assets/furniture/oak_table/preview.jpg)
 
 [GLB](assets/furniture/oak_table/oak_table.glb) · [Blend](assets/furniture/oak_table/oak_table.blend) · [背面画像](assets/furniture/oak_table/back.jpg) · [メタデータ](assets/furniture/oak_table/metadata.json)
 
-### オープンシェルフ
+### 棚
 
-![オープンシェルフ](assets/furniture/open_shelf/preview.jpg)
+![棚](assets/furniture/open_shelf/preview.jpg)
 
 [GLB](assets/furniture/open_shelf/open_shelf.glb) · [Blend](assets/furniture/open_shelf/open_shelf.blend) · [背面画像](assets/furniture/open_shelf/back.jpg) · [メタデータ](assets/furniture/open_shelf/metadata.json)
 
@@ -56,9 +56,9 @@
 
 [GLB](assets/household/mug/mug.glb) · [Blend](assets/household/mug/mug.blend) · [背面画像](assets/household/mug/back.jpg) · [メタデータ](assets/household/mug/metadata.json)
 
-### 横型信号機
+### 信号機
 
-![横型信号機](assets/street/traffic_signal/preview.jpg)
+![信号機](assets/street/traffic_signal/preview.jpg)
 
 [GLB](assets/street/traffic_signal/traffic_signal.glb) · [Blend](assets/street/traffic_signal/traffic_signal.blend) · [背面画像](assets/street/traffic_signal/back.jpg) · [メタデータ](assets/street/traffic_signal/metadata.json)
 
@@ -72,15 +72,15 @@
 
 次の2点は、形状・接続部・素材・別方向の照明・保存ファイル・生成コードを独立レビュー済みです。既存5点を、この新基準で一括承認したという意味ではありません。
 
-### 踏切警報機・遮断機（下降）
+### 踏切
 
-![踏切警報機・遮断機（下降）](assets/street/railway_crossing_lowered/preview.jpg)
+![踏切](assets/street/railway_crossing_lowered/preview.jpg)
 
 [GLB](assets/street/railway_crossing_lowered/railway_crossing_lowered.glb) · [Blend](assets/street/railway_crossing_lowered/railway_crossing_lowered.blend) · [背面](assets/street/railway_crossing_lowered/back.jpg) · [接写](assets/street/railway_crossing_lowered/close_up.jpg)
 
-### 公共用分別回収ボックス
+### 分別ごみ箱
 
-![公共用分別回収ボックス](assets/street/public_recycling_bin/preview.jpg)
+![分別ごみ箱](assets/street/public_recycling_bin/preview.jpg)
 
 [GLB](assets/street/public_recycling_bin/public_recycling_bin.glb) · [Blend](assets/street/public_recycling_bin/public_recycling_bin.blend) · [背面](assets/street/public_recycling_bin/back.jpg) · [接写](assets/street/public_recycling_bin/close_up.jpg)
 
@@ -126,8 +126,8 @@ python scripts/update_catalog_readme.py
 
 以下の3点は制作担当とは独立したレビュー、保存ファイルの再読込、実配置・別照明の確認を経て公開しています。
 
-- [公園ベンチ](assets/street/park_bench)：5,800三角形、GLB 458,368 bytes
-- [街路灯](assets/street/streetlight)：8,428三角形、GLB 269,884 bytes
+- [ベンチ](assets/street/park_bench)：5,800三角形、GLB 458,368 bytes
+- [街灯](assets/street/streetlight)：8,428三角形、GLB 269,884 bytes
 - [三角コーン](assets/street/traffic_cone)：12,288三角形、GLB 495,528 bytes（[現行検証](generators/cone_function_revision/README.md)）
 
 街灯は消灯状態です。コーンは底面が開いた中空・積み重ね可能モデルに修正済みです。白帯は通常のPBR材質による表現です。専用の再帰反射シェーダーは使用していません。
@@ -138,9 +138,9 @@ python scripts/update_catalog_readme.py
 
 保存ファイルの再読込、注ぎ口の開口、木口・底面、2種類の照明下での実配置と生成手順を独立レビューで確認しています。
 
-- [陶器の茶碗](assets/household/ceramic_rice_bowl)：5,564三角形、GLB 121,412 bytes
-- [ステンレス製やかん](assets/household/stainless_kitchen_kettle)：19,980三角形、GLB 527,668 bytes
-- [木製まな板](assets/household/wooden_cutting_board)：300三角形、GLB 1,267,908 bytes
+- [茶碗](assets/household/ceramic_rice_bowl)：5,564三角形、GLB 121,412 bytes
+- [やかん](assets/household/stainless_kitchen_kettle)：19,980三角形、GLB 527,668 bytes
+- [まな板](assets/household/wooden_cutting_board)：300三角形、GLB 1,267,908 bytes
 
 汎用的な清潔な小物です。木目は近似表現で、接写向けの細かな摩耗は含みません。確認画像には若干のサンプリングノイズがあります。
 
@@ -190,9 +190,9 @@ generators/batch02bにある旧回収ボックスの生成・検証内容は履�
 
 実物の公式資料に照らし、マンホールの工具の掛かりと引き上げ、蓋の支持・補強リブの隙間、車止めの取付穴と連続したアンカーを保存モデルで独立確認しています。縁石の設置文脈は簡略化され、現場の排水設計や完全な施工図ではありません。
 
-- [鋳鉄製マンホール](assets/street/cast_iron_manhole)：30,256三角形、GLB 4,370,320 bytes
-- [コンクリート縁石](assets/street/concrete_curb_straight)：188三角形、GLB 958,648 bytes
-- [鋼製車止め](assets/street/steel_roadside_bollard)：11,524三角形、GLB 2,578,260 bytes
+- [マンホール](assets/street/cast_iron_manhole)：30,256三角形、GLB 4,370,320 bytes
+- [縁石](assets/street/concrete_curb_straight)：188三角形、GLB 958,648 bytes
+- [車止め](assets/street/steel_roadside_bollard)：11,524三角形、GLB 2,578,260 bytes
 
 汎用的な道路小物です。寸法は参考値で、施工図や認定製品の複製ではありません。確認画像には若干のサンプリングノイズがあります。
 
@@ -202,17 +202,17 @@ generators/batch02bにある旧回収ボックスの生成・検証内容は履�
 
 実物の梱包方法やメーカー資料に照らし、箱の上下フラップとテープ、ホチキスの押下位置、クリップと紙の接触・開く空間を独立レビューで確認しています。
 
-- [A4クリップボード](assets/household/a4_clipboard)：5,524三角形、GLB 910,908 bytes
-- [オフィス用ホチキス](assets/household/office_stapler)：18,232三角形、GLB 1,484,696 bytes
-- [梱包用段ボール箱](assets/household/taped_shipping_box)：5,736三角形、GLB 766,796 bytes
+- [クリップボード](assets/household/a4_clipboard)：5,524三角形、GLB 910,908 bytes
+- [ホチキス](assets/household/office_stapler)：18,232三角形、GLB 1,484,696 bytes
+- [段ボール箱](assets/household/taped_shipping_box)：5,736三角形、GLB 766,796 bytes
 
 静的な汎用小物です。紙・ばねの弾性や実際の針打ち動作を物理シミュレーションするものではありません。
 
 [参照資料・使用検証と生成手順](generators/batch04b/README.md)
 
-## 追加モデル：赤いりんご
+## 追加モデル：りんご
 
-[赤いりんご](assets/food/whole_red_apple)：9,673三角形、GLB 1,180,648 bytes。実物写真・植物の構造資料と照合し、軸・萼・底面の形と接地、複数照明下の質感、保存モデルを独立レビューで確認しています。品種の厳密な再現ではない汎用の果実です。
+[りんご](assets/food/whole_red_apple)：9,673三角形、GLB 1,180,648 bytes。実物写真・植物の構造資料と照合し、軸・萼・底面の形と接地、複数照明下の質感、保存モデルを独立レビューで確認しています。品種の厳密な再現ではない汎用の果実です。
 
 [参照資料・生成と検証](generators/batch04a/README.md)
 
@@ -224,13 +224,13 @@ generators/batch02bにある旧回収ボックスの生成・検証内容は履�
 
 確認画像を1,200×1,200、共通の背景・照明・露出・画面内比率で統一しました。材質そのものの明暗差は保持します。現在公開している全23モデルの現行確認画像は、この共通基準に統一しています。履歴用の比較・機構検証画像は別管理です。
 
-## 追加モデル：丸スツール・バケツ・壁掛け時計
+## 追加モデル：スツール・バケツ・掛け時計
 
 実物の構造資料を参照し、スツールの座面支持と接地、バケツの取っ手・取付穴・口縁の可動限界、時計の針とガラスの隙間・背面の掛け穴を独立レビューで確認しています。
 
-- [木製丸スツール](assets/household/round_wooden_stool)：7,428三角形、GLB 681,612 bytes
-- [金属つる付き樹脂バケツ](assets/household/plastic_bail_bucket)：13,092三角形、GLB 276,484 bytes
-- [壁掛け時計](assets/household/wall_clock)：13,764三角形、GLB 763,884 bytes
+- [スツール](assets/household/round_wooden_stool)：7,428三角形、GLB 681,612 bytes
+- [バケツ](assets/household/plastic_bail_bucket)：13,092三角形、GLB 276,484 bytes
+- [掛け時計](assets/household/wall_clock)：13,764三角形、GLB 763,884 bytes
 
 GLB・編集用Blend・1,200×1,200の共通撮影画像を同梱しています。汎用の静的ジオラマ小物で、強度・水密・製造上の認証ではありません。
 

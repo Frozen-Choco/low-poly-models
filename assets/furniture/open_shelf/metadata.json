@@ -1,6 +1,6 @@
 {
   "id": "open_shelf",
-  "title_ja": "オープンシェルフ",
+  "title_ja": "棚",
   "category": "furniture",
   "units": "meter",
   "up_axis_blend": "Z",

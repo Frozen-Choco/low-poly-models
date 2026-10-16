@@ -140,7 +140,7 @@ def clipboard():
   path_tube('Jaw torsion spring',pts,[.00035]*len(pts),steel,N=8)
 
 IDS=['taped_shipping_box','office_stapler','a4_clipboard']
-TITLES=['梱包用段ボール箱','オフィス用ホチキス','A4クリップボード']
+TITLES=['段ボール箱','ホチキス','クリップボード']
 def main():
  for slug,title,fn in zip(IDS,TITLES,[shipping_box,stapler,clipboard]):
   if os.environ.get('ONLY_ASSETS') and slug not in os.environ['ONLY_ASSETS'].split(','):continue

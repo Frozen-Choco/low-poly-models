@@ -1,7 +1,7 @@
 [
   {
     "id": "dining_chair",
-    "title_ja": "ダイニングチェア",
+    "title_ja": "椅子",
     "category": "furniture",
     "units": "meter",
     "up_axis_blend": "Z",
@@ -41,7 +41,7 @@
   },
   {
     "id": "oak_table",
-    "title_ja": "木製テーブル",
+    "title_ja": "テーブル",
     "category": "furniture",
     "units": "meter",
     "up_axis_blend": "Z",
@@ -81,7 +81,7 @@
   },
   {
     "id": "open_shelf",
-    "title_ja": "オープンシェルフ",
+    "title_ja": "棚",
     "category": "furniture",
     "units": "meter",
     "up_axis_blend": "Z",
@@ -171,7 +171,7 @@
   },
   {
     "id": "traffic_signal",
-    "title_ja": "横型信号機",
+    "title_ja": "信号機",
     "category": "street",
     "units": "meter",
     "up_axis_blend": "Z",
@@ -277,7 +277,7 @@
   },
   {
     "id": "railway_crossing_lowered",
-    "title_ja": "踏切警報機・遮断機（下降）",
+    "title_ja": "踏切",
     "category": "street",
     "glb_bytes": 1494440,
     "blend_bytes": 325555,
@@ -362,7 +362,7 @@
   },
   {
     "id": "public_recycling_bin",
-    "title_ja": "公共用分別回収ボックス",
+    "title_ja": "分別ごみ箱",
     "category": "street",
     "dimensions_m": [
       0.47999998927116394,
@@ -443,7 +443,7 @@
       }
     },
     "validated": true,
-    "title_ja": "公園ベンチ",
+    "title_ja": "ベンチ",
     "category": "street",
     "glb_bytes": 458368,
     "blend_bytes": 400799,
@@ -509,7 +509,7 @@
       }
     },
     "validated": true,
-    "title_ja": "街路灯",
+    "title_ja": "街灯",
     "category": "street",
     "glb_bytes": 269884,
     "blend_bytes": 180761,
@@ -632,7 +632,7 @@
       "ceramic_rice_bowl.glb": 121412,
       "ceramic_rice_bowl.blend": 168456
     },
-    "title_ja": "陶器の茶碗",
+    "title_ja": "茶碗",
     "glb_bytes": 121412,
     "blend_bytes": 168456,
     "photography": {
@@ -693,7 +693,7 @@
       "top.jpg": 133478,
       "stainless_kitchen_kettle.glb": 527668
     },
-    "title_ja": "ステンレス製やかん",
+    "title_ja": "やかん",
     "glb_bytes": 527668,
     "blend_bytes": 285665,
     "photography": {
@@ -745,7 +745,7 @@
       "close_up.jpg": 219583,
       "wooden_cutting_board.glb": 1267908
     },
-    "title_ja": "木製まな板",
+    "title_ja": "まな板",
     "glb_bytes": 1267908,
     "blend_bytes": 1357594,
     "photography": {
@@ -803,7 +803,7 @@
       "cast_iron_manhole.blend": 2597083,
       "underside.jpg": 146850
     },
-    "title_ja": "鋳鉄製マンホール",
+    "title_ja": "マンホール",
     "glb_bytes": 4370320,
     "blend_bytes": 2597083,
     "photography": {
@@ -860,7 +860,7 @@
       "concrete_curb_straight.glb": 958648,
       "underside.jpg": 103480
     },
-    "title_ja": "コンクリート縁石",
+    "title_ja": "縁石",
     "glb_bytes": 958648,
     "blend_bytes": 1049377,
     "photography": {
@@ -917,7 +917,7 @@
       "close_up.jpg": 126260,
       "underside.jpg": 109439
     },
-    "title_ja": "鋼製車止め",
+    "title_ja": "車止め",
     "glb_bytes": 2578260,
     "blend_bytes": 2328152,
     "photography": {
@@ -931,7 +931,7 @@
   },
   {
     "id": "a4_clipboard",
-    "title_ja": "A4クリップボード",
+    "title_ja": "クリップボード",
     "category": "household",
     "units": "meters",
     "origin": "bottom centered",
@@ -973,7 +973,7 @@
   },
   {
     "id": "office_stapler",
-    "title_ja": "オフィス用ホチキス",
+    "title_ja": "ホチキス",
     "category": "household",
     "units": "meters",
     "origin": "bottom centered",
@@ -1015,7 +1015,7 @@
   },
   {
     "id": "taped_shipping_box",
-    "title_ja": "梱包用段ボール箱",
+    "title_ja": "段ボール箱",
     "category": "household",
     "units": "meters",
     "origin": "bottom centered",
@@ -1057,7 +1057,7 @@
   },
   {
     "id": "whole_red_apple",
-    "title_ja": "赤いりんご",
+    "title_ja": "りんご",
     "category": "food",
     "units": "meters",
     "origin": "support plane",
@@ -1099,7 +1099,7 @@
   },
   {
     "id": "round_wooden_stool",
-    "title_ja": "木製丸スツール",
+    "title_ja": "スツール",
     "category": "household",
     "units": "meters",
     "origin": "bottom centered; clock front -Y",
@@ -1156,7 +1156,7 @@
   },
   {
     "id": "plastic_bail_bucket",
-    "title_ja": "金属つる付き樹脂バケツ",
+    "title_ja": "バケツ",
     "category": "household",
     "units": "meters",
     "origin": "bottom centered; clock front -Y",
@@ -1214,7 +1214,7 @@
   },
   {
     "id": "wall_clock",
-    "title_ja": "壁掛け時計",
+    "title_ja": "掛け時計",
     "category": "household",
     "units": "meters",
     "origin": "bottom centered; clock front -Y",

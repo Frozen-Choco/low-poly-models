@@ -3,7 +3,7 @@ from pathlib import Path
 import json,hashlib,os
 R=Path(__file__).resolve().parents[1];A=Path(os.environ.get('ASSET_OUTPUT_ROOT',str(R/'assets')));O=A.parent
 assert not (R/'NEEDS_TEXTURE_REBUILD').exists(), 'Texture rebuild still pending'
-IDS=['cast_iron_manhole','concrete_curb_straight','steel_roadside_bollard'];titles=['鋳鉄製マンホール蓋と受枠','歩車道境界ブロック','鋼製車止めボラード'];cat=[]
+IDS=['cast_iron_manhole','concrete_curb_straight','steel_roadside_bollard'];titles=['マンホール','縁石','車止め'];cat=[]
 for slug,title in zip(IDS,titles):
  f=A/slug;m=json.loads((f/'metadata.json').read_text());m.update(review_status='pending independent functional review',title_ja=title,glb_bytes=(f/(slug+'.glb')).stat().st_size,blend_bytes=(f/(slug+'.blend')).stat().st_size)
  m['reference_urls']=[s.replace('?no=401','?no=407') for s in m['reference_urls']]

@@ -188,7 +188,7 @@ def repair_normals():
   if o.type!='MESH':continue
   bpy.ops.object.select_all(action='DESELECT');o.select_set(True);bpy.context.view_layer.objects.active=o;bpy.ops.object.mode_set(mode='EDIT');bpy.ops.mesh.select_all(action='SELECT');bpy.ops.mesh.normals_make_consistent(inside=False);bpy.ops.object.mode_set(mode='OBJECT')
 IDS=['round_wooden_stool','plastic_bail_bucket','wall_clock']
-TITLES=['木製丸スツール','金属つる付き樹脂バケツ','壁掛け時計']
+TITLES=['スツール','バケツ','掛け時計']
 def main():
  for slug,title,fn in zip(IDS,TITLES,[stool,bucket,clock]):
   if os.environ.get('ONLY_ASSETS') and slug not in os.environ['ONLY_ASSETS'].split(','):continue
