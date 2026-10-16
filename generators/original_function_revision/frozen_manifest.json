@@ -1,0 +1,30 @@
+[
+  {
+    "path": "assets/furniture/open_shelf/open_shelf.blend",
+    "bytes": 107084,
+    "sha256": "a5dfaa1a28c057ed3fa9ac4f7cc1d0450bc55105ba63cba9a7fa79092375b633",
+    "git_blob_sha1": "c060b0e579bd5d69cb1610e626262edda9fc399a",
+    "path_scope": "repository root"
+  },
+  {
+    "path": "assets/furniture/open_shelf/open_shelf.glb",
+    "bytes": 145512,
+    "sha256": "aac24f29bf367940ef4359941ab42c3587f6bbc20112237c81c8462226186e7b",
+    "git_blob_sha1": "88995cbc767c55d7534d4fe840942bcbfc0ecd1e",
+    "path_scope": "repository root"
+  },
+  {
+    "path": "assets/household/mug/mug.blend",
+    "bytes": 110299,
+    "sha256": "71a175e0491f5b2c89a37276529e46fcb188b67030dc28fe1941734ec8ddb62f",
+    "git_blob_sha1": "83d06b63d070e0d76519bede7b702de02a7ec152",
+    "path_scope": "repository root"
+  },
+  {
+    "path": "assets/household/mug/mug.glb",
+    "bytes": 40140,
+    "sha256": "914ca363cf4c0951a0ae343efcbc3de3ad15cbf6f4bff9d9889d8326202f37f5",
+    "git_blob_sha1": "ce119c58feb6c37f8a6eaf5cfed9781a5815538b",
+    "path_scope": "repository root"
+  }
+]

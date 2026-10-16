@@ -24,8 +24,8 @@
 |---|---:|---:|---:|---|
 | [ダイニングチェア](assets/furniture/dining_chair) | 640 | 57.6 KB | 100.1 KB | 0.43 × 0.45073 × 0.88121 |
 | [木製テーブル](assets/furniture/oak_table) | 616 | 56.3 KB | 99.2 KB | 1.2 × 0.7 × 0.75 |
-| [オープンシェルフ](assets/furniture/open_shelf) | 968 | 86.1 KB | 99.8 KB | 0.905 × 0.35 × 1.51 |
-| [マグカップ](assets/household/mug) | 1,684 | 40.1 KB | 109.9 KB | 0.123 × 0.086 × 0.108 |
+| [オープンシェルフ](assets/furniture/open_shelf) | 2,088 | 145.5 KB | 107.1 KB | 0.905 × 0.3715 × 1.51 |
+| [マグカップ](assets/household/mug) | 1,684 | 40.1 KB | 110.3 KB | 0.123 × 0.086 × 0.108 |
 | [横型信号機](assets/street/traffic_signal) | 7,078 | 295.0 KB | 143.6 KB | 1.415 × 0.57 × 4.9505 |
 | [踏切警報機・遮断機（下降）](assets/street/railway_crossing_lowered) | 40,296 | 1431.3 KB | 316.0 KB | 5.181 × 0.715 × 3.789 |
 | [公共用分別回収ボックス](assets/street/public_recycling_bin) | 14,708 | 773.2 KB | 197.3 KB | 0.480 × 0.489 × 1.018 |
@@ -161,3 +161,11 @@ python scripts/update_catalog_readme.py
 [現行やかんの生成・検証手順](generators/kettle_function_revision/README.md)
 
 やかんの再生成には修正版を使用してください。generators/batch03aのやかん生成手順・検証・画像は旧版履歴であり、現行やかんを上書きする用途には使用しないでください。茶碗とまな板は変更していません。
+
+## 棚とマグの接合部修正
+
+実物の組立資料・メーカー写真に照らして、棚の背面補強材を棚板の外へ移し、支柱の取り付け金具と交差部の隙間を設けました。マグの下側の取っ手接合部も修正し、内側の空洞と指の空間を保っています。保存GLB/Blend、各接合部と配置、生成手順を独立レビューで確認しました。耐荷重などの安全認証ではありません。
+
+[修正内容・現行生成手順](generators/original_function_revision/docs/repair-notes.md) · [棚の比較](generators/original_function_revision/previews/open_shelf_before_after.jpg) · [マグの比較](generators/original_function_revision/previews/mug_before_after.jpg)
+
+棚とマグを再生成する場合は上記の名前付き修正版フォルダでONLY_ASSETS=open_shelf,mugを指定してください。ルートscriptsの初版手順は棚・マグの現行版を再現しないため、現行ファイルの上書きに使用しないでください。

@@ -1,0 +1,30 @@
+{
+  "blend": {
+    "brace_y_bounds": {
+      "Rear diagonal A": [
+        0.18450000882148743,
+        0.1875
+      ],
+      "Rear diagonal B": [
+        0.18950000405311584,
+        0.19249999523162842
+      ]
+    },
+    "crossing_clearance_m": 0.0020000040531158447,
+    "board_clearance_m": 0.009500008821487438
+  },
+  "glb": {
+    "brace_y_bounds": {
+      "Rear diagonal A": [
+        0.18450000882148743,
+        0.1875
+      ],
+      "Rear diagonal B": [
+        0.18950000405311584,
+        0.19249999523162842
+      ]
+    },
+    "crossing_clearance_m": 0.0020000040531158447,
+    "board_clearance_m": 0.009500008821487438
+  }
+}

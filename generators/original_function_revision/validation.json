@@ -1,0 +1,88 @@
+[
+  {
+    "id": "mug",
+    "blend_reopened": true,
+    "glb_reimported": true,
+    "source": {
+      "mesh_count": 2,
+      "triangles": 1684,
+      "degenerate_triangles": 0,
+      "finite_vertices": true,
+      "min": [
+        -0.05900000035762787,
+        -0.0430000014603138,
+        0.0
+      ],
+      "max": [
+        0.06399999558925629,
+        0.0430000014603138,
+        0.1080000028014183
+      ]
+    },
+    "imported": {
+      "mesh_count": 2,
+      "triangles": 1684,
+      "degenerate_triangles": 0,
+      "finite_vertices": true,
+      "min": [
+        -0.05900000035762787,
+        -0.0430000014603138,
+        0.0
+      ],
+      "max": [
+        0.06399999558925629,
+        0.0430000014603138,
+        0.1080000028014183
+      ]
+    },
+    "max_bounds_error_m": 0.0,
+    "merged_duplicate_vertices": 126,
+    "glb_bytes": 40140,
+    "blend_bytes": 110299,
+    "under_100MB": true
+  },
+  {
+    "id": "open_shelf",
+    "blend_reopened": true,
+    "glb_reimported": true,
+    "source": {
+      "mesh_count": 38,
+      "vertices": 1120,
+      "triangles": 2088,
+      "degenerate_triangles": 0,
+      "finite_vertices": true,
+      "min": [
+        -0.45250001549720764,
+        -0.17499999701976776,
+        0.0
+      ],
+      "max": [
+        0.45250001549720764,
+        0.1964999884366989,
+        1.5099999904632568
+      ]
+    },
+    "imported": {
+      "mesh_count": 38,
+      "vertices": 3512,
+      "triangles": 2088,
+      "degenerate_triangles": 0,
+      "finite_vertices": true,
+      "min": [
+        -0.45250001549720764,
+        -0.17499999701976776,
+        0.0
+      ],
+      "max": [
+        0.45250001549720764,
+        0.1964999884366989,
+        1.5099999904632568
+      ]
+    },
+    "max_bounds_error_m": 0.0,
+    "merged_duplicate_vertices": 0,
+    "glb_bytes": 145512,
+    "blend_bytes": 107084,
+    "under_100MB": true
+  }
+]

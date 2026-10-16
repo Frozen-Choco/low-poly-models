@@ -1,0 +1,42 @@
+[
+  {
+    "id": "oak_table_blend",
+    "sha256": "752e8ac44f25bca2aadd57461dca825d55fcd01ce256d2dacf86030d76c1b195",
+    "unchanged": true
+  },
+  {
+    "id": "oak_table_glb",
+    "sha256": "276df335f457ebb618db2124447f630d56a59474c82f44b6e81a3c54e1f489ca",
+    "unchanged": true
+  },
+  {
+    "id": "dining_chair_blend",
+    "sha256": "2935b6e04c227291cf64cd3a11cacbba17841582143fbc67226c5b130a6f87db",
+    "unchanged": true
+  },
+  {
+    "id": "dining_chair_glb",
+    "sha256": "04b527d70d44d85e96c32ff9ec6b56d485be042ddf69d97bf285711062a51f41",
+    "unchanged": true
+  },
+  {
+    "id": "open_shelf_blend",
+    "sha256": "0f73ee290a5b8eec0439ffc6a260bfff706d97d5e893f8df7d260992f61689b3",
+    "unchanged": true
+  },
+  {
+    "id": "open_shelf_glb",
+    "sha256": "d0aa3daa5250dbb39852d0697fbb66fd9ad43cd5166ec64c594cef6b3127ff24",
+    "unchanged": true
+  },
+  {
+    "id": "mug_blend",
+    "sha256": "cceb5f1fcfd3b9df396e2b8600bdcffcfebf5482b12fcf6f2b8b591d46c4c62c",
+    "unchanged": true
+  },
+  {
+    "id": "mug_glb",
+    "sha256": "2fd695b71e677e507686c5e9b294d83051a3beab4c8a3dbbdb6683ae2c6ee0d9",
+    "unchanged": true
+  }
+]

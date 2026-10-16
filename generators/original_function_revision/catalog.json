@@ -1,0 +1,76 @@
+[
+  {
+    "id": "open_shelf",
+    "title_ja": "オープンシェルフ",
+    "category": "furniture",
+    "units": "meter",
+    "up_axis_blend": "Z",
+    "up_axis_glb": "Y",
+    "front_blend": "-Y",
+    "origin": "ground plane; approximate footprint center",
+    "style": "lightweight geometry with smooth curved surfaces; solid-color materials; no image textures",
+    "blender_version": "4.3.2",
+    "triangles": 2088,
+    "vertices": 1120,
+    "dimensions_m": [
+      0.905,
+      0.3715,
+      1.51
+    ],
+    "bounds_min": [
+      -0.45250001549720764,
+      -0.17499999701976776,
+      0.0
+    ],
+    "bounds_max": [
+      0.45250001549720764,
+      0.1964999884366989,
+      1.5099999904632568
+    ],
+    "notes": "Rear flat braces clear boards; separated crossing with welded post standoffs and fasteners. Generic construction, not engineering-certified.",
+    "reference_urls": [
+      "https://www.ikea.com/au/en/assembly_instructions/ivar-side-unit__AA-2204612-7-100.pdf"
+    ],
+    "functional_revision": "Rear brace assembly",
+    "glb_bytes": 145512,
+    "blend_bytes": 107084,
+    "validated": true
+  },
+  {
+    "id": "mug",
+    "title_ja": "マグカップ",
+    "category": "household",
+    "units": "meter",
+    "up_axis_blend": "Z",
+    "up_axis_glb": "Y",
+    "front_blend": "-Y",
+    "origin": "ground plane; approximate footprint center",
+    "style": "lightweight geometry with smooth curved surfaces; solid-color materials; no image textures",
+    "blender_version": "4.3.2",
+    "triangles": 1684,
+    "vertices": 846,
+    "dimensions_m": [
+      0.123,
+      0.086,
+      0.108
+    ],
+    "bounds_min": [
+      -0.05900000035762787,
+      -0.0430000014603138,
+      0.0
+    ],
+    "bounds_max": [
+      0.06399999558925629,
+      0.0430000014603138,
+      0.1080000028014183
+    ],
+    "notes": "Open cavity with wall and bottom thickness; rounded C-shaped handle with connected tapered lower attachment. Decorative model, not a fabrication-ready design.",
+    "glb_bytes": 40140,
+    "blend_bytes": 110299,
+    "validated": true,
+    "reference_urls": [
+      "https://kinto.co.jp/products/20754"
+    ],
+    "functional_revision": "Connected lower handle root"
+  }
+]

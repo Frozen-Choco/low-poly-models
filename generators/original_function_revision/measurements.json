@@ -1,0 +1,192 @@
+{
+  "mug_blend": {
+    "lower_handle_surface_signed_distance_m": {
+      "min": -0.002843249822035432,
+      "max": 0.03526431694626808,
+      "inside_vertex_count": 12
+    },
+    "body_handle_surface_intersections": 37,
+    "handle_gap_at_mid": [
+      [
+        "Rounded open handle",
+        [
+          0.052000001072883606,
+          0.0,
+          0.05700000002980232
+        ]
+      ],
+      [
+        "Rounded open handle",
+        [
+          0.06399999558925629,
+          0.0,
+          0.05700000002980232
+        ]
+      ]
+    ],
+    "cavity_center": [
+      [
+        "Mug with open cavity",
+        [
+          -0.01600000075995922,
+          0.0,
+          0.013000011444091797
+        ]
+      ],
+      [
+        "Mug with open cavity",
+        [
+          -0.01600000075995922,
+          0.0,
+          9.313225746154785e-10
+        ]
+      ]
+    ],
+    "materials": {
+      "Studio sand": {
+        "Metallic": 0.0,
+        "Roughness": 0.6499999761581421,
+        "Coat Weight": 0.0
+      },
+      "Terracotta glaze": {
+        "Metallic": 0.0,
+        "Roughness": 0.20000000298023224,
+        "Coat Weight": 0.30000001192092896
+      },
+      "Warm porcelain": {
+        "Metallic": 0.0,
+        "Roughness": 0.23999999463558197,
+        "Coat Weight": 0.30000001192092896
+      }
+    }
+  },
+  "mug_glb": {
+    "lower_handle_surface_signed_distance_m": {
+      "min": -0.0028432481922209263,
+      "max": 0.03526431694626808,
+      "inside_vertex_count": 24
+    },
+    "body_handle_surface_intersections": 75,
+    "handle_gap_at_mid": [
+      [
+        "Rounded open handle",
+        [
+          0.052000001072883606,
+          0.0,
+          0.05700000002980232
+        ]
+      ],
+      [
+        "Rounded open handle",
+        [
+          0.06399999558925629,
+          0.0,
+          0.05700000002980232
+        ]
+      ]
+    ],
+    "cavity_center": [
+      [
+        "Mug with open cavity",
+        [
+          -0.01600000075995922,
+          0.0,
+          0.013000011444091797
+        ]
+      ],
+      [
+        "Mug with open cavity",
+        [
+          -0.01600000075995922,
+          0.0,
+          9.313225746154785e-10
+        ]
+      ]
+    ],
+    "materials": {
+      "Terracotta glaze": {
+        "Metallic": 0.0,
+        "Roughness": 0.20000000298023224,
+        "Coat Weight": 0.30000001192092896
+      },
+      "Warm porcelain": {
+        "Metallic": 0.0,
+        "Roughness": 0.23999999463558197,
+        "Coat Weight": 0.30000001192092896
+      }
+    }
+  },
+  "open_shelf_blend": {
+    "brace_board_surface_intersections": {
+      "Rear diagonal A | Oak shelf 1": 0,
+      "Rear diagonal A | Oak shelf 2": 0,
+      "Rear diagonal A | Oak shelf 3": 0,
+      "Rear diagonal A | Oak shelf 4": 0,
+      "Rear diagonal B | Oak shelf 1": 0,
+      "Rear diagonal B | Oak shelf 2": 0,
+      "Rear diagonal B | Oak shelf 3": 0,
+      "Rear diagonal B | Oak shelf 4": 0
+    },
+    "materials": {
+      "Charcoal coated steel": {
+        "Metallic": 0.15000000596046448,
+        "Roughness": 0.3799999952316284,
+        "Coat Weight": 0.0
+      },
+      "Dull steel brace fasteners": {
+        "Metallic": 0.6499999761581421,
+        "Roughness": 0.47999998927116394,
+        "Coat Weight": 0.0
+      },
+      "Rubber feet": {
+        "Metallic": 0.0,
+        "Roughness": 0.6499999761581421,
+        "Coat Weight": 0.0
+      },
+      "Studio sand": {
+        "Metallic": 0.0,
+        "Roughness": 0.6499999761581421,
+        "Coat Weight": 0.0
+      },
+      "Warm oak": {
+        "Metallic": 0.0,
+        "Roughness": 0.4000000059604645,
+        "Coat Weight": 0.0
+      }
+    }
+  },
+  "open_shelf_glb": {
+    "brace_board_surface_intersections": {
+      "Rear diagonal A | Oak shelf 1": 0,
+      "Rear diagonal A | Oak shelf 2": 0,
+      "Rear diagonal A | Oak shelf 3": 0,
+      "Rear diagonal A | Oak shelf 4": 0,
+      "Rear diagonal B | Oak shelf 1": 0,
+      "Rear diagonal B | Oak shelf 2": 0,
+      "Rear diagonal B | Oak shelf 3": 0,
+      "Rear diagonal B | Oak shelf 4": 0
+    },
+    "materials": {
+      "Charcoal coated steel": {
+        "Metallic": 0.15000000596046448,
+        "Roughness": 0.3799999952316284,
+        "Coat Weight": 0.0
+      },
+      "Dull steel brace fasteners": {
+        "Metallic": 0.6499999761581421,
+        "Roughness": 0.47999998927116394,
+        "Coat Weight": 0.0
+      },
+      "Rubber feet": {
+        "Metallic": 0.0,
+        "Roughness": 0.6499999761581421,
+        "Coat Weight": 0.0
+      },
+      "Warm oak": {
+        "Metallic": 0.0,
+        "Roughness": 0.4000000059604645,
+        "Coat Weight": 0.0
+      }
+    }
+  }
+}

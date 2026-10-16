@@ -1,0 +1,20 @@
+{
+  "blend": {
+    "minimum_sampled_lower_surface_distance_m": -0.002843249822035432,
+    "closest_sample": [
+      0.019748667255043983,
+      0.0,
+      0.016622882336378098
+    ],
+    "sample_count": 63838
+  },
+  "glb": {
+    "minimum_sampled_lower_surface_distance_m": -0.0028432481922209263,
+    "closest_sample": [
+      0.019748667255043983,
+      0.0,
+      0.016622882336378098
+    ],
+    "sample_count": 63838
+  }
+}

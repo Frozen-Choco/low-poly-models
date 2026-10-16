@@ -1,0 +1,14 @@
+[
+  {
+    "id": "open_shelf",
+    "frozen_sha256": "aac24f29bf367940ef4359941ab42c3587f6bbc20112237c81c8462226186e7b",
+    "rebuilt_sha256": "aac24f29bf367940ef4359941ab42c3587f6bbc20112237c81c8462226186e7b",
+    "byte_identical": true
+  },
+  {
+    "id": "mug",
+    "frozen_sha256": "914ca363cf4c0951a0ae343efcbc3de3ad15cbf6f4bff9d9889d8326202f37f5",
+    "rebuilt_sha256": "914ca363cf4c0951a0ae343efcbc3de3ad15cbf6f4bff9d9889d8326202f37f5",
+    "byte_identical": true
+  }
+]

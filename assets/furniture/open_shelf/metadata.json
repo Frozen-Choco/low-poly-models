@@ -6,14 +6,14 @@
   "up_axis_blend": "Z",
   "up_axis_glb": "Y",
   "front_blend": "-Y",
-  "origin": "ground plane; approximate footprint center (signal mast base)",
+  "origin": "ground plane; approximate footprint center",
   "style": "lightweight geometry with smooth curved surfaces; solid-color materials; no image textures",
   "blender_version": "4.3.2",
-  "triangles": 968,
-  "vertices": 528,
+  "triangles": 2088,
+  "vertices": 1120,
   "dimensions_m": [
     0.905,
-    0.35,
+    0.3715,
     1.51
   ],
   "bounds_min": [
@@ -23,10 +23,15 @@
   ],
   "bounds_max": [
     0.45250001549720764,
-    0.17499999701976776,
+    0.1964999884366989,
     1.5099999904632568
   ],
-  "glb_bytes": 86120,
-  "blend_bytes": 99848,
+  "notes": "Rear flat braces clear boards; separated crossing with welded post standoffs and fasteners. Generic construction, not engineering-certified.",
+  "reference_urls": [
+    "https://www.ikea.com/au/en/assembly_instructions/ivar-side-unit__AA-2204612-7-100.pdf"
+  ],
+  "functional_revision": "Rear brace assembly",
+  "glb_bytes": 145512,
+  "blend_bytes": 107084,
   "validated": true
 }

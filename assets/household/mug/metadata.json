@@ -6,11 +6,11 @@
   "up_axis_blend": "Z",
   "up_axis_glb": "Y",
   "front_blend": "-Y",
-  "origin": "ground plane; approximate footprint center (signal mast base)",
+  "origin": "ground plane; approximate footprint center",
   "style": "lightweight geometry with smooth curved surfaces; solid-color materials; no image textures",
   "blender_version": "4.3.2",
   "triangles": 1684,
-  "vertices": 972,
+  "vertices": 846,
   "dimensions_m": [
     0.123,
     0.086,
@@ -26,8 +26,12 @@
     0.0430000014603138,
     0.1080000028014183
   ],
-  "notes": "Open cavity with wall and bottom thickness; rounded C-shaped handle. Decorative model, not a fabrication-ready design.",
+  "notes": "Open cavity with wall and bottom thickness; rounded C-shaped handle with connected tapered lower attachment. Decorative model, not a fabrication-ready design.",
   "glb_bytes": 40140,
-  "blend_bytes": 109865,
-  "validated": true
+  "blend_bytes": 110299,
+  "validated": true,
+  "reference_urls": [
+    "https://kinto.co.jp/products/20754"
+  ],
+  "functional_revision": "Connected lower handle root"
 }
