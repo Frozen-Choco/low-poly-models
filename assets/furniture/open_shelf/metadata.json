@@ -33,5 +33,13 @@
   "functional_revision": "Rear brace assembly",
   "glb_bytes": 145512,
   "blend_bytes": 107084,
-  "validated": true
+  "validated": true,
+  "photography": {
+    "standard": "preview_standard_v1",
+    "resolution": [
+      1200,
+      1200
+    ],
+    "record": "generators/preview_standard_v1/published/open_shelf.json"
+  }
 }

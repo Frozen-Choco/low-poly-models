@@ -1,0 +1,445 @@
+{
+  "asset": "park_bench",
+  "photography_version": "preview-standard-v1",
+  "input": {
+    "id": "park_bench",
+    "repo_path": "assets/street/park_bench/park_bench.glb",
+    "sha256": "064f932efe92b503e1c2c3151d1219227af5b2697420d6435bcb8bf9a9775131",
+    "git_sha": "2ca68d8b61506eaaf4d6669b360b7551f3faea21"
+  },
+  "reproduction_renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "reproduction_spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "detail_targets_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+  "provenance_note": "Original producer hashes are retained. The portable reproduction renderer uses the same photographic code and effective per-view configuration; scheduling, cache checks and descriptive metadata are excluded. Camera/light values and input/output hashes are recorded for verification.",
+  "outputs": [
+    {
+      "path": "assets/street/park_bench/back.jpg",
+      "sha256": "3b522efdba6ef0a56ac2f4ed3cf728d87c570aed201bfdce89baf488b40e4860",
+      "bytes": 142191,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "back",
+      "original_render_record": {
+        "input_sha256": "064f932efe92b503e1c2c3151d1219227af5b2697420d6435bcb8bf9a9775131",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 698.4605653940016,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 1.1111111405455043,
+        "source_bounds": [
+          [
+            -0.8999999761581421,
+            -0.29999998211860657,
+            0.0
+          ],
+          [
+            0.8999999761581421,
+            0.35069942474365234,
+            0.8647873401641846
+          ]
+        ],
+        "camera_location": [
+          -6.321617126464844,
+          6.322995185852051,
+          4.9594035148620605
+        ],
+        "camera_rotation": [
+          1.0998820066452026,
+          1.1037879943387452e-07,
+          -2.3561947345733643
+        ],
+        "ortho_scale": 2.3202574253082275,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          1.8562059998512268,
+          1.4051074981689453
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              2.999999523162842,
+              3.999999523162842,
+              5.000001430511475
+            ],
+            "rotation": [
+              0.8605250716209412,
+              4.998531011324303e-08,
+              2.498091459274292
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              -4.000000476837158,
+              1.0000011920928955,
+              2.9999988079071045
+            ],
+            "rotation": [
+              1.0619604587554932,
+              9.89387904937189e-10,
+              -1.8157753944396973
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -1.000002145767212,
+              -3.999999523162842,
+              4.0
+            ],
+            "rotation": [
+              0.8958315253257751,
+              1.692055562330097e-08,
+              -0.24497926235198975
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 1.0000000321110085
+      }
+    },
+    {
+      "path": "assets/street/park_bench/detail.jpg",
+      "sha256": "b550030aec9ce1c3db88125eff9b681560f77ce57a47a39b8d90822739aee494",
+      "bytes": 220471,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "detail",
+      "original_render_record": {
+        "input_sha256": "064f932efe92b503e1c2c3151d1219227af5b2697420d6435bcb8bf9a9775131",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 831.1941778420005,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 1.1111111405455043,
+        "source_bounds": [
+          [
+            -0.8999999761581421,
+            -0.29999998211860657,
+            0.0
+          ],
+          [
+            0.8999999761581421,
+            0.35069942474365234,
+            0.8647873401641846
+          ]
+        ],
+        "camera_location": [
+          6.9483537673950195,
+          -6.47652006149292,
+          4.924958229064941
+        ],
+        "camera_rotation": [
+          1.1111770868301392,
+          -5.514942102990972e-08,
+          0.7853983044624329
+        ],
+        "ortho_scale": 0.694444477558136,
+        "focus": {
+          "purpose": "Seat timber grain and flush fasteners",
+          "focus": "right seat/slat joint",
+          "direction": [
+            1,
+            -1,
+            0.7
+          ]
+        },
+        "focus_projected_width_height": [
+          1.8562055826187134,
+          1.5979917645454407
+        ],
+        "full_object_fit": false,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              -2.9639341831207275,
+              -4.036065578460693,
+              4.991725921630859
+            ],
+            "rotation": [
+              0.8621763586997986,
+              -2.3704506801891512e-08,
+              -0.6339073181152344
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              4.019964218139648,
+              -1.019963264465332,
+              2.959904909133911
+            ],
+            "rotation": [
+              1.071655035018921,
+              3.145727944797727e-08,
+              1.3226213455200195
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              1.028205394744873,
+              3.971794366836548,
+              4.023736000061035
+            ],
+            "rotation": [
+              0.8900576829910278,
+              -2.1477699618799306e-08,
+              2.8887977600097656
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 3.3411698893942887
+      }
+    },
+    {
+      "path": "assets/street/park_bench/endgrain.jpg",
+      "sha256": "5a96d8d9065091fed67e5f9dee8e64ff05bd0ccf92fef5d0029a6fb6e7ec03c5",
+      "bytes": 210912,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "endgrain",
+      "original_render_record": {
+        "input_sha256": "064f932efe92b503e1c2c3151d1219227af5b2697420d6435bcb8bf9a9775131",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 826.7795427980018,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 1.1111111405455043,
+        "source_bounds": [
+          [
+            -0.8999999761581421,
+            -0.29999998211860657,
+            0.0
+          ],
+          [
+            0.8999999761581421,
+            0.35069942474365234,
+            0.8647873401641846
+          ]
+        ],
+        "camera_location": [
+          8.941652297973633,
+          -4.663078308105469,
+          4.26100492477417
+        ],
+        "camera_rotation": [
+          1.1876094341278076,
+          4.798494401825337e-08,
+          1.0516502857208252
+        ],
+        "ortho_scale": 0.625,
+        "focus": {
+          "purpose": "Actual cut timber end grain",
+          "target_m": [
+            0.8,
+            -0.03,
+            0.47
+          ],
+          "span_m": 0.45,
+          "direction": [
+            1.4,
+            -0.8,
+            0.65
+          ]
+        },
+        "focus_projected_width_height": [
+          1.5374367237091064,
+          1.561589002609253
+        ],
+        "full_object_fit": false,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              -1.5003728866577148,
+              -4.843519687652588,
+              4.92066764831543
+            ],
+            "rotation": [
+              0.8761191964149475,
+              -4.665538178016959e-09,
+              -0.3041015863418579
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              4.302034378051758,
+              -0.015071727335453033,
+              2.6805436611175537
+            ],
+            "rotation": [
+              1.1377075910568237,
+              2.7985414874365233e-08,
+              1.5695066452026367
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              0.18711477518081665,
+              3.965132474899292,
+              4.1723246574401855
+            ],
+            "rotation": [
+              0.8530875444412231,
+              -1.57853143889497e-08,
+              3.0987443923950195
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 3.123178005218506
+      }
+    },
+    {
+      "path": "assets/street/park_bench/preview.jpg",
+      "sha256": "1e6656010b6722a344eb8c688205f83df46d4d1e848469a508da776854a09db1",
+      "bytes": 174767,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "preview",
+      "original_render_record": {
+        "input_sha256": "064f932efe92b503e1c2c3151d1219227af5b2697420d6435bcb8bf9a9775131",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 678.031836918999,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 1.1111111405455043,
+        "source_bounds": [
+          [
+            -0.8999999761581421,
+            -0.29999998211860657,
+            0.0
+          ],
+          [
+            0.8999999761581421,
+            0.35069942474365234,
+            0.8647873401641846
+          ]
+        ],
+        "camera_location": [
+          6.295831680297852,
+          -6.294455051422119,
+          5.034855365753174
+        ],
+        "camera_rotation": [
+          1.099881887435913,
+          -1.1680641165412453e-07,
+          0.7853983044624329
+        ],
+        "ortho_scale": 2.3202569484710693,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          1.8562056422233582,
+          1.6105867624282837
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              -2.9999988079071045,
+              -4.000000953674316,
+              5.000000476837158
+            ],
+            "rotation": [
+              0.8605254292488098,
+              1.9857164801351246e-09,
+              -0.6435009241104126
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              4.000000476837158,
+              -0.9999998211860657,
+              2.999999523162842
+            ],
+            "rotation": [
+              1.061960220336914,
+              -4.796916641680582e-09,
+              1.3258178234100342
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              0.9999996423721313,
+              3.999999761581421,
+              4.000000476837158
+            ],
+            "rotation": [
+              0.895831286907196,
+              -4.6209912341055315e-08,
+              2.8966140747070312
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 1.0000000449554212
+      }
+    }
+  ]
+}

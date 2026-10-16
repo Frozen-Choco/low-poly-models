@@ -31,16 +31,16 @@
   "limitations": "Estimated dimensions; no structural certification. Underside fastening internals omitted. Wood grain is a compact original approximation.",
   "files": {
     "preview.jpg": {
-      "bytes": 100843,
-      "sha256": "a3c19d0167a263ffd99c84ba5efddf05d9c69e2a225197d56c75b7a031d835ae"
+      "bytes": 174767,
+      "sha256": "1e6656010b6722a344eb8c688205f83df46d4d1e848469a508da776854a09db1"
     },
     "back.jpg": {
-      "bytes": 101191,
-      "sha256": "500c12f77bcf1f9ea6a6c36dd6cb877146c0906d1666ed2a4150fe2cfecbbcba"
+      "bytes": 142191,
+      "sha256": "3b522efdba6ef0a56ac2f4ed3cf728d87c570aed201bfdce89baf488b40e4860"
     },
     "endgrain.jpg": {
-      "bytes": 168370,
-      "sha256": "88c29498de473b58fd90367fc0e017ed2aa7fa8deb5e8a4eef0aec42a06522fc"
+      "bytes": 210912,
+      "sha256": "5a96d8d9065091fed67e5f9dee8e64ff05bd0ccf92fef5d0029a6fb6e7ec03c5"
     },
     "park_bench.glb": {
       "bytes": 458368,
@@ -51,13 +51,21 @@
       "sha256": "681f1b0a724b422febdc21c69566d58ea29958588e0ebce433dcc8c06aebbaf7"
     },
     "detail.jpg": {
-      "bytes": 153699,
-      "sha256": "86eacdce37b272817c55f93605dfbd482f26444aa5a38f4ca9d2f1819035ec8b"
+      "bytes": 220471,
+      "sha256": "b550030aec9ce1c3db88125eff9b681560f77ce57a47a39b8d90822739aee494"
     }
   },
   "validated": true,
-  "title_ja": "\u516c\u5712\u30d9\u30f3\u30c1",
+  "title_ja": "公園ベンチ",
   "category": "street",
   "glb_bytes": 458368,
-  "blend_bytes": 400799
+  "blend_bytes": 400799,
+  "photography": {
+    "standard": "preview_standard_v1",
+    "resolution": [
+      1200,
+      1200
+    ],
+    "record": "generators/preview_standard_v1/published/park_bench.json"
+  }
 }
