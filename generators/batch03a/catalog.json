@@ -1,0 +1,134 @@
+[
+  {
+    "id": "ceramic_rice_bowl",
+    "category": "household",
+    "units": "meters",
+    "origin": "ground at object center",
+    "front_blend": "-Y",
+    "up_blend": "Z",
+    "up_glb": "Y",
+    "design": "Original generic Japanese household prop; artist-selected plausible dimensions, not an exact manufacturer copy.",
+    "license": "Original geometry and procedural textures; no third-party image assets.",
+    "review_status": "approved independent review",
+    "blender_version": "4.3.2",
+    "triangles": 5564,
+    "zero_area_triangles": 0,
+    "bounds_min": [
+      -0.0625,
+      -0.0625,
+      0.0
+    ],
+    "bounds_max": [
+      0.0625,
+      0.0625,
+      0.06750000268220901
+    ],
+    "dimensions_m": [
+      0.125,
+      0.125,
+      0.06750000268220901
+    ],
+    "mesh_objects": 1,
+    "files_bytes": {
+      "preview.jpg": 102128,
+      "front_three_quarter.jpg": 102128,
+      "rear.jpg": 89574,
+      "side.jpg": 100137,
+      "back.jpg": 89574,
+      "close_up.jpg": 110639,
+      "ceramic_rice_bowl.glb": 121412,
+      "ceramic_rice_bowl.blend": 168456
+    },
+    "title_ja": "陶器の茶碗",
+    "glb_bytes": 121412,
+    "blend_bytes": 168456
+  },
+  {
+    "id": "stainless_kitchen_kettle",
+    "category": "household",
+    "units": "meters",
+    "origin": "ground at object center",
+    "front_blend": "-Y",
+    "up_blend": "Z",
+    "up_glb": "Y",
+    "design": "Original generic Japanese household prop; artist-selected plausible dimensions, not an exact manufacturer copy.",
+    "license": "Original geometry and procedural textures; no third-party image assets.",
+    "review_status": "approved independent review",
+    "blender_version": "4.3.2",
+    "triangles": 15084,
+    "zero_area_triangles": 0,
+    "bounds_min": [
+      -0.0989999994635582,
+      -0.0989999994635582,
+      0.0
+    ],
+    "bounds_max": [
+      0.18201151490211487,
+      0.0989999994635582,
+      0.24799999594688416
+    ],
+    "dimensions_m": [
+      0.28101151436567307,
+      0.1979999989271164,
+      0.24799999594688416
+    ],
+    "mesh_objects": 9,
+    "files_bytes": {
+      "preview.jpg": 106983,
+      "front_three_quarter.jpg": 106983,
+      "rear.jpg": 96182,
+      "side.jpg": 102259,
+      "back.jpg": 96182,
+      "close_up.jpg": 132647,
+      "stainless_kitchen_kettle.blend": 254111,
+      "stainless_kitchen_kettle.glb": 344900
+    },
+    "title_ja": "ステンレス製やかん",
+    "glb_bytes": 344900,
+    "blend_bytes": 254111
+  },
+  {
+    "id": "wooden_cutting_board",
+    "category": "household",
+    "units": "meters",
+    "origin": "ground at object center",
+    "front_blend": "-Y",
+    "up_blend": "Z",
+    "up_glb": "Y",
+    "design": "Original generic Japanese household prop; artist-selected plausible dimensions, not an exact manufacturer copy.",
+    "license": "Original geometry and procedural textures; no third-party image assets.",
+    "review_status": "approved independent review",
+    "blender_version": "4.3.2",
+    "triangles": 300,
+    "zero_area_triangles": 0,
+    "bounds_min": [
+      -0.17000000178813934,
+      -0.10249999910593033,
+      0.0
+    ],
+    "bounds_max": [
+      0.17000000178813934,
+      0.10249999910593033,
+      0.024000000208616257
+    ],
+    "dimensions_m": [
+      0.3400000035762787,
+      0.20499999821186066,
+      0.024000000208616257
+    ],
+    "mesh_objects": 1,
+    "files_bytes": {
+      "preview.jpg": 67886,
+      "front_three_quarter.jpg": 67886,
+      "rear.jpg": 62165,
+      "side.jpg": 61813,
+      "wooden_cutting_board.blend": 1357594,
+      "back.jpg": 62165,
+      "close_up.jpg": 84193,
+      "wooden_cutting_board.glb": 1267908
+    },
+    "title_ja": "木製まな板",
+    "glb_bytes": 1267908,
+    "blend_bytes": 1357594
+  }
+]

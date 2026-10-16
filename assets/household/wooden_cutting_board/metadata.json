@@ -1,0 +1,44 @@
+{
+  "id": "wooden_cutting_board",
+  "category": "household",
+  "units": "meters",
+  "origin": "ground at object center",
+  "front_blend": "-Y",
+  "up_blend": "Z",
+  "up_glb": "Y",
+  "design": "Original generic Japanese household prop; artist-selected plausible dimensions, not an exact manufacturer copy.",
+  "license": "Original geometry and procedural textures; no third-party image assets.",
+  "review_status": "approved independent review",
+  "blender_version": "4.3.2",
+  "triangles": 300,
+  "zero_area_triangles": 0,
+  "bounds_min": [
+    -0.17000000178813934,
+    -0.10249999910593033,
+    0.0
+  ],
+  "bounds_max": [
+    0.17000000178813934,
+    0.10249999910593033,
+    0.024000000208616257
+  ],
+  "dimensions_m": [
+    0.3400000035762787,
+    0.20499999821186066,
+    0.024000000208616257
+  ],
+  "mesh_objects": 1,
+  "files_bytes": {
+    "preview.jpg": 67886,
+    "front_three_quarter.jpg": 67886,
+    "rear.jpg": 62165,
+    "side.jpg": 61813,
+    "wooden_cutting_board.blend": 1357594,
+    "back.jpg": 62165,
+    "close_up.jpg": 84193,
+    "wooden_cutting_board.glb": 1267908
+  },
+  "title_ja": "木製まな板",
+  "glb_bytes": 1267908,
+  "blend_bytes": 1357594
+}

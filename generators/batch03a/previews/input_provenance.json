@@ -1,0 +1,29 @@
+[
+  {
+    "asset": "stainless_kitchen_kettle",
+    "sha256": "ede975eda0525fd930ec0bbe4c1874b34f39a38c3fc89b8d4453eb5da6cc5c8d",
+    "placement_m": [
+      0.17,
+      0.07,
+      0
+    ]
+  },
+  {
+    "asset": "wooden_cutting_board",
+    "sha256": "6c6ec150716ded158707017f0df39b8f647d9103c0e7128d34a9b3633d77bfd2",
+    "placement_m": [
+      -0.18,
+      -0.03,
+      0
+    ]
+  },
+  {
+    "asset": "ceramic_rice_bowl",
+    "sha256": "6903438238cb329bc0857963af3a80ac9bfd777bc5c12f47d8e4ed0f0ae2b539",
+    "placement_m": [
+      -0.2,
+      -0.03,
+      0.024
+    ]
+  }
+]

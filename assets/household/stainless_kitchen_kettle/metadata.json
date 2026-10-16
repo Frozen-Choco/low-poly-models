@@ -1,0 +1,44 @@
+{
+  "id": "stainless_kitchen_kettle",
+  "category": "household",
+  "units": "meters",
+  "origin": "ground at object center",
+  "front_blend": "-Y",
+  "up_blend": "Z",
+  "up_glb": "Y",
+  "design": "Original generic Japanese household prop; artist-selected plausible dimensions, not an exact manufacturer copy.",
+  "license": "Original geometry and procedural textures; no third-party image assets.",
+  "review_status": "approved independent review",
+  "blender_version": "4.3.2",
+  "triangles": 15084,
+  "zero_area_triangles": 0,
+  "bounds_min": [
+    -0.0989999994635582,
+    -0.0989999994635582,
+    0.0
+  ],
+  "bounds_max": [
+    0.18201151490211487,
+    0.0989999994635582,
+    0.24799999594688416
+  ],
+  "dimensions_m": [
+    0.28101151436567307,
+    0.1979999989271164,
+    0.24799999594688416
+  ],
+  "mesh_objects": 9,
+  "files_bytes": {
+    "preview.jpg": 106983,
+    "front_three_quarter.jpg": 106983,
+    "rear.jpg": 96182,
+    "side.jpg": 102259,
+    "back.jpg": 96182,
+    "close_up.jpg": 132647,
+    "stainless_kitchen_kettle.blend": 254111,
+    "stainless_kitchen_kettle.glb": 344900
+  },
+  "title_ja": "ステンレス製やかん",
+  "glb_bytes": 344900,
+  "blend_bytes": 254111
+}

@@ -1,0 +1,164 @@
+[
+  {
+    "asset": "stainless_kitchen_kettle",
+    "blend": {
+      "triangles": 15084,
+      "zero_area_triangles": 0,
+      "bounds_min": [
+        -0.0989999994635582,
+        -0.0989999994635582,
+        0.0
+      ],
+      "bounds_max": [
+        0.18201151490211487,
+        0.0989999994635582,
+        0.24799999594688416
+      ],
+      "dimensions_m": [
+        0.28101151436567307,
+        0.1979999989271164,
+        0.24799999594688416
+      ],
+      "mesh_objects": 9
+    },
+    "glb": {
+      "triangles": 15084,
+      "zero_area_triangles": 0,
+      "bounds_min": [
+        -0.0989999994635582,
+        -0.0989999994635582,
+        0.0
+      ],
+      "bounds_max": [
+        0.18201151490211487,
+        0.0989999994635582,
+        0.24799999594688416
+      ],
+      "dimensions_m": [
+        0.28101151436567307,
+        0.1979999989271164,
+        0.24799999594688416
+      ],
+      "mesh_objects": 9
+    },
+    "checks": {
+      "finite_coordinates": true,
+      "triangle_count_matches": true,
+      "no_degenerate_triangles": true,
+      "dimensions_match": true,
+      "parts_match": true,
+      "self_contained_images": true,
+      "under_100MB": true,
+      "canonical_aliases": true
+    },
+    "all_pass": true
+  },
+  {
+    "asset": "ceramic_rice_bowl",
+    "blend": {
+      "triangles": 5564,
+      "zero_area_triangles": 0,
+      "bounds_min": [
+        -0.0625,
+        -0.0625,
+        0.0
+      ],
+      "bounds_max": [
+        0.0625,
+        0.0625,
+        0.06750000268220901
+      ],
+      "dimensions_m": [
+        0.125,
+        0.125,
+        0.06750000268220901
+      ],
+      "mesh_objects": 1
+    },
+    "glb": {
+      "triangles": 5564,
+      "zero_area_triangles": 0,
+      "bounds_min": [
+        -0.0625,
+        -0.0625,
+        0.0
+      ],
+      "bounds_max": [
+        0.0625,
+        0.0625,
+        0.06750000268220901
+      ],
+      "dimensions_m": [
+        0.125,
+        0.125,
+        0.06750000268220901
+      ],
+      "mesh_objects": 1
+    },
+    "checks": {
+      "finite_coordinates": true,
+      "triangle_count_matches": true,
+      "no_degenerate_triangles": true,
+      "dimensions_match": true,
+      "parts_match": true,
+      "self_contained_images": true,
+      "under_100MB": true,
+      "canonical_aliases": true
+    },
+    "all_pass": true
+  },
+  {
+    "asset": "wooden_cutting_board",
+    "blend": {
+      "triangles": 300,
+      "zero_area_triangles": 0,
+      "bounds_min": [
+        -0.17000000178813934,
+        -0.10249999910593033,
+        0.0
+      ],
+      "bounds_max": [
+        0.17000000178813934,
+        0.10249999910593033,
+        0.024000000208616257
+      ],
+      "dimensions_m": [
+        0.3400000035762787,
+        0.20499999821186066,
+        0.024000000208616257
+      ],
+      "mesh_objects": 1
+    },
+    "glb": {
+      "triangles": 300,
+      "zero_area_triangles": 0,
+      "bounds_min": [
+        -0.17000000178813934,
+        -0.10249999910593033,
+        0.0
+      ],
+      "bounds_max": [
+        0.17000000178813934,
+        0.10249999910593033,
+        0.024000000208616257
+      ],
+      "dimensions_m": [
+        0.3400000035762787,
+        0.20499999821186066,
+        0.024000000208616257
+      ],
+      "mesh_objects": 1
+    },
+    "checks": {
+      "finite_coordinates": true,
+      "triangle_count_matches": true,
+      "no_degenerate_triangles": true,
+      "dimensions_match": true,
+      "parts_match": true,
+      "self_contained_images": true,
+      "under_100MB": true,
+      "canonical_aliases": true
+    },
+    "all_pass": true
+  }
+]

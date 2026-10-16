@@ -1,0 +1,234 @@
+{
+  "revision": "03a-r1",
+  "review_status": "approved independent review; integration metadata synchronized",
+  "files": [
+    {
+      "local_path": "assets/ceramic_rice_bowl/back.jpg",
+      "repo_relative_path": "assets/household/ceramic_rice_bowl/back.jpg",
+      "bytes": 89574,
+      "sha256": "f8be4e43081758410d0955c3b7821643e149afc6360cbde064409d3a2301061f"
+    },
+    {
+      "local_path": "assets/ceramic_rice_bowl/ceramic_rice_bowl.blend",
+      "repo_relative_path": "assets/household/ceramic_rice_bowl/ceramic_rice_bowl.blend",
+      "bytes": 168456,
+      "sha256": "118c2530df31a19b98917dc005406f881093e3d1f4e8eb36977e0881a9d46648"
+    },
+    {
+      "local_path": "assets/ceramic_rice_bowl/ceramic_rice_bowl.glb",
+      "repo_relative_path": "assets/household/ceramic_rice_bowl/ceramic_rice_bowl.glb",
+      "bytes": 121412,
+      "sha256": "6903438238cb329bc0857963af3a80ac9bfd777bc5c12f47d8e4ed0f0ae2b539"
+    },
+    {
+      "local_path": "assets/ceramic_rice_bowl/close_up.jpg",
+      "repo_relative_path": "assets/household/ceramic_rice_bowl/close_up.jpg",
+      "bytes": 110639,
+      "sha256": "62418ae6d3a56698abb54af7410c558bbb0941739febf97e5e955ef644d0ccaa"
+    },
+    {
+      "local_path": "assets/ceramic_rice_bowl/front_three_quarter.jpg",
+      "repo_relative_path": "assets/household/ceramic_rice_bowl/front_three_quarter.jpg",
+      "bytes": 102128,
+      "sha256": "36a2cd698d18fd4d3e5a3cddc83654b7f5b60a2d05ca95ebec070a2c6ad4eca0"
+    },
+    {
+      "local_path": "assets/ceramic_rice_bowl/metadata.json",
+      "repo_relative_path": "assets/household/ceramic_rice_bowl/metadata.json",
+      "bytes": 1086,
+      "sha256": "68eb7b22142d912473748011a163739a3143e4f957a4303b2d0a6f694f7ba440"
+    },
+    {
+      "local_path": "assets/ceramic_rice_bowl/preview.jpg",
+      "repo_relative_path": "assets/household/ceramic_rice_bowl/preview.jpg",
+      "bytes": 102128,
+      "sha256": "36a2cd698d18fd4d3e5a3cddc83654b7f5b60a2d05ca95ebec070a2c6ad4eca0"
+    },
+    {
+      "local_path": "assets/ceramic_rice_bowl/rear.jpg",
+      "repo_relative_path": "assets/household/ceramic_rice_bowl/rear.jpg",
+      "bytes": 89574,
+      "sha256": "f8be4e43081758410d0955c3b7821643e149afc6360cbde064409d3a2301061f"
+    },
+    {
+      "local_path": "assets/ceramic_rice_bowl/side.jpg",
+      "repo_relative_path": "assets/household/ceramic_rice_bowl/side.jpg",
+      "bytes": 100137,
+      "sha256": "ceee4eb4ec7b0c982f03d0492049165d9b2ee47106b93fa4167addb450ad158e"
+    },
+    {
+      "local_path": "assets/stainless_kitchen_kettle/back.jpg",
+      "repo_relative_path": "assets/household/stainless_kitchen_kettle/back.jpg",
+      "bytes": 96182,
+      "sha256": "929c8adf06aaecaab5b67c2b17fc0b7af9fb41c4e17491cdbd091fa9e95159b1"
+    },
+    {
+      "local_path": "assets/stainless_kitchen_kettle/close_up.jpg",
+      "repo_relative_path": "assets/household/stainless_kitchen_kettle/close_up.jpg",
+      "bytes": 132647,
+      "sha256": "30ba7101b8ebdd8893917e5f95b7551f663500038c6eab6ba0b9c4d9c00f4581"
+    },
+    {
+      "local_path": "assets/stainless_kitchen_kettle/front_three_quarter.jpg",
+      "repo_relative_path": "assets/household/stainless_kitchen_kettle/front_three_quarter.jpg",
+      "bytes": 106983,
+      "sha256": "b5c986d3af645491c7c5b81863cc295dba4a26d9cc534e4f8291beb5b25cc45c"
+    },
+    {
+      "local_path": "assets/stainless_kitchen_kettle/metadata.json",
+      "repo_relative_path": "assets/household/stainless_kitchen_kettle/metadata.json",
+      "bytes": 1196,
+      "sha256": "8c36c5ac238df9a6065330e01a6fb9d9029f6ec8d6aa3d90a843271c6acefcd3"
+    },
+    {
+      "local_path": "assets/stainless_kitchen_kettle/preview.jpg",
+      "repo_relative_path": "assets/household/stainless_kitchen_kettle/preview.jpg",
+      "bytes": 106983,
+      "sha256": "b5c986d3af645491c7c5b81863cc295dba4a26d9cc534e4f8291beb5b25cc45c"
+    },
+    {
+      "local_path": "assets/stainless_kitchen_kettle/rear.jpg",
+      "repo_relative_path": "assets/household/stainless_kitchen_kettle/rear.jpg",
+      "bytes": 96182,
+      "sha256": "929c8adf06aaecaab5b67c2b17fc0b7af9fb41c4e17491cdbd091fa9e95159b1"
+    },
+    {
+      "local_path": "assets/stainless_kitchen_kettle/side.jpg",
+      "repo_relative_path": "assets/household/stainless_kitchen_kettle/side.jpg",
+      "bytes": 102259,
+      "sha256": "496f967e5f053496984fa2bf4639222fdf93dd8c3a9dd4b3e4a6e424eaa8a15f"
+    },
+    {
+      "local_path": "assets/stainless_kitchen_kettle/stainless_kitchen_kettle.blend",
+      "repo_relative_path": "assets/household/stainless_kitchen_kettle/stainless_kitchen_kettle.blend",
+      "bytes": 254111,
+      "sha256": "0c121a27088eb45b6be980ce97869aa0b42b48611f0d37222aa7fc109c1e3c23"
+    },
+    {
+      "local_path": "assets/stainless_kitchen_kettle/stainless_kitchen_kettle.glb",
+      "repo_relative_path": "assets/household/stainless_kitchen_kettle/stainless_kitchen_kettle.glb",
+      "bytes": 344900,
+      "sha256": "ede975eda0525fd930ec0bbe4c1874b34f39a38c3fc89b8d4453eb5da6cc5c8d"
+    },
+    {
+      "local_path": "assets/wooden_cutting_board/back.jpg",
+      "repo_relative_path": "assets/household/wooden_cutting_board/back.jpg",
+      "bytes": 62165,
+      "sha256": "2b875d2d43ce3e425138e85e9951ba252aab68f4fba84083d1d2d4cebc2ef6b4"
+    },
+    {
+      "local_path": "assets/wooden_cutting_board/close_up.jpg",
+      "repo_relative_path": "assets/household/wooden_cutting_board/close_up.jpg",
+      "bytes": 84193,
+      "sha256": "14d09c1278284e2c58544d37af76652e3d697763dd8be3f4701d3b37db929fd3"
+    },
+    {
+      "local_path": "assets/wooden_cutting_board/front_three_quarter.jpg",
+      "repo_relative_path": "assets/household/wooden_cutting_board/front_three_quarter.jpg",
+      "bytes": 67886,
+      "sha256": "0dc7d394ebda8ae36463e5c122d6b2855fcb4b7ba19730a2c6d5aca700267660"
+    },
+    {
+      "local_path": "assets/wooden_cutting_board/metadata.json",
+      "repo_relative_path": "assets/household/wooden_cutting_board/metadata.json",
+      "bytes": 1175,
+      "sha256": "568ef2f3d05463cbee89e0a92f72ccd2ab6c98b04b804c9144a98164247b0119"
+    },
+    {
+      "local_path": "assets/wooden_cutting_board/preview.jpg",
+      "repo_relative_path": "assets/household/wooden_cutting_board/preview.jpg",
+      "bytes": 67886,
+      "sha256": "0dc7d394ebda8ae36463e5c122d6b2855fcb4b7ba19730a2c6d5aca700267660"
+    },
+    {
+      "local_path": "assets/wooden_cutting_board/rear.jpg",
+      "repo_relative_path": "assets/household/wooden_cutting_board/rear.jpg",
+      "bytes": 62165,
+      "sha256": "2b875d2d43ce3e425138e85e9951ba252aab68f4fba84083d1d2d4cebc2ef6b4"
+    },
+    {
+      "local_path": "assets/wooden_cutting_board/side.jpg",
+      "repo_relative_path": "assets/household/wooden_cutting_board/side.jpg",
+      "bytes": 61813,
+      "sha256": "c65090401792985e28a2da4abbf9ff1287eba8b81332e4583e9c4282473acc4f"
+    },
+    {
+      "local_path": "assets/wooden_cutting_board/wooden_cutting_board.blend",
+      "repo_relative_path": "assets/household/wooden_cutting_board/wooden_cutting_board.blend",
+      "bytes": 1357594,
+      "sha256": "3ae5a49ebd46fe291f731004bdd4879241d7b3cf8ea386e4e07336c7638d93eb"
+    },
+    {
+      "local_path": "assets/wooden_cutting_board/wooden_cutting_board.glb",
+      "repo_relative_path": "assets/household/wooden_cutting_board/wooden_cutting_board.glb",
+      "bytes": 1267908,
+      "sha256": "6c6ec150716ded158707017f0df39b8f647d9103c0e7128d34a9b3633d77bfd2"
+    },
+    {
+      "local_path": "README.md",
+      "repo_relative_path": "generators/batch03a/README.md",
+      "bytes": 1690,
+      "sha256": "9d6b95dc080fe8c85e5df04a35c21dee9425ee577564eb4ec2f49a2d8b090602"
+    },
+    {
+      "local_path": "catalog.json",
+      "repo_relative_path": "generators/batch03a/catalog.json",
+      "bytes": 3727,
+      "sha256": "25cb4ba75fc1d1131ff8c102d9860e9287b66d963689454e3ed1a420e7cc0bc8"
+    },
+    {
+      "local_path": "docs/design-notes.md",
+      "repo_relative_path": "generators/batch03a/docs/design-notes.md",
+      "bytes": 2086,
+      "sha256": "901e1e8371c33327c1d6da90276947600a06ed4ea6da288f68ab047e39ce586c"
+    },
+    {
+      "local_path": "previews/context_alternate_light.jpg",
+      "repo_relative_path": "generators/batch03a/previews/context_alternate_light.jpg",
+      "bytes": 156474,
+      "sha256": "397ce7859b4f044dd75f3485f95a0746ed812ca94410a7d3771dea89b7e96dfd"
+    },
+    {
+      "local_path": "previews/context_daylight.jpg",
+      "repo_relative_path": "generators/batch03a/previews/context_daylight.jpg",
+      "bytes": 119179,
+      "sha256": "dc74e34ef6cf602ce2b15753924dcba3b07b9902a658f3985c1d83cbe8179929"
+    },
+    {
+      "local_path": "previews/context_review.blend",
+      "repo_relative_path": "generators/batch03a/previews/context_review.blend",
+      "bytes": 2670060,
+      "sha256": "7936d9ae062deb160c8d652ad681d11379fa3ac4e06abcce63c138dc2b5c4f17"
+    },
+    {
+      "local_path": "previews/input_provenance.json",
+      "repo_relative_path": "generators/batch03a/previews/input_provenance.json",
+      "bytes": 572,
+      "sha256": "458684c181d122072b53cda2e528cd95ecc590e2198a238681df2dbc75dc524e"
+    },
+    {
+      "local_path": "scripts/build_assets.py",
+      "repo_relative_path": "generators/batch03a/scripts/build_assets.py",
+      "bytes": 11145,
+      "sha256": "6cf70a16b554a5552cadad91a8e062bece044f77bf1a2ee13a244d74a04e771e"
+    },
+    {
+      "local_path": "scripts/package_manifest.py",
+      "repo_relative_path": "generators/batch03a/scripts/package_manifest.py",
+      "bytes": 1605,
+      "sha256": "64bc284c8dd492956c26354205858d8a7d6d355cc07fb106e9aad0d5d2f6547c"
+    },
+    {
+      "local_path": "scripts/validate_and_context.py",
+      "repo_relative_path": "generators/batch03a/scripts/validate_and_context.py",
+      "bytes": 3870,
+      "sha256": "c3d53f61707e64b9824bbd0efe06304734d10e3611c2c177907932d318485ae4"
+    },
+    {
+      "local_path": "validation.json",
+      "repo_relative_path": "generators/batch03a/validation.json",
+      "bytes": 3552,
+      "sha256": "8ff88c01c2b68f20d1c1e70ee9286a8bde020a8eb8bc702648b8c610c0a80c16"
+    }
+  ]
+}

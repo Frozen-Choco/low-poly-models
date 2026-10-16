@@ -1,6 +1,6 @@
 # Low-poly diorama models
 
-現実世界のジオラマに配置するための、形状の自然さと素材の違いを保った、軽量なオリジナル小物集です。現在10モデル。目標は合計1,000モデルです。
+現実世界のジオラマに配置するための、形状の自然さと素材の違いを保った、軽量なオリジナル小物集です。現在13モデル。目標は合計1,000モデルです。
 
 ## 制作基準
 
@@ -133,3 +133,15 @@ python scripts/update_catalog_readme.py
 街灯は消灯状態です。コーンは底部の重りが一体の積み重ね不可モデルで、白帯は通常のPBR材質による表現です。専用の再帰反射シェーダーは使用していません。
 
 [生成・検証手順](generators/batch02a/README.md) · [検証結果](generators/batch02a/validation.json)
+
+## 追加モデル：やかん・茶碗・まな板
+
+保存ファイルの再読込、注ぎ口の開口、木口・底面、2種類の照明下での実配置と生成手順を独立レビューで確認しています。
+
+- [陶器の茶碗](assets/household/ceramic_rice_bowl)：5,564三角形、GLB 121,412 bytes
+- [ステンレス製やかん](assets/household/stainless_kitchen_kettle)：15,084三角形、GLB 344,900 bytes
+- [木製まな板](assets/household/wooden_cutting_board)：300三角形、GLB 1,267,908 bytes
+
+汎用的な清潔な小物です。木目は近似表現で、接写向けの細かな摩耗は含みません。確認画像には若干のサンプリングノイズがあります。
+
+[生成・検証手順](generators/batch03a/README.md) · [検証結果](generators/batch03a/validation.json)
