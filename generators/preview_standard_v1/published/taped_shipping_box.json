@@ -1,0 +1,860 @@
+{
+  "asset": "taped_shipping_box",
+  "photography_version": "preview-standard-v1",
+  "input": {
+    "id": "taped_shipping_box",
+    "repo_path": "assets/household/taped_shipping_box/taped_shipping_box.glb",
+    "sha256": "baf79737710c3367d1811bd4edf7b44972f9e189a5031a090f9b331b83cfce56",
+    "git_sha": "bed48dc021e3b26dc976264cfd64b75ba39d3d7f"
+  },
+  "reproduction_renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "reproduction_spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "detail_targets_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+  "provenance_note": "Original producer hashes are retained. The portable reproduction renderer uses the same photographic code and effective per-view configuration; scheduling, cache checks and descriptive metadata are excluded. Camera/light values and input/output hashes are recorded for verification.",
+  "outputs": [
+    {
+      "path": "assets/household/taped_shipping_box/back.jpg",
+      "sha256": "e9f3ad2a54da7e22938cd0e6938f89b85c89a6e693e7a6bc263b387beacc043f",
+      "bytes": 175212,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "back",
+      "original_render_record": {
+        "input_sha256": "baf79737710c3367d1811bd4edf7b44972f9e189a5031a090f9b331b83cfce56",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 720.5774776670005,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 6.216972204540829,
+        "source_bounds": [
+          [
+            -0.16085000336170197,
+            -0.12050000578165054,
+            0.0
+          ],
+          [
+            0.16085000336170197,
+            0.12050000578165054,
+            0.20659999549388885
+          ]
+        ],
+        "camera_location": [
+          -6.301408290863037,
+          6.301410675048828,
+          5.179226398468018
+        ],
+        "camera_rotation": [
+          1.0998820066452026,
+          1.1037879943387452e-07,
+          -2.3561947345733643
+        ],
+        "ortho_scale": 3.0795207023620605,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          2.4636164903640747,
+          2.244237184524536
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              2.999999523162842,
+              3.999999523162842,
+              5.000001430511475
+            ],
+            "rotation": [
+              0.8605252504348755,
+              4.2826759028002925e-08,
+              2.498091697692871
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              -4.000000476837158,
+              1.0000011920928955,
+              2.9999985694885254
+            ],
+            "rotation": [
+              1.0619605779647827,
+              -2.7278812098074923e-08,
+              -1.8157752752304077
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -1.000002145767212,
+              -3.999999523162842,
+              4.0
+            ],
+            "rotation": [
+              0.8958315253257751,
+              3.590000297037932e-09,
+              -0.24497926235198975
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 0.9999999709672459
+      }
+    },
+    {
+      "path": "assets/household/taped_shipping_box/close_up.jpg",
+      "sha256": "6fc2ef9c6b5e0c25e696c7268148e87a94820d4477a70c83d89be580758ad59d",
+      "bytes": 183960,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "close_up",
+      "original_render_record": {
+        "input_sha256": "baf79737710c3367d1811bd4edf7b44972f9e189a5031a090f9b331b83cfce56",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 688.9932461360004,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 6.216972204540829,
+        "source_bounds": [
+          [
+            -0.16085000336170197,
+            -0.12050000578165054,
+            0.0
+          ],
+          [
+            0.16085000336170197,
+            0.12050000578165054,
+            0.20659999549388885
+          ]
+        ],
+        "camera_location": [
+          4.850712776184082,
+          -4.850712776184082,
+          8.560495376586914
+        ],
+        "camera_rotation": [
+          0.7559694051742554,
+          -1.2259476989129325e-07,
+          0.7853981852531433
+        ],
+        "ortho_scale": 1.375,
+        "focus": {
+          "purpose": "Top flap seam and tape texture",
+          "focus": "top seam center",
+          "direction": [
+            1,
+            -1,
+            1.5
+          ]
+        },
+        "focus_projected_width_height": [
+          2.4636166095733643,
+          2.649638295173645
+        ],
+        "full_object_fit": false,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              -4.06825065612793,
+              -2.9317498207092285,
+              4.9832377433776855
+            ],
+            "rotation": [
+              0.8631981015205383,
+              5.2422386431771884e-08,
+              -0.9425134658813477
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              3.2914695739746094,
+              -0.29147011041641235,
+              4.054020881652832
+            ],
+            "rotation": [
+              0.779693067073822,
+              2.465392867634364e-08,
+              1.4787052869796753
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              0.2872812747955322,
+              4.7127180099487305,
+              3.088125705718994
+            ],
+            "rotation": [
+              1.1008446216583252,
+              -8.606971135804997e-08,
+              3.077610731124878
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 2.4087620865214956
+      }
+    },
+    {
+      "path": "assets/household/taped_shipping_box/detail.jpg",
+      "sha256": "6fc2ef9c6b5e0c25e696c7268148e87a94820d4477a70c83d89be580758ad59d",
+      "bytes": 183960,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": "assets/household/taped_shipping_box/close_up.jpg",
+      "render_view": "close_up",
+      "original_render_record": {
+        "input_sha256": "baf79737710c3367d1811bd4edf7b44972f9e189a5031a090f9b331b83cfce56",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 688.9932461360004,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 6.216972204540829,
+        "source_bounds": [
+          [
+            -0.16085000336170197,
+            -0.12050000578165054,
+            0.0
+          ],
+          [
+            0.16085000336170197,
+            0.12050000578165054,
+            0.20659999549388885
+          ]
+        ],
+        "camera_location": [
+          4.850712776184082,
+          -4.850712776184082,
+          8.560495376586914
+        ],
+        "camera_rotation": [
+          0.7559694051742554,
+          -1.2259476989129325e-07,
+          0.7853981852531433
+        ],
+        "ortho_scale": 1.375,
+        "focus": {
+          "purpose": "Top flap seam and tape texture",
+          "focus": "top seam center",
+          "direction": [
+            1,
+            -1,
+            1.5
+          ]
+        },
+        "focus_projected_width_height": [
+          2.4636166095733643,
+          2.649638295173645
+        ],
+        "full_object_fit": false,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              -4.06825065612793,
+              -2.9317498207092285,
+              4.9832377433776855
+            ],
+            "rotation": [
+              0.8631981015205383,
+              5.2422386431771884e-08,
+              -0.9425134658813477
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              3.2914695739746094,
+              -0.29147011041641235,
+              4.054020881652832
+            ],
+            "rotation": [
+              0.779693067073822,
+              2.465392867634364e-08,
+              1.4787052869796753
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              0.2872812747955322,
+              4.7127180099487305,
+              3.088125705718994
+            ],
+            "rotation": [
+              1.1008446216583252,
+              -8.606971135804997e-08,
+              3.077610731124878
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 2.4087620865214956
+      }
+    },
+    {
+      "path": "assets/household/taped_shipping_box/front_three_quarter.jpg",
+      "sha256": "c56613743d9fc0d145f14790fc64b2b875e2de784905f7c5d3a7750d891eebf6",
+      "bytes": 175395,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": "assets/household/taped_shipping_box/preview.jpg",
+      "render_view": "preview",
+      "original_render_record": {
+        "input_sha256": "baf79737710c3367d1811bd4edf7b44972f9e189a5031a090f9b331b83cfce56",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 718.8502735030052,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 6.216972204540829,
+        "source_bounds": [
+          [
+            -0.16085000336170197,
+            -0.12050000578165054,
+            0.0
+          ],
+          [
+            0.16085000336170197,
+            0.12050000578165054,
+            0.20659999549388885
+          ]
+        ],
+        "camera_location": [
+          6.301409721374512,
+          -6.301408767700195,
+          5.179226875305176
+        ],
+        "camera_rotation": [
+          1.099881887435913,
+          -1.1680641165412453e-07,
+          0.7853983044624329
+        ],
+        "ortho_scale": 3.0795202255249023,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          2.4636162519454956,
+          2.244237542152405
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              -2.9999988079071045,
+              -4.000000953674316,
+              5.000000476837158
+            ],
+            "rotation": [
+              0.8605254292488098,
+              6.123980256234063e-08,
+              -0.6435009241104126
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              4.000000476837158,
+              -0.9999998211860657,
+              2.999999523162842
+            ],
+            "rotation": [
+              1.061960220336914,
+              -4.796916641680582e-09,
+              1.3258178234100342
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              0.9999996423721313,
+              3.999999761581421,
+              4.000000476837158
+            ],
+            "rotation": [
+              0.895831286907196,
+              -4.6209912341055315e-08,
+              2.8966140747070312
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 1.0000000290327586
+      }
+    },
+    {
+      "path": "assets/household/taped_shipping_box/preview.jpg",
+      "sha256": "c56613743d9fc0d145f14790fc64b2b875e2de784905f7c5d3a7750d891eebf6",
+      "bytes": 175395,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "preview",
+      "original_render_record": {
+        "input_sha256": "baf79737710c3367d1811bd4edf7b44972f9e189a5031a090f9b331b83cfce56",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 718.8502735030052,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 6.216972204540829,
+        "source_bounds": [
+          [
+            -0.16085000336170197,
+            -0.12050000578165054,
+            0.0
+          ],
+          [
+            0.16085000336170197,
+            0.12050000578165054,
+            0.20659999549388885
+          ]
+        ],
+        "camera_location": [
+          6.301409721374512,
+          -6.301408767700195,
+          5.179226875305176
+        ],
+        "camera_rotation": [
+          1.099881887435913,
+          -1.1680641165412453e-07,
+          0.7853983044624329
+        ],
+        "ortho_scale": 3.0795202255249023,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          2.4636162519454956,
+          2.244237542152405
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              -2.9999988079071045,
+              -4.000000953674316,
+              5.000000476837158
+            ],
+            "rotation": [
+              0.8605254292488098,
+              6.123980256234063e-08,
+              -0.6435009241104126
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              4.000000476837158,
+              -0.9999998211860657,
+              2.999999523162842
+            ],
+            "rotation": [
+              1.061960220336914,
+              -4.796916641680582e-09,
+              1.3258178234100342
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              0.9999996423721313,
+              3.999999761581421,
+              4.000000476837158
+            ],
+            "rotation": [
+              0.895831286907196,
+              -4.6209912341055315e-08,
+              2.8966140747070312
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 1.0000000290327586
+      }
+    },
+    {
+      "path": "assets/household/taped_shipping_box/rear.jpg",
+      "sha256": "6b1069d28eb21b371719d6884d99b250387380180b75cc06f7c95be4254c237c",
+      "bytes": 131449,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "rear",
+      "original_render_record": {
+        "input_sha256": "baf79737710c3367d1811bd4edf7b44972f9e189a5031a090f9b331b83cfce56",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 208.4148858119952,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 6.216972204540829,
+        "source_bounds": [
+          [
+            -0.16085000336170197,
+            -0.12050000578165054,
+            0.0
+          ],
+          [
+            0.16085000336170197,
+            0.12050000578165054,
+            0.20659999549388885
+          ]
+        ],
+        "camera_location": [
+          1.080006174552714e-13,
+          10.0,
+          0.6422125101089478
+        ],
+        "camera_rotation": [
+          -1.570796251296997,
+          3.141592502593994,
+          -0.0
+        ],
+        "ortho_scale": 2.500000238418579,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          2.000000238418579,
+          1.2844269275665283
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              4.949746608734131,
+              2.60727596282959,
+              4.204856872558594
+            ],
+            "rotation": [
+              1.009339451789856,
+              -7.265388290988994e-09,
+              2.0514583587646484
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              -2.1213204860687256,
+              4.220435619354248,
+              1.139285683631897
+            ],
+            "rotation": [
+              1.47627854347229,
+              4.6657358865331844e-08,
+              -2.673337697982788
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -3.5355348587036133,
+              -0.3669896125793457,
+              4.596962928771973
+            ],
+            "rotation": [
+              0.7390651702880859,
+              -4.153458021960432e-08,
+              -1.460035800933838
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": [
+          184,
+          184,
+          184
+        ],
+        "floor_hidden": true,
+        "closeup_magnification_vs_full_fit": 1.0000000238418556
+      }
+    },
+    {
+      "path": "assets/household/taped_shipping_box/side.jpg",
+      "sha256": "a7e4e7f7cb950418a97a09a513c0438881c6c3bc510743b849264f0a1b6e6046",
+      "bytes": 150150,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "side",
+      "original_render_record": {
+        "input_sha256": "baf79737710c3367d1811bd4edf7b44972f9e189a5031a090f9b331b83cfce56",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 313.6446525479987,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 6.216972204540829,
+        "source_bounds": [
+          [
+            -0.16085000336170197,
+            -0.12050000578165054,
+            0.0
+          ],
+          [
+            0.16085000336170197,
+            0.12050000578165054,
+            0.20659999549388885
+          ]
+        ],
+        "camera_location": [
+          10.0,
+          4.470348358154297e-07,
+          0.6422128677368164
+        ],
+        "camera_rotation": [
+          1.5707963705062866,
+          -0.0,
+          1.5707963705062866
+        ],
+        "ortho_scale": 1.8728629350662231,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          1.4982903599739075,
+          1.2844266891479492
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              2.607276201248169,
+              -4.949747085571289,
+              4.2048563957214355
+            ],
+            "rotation": [
+              1.009339690208435,
+              1.93114324531507e-09,
+              0.4806620478630066
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              4.22043514251709,
+              2.1213204860687256,
+              1.1392860412597656
+            ],
+            "rotation": [
+              1.47627854347229,
+              -2.6995809321306297e-07,
+              2.0390512943267822
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -0.36698979139328003,
+              3.535534143447876,
+              4.596963405609131
+            ],
+            "rotation": [
+              0.7390648722648621,
+              -4.765929872974084e-08,
+              -3.030831813812256
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": [
+          184,
+          184,
+          184
+        ],
+        "floor_hidden": true,
+        "closeup_magnification_vs_full_fit": 1.0000000079563545
+      }
+    },
+    {
+      "path": "assets/household/taped_shipping_box/underside.jpg",
+      "sha256": "40fae72dd654f1e8d2d291f7a57a2502c66c823f0724d957502cf82df3436aab",
+      "bytes": 141633,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "underside",
+      "original_render_record": {
+        "input_sha256": "baf79737710c3367d1811bd4edf7b44972f9e189a5031a090f9b331b83cfce56",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 222.73315228700085,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 6.216972204540829,
+        "source_bounds": [
+          [
+            -0.16085000336170197,
+            -0.12050000578165054,
+            0.0
+          ],
+          [
+            0.16085000336170197,
+            0.12050000578165054,
+            0.20659999549388885
+          ]
+        ],
+        "camera_location": [
+          -8.940697284742782e-07,
+          -8.642672923997452e-07,
+          -9.357787132263184
+        ],
+        "camera_rotation": [
+          8.742277657347586e-08,
+          3.1415927410125732,
+          -8.742277657347586e-08
+        ],
+        "ortho_scale": 2.500000238418579,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          2.0000001192092896,
+          1.4982905983924866
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              4.949747085571289,
+              3.5626425743103027,
+              -1.9650636911392212
+            ],
+            "rotation": [
+              1.9729316234588623,
+              2.7567679694584513e-08,
+              2.1877756118774414
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              -2.1213207244873047,
+              0.49707290530204773,
+              -3.5782217979431152
+            ],
+            "rotation": [
+              2.66458797454834,
+              2.79390661717116e-07,
+              -1.7778329849243164
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -3.535533905029297,
+              3.9547505378723145,
+              1.0092030763626099
+            ],
+            "rotation": [
+              1.4962717294692993,
+              -5.487399334924703e-08,
+              -2.4055869579315186
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": [
+          184,
+          184,
+          184
+        ],
+        "floor_hidden": true,
+        "closeup_magnification_vs_full_fit": 0.9999999642372166
+      }
+    }
+  ]
+}

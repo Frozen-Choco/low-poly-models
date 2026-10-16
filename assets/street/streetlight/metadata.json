@@ -30,12 +30,12 @@
   "limitations": "Unlit luminaire. No buried foundation, wiring or engineering internals. Estimated dimensions; no compliance claims.",
   "files": {
     "preview.jpg": {
-      "bytes": 42122,
-      "sha256": "684aa99a8913595d7d81c2716299def7e193a926210beed4bef1dab587208776"
+      "bytes": 79411,
+      "sha256": "afde272c3180e0322d606397258a1d67b0ea6ab1a880f8d884e9d98f218ff35f"
     },
     "back.jpg": {
-      "bytes": 45791,
-      "sha256": "5b75550ed7537325c30f4e5473ccb58ea520877d0036d5d4fd3a0abc1a5d15dc"
+      "bytes": 78580,
+      "sha256": "2f02e925386ff723b15dcf2548806d57234338680b3ff7e9aad2e3e2aab6e7ac"
     },
     "streetlight.blend": {
       "bytes": 180761,
@@ -46,13 +46,21 @@
       "sha256": "dca0b80d78e83f6b56019c9a2814fcd795ceb0145677f5ffeea20b1973e6cbae"
     },
     "detail.jpg": {
-      "bytes": 60442,
-      "sha256": "33aa72e99b718c74511bee126c23566a1dd8fd13617dde5a0e43ea5c8645b4ac"
+      "bytes": 84389,
+      "sha256": "0e8caaaa79420a533d239f311f7bcc85cffecfb6cc82180dd105b75965c81b5f"
     }
   },
   "validated": true,
-  "title_ja": "\u8857\u8def\u706f",
+  "title_ja": "街路灯",
   "category": "street",
   "glb_bytes": 269884,
-  "blend_bytes": 180761
+  "blend_bytes": 180761,
+  "photography": {
+    "standard": "preview_standard_v1",
+    "resolution": [
+      1200,
+      1200
+    ],
+    "record": "generators/preview_standard_v1/published/streetlight.json"
+  }
 }

@@ -30,5 +30,13 @@
     0.2410000115633011,
     0.20659999549388885
   ],
-  "mesh_objects": 22
+  "mesh_objects": 22,
+  "photography": {
+    "standard": "preview_standard_v1",
+    "resolution": [
+      1200,
+      1200
+    ],
+    "record": "generators/preview_standard_v1/published/taped_shipping_box.json"
+  }
 }

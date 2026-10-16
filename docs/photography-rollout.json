@@ -19,14 +19,14 @@
     "public_recycling_bin",
     "railway_crossing_lowered",
     "stainless_kitchen_kettle",
-    "steel_roadside_bollard"
+    "steel_roadside_bollard",
+    "streetlight",
+    "taped_shipping_box"
   ],
   "pending_assets": [
     "traffic_signal",
-    "streetlight",
     "traffic_cone",
-    "wooden_cutting_board",
-    "taped_shipping_box"
+    "wooden_cutting_board"
   ],
   "scope": "Current canonical asset photographs only; historical generator evidence retained."
 }
