@@ -139,7 +139,7 @@ python scripts/update_catalog_readme.py
 保存ファイルの再読込、注ぎ口の開口、木口・底面、2種類の照明下での実配置と生成手順を独立レビューで確認しています。
 
 - [陶器の茶碗](assets/household/ceramic_rice_bowl)：5,564三角形、GLB 121,412 bytes
-- [ステンレス製やかん](assets/household/stainless_kitchen_kettle)：15,084三角形、GLB 344,900 bytes
+- [ステンレス製やかん](assets/household/stainless_kitchen_kettle)：19,980三角形、GLB 527,668 bytes
 - [木製まな板](assets/household/wooden_cutting_board)：300三角形、GLB 1,267,908 bytes
 
 汎用的な清潔な小物です。木目は近似表現で、接写向けの細かな摩耗は含みません。確認画像には若干のサンプリングノイズがあります。
@@ -153,3 +153,11 @@ python scripts/update_catalog_readme.py
 [底面](assets/street/traffic_cone/underside.jpg) · [現行の生成・検証手順](generators/cone_function_revision/README.md)
 
 コーンの再生成には上記の修正版を使用してください。generators/batch02a 内のコーン生成手順・カタログ・検証画像は旧版の履歴であり、現在のコーンを上書きする用途には使用しないでください。現在の成果物情報はルートcatalog.jsonを参照してください。
+
+## やかんの機構修正
+
+メーカーの製品写真・注ぎ動作の写真と照合し、取っ手を注ぎ口と同じ前後方向のアーチに変更しました。横倒し用の同軸ヒンジと蓋の差し込み部も修正しています。左右への折り倒し、蓋を外す初動から全行程、把持と蓋を押さえる空間を、保存モデルで独立検証しました。蓋はロック式ではなく、注ぐときに保持する前提です。流体・耐熱・強度の安全試験ではありません。
+
+[現行やかんの生成・検証手順](generators/kettle_function_revision/README.md)
+
+やかんの再生成には修正版を使用してください。generators/batch03aのやかん生成手順・検証・画像は旧版履歴であり、現行やかんを上書きする用途には使用しないでください。茶碗とまな板は変更していません。

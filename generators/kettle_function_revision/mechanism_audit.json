@@ -1,0 +1,30 @@
+{
+  "scope": "Geometry and kinematic checks of saved GLB. No manufacturing/load/friction/safety or fluid certification.",
+  "arch_xyz_extent_m": [
+    0.1831233650445938,
+    0.019999999552965164,
+    0.09715583920478821
+  ],
+  "grip_central_30mm_min_clearance_over_knob_m": 0.07159525156021118,
+  "folded_moving_geometry_conservative_xy_radial_lower_bound_m": 0.08071108115631616,
+  "lid_max_radius_m": 0.058000001637535985,
+  "vertical_lid_lift_clearance_radial_lower_bound_m": 0.022711079518780174,
+  "hinge_axis": [
+    1,
+    0,
+    0
+  ],
+  "pour_axis": [
+    0,
+    1,
+    0
+  ],
+  "axis_dot_product": 0,
+  "checks": {
+    "arch_fore_aft": true,
+    "central_grip_clearance_over_50mm": true,
+    "lid_can_lift_vertically_when_folded": true,
+    "hinge_axis_orthogonal_to_pour_axis": true
+  },
+  "all_pass": true
+}

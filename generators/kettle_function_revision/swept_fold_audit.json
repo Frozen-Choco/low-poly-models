@@ -1,0 +1,730 @@
+{
+  "scope": "Sampled triangle-surface intersection test, every 1 degree from -90 to +90 degree lateral fold. Excludes deliberate pin/bore bearing contacts and moving-to-moving overlap. Not a continuous collision proof.",
+  "sweep": [
+    {
+      "degrees": -90,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -89,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -88,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -87,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -86,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -85,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -84,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -83,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -82,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -81,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -80,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -79,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -78,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -77,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -76,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -75,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -74,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -73,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -72,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -71,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -70,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -69,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -68,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -67,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -66,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -65,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -64,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -63,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -62,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -61,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -60,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -59,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -58,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -57,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -56,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -55,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -54,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -53,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -52,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -51,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -50,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -49,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -48,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -47,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -46,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -45,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -44,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -43,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -42,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -41,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -40,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -39,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -38,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -37,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -36,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -35,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -34,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -33,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -32,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -31,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -30,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -29,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -28,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -27,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -26,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -25,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -24,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -23,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -22,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -21,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -20,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -19,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -18,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -17,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -16,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -15,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -14,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -13,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -12,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -11,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -10,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -9,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -8,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -7,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -6,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -5,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -4,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -3,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -2,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": -1,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 0,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 1,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 2,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 3,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 4,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 5,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 6,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 7,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 8,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 9,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 10,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 11,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 12,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 13,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 14,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 15,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 16,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 17,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 18,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 19,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 20,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 21,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 22,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 23,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 24,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 25,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 26,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 27,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 28,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 29,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 30,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 31,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 32,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 33,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 34,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 35,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 36,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 37,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 38,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 39,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 40,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 41,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 42,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 43,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 44,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 45,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 46,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 47,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 48,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 49,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 50,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 51,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 52,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 53,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 54,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 55,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 56,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 57,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 58,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 59,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 60,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 61,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 62,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 63,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 64,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 65,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 66,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 67,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 68,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 69,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 70,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 71,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 72,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 73,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 74,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 75,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 76,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 77,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 78,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 79,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 80,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 81,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 82,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 83,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 84,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 85,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 86,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 87,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 88,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 89,
+      "intersecting_pairs": []
+    },
+    {
+      "degrees": 90,
+      "intersecting_pairs": []
+    }
+  ],
+  "all_sampled_clear": true
+}

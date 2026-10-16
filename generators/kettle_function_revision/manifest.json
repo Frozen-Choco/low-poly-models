@@ -1,0 +1,216 @@
+{
+  "revision": "kettle-functional-r2",
+  "review_status": "approved independent factual and functional review; integration metadata synchronized",
+  "files": [
+    {
+      "local_path": "assets/stainless_kitchen_kettle/back.jpg",
+      "repo_relative_path": "assets/household/stainless_kitchen_kettle/back.jpg",
+      "bytes": 103846,
+      "sha256": "cdf192dc98bc368daec0a98d561fae25be8e85ade8652264aadc5c90fb2afe3d"
+    },
+    {
+      "local_path": "assets/stainless_kitchen_kettle/close_up.jpg",
+      "repo_relative_path": "assets/household/stainless_kitchen_kettle/close_up.jpg",
+      "bytes": 113379,
+      "sha256": "46f72bf14e784cb96d4cf766d6a738ca25431d6c2a8568abe69cd2b0516780b0"
+    },
+    {
+      "local_path": "assets/stainless_kitchen_kettle/front_three_quarter.jpg",
+      "repo_relative_path": "assets/household/stainless_kitchen_kettle/front_three_quarter.jpg",
+      "bytes": 103555,
+      "sha256": "9f9dbfc8b15f3d20e127fb766b96d616e680603d89a4cf2506460ba8823f223f"
+    },
+    {
+      "local_path": "assets/stainless_kitchen_kettle/metadata.json",
+      "repo_relative_path": "assets/household/stainless_kitchen_kettle/metadata.json",
+      "bytes": 1799,
+      "sha256": "8673e60893a01182989d933c7713152731fcf2680fbbae21d8f22f674aa3f345"
+    },
+    {
+      "local_path": "assets/stainless_kitchen_kettle/preview.jpg",
+      "repo_relative_path": "assets/household/stainless_kitchen_kettle/preview.jpg",
+      "bytes": 103555,
+      "sha256": "9f9dbfc8b15f3d20e127fb766b96d616e680603d89a4cf2506460ba8823f223f"
+    },
+    {
+      "local_path": "assets/stainless_kitchen_kettle/rear.jpg",
+      "repo_relative_path": "assets/household/stainless_kitchen_kettle/rear.jpg",
+      "bytes": 103846,
+      "sha256": "cdf192dc98bc368daec0a98d561fae25be8e85ade8652264aadc5c90fb2afe3d"
+    },
+    {
+      "local_path": "assets/stainless_kitchen_kettle/side.jpg",
+      "repo_relative_path": "assets/household/stainless_kitchen_kettle/side.jpg",
+      "bytes": 113164,
+      "sha256": "f789a48f1df9d526d44060356674e6dadcf75cdd7fddd37afae66effe1afec9a"
+    },
+    {
+      "local_path": "assets/stainless_kitchen_kettle/stainless_kitchen_kettle.blend",
+      "repo_relative_path": "assets/household/stainless_kitchen_kettle/stainless_kitchen_kettle.blend",
+      "bytes": 285665,
+      "sha256": "c37282216b7c40d16846c25cd482ccbb73fc081d52bf0bb3041673d431d5a307"
+    },
+    {
+      "local_path": "assets/stainless_kitchen_kettle/stainless_kitchen_kettle.glb",
+      "repo_relative_path": "assets/household/stainless_kitchen_kettle/stainless_kitchen_kettle.glb",
+      "bytes": 527668,
+      "sha256": "65d88ddaa096caec12eb7d180fca754b485ef4dcd34148069c564ae74b387539"
+    },
+    {
+      "local_path": "assets/stainless_kitchen_kettle/top.jpg",
+      "repo_relative_path": "assets/household/stainless_kitchen_kettle/top.jpg",
+      "bytes": 95661,
+      "sha256": "5d726e916cb32e41971df45036c161d06a13ce6fa1bb4d63954a5e188c3e5a0e"
+    },
+    {
+      "local_path": "README.md",
+      "repo_relative_path": "generators/kettle_function_revision/README.md",
+      "bytes": 1233,
+      "sha256": "476b4b233dd96392747105e906bdec044cabebef96c65b7ff19e058271918b1b"
+    },
+    {
+      "local_path": "baseline/stainless_kitchen_kettle_before.glb",
+      "repo_relative_path": "generators/kettle_function_revision/baseline/stainless_kitchen_kettle_before.glb",
+      "bytes": 344900,
+      "sha256": "ede975eda0525fd930ec0bbe4c1874b34f39a38c3fc89b8d4453eb5da6cc5c8d"
+    },
+    {
+      "local_path": "catalog.json",
+      "repo_relative_path": "generators/kettle_function_revision/catalog.json",
+      "bytes": 1909,
+      "sha256": "ba478f6051c48f401dbe0040eec998b1da5a1b36d2cc60e5ecb39ed989a822f1"
+    },
+    {
+      "local_path": "docs/research-and-functional-review.md",
+      "repo_relative_path": "generators/kettle_function_revision/docs/research-and-functional-review.md",
+      "bytes": 5569,
+      "sha256": "8bf1dc0d6afbe7bbe0adcfc1aee5568943c04d455f4e34cb02ced7fab762a250"
+    },
+    {
+      "local_path": "lid_extraction_audit.json",
+      "repo_relative_path": "generators/kettle_function_revision/lid_extraction_audit.json",
+      "bytes": 11604,
+      "sha256": "8fc042b9195a2e30e1d6cd7bc4427591a985bceed0cbda9bc9c1ddacdcdd97bf"
+    },
+    {
+      "local_path": "mechanism_audit.json",
+      "repo_relative_path": "generators/kettle_function_revision/mechanism_audit.json",
+      "bytes": 821,
+      "sha256": "56f06fc7c7d6c9f624f3d649d0594276734d3b2b53694fefce1b24412b822155"
+    },
+    {
+      "local_path": "previews/after_folded_lid_removed.jpg",
+      "repo_relative_path": "generators/kettle_function_revision/previews/after_folded_lid_removed.jpg",
+      "bytes": 102840,
+      "sha256": "d87161ddf639f70887b3801cd7028523fca681c9e9cf76cc82bb92433e7a3de7"
+    },
+    {
+      "local_path": "previews/after_pouring_pose.jpg",
+      "repo_relative_path": "generators/kettle_function_revision/previews/after_pouring_pose.jpg",
+      "bytes": 79831,
+      "sha256": "2730c59cfb11bad4e9e674ad07698f2d4f0829acb79191015f1956bfe1ae2e36"
+    },
+    {
+      "local_path": "previews/after_side.jpg",
+      "repo_relative_path": "generators/kettle_function_revision/previews/after_side.jpg",
+      "bytes": 113164,
+      "sha256": "f789a48f1df9d526d44060356674e6dadcf75cdd7fddd37afae66effe1afec9a"
+    },
+    {
+      "local_path": "previews/after_three_quarter.jpg",
+      "repo_relative_path": "generators/kettle_function_revision/previews/after_three_quarter.jpg",
+      "bytes": 103555,
+      "sha256": "9f9dbfc8b15f3d20e127fb766b96d616e680603d89a4cf2506460ba8823f223f"
+    },
+    {
+      "local_path": "previews/after_top.jpg",
+      "repo_relative_path": "generators/kettle_function_revision/previews/after_top.jpg",
+      "bytes": 95661,
+      "sha256": "5d726e916cb32e41971df45036c161d06a13ce6fa1bb4d63954a5e188c3e5a0e"
+    },
+    {
+      "local_path": "previews/before_side.jpg",
+      "repo_relative_path": "generators/kettle_function_revision/previews/before_side.jpg",
+      "bytes": 103938,
+      "sha256": "65b67cadd1a18f77516aa603223a3ca3161890fe5fe2858a934ce2b2db07af6b"
+    },
+    {
+      "local_path": "previews/before_three_quarter.jpg",
+      "repo_relative_path": "generators/kettle_function_revision/previews/before_three_quarter.jpg",
+      "bytes": 98005,
+      "sha256": "e3effaa66a4fab1079db413416e95cc51f2fb0a173912e796a3dae61ae3368bd"
+    },
+    {
+      "local_path": "previews/before_top.jpg",
+      "repo_relative_path": "generators/kettle_function_revision/previews/before_top.jpg",
+      "bytes": 97821,
+      "sha256": "ba81671046ccd737b5da7e8fea699e463c2693c7b3d29e52e85d2b3b218e4d0f"
+    },
+    {
+      "local_path": "previews/fold_lid_review.blend",
+      "repo_relative_path": "generators/kettle_function_revision/previews/fold_lid_review.blend",
+      "bytes": 395683,
+      "sha256": "39c57c053cfa79ea0578eeec602d6c523a8995bd339fece4362071f008f16bfa"
+    },
+    {
+      "local_path": "previews/grip_and_lid_contact_diagnostic.jpg",
+      "repo_relative_path": "generators/kettle_function_revision/previews/grip_and_lid_contact_diagnostic.jpg",
+      "bytes": 103744,
+      "sha256": "f887642cff685afb4bfc94a91c83c60e5177c075dd6246c1c7603831d47ab665"
+    },
+    {
+      "local_path": "previews/grip_diagnostic.blend",
+      "repo_relative_path": "generators/kettle_function_revision/previews/grip_diagnostic.blend",
+      "bytes": 400005,
+      "sha256": "7f54da2a67602e89a2b1c6ac1d2f140409e057e9f03bcceb33339c3ef1809832"
+    },
+    {
+      "local_path": "previews/pouring_review.blend",
+      "repo_relative_path": "generators/kettle_function_revision/previews/pouring_review.blend",
+      "bytes": 421289,
+      "sha256": "cc0a7f16995d5a99874d16b4a4a6ef4e1d8de6b57e94f2d74da35eda96fd27e0"
+    },
+    {
+      "local_path": "scripts/audit_mechanism.py",
+      "repo_relative_path": "generators/kettle_function_revision/scripts/audit_mechanism.py",
+      "bytes": 2423,
+      "sha256": "c3db75386aecd21bf07ae63d2430c1ecb018167ddb6e11c76dfd22a2215456fc"
+    },
+    {
+      "local_path": "scripts/build_kettle.py",
+      "repo_relative_path": "generators/kettle_function_revision/scripts/build_kettle.py",
+      "bytes": 8912,
+      "sha256": "e34732350e804579b13086b83158a19cda6eae309dc53ba1a642f6eba3f2ec8b"
+    },
+    {
+      "local_path": "scripts/diagnostic_grip_and_sweep.py",
+      "repo_relative_path": "generators/kettle_function_revision/scripts/diagnostic_grip_and_sweep.py",
+      "bytes": 4446,
+      "sha256": "53b671c9c7593ab3485fb1943edf2b59ef364c65a2ee93ac989a7cb59871e07d"
+    },
+    {
+      "local_path": "scripts/package_manifest.py",
+      "repo_relative_path": "generators/kettle_function_revision/scripts/package_manifest.py",
+      "bytes": 2275,
+      "sha256": "547f68e4742c705803265249534958a8ea49e8a531dc8a5fc87e182f4d1f4132"
+    },
+    {
+      "local_path": "scripts/verify_revision.py",
+      "repo_relative_path": "generators/kettle_function_revision/scripts/verify_revision.py",
+      "bytes": 4281,
+      "sha256": "2555a9b0c2e65b18b21c40122c3ce955e0e1d982a1d300d1c8d2c573b415ef87"
+    },
+    {
+      "local_path": "swept_fold_audit.json",
+      "repo_relative_path": "generators/kettle_function_revision/swept_fold_audit.json",
+      "bytes": 12105,
+      "sha256": "e9adfe953332a3926f43682c9d040893f1c263f5409d3f900ad4b68a80caf777"
+    },
+    {
+      "local_path": "validation.json",
+      "repo_relative_path": "generators/kettle_function_revision/validation.json",
+      "bytes": 1534,
+      "sha256": "6f56249e292dcd67b6f4b7a872a203e4e0c5df3ce56858032b66080f0666afae"
+    }
+  ]
+}

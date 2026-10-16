@@ -1,0 +1,64 @@
+{
+  "blend": {
+    "triangles": 19980,
+    "zero_area_triangles": 0,
+    "bounds_min": [
+      -0.0989999994635582,
+      -0.0989999994635582,
+      0.0
+    ],
+    "bounds_max": [
+      0.18201151490211487,
+      0.0989999994635582,
+      0.26899999380111694
+    ],
+    "dimensions_m": [
+      0.28101151436567307,
+      0.1979999989271164,
+      0.26899999380111694
+    ],
+    "mesh_objects": 13
+  },
+  "glb": {
+    "triangles": 19980,
+    "zero_area_triangles": 0,
+    "bounds_min": [
+      -0.0989999994635582,
+      -0.0989999994635582,
+      0.0
+    ],
+    "bounds_max": [
+      0.18201151490211487,
+      0.0989999994635582,
+      0.26899999380111694
+    ],
+    "dimensions_m": [
+      0.28101151436567307,
+      0.1979999989271164,
+      0.26899999380111694
+    ],
+    "mesh_objects": 13
+  },
+  "checks": {
+    "dimensions_match": true,
+    "triangles_match": true,
+    "parts_match": true,
+    "no_degenerates": true,
+    "finite": true,
+    "self_contained": true
+  },
+  "all_pass": true,
+  "mechanism": {
+    "spout_axis": "+X",
+    "arch_plane": "XZ",
+    "coaxial_hinge_axis": "X",
+    "pour_rotation_axis": "Y",
+    "fold_rotation_degrees": 90,
+    "pour_pose_degrees": 35,
+    "lid_lift_m": 0.105,
+    "grip_center_z_m": 0.259,
+    "lid_knob_top_z_m": 0.176,
+    "grip_underside_clearance_m": 0.073,
+    "scope": "Kinematic and geometric illustration, not a safety, load, friction, manufacturing or fluid-dynamics certification. Loose lid must be retained during pouring, as shown in manufacturer use photograph."
+  }
+}
