@@ -1,0 +1,220 @@
+{
+  "asset": "oak_table",
+  "photography_version": "preview-standard-v1",
+  "input": {
+    "id": "oak_table",
+    "repo_path": "assets/furniture/oak_table/oak_table.glb",
+    "sha256": "276df335f457ebb618db2124447f630d56a59474c82f44b6e81a3c54e1f489ca",
+    "git_sha": "2e24c306268663b91086e1451ee8613d0bce5a53"
+  },
+  "reproduction_renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "reproduction_spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "detail_targets_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+  "provenance_note": "Original producer hashes are retained. The portable reproduction renderer uses the same photographic code and effective per-view configuration; scheduling, cache checks and descriptive metadata are excluded. Camera/light values and input/output hashes are recorded for verification.",
+  "outputs": [
+    {
+      "path": "assets/furniture/oak_table/back.jpg",
+      "sha256": "cf15e59664caf599362f00cfb2e8e3c814ac690917ff9026bf6ca01b3992a4fa",
+      "bytes": 111034,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "back",
+      "original_render_record": {
+        "input_sha256": "276df335f457ebb618db2124447f630d56a59474c82f44b6e81a3c54e1f489ca",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 687.8386542620028,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 1.6666666004392863,
+        "source_bounds": [
+          [
+            -0.6000000238418579,
+            -0.3499999940395355,
+            0.0
+          ],
+          [
+            0.6000000238418579,
+            0.3499999940395355,
+            0.75
+          ]
+        ],
+        "camera_location": [
+          -6.296947956085205,
+          6.296950340270996,
+          5.174401760101318
+        ],
+        "camera_rotation": [
+          1.0998820066452026,
+          1.1037879943387452e-07,
+          -2.3561947345733643
+        ],
+        "ortho_scale": 2.7636094093322754,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          2.2108874320983887,
+          2.076387882232666
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              2.999999523162842,
+              3.999999523162842,
+              5.000001430511475
+            ],
+            "rotation": [
+              0.8605252504348755,
+              4.2826759028002925e-08,
+              2.498091697692871
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              -4.000000476837158,
+              1.0000011920928955,
+              2.9999988079071045
+            ],
+            "rotation": [
+              1.0619604587554932,
+              9.89387904937189e-10,
+              -1.8157753944396973
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -1.000002145767212,
+              -3.999999523162842,
+              4.0
+            ],
+            "rotation": [
+              0.8958315253257751,
+              3.590000297037932e-09,
+              -0.24497926235198975
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 0.9999999568646389
+      }
+    },
+    {
+      "path": "assets/furniture/oak_table/preview.jpg",
+      "sha256": "63257c3982c6baf8761963c51a87b90bc1b02327c0b4c84ad7f02e0ec3b23be3",
+      "bytes": 111275,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "preview",
+      "original_render_record": {
+        "input_sha256": "276df335f457ebb618db2124447f630d56a59474c82f44b6e81a3c54e1f489ca",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 684.3788526389981,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 1.6666666004392863,
+        "source_bounds": [
+          [
+            -0.6000000238418579,
+            -0.3499999940395355,
+            0.0
+          ],
+          [
+            0.6000000238418579,
+            0.3499999940395355,
+            0.75
+          ]
+        ],
+        "camera_location": [
+          6.29694938659668,
+          -6.296948432922363,
+          5.174402713775635
+        ],
+        "camera_rotation": [
+          1.099881887435913,
+          -1.1680641165412453e-07,
+          0.7853983044624329
+        ],
+        "ortho_scale": 2.763608932495117,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          2.21088707447052,
+          2.0763882398605347
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              -2.9999988079071045,
+              -4.000000953674316,
+              5.000000476837158
+            ],
+            "rotation": [
+              0.8605254292488098,
+              6.123980256234063e-08,
+              -0.6435009241104126
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              4.000000476837158,
+              -0.9999998211860657,
+              2.999999523162842
+            ],
+            "rotation": [
+              1.061960220336914,
+              -4.796916641680582e-09,
+              1.3258178234100342
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              0.9999996423721313,
+              3.999999761581421,
+              4.000000953674316
+            ],
+            "rotation": [
+              0.8958311080932617,
+              -3.2157092988427394e-08,
+              2.8966140747070312
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 0.9999999676484737
+      }
+    }
+  ]
+}

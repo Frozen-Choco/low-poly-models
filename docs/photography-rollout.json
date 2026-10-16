@@ -11,10 +11,11 @@
     "ceramic_rice_bowl",
     "concrete_curb_straight",
     "dining_chair",
-    "mug"
+    "mug",
+    "oak_table",
+    "office_stapler"
   ],
   "pending_assets": [
-    "oak_table",
     "open_shelf",
     "traffic_signal",
     "railway_crossing_lowered",
@@ -25,7 +26,6 @@
     "stainless_kitchen_kettle",
     "wooden_cutting_board",
     "steel_roadside_bollard",
-    "office_stapler",
     "taped_shipping_box"
   ],
   "scope": "Current canonical asset photographs only; historical generator evidence retained."

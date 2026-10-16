@@ -28,5 +28,13 @@
   ],
   "glb_bytes": 56308,
   "blend_bytes": 99184,
-  "validated": true
+  "validated": true,
+  "photography": {
+    "standard": "preview_standard_v1",
+    "resolution": [
+      1200,
+      1200
+    ],
+    "record": "generators/preview_standard_v1/published/oak_table.json"
+  }
 }

@@ -1,0 +1,860 @@
+{
+  "asset": "office_stapler",
+  "photography_version": "preview-standard-v1",
+  "input": {
+    "id": "office_stapler",
+    "repo_path": "assets/household/office_stapler/office_stapler.glb",
+    "sha256": "98db33ea4d4321102dddaac4c3c039378842eab3532705977ea1cf3fa0aa10df",
+    "git_sha": "6566e3a9ee587a32dcf75227f0cc3fc9fd2c3fa9"
+  },
+  "reproduction_renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "reproduction_spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "detail_targets_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+  "provenance_note": "Original producer hashes are retained. The portable reproduction renderer uses the same photographic code and effective per-view configuration; scheduling, cache checks and descriptive metadata are excluded. Camera/light values and input/output hashes are recorded for verification.",
+  "outputs": [
+    {
+      "path": "assets/household/office_stapler/back.jpg",
+      "sha256": "347ed170a7c4fafdfb54cc92002d90a9ef8b54a21fdb584912513888ad48d1cd",
+      "bytes": 165673,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "back",
+      "original_render_record": {
+        "input_sha256": "98db33ea4d4321102dddaac4c3c039378842eab3532705977ea1cf3fa0aa10df",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 680.0305831000042,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 12.658227265521043,
+        "source_bounds": [
+          [
+            -0.023499999195337296,
+            -0.07900000363588333,
+            0.0
+          ],
+          [
+            0.023499999195337296,
+            0.07900000363588333,
+            0.04699999839067459
+          ]
+        ],
+        "camera_location": [
+          -6.32549524307251,
+          6.325497627258301,
+          4.76757287979126
+        ],
+        "camera_rotation": [
+          1.0998820066452026,
+          1.1037879943387452e-07,
+          -2.3561947345733643
+        ],
+        "ortho_scale": 2.270026922225952,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          1.8160215616226196,
+          1.1879225373268127
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              2.999999523162842,
+              3.999999523162842,
+              5.000001430511475
+            ],
+            "rotation": [
+              0.8605252504348755,
+              -3.6371623934883246e-08,
+              2.498091459274292
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              -4.000000476837158,
+              1.0000011920928955,
+              2.9999988079071045
+            ],
+            "rotation": [
+              1.0619604587554932,
+              9.89387904937189e-10,
+              -1.8157753944396973
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -1.0000022649765015,
+              -3.999999523162842,
+              4.0
+            ],
+            "rotation": [
+              0.8958315253257751,
+              3.590000297037932e-09,
+              -0.24497926235198975
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 1.0000000131286206
+      }
+    },
+    {
+      "path": "assets/household/office_stapler/close_up.jpg",
+      "sha256": "5d32eb9f531cc5f04673849cd2b54b14691a20a7864ee4971af1af9bcb9cce8a",
+      "bytes": 212047,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "close_up",
+      "original_render_record": {
+        "input_sha256": "98db33ea4d4321102dddaac4c3c039378842eab3532705977ea1cf3fa0aa10df",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 728.6489963470012,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 12.658227265521043,
+        "source_bounds": [
+          [
+            -0.023499999195337296,
+            -0.07900000363588333,
+            0.0
+          ],
+          [
+            0.023499999195337296,
+            0.07900000363588333,
+            0.04699999839067459
+          ]
+        ],
+        "camera_location": [
+          6.154574394226074,
+          -6.88875150680542,
+          5.2021403312683105
+        ],
+        "camera_rotation": [
+          1.0559903383255005,
+          -1.1451578529886319e-07,
+          0.7853981852531433
+        ],
+        "ortho_scale": 1.1075948476791382,
+        "focus": {
+          "purpose": "Driver/anvil and magazine nose",
+          "focus": "front mechanism region",
+          "direction": [
+            1,
+            -1,
+            0.8
+          ]
+        },
+        "focus_projected_width_height": [
+          1.816021978855133,
+          1.1983628571033478
+        ],
+        "full_object_fit": false,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              -3.1463818550109863,
+              -3.8536179065704346,
+              5.026497840881348
+            ],
+            "rotation": [
+              0.8551358580589294,
+              1.1731154714311742e-08,
+              -0.6811752915382385
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              3.913743734359741,
+              -0.9137439727783203,
+              3.152527093887329
+            ],
+            "rotation": [
+              1.0244721174240112,
+              1.9327227818166648e-08,
+              1.339123249053955
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              0.8865697383880615,
+              4.113429546356201,
+              3.9033567905426025
+            ],
+            "rotation": [
+              0.9189648032188416,
+              -7.919510380816064e-08,
+              2.9257748126983643
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 2.0495106837356163
+      }
+    },
+    {
+      "path": "assets/household/office_stapler/detail.jpg",
+      "sha256": "5d32eb9f531cc5f04673849cd2b54b14691a20a7864ee4971af1af9bcb9cce8a",
+      "bytes": 212047,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": "assets/household/office_stapler/close_up.jpg",
+      "render_view": "close_up",
+      "original_render_record": {
+        "input_sha256": "98db33ea4d4321102dddaac4c3c039378842eab3532705977ea1cf3fa0aa10df",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 728.6489963470012,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 12.658227265521043,
+        "source_bounds": [
+          [
+            -0.023499999195337296,
+            -0.07900000363588333,
+            0.0
+          ],
+          [
+            0.023499999195337296,
+            0.07900000363588333,
+            0.04699999839067459
+          ]
+        ],
+        "camera_location": [
+          6.154574394226074,
+          -6.88875150680542,
+          5.2021403312683105
+        ],
+        "camera_rotation": [
+          1.0559903383255005,
+          -1.1451578529886319e-07,
+          0.7853981852531433
+        ],
+        "ortho_scale": 1.1075948476791382,
+        "focus": {
+          "purpose": "Driver/anvil and magazine nose",
+          "focus": "front mechanism region",
+          "direction": [
+            1,
+            -1,
+            0.8
+          ]
+        },
+        "focus_projected_width_height": [
+          1.816021978855133,
+          1.1983628571033478
+        ],
+        "full_object_fit": false,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              -3.1463818550109863,
+              -3.8536179065704346,
+              5.026497840881348
+            ],
+            "rotation": [
+              0.8551358580589294,
+              1.1731154714311742e-08,
+              -0.6811752915382385
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              3.913743734359741,
+              -0.9137439727783203,
+              3.152527093887329
+            ],
+            "rotation": [
+              1.0244721174240112,
+              1.9327227818166648e-08,
+              1.339123249053955
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              0.8865697383880615,
+              4.113429546356201,
+              3.9033567905426025
+            ],
+            "rotation": [
+              0.9189648032188416,
+              -7.919510380816064e-08,
+              2.9257748126983643
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 2.0495106837356163
+      }
+    },
+    {
+      "path": "assets/household/office_stapler/front_three_quarter.jpg",
+      "sha256": "5892bfcb06fbad49708cc45f08b90fc5b577e7ff03d2d3eac0d041e3631d087e",
+      "bytes": 162609,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": "assets/household/office_stapler/preview.jpg",
+      "render_view": "preview",
+      "original_render_record": {
+        "input_sha256": "98db33ea4d4321102dddaac4c3c039378842eab3532705977ea1cf3fa0aa10df",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 672.8460178269961,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 12.658227265521043,
+        "source_bounds": [
+          [
+            -0.023499999195337296,
+            -0.07900000363588333,
+            0.0
+          ],
+          [
+            0.023499999195337296,
+            0.07900000363588333,
+            0.04699999839067459
+          ]
+        ],
+        "camera_location": [
+          6.331425189971924,
+          -6.331424236297607,
+          4.751104831695557
+        ],
+        "camera_rotation": [
+          1.099881887435913,
+          -1.1680641165412453e-07,
+          0.7853983044624329
+        ],
+        "ortho_scale": 2.2700273990631104,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          1.816021978855133,
+          1.1509627103805542
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              -2.9999988079071045,
+              -4.000000953674316,
+              5.000000476837158
+            ],
+            "rotation": [
+              0.8605254292488098,
+              1.9857164801351246e-09,
+              -0.6435009241104126
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              4.000000476837158,
+              -0.9999998211860657,
+              2.999999523162842
+            ],
+            "rotation": [
+              1.061960220336914,
+              -4.796916641680582e-09,
+              1.3258178234100342
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              0.9999996423721313,
+              3.999999761581421,
+              4.000000476837158
+            ],
+            "rotation": [
+              0.895831286907196,
+              -4.6209912341055315e-08,
+              2.8966140747070312
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 1.0000000328215448
+      }
+    },
+    {
+      "path": "assets/household/office_stapler/preview.jpg",
+      "sha256": "5892bfcb06fbad49708cc45f08b90fc5b577e7ff03d2d3eac0d041e3631d087e",
+      "bytes": 162609,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "preview",
+      "original_render_record": {
+        "input_sha256": "98db33ea4d4321102dddaac4c3c039378842eab3532705977ea1cf3fa0aa10df",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 672.8460178269961,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 12.658227265521043,
+        "source_bounds": [
+          [
+            -0.023499999195337296,
+            -0.07900000363588333,
+            0.0
+          ],
+          [
+            0.023499999195337296,
+            0.07900000363588333,
+            0.04699999839067459
+          ]
+        ],
+        "camera_location": [
+          6.331425189971924,
+          -6.331424236297607,
+          4.751104831695557
+        ],
+        "camera_rotation": [
+          1.099881887435913,
+          -1.1680641165412453e-07,
+          0.7853983044624329
+        ],
+        "ortho_scale": 2.2700273990631104,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          1.816021978855133,
+          1.1509627103805542
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              -2.9999988079071045,
+              -4.000000953674316,
+              5.000000476837158
+            ],
+            "rotation": [
+              0.8605254292488098,
+              1.9857164801351246e-09,
+              -0.6435009241104126
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              4.000000476837158,
+              -0.9999998211860657,
+              2.999999523162842
+            ],
+            "rotation": [
+              1.061960220336914,
+              -4.796916641680582e-09,
+              1.3258178234100342
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              0.9999996423721313,
+              3.999999761581421,
+              4.000000476837158
+            ],
+            "rotation": [
+              0.895831286907196,
+              -4.6209912341055315e-08,
+              2.8966140747070312
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 1.0000000328215448
+      }
+    },
+    {
+      "path": "assets/household/office_stapler/rear.jpg",
+      "sha256": "9c6a06baaf2101c17e558f531822960d2dc654f4f9ac1af49f31031e1ef30060",
+      "bytes": 185361,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "rear",
+      "original_render_record": {
+        "input_sha256": "98db33ea4d4321102dddaac4c3c039378842eab3532705977ea1cf3fa0aa10df",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 312.59603680099826,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 12.658227265521043,
+        "source_bounds": [
+          [
+            -0.023499999195337296,
+            -0.07900000363588333,
+            0.0
+          ],
+          [
+            0.023499999195337296,
+            0.07900000363588333,
+            0.04699999839067459
+          ]
+        ],
+        "camera_location": [
+          -2.9802205148143912e-08,
+          10.0,
+          0.29746755957603455
+        ],
+        "camera_rotation": [
+          -1.570796251296997,
+          3.141592502593994,
+          -0.0
+        ],
+        "ortho_scale": 0.7436710596084595,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          0.5949366688728333,
+          0.5949368476867676
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              4.949746608734131,
+              2.7636876106262207,
+              4.167333126068115
+            ],
+            "rotation": [
+              1.009339690208435,
+              1.5022574473277928e-07,
+              2.0514585971832275
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              -2.1213207244873047,
+              4.376846790313721,
+              1.1017614603042603
+            ],
+            "rotation": [
+              1.4762786626815796,
+              -6.760518544979277e-08,
+              -2.673337697982788
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -3.5355348587036133,
+              -0.2105783224105835,
+              4.559438705444336
+            ],
+            "rotation": [
+              0.7390651702880859,
+              -1.808146095072516e-07,
+              -1.4600356817245483
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": [
+          184,
+          184,
+          184
+        ],
+        "floor_hidden": true,
+        "closeup_magnification_vs_full_fit": 1.0
+      }
+    },
+    {
+      "path": "assets/household/office_stapler/side.jpg",
+      "sha256": "d9a3eae616fcf2706018474e27525a6edd9419450261f03fa3a309d26ce397fb",
+      "bytes": 98023,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "side",
+      "original_render_record": {
+        "input_sha256": "98db33ea4d4321102dddaac4c3c039378842eab3532705977ea1cf3fa0aa10df",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 95.69011038099416,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 12.658227265521043,
+        "source_bounds": [
+          [
+            -0.023499999195337296,
+            -0.07900000363588333,
+            0.0
+          ],
+          [
+            0.023499999195337296,
+            0.07900000363588333,
+            0.04699999839067459
+          ]
+        ],
+        "camera_location": [
+          10.0,
+          4.470348358154297e-07,
+          0.2974678874015808
+        ],
+        "camera_rotation": [
+          1.5707963705062866,
+          -0.0,
+          1.5707963705062866
+        ],
+        "ortho_scale": 2.5,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          2.0000000596046448,
+          0.5949366688728333
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              2.7636876106262207,
+              -4.949746608734131,
+              4.167332649230957
+            ],
+            "rotation": [
+              1.009339690208435,
+              2.4823147981578586e-09,
+              0.4806620180606842
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              4.376846790313721,
+              2.1213204860687256,
+              1.1017619371414185
+            ],
+            "rotation": [
+              1.47627854347229,
+              -5.20023490935273e-09,
+              2.0390515327453613
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -0.21057838201522827,
+              3.535534143447876,
+              4.559439182281494
+            ],
+            "rotation": [
+              0.7390648722648621,
+              -7.003350788181706e-08,
+              -3.030831813812256
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": [
+          184,
+          184,
+          184
+        ],
+        "floor_hidden": true,
+        "closeup_magnification_vs_full_fit": 1.0000000298023224
+      }
+    },
+    {
+      "path": "assets/household/office_stapler/underside.jpg",
+      "sha256": "63f0b69db928a0a5cd27652c747f93fe82329cd248e46397eb28d28189640c0a",
+      "bytes": 60530,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "underside",
+      "original_render_record": {
+        "input_sha256": "98db33ea4d4321102dddaac4c3c039378842eab3532705977ea1cf3fa0aa10df",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 46.16948423300346,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 12.658227265521043,
+        "source_bounds": [
+          [
+            -0.023499999195337296,
+            -0.07900000363588333,
+            0.0
+          ],
+          [
+            0.023499999195337296,
+            0.07900000363588333,
+            0.04699999839067459
+          ]
+        ],
+        "camera_location": [
+          -8.642674060865829e-07,
+          -8.344649700120499e-07,
+          -9.702531814575195
+        ],
+        "camera_rotation": [
+          8.742277657347586e-08,
+          3.1415927410125732,
+          -8.742277657347586e-08
+        ],
+        "ortho_scale": 2.5,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          0.5949368476867676,
+          2.0
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              4.949747085571289,
+              3.869863748550415,
+              -2.466219663619995
+            ],
+            "rotation": [
+              1.9729315042495728,
+              2.555704270434944e-07,
+              2.1877756118774414
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              -2.1213207244873047,
+              0.8042936325073242,
+              -4.079378604888916
+            ],
+            "rotation": [
+              2.66458797454834,
+              2.0277128953694046e-07,
+              -1.7778328657150269
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -3.535533905029297,
+              4.261971473693848,
+              0.5080468654632568
+            ],
+            "rotation": [
+              1.4962716102600098,
+              -1.0442674636124138e-07,
+              -2.4055871963500977
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": [
+          184,
+          184,
+          184
+        ],
+        "floor_hidden": true,
+        "closeup_magnification_vs_full_fit": 1.0
+      }
+    }
+  ]
+}
