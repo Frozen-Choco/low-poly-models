@@ -29,7 +29,15 @@
     ],
     "glb_bytes": 57632,
     "blend_bytes": 100148,
-    "validated": true
+    "validated": true,
+    "photography": {
+      "standard": "preview_standard_v1",
+      "resolution": [
+        1200,
+        1200
+      ],
+      "record": "generators/preview_standard_v1/published/dining_chair.json"
+    }
   },
   {
     "id": "oak_table",
@@ -135,7 +143,15 @@
     "reference_urls": [
       "https://kinto.co.jp/products/20754"
     ],
-    "functional_revision": "Connected lower handle root"
+    "functional_revision": "Connected lower handle root",
+    "photography": {
+      "standard": "preview_standard_v1",
+      "resolution": [
+        1200,
+        1200
+      ],
+      "record": "generators/preview_standard_v1/published/mug.json"
+    }
   },
   {
     "id": "traffic_signal",

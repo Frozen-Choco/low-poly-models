@@ -1,0 +1,220 @@
+{
+  "asset": "dining_chair",
+  "photography_version": "preview-standard-v1",
+  "input": {
+    "id": "dining_chair",
+    "repo_path": "assets/furniture/dining_chair/dining_chair.glb",
+    "sha256": "04b527d70d44d85e96c32ff9ec6b56d485be042ddf69d97bf285711062a51f41",
+    "git_sha": "efe03d0e99561e291c93ed444b5d9abc1c6ded2c"
+  },
+  "reproduction_renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "reproduction_spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "detail_targets_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+  "provenance_note": "Original producer hashes are retained. The portable reproduction renderer uses the same photographic code and effective per-view configuration; scheduling, cache checks and descriptive metadata are excluded. Camera/light values and input/output hashes are recorded for verification.",
+  "outputs": [
+    {
+      "path": "assets/furniture/dining_chair/back.jpg",
+      "sha256": "3921d155edea47cb445ab6557f129f95e3c3cd5207775c62a21c730a934f4b3c",
+      "bytes": 123552,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "back",
+      "original_render_record": {
+        "input_sha256": "04b527d70d44d85e96c32ff9ec6b56d485be042ddf69d97bf285711062a51f41",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 657.1977491879989,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 2.2695983524148313,
+        "source_bounds": [
+          [
+            -0.2150000035762787,
+            -0.22450000047683716,
+            0.0
+          ],
+          [
+            0.2150000035762787,
+            0.22623315453529358,
+            0.8812131881713867
+          ]
+        ],
+        "camera_location": [
+          -6.3578267097473145,
+          6.344727993011475,
+          5.398489952087402
+        ],
+        "camera_rotation": [
+          1.0998820066452026,
+          1.1037879943387452e-07,
+          -2.3561947345733643
+        ],
+        "ortho_scale": 2.5797066688537598,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          1.3660280108451843,
+          2.0637653470039368
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              2.999999761581421,
+              3.999999523162842,
+              5.000001430511475
+            ],
+            "rotation": [
+              0.8605252504348755,
+              -5.99574647708323e-08,
+              2.498091697692871
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              -4.000000476837158,
+              1.0000011920928955,
+              2.9999985694885254
+            ],
+            "rotation": [
+              1.0619604587554932,
+              9.89387904937189e-10,
+              -1.8157753944396973
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -1.0000020265579224,
+              -3.999999523162842,
+              4.0
+            ],
+            "rotation": [
+              0.895831286907196,
+              2.379176855527021e-08,
+              -0.24497920274734497
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 1.0000000057763005
+      }
+    },
+    {
+      "path": "assets/furniture/dining_chair/preview.jpg",
+      "sha256": "8c456be5ae3b959ab58851aba4ec4bc6f3049a048eea6f224bfe8f2fce25d773",
+      "bytes": 116313,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "preview",
+      "original_render_record": {
+        "input_sha256": "04b527d70d44d85e96c32ff9ec6b56d485be042ddf69d97bf285711062a51f41",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 643.3559241740004,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 2.2695983524148313,
+        "source_bounds": [
+          [
+            -0.2150000035762787,
+            -0.22450000047683716,
+            0.0
+          ],
+          [
+            0.2150000035762787,
+            0.22623315453529358,
+            0.8812131881713867
+          ]
+        ],
+        "camera_location": [
+          6.295697212219238,
+          -6.3087968826293945,
+          5.534686088562012
+        ],
+        "camera_rotation": [
+          1.099881887435913,
+          -1.1680641165412453e-07,
+          0.7853983044624329
+        ],
+        "ortho_scale": 2.964938163757324,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          1.3660280108451843,
+          2.3719505071640015
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              -2.9999990463256836,
+              -4.000000953674316,
+              5.000000476837158
+            ],
+            "rotation": [
+              0.8605254888534546,
+              7.73745867377329e-09,
+              -0.6435010433197021
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              4.000000476837158,
+              -0.9999997615814209,
+              2.999999523162842
+            ],
+            "rotation": [
+              1.061960220336914,
+              9.897669173142276e-08,
+              1.3258179426193237
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              0.9999995827674866,
+              3.999999761581421,
+              4.000000953674316
+            ],
+            "rotation": [
+              0.8958309888839722,
+              -5.2051913002060246e-08,
+              2.8966140747070312
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 0.9999999899484169
+      }
+    }
+  ]
+}

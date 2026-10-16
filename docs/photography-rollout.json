@@ -9,13 +9,13 @@
     "a4_clipboard",
     "cast_iron_manhole",
     "ceramic_rice_bowl",
-    "concrete_curb_straight"
+    "concrete_curb_straight",
+    "dining_chair",
+    "mug"
   ],
   "pending_assets": [
-    "dining_chair",
     "oak_table",
     "open_shelf",
-    "mug",
     "traffic_signal",
     "railway_crossing_lowered",
     "public_recycling_bin",

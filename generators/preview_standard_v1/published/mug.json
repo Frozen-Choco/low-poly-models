@@ -1,0 +1,424 @@
+{
+  "asset": "mug",
+  "photography_version": "preview-standard-v1",
+  "input": {
+    "id": "mug",
+    "repo_path": "assets/household/mug/mug.glb",
+    "sha256": "914ca363cf4c0951a0ae343efcbc3de3ad15cbf6f4bff9d9889d8326202f37f5",
+    "git_sha": "ce119c58feb6c37f8a6eaf5cfed9781a5815538b"
+  },
+  "reproduction_renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "reproduction_spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "detail_targets_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+  "provenance_note": "Original producer hashes are retained. The portable reproduction renderer uses the same photographic code and effective per-view configuration; scheduling, cache checks and descriptive metadata are excluded. Camera/light values and input/output hashes are recorded for verification.",
+  "outputs": [
+    {
+      "path": "assets/household/mug/back.jpg",
+      "sha256": "c9d012639fa54bb9f60b81a5a61813d29d3c7f6820ef543f11675504f54d712b",
+      "bytes": 135339,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "back",
+      "original_render_record": {
+        "input_sha256": "914ca363cf4c0951a0ae343efcbc3de3ad15cbf6f4bff9d9889d8326202f37f5",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 926.0947753750006,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 16.260163137433537,
+        "source_bounds": [
+          [
+            -0.05900000035762787,
+            -0.0430000014603138,
+            0.0
+          ],
+          [
+            0.06399999558925629,
+            0.0430000014603138,
+            0.1080000028014183
+          ]
+        ],
+        "camera_location": [
+          -6.386377334594727,
+          6.25942850112915,
+          5.355358123779297
+        ],
+        "camera_rotation": [
+          1.0998820066452026,
+          1.1037879943387452e-07,
+          -2.3561947345733643
+        ],
+        "ortho_scale": 2.6570308208465576,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          1.6442515850067139,
+          2.1256245970726013
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              2.999999523162842,
+              3.999999523162842,
+              5.000001430511475
+            ],
+            "rotation": [
+              0.8605252504348755,
+              4.2826759028002925e-08,
+              2.498091697692871
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              -4.000000476837158,
+              1.0000011920928955,
+              2.9999988079071045
+            ],
+            "rotation": [
+              1.0619604587554932,
+              9.89387904937189e-10,
+              -1.8157753944396973
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -1.0000020265579224,
+              -3.999999523162842,
+              4.0
+            ],
+            "rotation": [
+              0.8958315253257751,
+              1.692055562330097e-08,
+              -0.24497926235198975
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 0.9999999719589983
+      }
+    },
+    {
+      "path": "assets/household/mug/back.png",
+      "sha256": "209d2185516d87ac603932f3698a9844f940f621f72e8494260826a6cc82f17b",
+      "bytes": 568109,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "PNG",
+      "alias_of": "assets/household/mug/back.jpg",
+      "render_view": "back",
+      "original_render_record": {
+        "input_sha256": "914ca363cf4c0951a0ae343efcbc3de3ad15cbf6f4bff9d9889d8326202f37f5",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 926.0947753750006,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 16.260163137433537,
+        "source_bounds": [
+          [
+            -0.05900000035762787,
+            -0.0430000014603138,
+            0.0
+          ],
+          [
+            0.06399999558925629,
+            0.0430000014603138,
+            0.1080000028014183
+          ]
+        ],
+        "camera_location": [
+          -6.386377334594727,
+          6.25942850112915,
+          5.355358123779297
+        ],
+        "camera_rotation": [
+          1.0998820066452026,
+          1.1037879943387452e-07,
+          -2.3561947345733643
+        ],
+        "ortho_scale": 2.6570308208465576,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          1.6442515850067139,
+          2.1256245970726013
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              2.999999523162842,
+              3.999999523162842,
+              5.000001430511475
+            ],
+            "rotation": [
+              0.8605252504348755,
+              4.2826759028002925e-08,
+              2.498091697692871
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              -4.000000476837158,
+              1.0000011920928955,
+              2.9999988079071045
+            ],
+            "rotation": [
+              1.0619604587554932,
+              9.89387904937189e-10,
+              -1.8157753944396973
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -1.0000020265579224,
+              -3.999999523162842,
+              4.0
+            ],
+            "rotation": [
+              0.8958315253257751,
+              1.692055562330097e-08,
+              -0.24497926235198975
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 0.9999999719589983
+      }
+    },
+    {
+      "path": "assets/household/mug/preview.jpg",
+      "sha256": "b66dccdf00be427b1125b9d03e40e5ad7fc88c9c07fe73f8decd8124f0b55d89",
+      "bytes": 139456,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "preview",
+      "original_render_record": {
+        "input_sha256": "914ca363cf4c0951a0ae343efcbc3de3ad15cbf6f4bff9d9889d8326202f37f5",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 927.5454241679981,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 16.260163137433537,
+        "source_bounds": [
+          [
+            -0.05900000035762787,
+            -0.0430000014603138,
+            0.0
+          ],
+          [
+            0.06399999558925629,
+            0.0430000014603138,
+            0.1080000028014183
+          ]
+        ],
+        "camera_location": [
+          6.197506427764893,
+          -6.324456691741943,
+          5.527360916137695
+        ],
+        "camera_rotation": [
+          1.099881887435913,
+          -1.1680641165412453e-07,
+          0.7853983044624329
+        ],
+        "ortho_scale": 2.6570308208465576,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          1.6442511677742004,
+          2.125624656677246
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              -2.9999990463256836,
+              -4.000000953674316,
+              5.000000476837158
+            ],
+            "rotation": [
+              0.8605254888534546,
+              7.73745867377329e-09,
+              -0.6435010433197021
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              4.000000476837158,
+              -0.9999997615814209,
+              2.999999523162842
+            ],
+            "rotation": [
+              1.061960220336914,
+              -4.796916641680582e-09,
+              1.3258178234100342
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              0.9999995827674866,
+              3.999999761581421,
+              4.000000476837158
+            ],
+            "rotation": [
+              0.895831286907196,
+              -4.6209912341055315e-08,
+              2.8966140747070312
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 1.0
+      }
+    },
+    {
+      "path": "assets/household/mug/preview.png",
+      "sha256": "7f4e6e0ab3badb366f7fbe08f72c0f8780a802b54f76d6d934c1f1b893dc27df",
+      "bytes": 593617,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "PNG",
+      "alias_of": "assets/household/mug/preview.jpg",
+      "render_view": "preview",
+      "original_render_record": {
+        "input_sha256": "914ca363cf4c0951a0ae343efcbc3de3ad15cbf6f4bff9d9889d8326202f37f5",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 927.5454241679981,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 16.260163137433537,
+        "source_bounds": [
+          [
+            -0.05900000035762787,
+            -0.0430000014603138,
+            0.0
+          ],
+          [
+            0.06399999558925629,
+            0.0430000014603138,
+            0.1080000028014183
+          ]
+        ],
+        "camera_location": [
+          6.197506427764893,
+          -6.324456691741943,
+          5.527360916137695
+        ],
+        "camera_rotation": [
+          1.099881887435913,
+          -1.1680641165412453e-07,
+          0.7853983044624329
+        ],
+        "ortho_scale": 2.6570308208465576,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          1.6442511677742004,
+          2.125624656677246
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              -2.9999990463256836,
+              -4.000000953674316,
+              5.000000476837158
+            ],
+            "rotation": [
+              0.8605254888534546,
+              7.73745867377329e-09,
+              -0.6435010433197021
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              4.000000476837158,
+              -0.9999997615814209,
+              2.999999523162842
+            ],
+            "rotation": [
+              1.061960220336914,
+              -4.796916641680582e-09,
+              1.3258178234100342
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              0.9999995827674866,
+              3.999999761581421,
+              4.000000476837158
+            ],
+            "rotation": [
+              0.895831286907196,
+              -4.6209912341055315e-08,
+              2.8966140747070312
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 1.0
+      }
+    }
+  ]
+}
