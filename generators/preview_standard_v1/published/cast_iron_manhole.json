@@ -1,0 +1,755 @@
+{
+  "asset": "cast_iron_manhole",
+  "photography_version": "preview-standard-v1",
+  "input": {
+    "id": "cast_iron_manhole",
+    "repo_path": "assets/street/cast_iron_manhole/cast_iron_manhole.glb",
+    "sha256": "cc63b16acbabc0c7ceb9c262699b54f6912bb9f9f439b74ea3a92ca613c3d2ac",
+    "git_sha": "f3c55ccf15788d298840b6f9beb0f5008fff40ea"
+  },
+  "reproduction_renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "reproduction_spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "detail_targets_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+  "provenance_note": "Original producer hashes are retained. The portable reproduction renderer uses the same photographic code and effective per-view configuration; scheduling, cache checks and descriptive metadata are excluded. Camera/light values and input/output hashes are recorded for verification.",
+  "outputs": [
+    {
+      "path": "assets/street/cast_iron_manhole/back.jpg",
+      "sha256": "1f9a8d6ced47dca53f46e8540235a3049e79f74a95cf98e5c9436ce9c3cb5799",
+      "bytes": 144679,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "back",
+      "original_render_record": {
+        "input_sha256": "cc63b16acbabc0c7ceb9c262699b54f6912bb9f9f439b74ea3a92ca613c3d2ac",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 546.9777273690015,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 2.7777776673988104,
+        "source_bounds": [
+          [
+            -0.36000001430511475,
+            -0.36000001430511475,
+            0.0
+          ],
+          [
+            0.36000001430511475,
+            0.36000001430511475,
+            0.08299999684095383
+          ]
+        ],
+        "camera_location": [
+          -6.3025994300842285,
+          6.3026018142700195,
+          4.648982048034668
+        ],
+        "camera_rotation": [
+          1.0998820066452026,
+          1.1037879943387452e-07,
+          -2.3561947345733643
+        ],
+        "ortho_scale": 2.5,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          1.9999999403953552,
+          1.1054366827011108
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              2.9999992847442627,
+              3.999999523162842,
+              5.000001430511475
+            ],
+            "rotation": [
+              0.8605250716209412,
+              4.998531011324303e-08,
+              2.498091459274292
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              -4.000000476837158,
+              1.0000011920928955,
+              2.9999988079071045
+            ],
+            "rotation": [
+              1.0619604587554932,
+              9.89387904937189e-10,
+              -1.8157753944396973
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -1.0000022649765015,
+              -3.999999523162842,
+              4.0
+            ],
+            "rotation": [
+              0.8958315253257751,
+              1.692055562330097e-08,
+              -0.24497926235198975
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 0.9999999701976776
+      }
+    },
+    {
+      "path": "assets/street/cast_iron_manhole/close_up.jpg",
+      "sha256": "0cfe5e7b6e8c5f1df1942bbfe2258bae9cf39d99c8c87d4a80c9ff0a46635624",
+      "bytes": 217216,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "close_up",
+      "original_render_record": {
+        "input_sha256": "cc63b16acbabc0c7ceb9c262699b54f6912bb9f9f439b74ea3a92ca613c3d2ac",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 462.07467124499817,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 2.7777776673988104,
+        "source_bounds": [
+          [
+            -0.36000001430511475,
+            -0.36000001430511475,
+            0.0
+          ],
+          [
+            0.36000001430511475,
+            0.36000001430511475,
+            0.08299999684095383
+          ]
+        ],
+        "camera_location": [
+          3.8131425380706787,
+          -6.536816596984863,
+          6.71459436416626
+        ],
+        "camera_rotation": [
+          0.8583571314811707,
+          4.571613487769355e-08,
+          0.5280744433403015
+        ],
+        "ortho_scale": 1.25,
+        "focus": {
+          "purpose": "Cast tread texture and surface construction",
+          "target_m": [
+            0,
+            0,
+            0.064
+          ],
+          "span_m": 0.36,
+          "direction": [
+            0.7,
+            -1.2,
+            1.2
+          ]
+        },
+        "focus_projected_width_height": [
+          1.9998587369918823,
+          1.4754418730735779
+        ],
+        "full_object_fit": false,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              -4.518232345581055,
+              -2.0778985023498535,
+              5.027347564697266
+            ],
+            "rotation": [
+              0.8516272902488708,
+              1.1731479787613353e-07,
+              -1.1116877794265747
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              3.214437961578369,
+              -1.3004180192947388,
+              3.7619099617004395
+            ],
+            "rotation": [
+              0.8603981733322144,
+              -3.9327915146714076e-08,
+              1.1624621152877808
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              1.5478955507278442,
+              4.363209247589111,
+              3.379859209060669
+            ],
+            "rotation": [
+              1.034847378730774,
+              1.4594965236369717e-08,
+              2.777158737182617
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 1.9998587369918823
+      }
+    },
+    {
+      "path": "assets/street/cast_iron_manhole/front_three_quarter.jpg",
+      "sha256": "f6f74e6926bd8b1f127e3c720bb6263530dd85f51c7f625917bc0925d3713ee3",
+      "bytes": 144860,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": "assets/street/cast_iron_manhole/preview.jpg",
+      "render_view": "preview",
+      "original_render_record": {
+        "input_sha256": "cc63b16acbabc0c7ceb9c262699b54f6912bb9f9f439b74ea3a92ca613c3d2ac",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 541.4814261399988,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 2.7777776673988104,
+        "source_bounds": [
+          [
+            -0.36000001430511475,
+            -0.36000001430511475,
+            0.0
+          ],
+          [
+            0.36000001430511475,
+            0.36000001430511475,
+            0.08299999684095383
+          ]
+        ],
+        "camera_location": [
+          6.302600860595703,
+          -6.302599906921387,
+          4.648982524871826
+        ],
+        "camera_rotation": [
+          1.099881887435913,
+          -1.1680641165412453e-07,
+          0.7853983044624329
+        ],
+        "ortho_scale": 2.5,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          1.9999999403953552,
+          1.10543692111969
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              -2.9999988079071045,
+              -4.000000953674316,
+              5.000000476837158
+            ],
+            "rotation": [
+              0.8605254292488098,
+              1.9857164801351246e-09,
+              -0.6435009241104126
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              4.000000476837158,
+              -0.9999998807907104,
+              2.999999523162842
+            ],
+            "rotation": [
+              1.061960220336914,
+              -4.796916641680582e-09,
+              1.3258178234100342
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              0.9999997019767761,
+              3.999999761581421,
+              4.000000953674316
+            ],
+            "rotation": [
+              0.8958311080932617,
+              -3.2157092988427394e-08,
+              2.8966140747070312
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 0.9999999701976776
+      }
+    },
+    {
+      "path": "assets/street/cast_iron_manhole/preview.jpg",
+      "sha256": "f6f74e6926bd8b1f127e3c720bb6263530dd85f51c7f625917bc0925d3713ee3",
+      "bytes": 144860,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "preview",
+      "original_render_record": {
+        "input_sha256": "cc63b16acbabc0c7ceb9c262699b54f6912bb9f9f439b74ea3a92ca613c3d2ac",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 541.4814261399988,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 2.7777776673988104,
+        "source_bounds": [
+          [
+            -0.36000001430511475,
+            -0.36000001430511475,
+            0.0
+          ],
+          [
+            0.36000001430511475,
+            0.36000001430511475,
+            0.08299999684095383
+          ]
+        ],
+        "camera_location": [
+          6.302600860595703,
+          -6.302599906921387,
+          4.648982524871826
+        ],
+        "camera_rotation": [
+          1.099881887435913,
+          -1.1680641165412453e-07,
+          0.7853983044624329
+        ],
+        "ortho_scale": 2.5,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          1.9999999403953552,
+          1.10543692111969
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              -2.9999988079071045,
+              -4.000000953674316,
+              5.000000476837158
+            ],
+            "rotation": [
+              0.8605254292488098,
+              1.9857164801351246e-09,
+              -0.6435009241104126
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              4.000000476837158,
+              -0.9999998807907104,
+              2.999999523162842
+            ],
+            "rotation": [
+              1.061960220336914,
+              -4.796916641680582e-09,
+              1.3258178234100342
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              0.9999997019767761,
+              3.999999761581421,
+              4.000000953674316
+            ],
+            "rotation": [
+              0.8958311080932617,
+              -3.2157092988427394e-08,
+              2.8966140747070312
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 0.9999999701976776
+      }
+    },
+    {
+      "path": "assets/street/cast_iron_manhole/rear.jpg",
+      "sha256": "042e25eb2573570e0bd8aa030b21e98f09b8f7347ee9bed64e0122d32836f2c0",
+      "bytes": 56938,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "rear",
+      "original_render_record": {
+        "input_sha256": "cc63b16acbabc0c7ceb9c262699b54f6912bb9f9f439b74ea3a92ca613c3d2ac",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 30.886978850998275,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 2.7777776673988104,
+        "source_bounds": [
+          [
+            -0.36000001430511475,
+            -0.36000001430511475,
+            0.0
+          ],
+          [
+            0.36000001430511475,
+            0.36000001430511475,
+            0.08299999684095383
+          ]
+        ],
+        "camera_location": [
+          1.1587565217248408e-13,
+          10.0,
+          0.115276999771595
+        ],
+        "camera_rotation": [
+          -1.570796251296997,
+          3.141592502593994,
+          -0.0
+        ],
+        "ortho_scale": 2.5,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          2.0,
+          0.23055584728717804
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              4.949746608734131,
+              2.8463475704193115,
+              4.1475019454956055
+            ],
+            "rotation": [
+              1.009339451789856,
+              -7.265388290988994e-09,
+              2.0514583587646484
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              -2.1213207244873047,
+              4.459506988525391,
+              1.0819306373596191
+            ],
+            "rotation": [
+              1.47627854347229,
+              2.8047377753637193e-08,
+              -2.673337697982788
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -3.5355348587036133,
+              -0.12791812419891357,
+              4.539608001708984
+            ],
+            "rotation": [
+              0.7390650510787964,
+              9.21565046496653e-09,
+              -1.4600355625152588
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": [
+          184,
+          184,
+          184
+        ],
+        "floor_hidden": true,
+        "closeup_magnification_vs_full_fit": 1.0
+      }
+    },
+    {
+      "path": "assets/street/cast_iron_manhole/side.jpg",
+      "sha256": "edce54a3d497ee884f127d40aa450a8bc9e01e46c2878d4b1b2d6f3a14afd8fa",
+      "bytes": 57211,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "side",
+      "original_render_record": {
+        "input_sha256": "cc63b16acbabc0c7ceb9c262699b54f6912bb9f9f439b74ea3a92ca613c3d2ac",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 31.91434864400071,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 2.7777776673988104,
+        "source_bounds": [
+          [
+            -0.36000001430511475,
+            -0.36000001430511475,
+            0.0
+          ],
+          [
+            0.36000001430511475,
+            0.36000001430511475,
+            0.08299999684095383
+          ]
+        ],
+        "camera_location": [
+          10.0,
+          4.470348358154297e-07,
+          0.11527732759714127
+        ],
+        "camera_rotation": [
+          1.5707963705062866,
+          -0.0,
+          1.5707963705062866
+        ],
+        "ortho_scale": 2.5,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          2.0000000596046448,
+          0.23055562376976013
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              2.8463478088378906,
+              -4.949746608734131,
+              4.147501468658447
+            ],
+            "rotation": [
+              1.009339690208435,
+              1.1695401980205133e-08,
+              0.48066210746765137
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              4.459506988525391,
+              2.1213207244873047,
+              1.0819313526153564
+            ],
+            "rotation": [
+              1.47627854347229,
+              -2.060803439007941e-07,
+              2.0390515327453613
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -0.1279183030128479,
+              3.535534381866455,
+              4.539608478546143
+            ],
+            "rotation": [
+              0.7390649318695068,
+              -5.815081038917924e-08,
+              -3.030831813812256
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": [
+          184,
+          184,
+          184
+        ],
+        "floor_hidden": true,
+        "closeup_magnification_vs_full_fit": 1.0000000298023224
+      }
+    },
+    {
+      "path": "assets/street/cast_iron_manhole/underside.jpg",
+      "sha256": "8698a0d4ac72da663ed6de406ad228ff445331bbe3be9baa608085e7bcc60e6e",
+      "bytes": 146850,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "underside",
+      "original_render_record": {
+        "input_sha256": "cc63b16acbabc0c7ceb9c262699b54f6912bb9f9f439b74ea3a92ca613c3d2ac",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 159.8525684870001,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 2.7777776673988104,
+        "source_bounds": [
+          [
+            -0.36000001430511475,
+            -0.36000001430511475,
+            0.0
+          ],
+          [
+            0.36000001430511475,
+            0.36000001430511475,
+            0.08299999684095383
+          ]
+        ],
+        "camera_location": [
+          -8.344650836988876e-07,
+          -8.344649700120499e-07,
+          -9.884721755981445
+        ],
+        "camera_rotation": [
+          8.742277657347586e-08,
+          3.1415927410125732,
+          -8.742277657347586e-08
+        ],
+        "ortho_scale": 2.5,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          2.0,
+          2.0
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              4.949747085571289,
+              4.032222747802734,
+              -2.7310705184936523
+            ],
+            "rotation": [
+              1.9729317426681519,
+              9.455649063738747e-08,
+              2.1877756118774414
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              -2.1213207244873047,
+              0.9666533470153809,
+              -4.344229221343994
+            ],
+            "rotation": [
+              2.66458797454834,
+              1.6141886760578927e-07,
+              -1.7778328657150269
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -3.535533905029297,
+              4.424331188201904,
+              0.24319612979888916
+            ],
+            "rotation": [
+              1.4962716102600098,
+              -1.0442674636124138e-07,
+              -2.4055871963500977
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": [
+          184,
+          184,
+          184
+        ],
+        "floor_hidden": true,
+        "closeup_magnification_vs_full_fit": 1.0
+      }
+    }
+  ]
+}

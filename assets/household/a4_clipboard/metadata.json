@@ -30,5 +30,13 @@
     0.3400000035762787,
     0.011300000362098217
   ],
-  "mesh_objects": 15
+  "mesh_objects": 15,
+  "photography": {
+    "standard": "preview_standard_v1",
+    "resolution": [
+      1200,
+      1200
+    ],
+    "record": "generators/preview_standard_v1/published/a4_clipboard.json"
+  }
 }

@@ -34,17 +34,25 @@
     0.08299999684095383
   ],
   "files_bytes": {
-    "preview.jpg": 86436,
-    "front_three_quarter.jpg": 86436,
-    "rear.jpg": 86512,
+    "preview.jpg": 144860,
+    "front_three_quarter.jpg": 144860,
+    "rear.jpg": 56938,
     "cast_iron_manhole.glb": 4370320,
-    "side.jpg": 73213,
-    "back.jpg": 86512,
-    "close_up.jpg": 84691,
+    "side.jpg": 57211,
+    "back.jpg": 144679,
+    "close_up.jpg": 217216,
     "cast_iron_manhole.blend": 2597083,
-    "underside.jpg": 59478
+    "underside.jpg": 146850
   },
   "title_ja": "鋳鉄製マンホール",
   "glb_bytes": 4370320,
-  "blend_bytes": 2597083
+  "blend_bytes": 2597083,
+  "photography": {
+    "standard": "preview_standard_v1",
+    "resolution": [
+      1200,
+      1200
+    ],
+    "record": "generators/preview_standard_v1/published/cast_iron_manhole.json"
+  }
 }

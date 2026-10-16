@@ -5,7 +5,9 @@
     1200
   ],
   "completed_assets": [
-    "whole_red_apple"
+    "whole_red_apple",
+    "a4_clipboard",
+    "cast_iron_manhole"
   ],
   "pending_assets": [
     "dining_chair",
@@ -21,10 +23,8 @@
     "ceramic_rice_bowl",
     "stainless_kitchen_kettle",
     "wooden_cutting_board",
-    "cast_iron_manhole",
     "concrete_curb_straight",
     "steel_roadside_bollard",
-    "a4_clipboard",
     "office_stapler",
     "taped_shipping_box"
   ],
