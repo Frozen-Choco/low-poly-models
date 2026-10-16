@@ -15,12 +15,12 @@
     "oak_table",
     "office_stapler",
     "open_shelf",
-    "park_bench"
+    "park_bench",
+    "public_recycling_bin",
+    "railway_crossing_lowered"
   ],
   "pending_assets": [
     "traffic_signal",
-    "railway_crossing_lowered",
-    "public_recycling_bin",
     "streetlight",
     "traffic_cone",
     "stainless_kitchen_kettle",

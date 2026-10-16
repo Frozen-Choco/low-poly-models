@@ -303,15 +303,15 @@
       3.788802146911621
     ],
     "files_bytes": {
-      "back.jpg": 90115,
-      "base.jpg": 130865,
-      "close_up.jpg": 139677,
-      "detail.jpg": 139677,
-      "front_three_quarter.jpg": 82698,
-      "preview.jpg": 82698,
+      "back.jpg": 117694,
+      "base.jpg": 148028,
+      "close_up.jpg": 147376,
+      "detail.jpg": 160887,
+      "front_three_quarter.jpg": 108896,
+      "preview.jpg": 108896,
       "railway_crossing_lowered.blend": 325555,
       "railway_crossing_lowered.glb": 1494440,
-      "rear.jpg": 90115
+      "rear.jpg": 72289
     },
     "attachment_revision": {
       "baseline_sha256": "9785c6d533c3f739576bc337dfc1d272cb957874808cfee71937be7ba899528c",
@@ -339,7 +339,15 @@
     "vertices": 21532,
     "vertices_blend": 21532,
     "vertices_glb": 46571,
-    "assembly_evidence": "../../../generators/street_attachment_revision/functional/assembly_test.json"
+    "assembly_evidence": "../../../generators/street_attachment_revision/functional/assembly_test.json",
+    "photography": {
+      "standard": "preview_standard_v1",
+      "resolution": [
+        1200,
+        1200
+      ],
+      "record": "generators/preview_standard_v1/published/railway_crossing_lowered.json"
+    }
   },
   {
     "id": "public_recycling_bin",
@@ -356,7 +364,15 @@
     "preview": "assets/street/public_recycling_bin/preview.jpg",
     "back": "assets/street/public_recycling_bin/back.jpg",
     "glb": "assets/street/public_recycling_bin/public_recycling_bin.glb",
-    "blend": "assets/street/public_recycling_bin/public_recycling_bin.blend"
+    "blend": "assets/street/public_recycling_bin/public_recycling_bin.blend",
+    "photography": {
+      "standard": "preview_standard_v1",
+      "resolution": [
+        1200,
+        1200
+      ],
+      "record": "generators/preview_standard_v1/published/public_recycling_bin.json"
+    }
   },
   {
     "id": "park_bench",

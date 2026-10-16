@@ -37,14 +37,14 @@
     1.0175000429153442
   ],
   "files_bytes": {
-    "preview.jpg": 97201,
-    "front_three_quarter.jpg": 97201,
-    "rear.jpg": 90850,
-    "back.jpg": 90850,
-    "close_up.jpg": 145655,
+    "preview.jpg": 114763,
+    "front_three_quarter.jpg": 114763,
+    "rear.jpg": 66251,
+    "back.jpg": 97117,
+    "close_up.jpg": 174423,
     "public_recycling_bin.blend": 216585,
     "public_recycling_bin.glb": 1127408,
-    "underside.jpg": 62555
+    "underside.jpg": 132506
   },
   "revision": "bin_function_revision",
   "source": "generators/bin_function_revision/scripts/build_bin.py",
@@ -64,5 +64,13 @@
     "One mixed can/bottle collection stream",
     "Static closed production files; service poses supplied separately",
     "No manufacturing, structural, accessibility, weatherproofing or installation certification"
-  ]
+  ],
+  "photography": {
+    "standard": "preview_standard_v1",
+    "resolution": [
+      1200,
+      1200
+    ],
+    "record": "generators/preview_standard_v1/published/public_recycling_bin.json"
+  }
 }

@@ -1,0 +1,777 @@
+{
+  "asset": "railway_crossing_lowered",
+  "photography_version": "preview-standard-v1",
+  "input": {
+    "id": "railway_crossing_lowered",
+    "repo_path": "assets/street/railway_crossing_lowered/railway_crossing_lowered.glb",
+    "sha256": "71c349cabcce6cdae3b3b4bed14d665b5e99c9f0a11d310a074a2885ba78e20b",
+    "git_sha": "2b81c545c2eda2c938307b62a459ae972ee8b822"
+  },
+  "reproduction_renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "reproduction_spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "detail_targets_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+  "provenance_note": "Original producer hashes are retained. The portable reproduction renderer uses the same photographic code and effective per-view configuration; scheduling, cache checks and descriptive metadata are excluded. Camera/light values and input/output hashes are recorded for verification.",
+  "outputs": [
+    {
+      "path": "assets/street/railway_crossing_lowered/back.jpg",
+      "sha256": "abfa19c95bd56b67e210ef85fb828fe38fe2fa2dadfb89c6b872c77429530d9b",
+      "bytes": 117694,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "back",
+      "original_render_record": {
+        "input_sha256": "71c349cabcce6cdae3b3b4bed14d665b5e99c9f0a11d310a074a2885ba78e20b",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 635.5668936529983,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 0.3787161423956168,
+        "source_bounds": [
+          [
+            -0.5110000371932983,
+            -0.42500001192092896,
+            0.0
+          ],
+          [
+            4.769999980926514,
+            0.28999999165534973,
+            3.788802146911621
+          ]
+        ],
+        "camera_location": [
+          -6.433873176574707,
+          6.337681770324707,
+          5.020097255706787
+        ],
+        "camera_rotation": [
+          1.0998820066452026,
+          1.1037879943387452e-07,
+          -2.3561947345733643
+        ],
+        "ortho_scale": 1.8370585441589355,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          1.4696468114852905,
+          1.3808932900428772
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              2.999999523162842,
+              3.999999523162842,
+              5.000001430511475
+            ],
+            "rotation": [
+              0.8605252504348755,
+              4.2826759028002925e-08,
+              2.498091697692871
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              -4.000000476837158,
+              1.0000011920928955,
+              2.9999990463256836
+            ],
+            "rotation": [
+              1.061960220336914,
+              3.080707244862424e-08,
+              -1.8157752752304077
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -1.0000020265579224,
+              -3.999999523162842,
+              4.000000476837158
+            ],
+            "rotation": [
+              0.895831286907196,
+              1.7386611261827056e-08,
+              -0.24497920274734497
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 0.9999999837771515
+      }
+    },
+    {
+      "path": "assets/street/railway_crossing_lowered/base.jpg",
+      "sha256": "c59555d1159ade967346be4508b80ae23f6d771b3cb4637218635aa06ddc08a8",
+      "bytes": 148028,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "base",
+      "original_render_record": {
+        "input_sha256": "71c349cabcce6cdae3b3b4bed14d665b5e99c9f0a11d310a074a2885ba78e20b",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 822.1540830489976,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 0.3787161423956168,
+        "source_bounds": [
+          [
+            -0.5110000371932983,
+            -0.42500001192092896,
+            0.0
+          ],
+          [
+            4.769999980926514,
+            0.28999999165534973,
+            3.788802146911621
+          ]
+        ],
+        "camera_location": [
+          5.568638324737549,
+          -6.311679363250732,
+          4.568620204925537
+        ],
+        "camera_rotation": [
+          1.1111770868301392,
+          -5.514942102990972e-08,
+          0.7853983044624329
+        ],
+        "ortho_scale": 0.3787161409854889,
+        "focus": {
+          "purpose": "Mast base and boom actuator attachment",
+          "target_m": [
+            0.1,
+            0,
+            0.35
+          ],
+          "span_m": 0.8,
+          "direction": [
+            1,
+            -1,
+            0.7
+          ]
+        },
+        "focus_projected_width_height": [
+          1.4696462750434875,
+          1.6275658011436462
+        ],
+        "full_object_fit": false,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              -2.965827226638794,
+              -4.034172534942627,
+              4.991740703582764
+            ],
+            "rotation": [
+              0.8621761798858643,
+              -1.1592803161875054e-08,
+              -0.6339072585105896
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              4.018071174621582,
+              -1.0180704593658447,
+              2.9599204063415527
+            ],
+            "rotation": [
+              1.071655035018921,
+              -2.554552835931645e-08,
+              1.322621464729309
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              1.0263125896453857,
+              3.973687171936035,
+              4.023751258850098
+            ],
+            "rotation": [
+              0.8900576829910278,
+              -2.1477699618799306e-08,
+              2.8887977600097656
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 5.371984532097118
+      }
+    },
+    {
+      "path": "assets/street/railway_crossing_lowered/close_up.jpg",
+      "sha256": "5e3eb0a5efc9c500e8a9de7c4e10fd5962933e94c2ee2139149adff18227d393",
+      "bytes": 147376,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "close_up",
+      "original_render_record": {
+        "input_sha256": "71c349cabcce6cdae3b3b4bed14d665b5e99c9f0a11d310a074a2885ba78e20b",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 219.9599060690016,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 0.3787161423956168,
+        "source_bounds": [
+          [
+            -0.5110000371932983,
+            -0.42500001192092896,
+            0.0
+          ],
+          [
+            4.769999980926514,
+            0.28999999165534973,
+            3.788802146911621
+          ]
+        ],
+        "camera_location": [
+          0.18507440388202667,
+          -9.994087219238281,
+          1.4350460767745972
+        ],
+        "camera_rotation": [
+          1.521085500717163,
+          3.970430206834408e-09,
+          0.09966865181922913
+        ],
+        "ortho_scale": 0.49554023146629333,
+        "focus": {
+          "purpose": "Red warning lens/hood and sounder front faces",
+          "mesh_name_contains": [
+            "optical lens",
+            "sun hood",
+            "warning lamp",
+            "sounder"
+          ],
+          "direction": [
+            0.1,
+            -1,
+            0.05
+          ]
+        },
+        "focus_projected_width_height": [
+          0.39643217623233795,
+          0.27227330207824707
+        ],
+        "full_object_fit": false,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              -4.686744689941406,
+              -2.87689471244812,
+              4.336587429046631
+            ],
+            "rotation": [
+              0.9869822859764099,
+              -5.7727262969820003e-08,
+              -1.0190986394882202
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              2.524704933166504,
+              -3.928041458129883,
+              1.3549625873565674
+            ],
+            "rotation": [
+              1.4319463968276978,
+              -4.234502881672597e-08,
+              0.5705609917640686
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              3.45890212059021,
+              0.9426583647727966,
+              4.580417633056641
+            ],
+            "rotation": [
+              0.7458873987197876,
+              2.4421828115350763e-08,
+              1.8349037170410156
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": [
+          184,
+          184,
+          184
+        ],
+        "floor_hidden": true,
+        "closeup_magnification_vs_full_fit": 5.03963826857212
+      }
+    },
+    {
+      "path": "assets/street/railway_crossing_lowered/detail.jpg",
+      "sha256": "411c26e69717935c6e22678ba12943bb05732c1642a9cb6829b65e5ba633541a",
+      "bytes": 160887,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "detail",
+      "original_render_record": {
+        "input_sha256": "71c349cabcce6cdae3b3b4bed14d665b5e99c9f0a11d310a074a2885ba78e20b",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 835.6491271330015,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 0.3787161423956168,
+        "source_bounds": [
+          [
+            -0.5110000371932983,
+            -0.42500001192092896,
+            0.0
+          ],
+          [
+            4.769999980926514,
+            0.28999999165534973,
+            3.788802146911621
+          ]
+        ],
+        "camera_location": [
+          2.675076961517334,
+          8.729445457458496,
+          4.7502522468566895
+        ],
+        "camera_rotation": [
+          1.2151938676834106,
+          4.811926501702146e-08,
+          2.7610862255096436
+        ],
+        "ortho_scale": 0.3077068626880646,
+        "focus": {
+          "purpose": "Crossbuck mast clamp and attachment",
+          "target_m": [
+            0,
+            0,
+            3.35
+          ],
+          "span_m": 0.65,
+          "direction": [
+            0.4,
+            1,
+            0.4
+          ]
+        },
+        "focus_projected_width_height": [
+          1.8962652832269669,
+          1.4527201652526855
+        ],
+        "full_object_fit": false,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              5.0395917892456055,
+              -0.7286226749420166,
+              4.890203475952148
+            ],
+            "rotation": [
+              0.8823055624961853,
+              -1.913420177857006e-08,
+              1.4275946617126465
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              -0.5677163004875183,
+              4.292539596557617,
+              2.578054428100586
+            ],
+            "rotation": [
+              1.1617169380187988,
+              -7.795824075174096e-08,
+              -3.0103261470794678
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -3.9250009059906006,
+              -0.2927840054035187,
+              4.222272872924805
+            ],
+            "rotation": [
+              0.8407067656517029,
+              9.038877379907717e-08,
+              -1.4967976808547974
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 7.703213322338585
+      }
+    },
+    {
+      "path": "assets/street/railway_crossing_lowered/front_three_quarter.jpg",
+      "sha256": "453d07540747460e89ba21ab30fffdcf106f50520e8a6edffcb0a997712703b5",
+      "bytes": 108896,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": "assets/street/railway_crossing_lowered/preview.jpg",
+      "render_view": "preview",
+      "original_render_record": {
+        "input_sha256": "71c349cabcce6cdae3b3b4bed14d665b5e99c9f0a11d310a074a2885ba78e20b",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 612.4548132869968,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 0.3787161423956168,
+        "source_bounds": [
+          [
+            -0.5110000371932983,
+            -0.42500001192092896,
+            0.0
+          ],
+          [
+            4.769999980926514,
+            0.28999999165534973,
+            3.788802146911621
+          ]
+        ],
+        "camera_location": [
+          6.214389801025391,
+          -6.310582637786865,
+          5.36257266998291
+        ],
+        "camera_rotation": [
+          1.099881887435913,
+          -1.1680641165412453e-07,
+          0.7853983044624329
+        ],
+        "ortho_scale": 2.0453338623046875,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          1.4696462750434875,
+          1.6362671852111816
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              -2.9999988079071045,
+              -4.000000953674316,
+              5.000000476837158
+            ],
+            "rotation": [
+              0.8605254292488098,
+              6.123980256234063e-08,
+              -0.6435009241104126
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              4.000000476837158,
+              -0.9999997615814209,
+              2.999999523162842
+            ],
+            "rotation": [
+              1.061960220336914,
+              -4.796916641680582e-09,
+              1.3258178234100342
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              0.9999996423721313,
+              3.999999761581421,
+              4.000000953674316
+            ],
+            "rotation": [
+              0.8958311080932617,
+              -3.2157092988427394e-08,
+              2.8966140747070312
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 1.0000000582835358
+      }
+    },
+    {
+      "path": "assets/street/railway_crossing_lowered/preview.jpg",
+      "sha256": "453d07540747460e89ba21ab30fffdcf106f50520e8a6edffcb0a997712703b5",
+      "bytes": 108896,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "preview",
+      "original_render_record": {
+        "input_sha256": "71c349cabcce6cdae3b3b4bed14d665b5e99c9f0a11d310a074a2885ba78e20b",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 612.4548132869968,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 0.3787161423956168,
+        "source_bounds": [
+          [
+            -0.5110000371932983,
+            -0.42500001192092896,
+            0.0
+          ],
+          [
+            4.769999980926514,
+            0.28999999165534973,
+            3.788802146911621
+          ]
+        ],
+        "camera_location": [
+          6.214389801025391,
+          -6.310582637786865,
+          5.36257266998291
+        ],
+        "camera_rotation": [
+          1.099881887435913,
+          -1.1680641165412453e-07,
+          0.7853983044624329
+        ],
+        "ortho_scale": 2.0453338623046875,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          1.4696462750434875,
+          1.6362671852111816
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              -2.9999988079071045,
+              -4.000000953674316,
+              5.000000476837158
+            ],
+            "rotation": [
+              0.8605254292488098,
+              6.123980256234063e-08,
+              -0.6435009241104126
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              4.000000476837158,
+              -0.9999997615814209,
+              2.999999523162842
+            ],
+            "rotation": [
+              1.061960220336914,
+              -4.796916641680582e-09,
+              1.3258178234100342
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              0.9999996423721313,
+              3.999999761581421,
+              4.000000953674316
+            ],
+            "rotation": [
+              0.8958311080932617,
+              -3.2157092988427394e-08,
+              2.8966140747070312
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": null,
+        "floor_hidden": false,
+        "closeup_magnification_vs_full_fit": 1.0000000582835358
+      }
+    },
+    {
+      "path": "assets/street/railway_crossing_lowered/rear.jpg",
+      "sha256": "403947b546275b8bd44cb86d8101bb9fff532fb6d638f3d5286edcc628cd0843",
+      "bytes": 72289,
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "format": "JPEG",
+      "alias_of": null,
+      "render_view": "rear",
+      "original_render_record": {
+        "input_sha256": "71c349cabcce6cdae3b3b4bed14d665b5e99c9f0a11d310a074a2885ba78e20b",
+        "renderer_sha256": "99aa8624555718921d240ed78b1408f4c9f571538a21cf8720737430f52879fd",
+        "spec_sha256": "e05646fb8e477aaa597d69c0632810192b7c654e077610af8cff8bc58047a178",
+        "detail_plan_sha256": "88667250d416bd57b8b38a733f0ca51b564d2d9546b89a9623118746f9570604",
+        "blender_version": "4.3.2",
+        "elapsed_seconds": 41.20859412600112,
+        "sample_ceiling": 512,
+        "adaptive_threshold": 0.005,
+        "render_only_normalization": 0.3787161423956168,
+        "source_bounds": [
+          [
+            -0.5110000371932983,
+            -0.42500001192092896,
+            0.0
+          ],
+          [
+            4.769999980926514,
+            0.28999999165534973,
+            3.788802146911621
+          ]
+        ],
+        "camera_location": [
+          2.980241831096464e-08,
+          10.0,
+          0.7174396514892578
+        ],
+        "camera_rotation": [
+          -1.570796251296997,
+          3.141592502593994,
+          -0.0
+        ],
+        "ortho_scale": 2.499999761581421,
+        "focus": "full object",
+        "focus_projected_width_height": [
+          1.9999998211860657,
+          1.4348806738853455
+        ],
+        "full_object_fit": true,
+        "lights": [
+          {
+            "name": "Key",
+            "location": [
+              4.949746608734131,
+              2.573145627975464,
+              4.213045597076416
+            ],
+            "rotation": [
+              1.009339690208435,
+              1.5022574473277928e-07,
+              2.0514585971832275
+            ],
+            "energy": 500.0,
+            "size": 4.0
+          },
+          {
+            "name": "Fill",
+            "location": [
+              -2.1213204860687256,
+              4.186305046081543,
+              1.147473931312561
+            ],
+            "rotation": [
+              1.47627854347229,
+              2.5213394039269588e-08,
+              -2.673337697982788
+            ],
+            "energy": 300.0,
+            "size": 4.0
+          },
+          {
+            "name": "Rim",
+            "location": [
+              -3.5355348587036133,
+              -0.40112006664276123,
+              4.605151176452637
+            ],
+            "rotation": [
+              0.7390651702880859,
+              -4.153458021960432e-08,
+              -1.460035800933838
+            ],
+            "energy": 450.0,
+            "size": 3.0
+          }
+        ],
+        "fixed_background_srgb": [
+          184,
+          184,
+          184
+        ],
+        "floor_hidden": true,
+        "closeup_magnification_vs_full_fit": 1.000000005960465
+      }
+    }
+  ]
+}
