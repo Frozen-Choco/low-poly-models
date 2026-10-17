@@ -1,0 +1,24 @@
+[
+  {
+    "id": "toilet",
+    "repo_path": "assets/bathroom/toilet/toilet.glb",
+    "sha256": "17d00453e22620c3ee9e15e2e36c4dd682550599324f730a3dce4cab0ccb75ce",
+    "git_sha": null,
+    "provenance": "Original generic unbranded bathroom fixture; manufacturer photo morphology and metric dimensional references."
+  },
+  {
+    "id": "toilet_open",
+    "repo_path": "generators/bathroom_batch11a/evidence/poses/toilet/toilet_open.glb",
+    "sha256": "a2b61d4d2604094b1cae3a22ddc2db6dfe98f303bc7b920b11bb3011fc23e936",
+    "git_sha": null,
+    "provenance": "Render-only rigid open pose frame61 from delivered GLB; evidence/poses/provenance.json",
+    "requires_regeneration": "Evidence-only source omitted; regenerate frame61 via prepare_poses.py from delivered GLB."
+  },
+  {
+    "id": "washbasin",
+    "repo_path": "assets/bathroom/washbasin/washbasin.glb",
+    "sha256": "4134167325cf4ae8bd41956afcfcce226ba4b671fc34b9bfbd4e727d29edef9a",
+    "git_sha": null,
+    "provenance": "Original generic unbranded bathroom fixture; manufacturer photo morphology and metric dimensional references."
+  }
+]

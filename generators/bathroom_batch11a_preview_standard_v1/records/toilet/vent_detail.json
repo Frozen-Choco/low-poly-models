@@ -1,0 +1,111 @@
+{
+  "asset": "toilet",
+  "view": "vent_detail",
+  "input_repo_path": "assets/toilet/toilet.glb",
+  "input_sha256": "17d00453e22620c3ee9e15e2e36c4dd682550599324f730a3dce4cab0ccb75ce",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "a70cf9bc499ce764f6e98d6e52cc03b41b6c8e5c0412f852c6f79042271c4648",
+  "closeup_magnification_vs_full_fit": 1.2860532107359575,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch11a/generators/preview_standard_v1/repo/assets/toilet/vent_detail.jpg",
+  "output_sha256": "e6411f26f8712e7d09e8304b38af42e673c872bb6ef21571ec39c6cc081d8682",
+  "bytes": 126043,
+  "elapsed_seconds": 932.4656481779966,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 2.610966150085279,
+  "source_bounds": [
+    [
+      -0.2254999876022339,
+      -0.47999998927116394,
+      0.0
+    ],
+    [
+      0.21799999475479126,
+      0.2460000067949295,
+      0.765999972820282
+    ]
+  ],
+  "camera_location": [
+    -3.005322217941284,
+    9.664139747619629,
+    3.981170892715454
+  ],
+  "camera_rotation": [
+    1.2645190954208374,
+    3.1735325478621235e-08,
+    -2.8198421001434326
+  ],
+  "ortho_scale": 1.9582246541976929,
+  "focus": {
+    "direction": [
+      -1,
+      3,
+      1
+    ],
+    "target_m": [
+      0,
+      0.12,
+      0.37
+    ],
+    "span_m": 0.6,
+    "purpose": "Separate hinge support stations, rear tank seating and supply fittings"
+  },
+  "focus_projected_width_height": [
+    1.4120936393737793,
+    2.0147048830986023
+  ],
+  "full_object_fit": false,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        4.267847061157227,
+        2.848933458328247,
+        4.830021858215332
+      ],
+      "rotation": [
+        0.8948328495025635,
+        -1.0550479601079132e-07,
+        2.1686184406280518
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        -3.2190332412719727,
+        2.94889497756958,
+        2.393500566482544
+      ],
+      "rotation": [
+        1.2048428058624268,
+        3.524807112853523e-09,
+        -2.3178446292877197
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        -2.847836971282959,
+        -2.6368305683135986,
+        4.3071064949035645
+      ],
+      "rotation": [
+        0.8199554085731506,
+        -3.4983116847797646e-08,
+        -0.8354519009590149
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": null,
+  "floor_hidden": false,
+  "diagnostic_only": false
+}

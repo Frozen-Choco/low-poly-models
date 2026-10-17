@@ -1,0 +1,13 @@
+{
+  "decision": "PASS",
+  "comparison": "Delivered animation frame61 versus static photograph GLB frame1",
+  "results": [
+    {
+      "asset": "toilet",
+      "source_sha256": "17d00453e22620c3ee9e15e2e36c4dd682550599324f730a3dce4cab0ccb75ce",
+      "derived_sha256": "a2b61d4d2604094b1cae3a22ddc2db6dfe98f303bc7b920b11bb3011fc23e936",
+      "object_names_triangles_and_materials_match": true,
+      "max_distance_m": 8.429369557916289e-08
+    }
+  ]
+}

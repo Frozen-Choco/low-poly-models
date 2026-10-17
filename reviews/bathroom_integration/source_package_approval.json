@@ -1,0 +1,44 @@
+{
+  "decision": "PASS",
+  "gate": "independent_exact_lean_package",
+  "candidate": "lowpoly_batch11a/release_candidate",
+  "manifest_sha256": "d345e3a0708b18b6fb0085c83872d600d44b654b8f4f6078eb858b578613bc1a",
+  "payload_files": 79,
+  "payload_bytes": 5505115,
+  "manifest_bytes": 14043,
+  "source_revisions": {
+    "toilet": 10,
+    "washbasin": 8
+  },
+  "checks": [
+    "Exact manifest allowlist and every payload SHA256/size independently checked",
+    "Exactly2Blend+2GLB+26JPG; every file below100MB; no draft PNGs or redundant pose GLBs",
+    "Models match independent source approval, metadata/catalog units/dimensions and simple Japanese names",
+    "All26 delivered photos and26 immutable records match individually viewed canonical approvals",
+    "Frozen renderer/spec byte-identical to batch09a; relocation mapping and metadata record links resolve",
+    "Packaged generator source hash matches independent isolated byte-identical GLB reproduction evidence",
+    "Documented prepare_poses script independently executed on isolated package copy; regenerated poseGLB hash exact",
+    "Generic reference differences, static mechanisms and physical-simulation limitations documented",
+    "Only concise independent approvals/reproduction summaries included; raw audit candidate arrays excluded"
+  ],
+  "pose_reproduction": [
+    {
+      "id": "toilet",
+      "sha256": "17d00453e22620c3ee9e15e2e36c4dd682550599324f730a3dce4cab0ccb75ce",
+      "packaged_source_exists": true
+    },
+    {
+      "id": "toilet_open",
+      "sha256": "a2b61d4d2604094b1cae3a22ddc2db6dfe98f303bc7b920b11bb3011fc23e936",
+      "packaged_source_exists": false
+    },
+    {
+      "id": "washbasin",
+      "sha256": "4134167325cf4ae8bd41956afcfcce226ba4b671fc34b9bfbd4e727d29edef9a",
+      "packaged_source_exists": true
+    }
+  ],
+  "blocking_findings": [],
+  "publication_executed": false,
+  "authorizes": "This exact lean payload plus pinned manifest is accepted for parent-controlled integration/publication. Any candidate-byte change requires refreshed package acceptance."
+}

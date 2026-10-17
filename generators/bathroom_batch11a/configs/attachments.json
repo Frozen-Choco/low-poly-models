@@ -1,0 +1,14 @@
+{
+  "units":"meter",
+  "policy":"Intended concealed seating overlaps only. Exposed coplanar layers and moving-part penetrations prohibited. Walls omitted; supply and waste endpoints assume installation wall.",
+  "toilet": {
+    "supports":["floor -> ceramic skirt -> ceramic bowl -> rear deck -> cistern gasket -> cistern -> cover", "bowl rim -> four seat bumpers -> seat ring", "seat ring -> two lid bumpers -> lid", "rear deck/bowl -> fixed hinge feet/pedestals -> common coaxial pin -> separate seat/lid barrels -> arms -> seat/lid"],
+    "drain":"Bowl throat -> hollow curved trap -> floor socket with bottom recessed6mm inside skirt. Simplified visible structural path; not hydraulic simulation.",
+    "movement":"Independent lid0–88°, seat0–82°, frames1–151."
+  },
+  "washbasin": {
+    "supports":["floor -> open-backed pedestal -> ceramic bowl", "installation wall -> two mounting brackets -> basin rear", "basin deck -> shank/base -> mixer/spout/lever"],
+    "drain":"True basin drain with strainer -> hollow tailpiece -> hollow P-trap -> open wall outlet. Overflow bore connects via return tube to tailpiece side inlet.",
+    "supply":"Wall stops -> flexible feeds -> faucet shank. No water simulation or operating mixer valve."
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "asset": "washbasin",
+  "view": "close_up",
+  "input_repo_path": "assets/washbasin/washbasin.glb",
+  "input_sha256": "4134167325cf4ae8bd41956afcfcce226ba4b671fc34b9bfbd4e727d29edef9a",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "a70cf9bc499ce764f6e98d6e52cc03b41b6c8e5c0412f852c6f79042271c4648",
+  "closeup_magnification_vs_full_fit": 1.3907796506182892,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch11a/generators/preview_standard_v1/repo/assets/washbasin/close_up.jpg",
+  "output_sha256": "7b82689e98e7827ddb3a42b09d8362a420ea20da0483a0e7fe894d069999b09a",
+  "bytes": 92025,
+  "elapsed_seconds": 764.6571212769995,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 1.8083183513332903,
+  "source_bounds": [
+    [
+      -0.30399999022483826,
+      -0.25949999690055847,
+      0.0
+    ],
+    [
+      0.30399999022483826,
+      0.2619999945163727,
+      1.1059999465942383
+    ]
+  ],
+  "camera_location": [
+    3.3333334922790527,
+    -6.632761001586914,
+    8.257987022399902
+  ],
+  "camera_rotation": [
+    0.8410688042640686,
+    7.782603717032543e-08,
+    0.46364760398864746
+  ],
+  "ortho_scale": 1.6274864673614502,
+  "focus": {
+    "direction": [
+      1,
+      -2,
+      2
+    ],
+    "target_m": [
+      0,
+      0.02,
+      0.88
+    ],
+    "span_m": 0.72,
+    "purpose": "Continuous basin, drain strainer, actual overflow opening and hollow faucet"
+  },
+  "focus_projected_width_height": [
+    1.2116743326187134,
+    1.8107800483703613
+  ],
+  "full_object_fit": false,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        -4.579319953918457,
+        -1.9093306064605713,
+        5.047751426696777
+      ],
+      "rotation": [
+        0.8529486060142517,
+        -1.1465997928894467e-08,
+        -1.1911883354187012
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        3.1969316005706787,
+        -1.6504456996917725,
+        3.8382489681243896
+      ],
+      "rotation": [
+        0.8465195894241333,
+        6.705221267111483e-08,
+        1.107028603553772
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        1.9018207788467407,
+        4.102053642272949,
+        3.3571665287017822
+      ],
+      "rotation": [
+        1.045748233795166,
+        -7.86628433502301e-08,
+        2.7206034660339355
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": null,
+  "floor_hidden": false,
+  "diagnostic_only": false
+}

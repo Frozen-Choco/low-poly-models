@@ -1,0 +1,98 @@
+{
+  "asset": "toilet",
+  "view": "back",
+  "input_repo_path": "assets/toilet/toilet.glb",
+  "input_sha256": "17d00453e22620c3ee9e15e2e36c4dd682550599324f730a3dce4cab0ccb75ce",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "a70cf9bc499ce764f6e98d6e52cc03b41b6c8e5c0412f852c6f79042271c4648",
+  "closeup_magnification_vs_full_fit": 1.0000000350833402,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch11a/generators/preview_standard_v1/repo/assets/toilet/back.jpg",
+  "output_sha256": "a488cb151e88383e9f49782635b621139d0b62b8c7d566d94670730334e73305",
+  "bytes": 113968,
+  "elapsed_seconds": 858.883663624998,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 2.610966150085279,
+  "source_bounds": [
+    [
+      -0.2254999876022339,
+      -0.47999998927116394,
+      0.0
+    ],
+    [
+      0.21799999475479126,
+      0.2460000067949295,
+      0.765999972820282
+    ]
+  ],
+  "camera_location": [
+    -6.229018688201904,
+    6.4469990730285645,
+    5.435347080230713
+  ],
+  "camera_rotation": [
+    1.0998820066452026,
+    1.1037879943387452e-07,
+    -2.3561947345733643
+  ],
+  "ortho_scale": 2.5484166145324707,
+  "focus": "full object",
+  "focus_projected_width_height": [
+    1.8246707916259766,
+    2.0387333631515503
+  ],
+  "full_object_fit": true,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        2.999999761581421,
+        3.999999523162842,
+        5.000001430511475
+      ],
+      "rotation": [
+        0.8605252504348755,
+        -5.99574647708323e-08,
+        2.498091697692871
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        -4.000000476837158,
+        1.0000011920928955,
+        2.9999985694885254
+      ],
+      "rotation": [
+        1.0619604587554932,
+        9.89387904937189e-10,
+        -1.8157753944396973
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        -1.0000020265579224,
+        -3.999999523162842,
+        4.0
+      ],
+      "rotation": [
+        0.895831286907196,
+        2.379176855527021e-08,
+        -0.24497920274734497
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": null,
+  "floor_hidden": false,
+  "diagnostic_only": false
+}

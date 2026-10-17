@@ -1,0 +1,11 @@
+[
+  {
+    "asset": "toilet",
+    "source": "/workspace/scratch/a456259dbd5d/lowpoly_batch11a/assets/toilet/toilet.glb",
+    "source_sha256": "17d00453e22620c3ee9e15e2e36c4dd682550599324f730a3dce4cab0ccb75ce",
+    "frame": 61,
+    "derived": "evidence/poses/toilet/toilet_open.glb",
+    "derived_sha256": "a2b61d4d2604094b1cae3a22ddc2db6dfe98f303bc7b920b11bb3011fc23e936",
+    "purpose": "Render-only pose; same saved model geometry and material, rigid transform only. Not a second catalog asset."
+  }
+]

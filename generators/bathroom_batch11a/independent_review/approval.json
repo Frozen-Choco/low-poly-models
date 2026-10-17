@@ -1,0 +1,36 @@
+{
+  "decision": "PASS",
+  "gate": "independent_saved_shape_and_early_shading",
+  "revisions": {
+    "toilet": 10,
+    "washbasin": 8
+  },
+  "files": [
+    {
+      "path": "lowpoly_batch11a/assets/toilet/toilet.blend",
+      "sha256": "903c4d76ff302b3d1179223c18d6cf3469c57eddf5e43871d5352fb24aa153d2",
+      "bytes": 412561
+    },
+    {
+      "path": "lowpoly_batch11a/assets/toilet/toilet.glb",
+      "sha256": "17d00453e22620c3ee9e15e2e36c4dd682550599324f730a3dce4cab0ccb75ce",
+      "bytes": 771828
+    },
+    {
+      "path": "lowpoly_batch11a/assets/washbasin/washbasin.blend",
+      "sha256": "249326e333b7eef2288e28de62f510ff951d75f6cc743f9b732b3e3e65903e37",
+      "bytes": 536691
+    },
+    {
+      "path": "lowpoly_batch11a/assets/washbasin/washbasin.glb",
+      "sha256": "4134167325cf4ae8bd41956afcfcce226ba4b671fc34b9bfbd4e727d29edef9a",
+      "bytes": 990152
+    }
+  ],
+  "asset_reviews": {
+    "toilet": "reviews/batch11a/revision10/toilet_shape_approval.json",
+    "washbasin": "reviews/batch11a/washbasin_revision8/washbasin_shape_approval.json"
+  },
+  "blocking_findings": [],
+  "authorizes": "Exact source files may proceed to frozen canonical photography. Final photos, package and publication remain separate."
+}

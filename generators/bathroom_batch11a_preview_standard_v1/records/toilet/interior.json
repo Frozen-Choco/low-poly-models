@@ -1,0 +1,111 @@
+{
+  "asset": "toilet_open",
+  "view": "interior",
+  "input_repo_path": "evidence/poses/toilet/toilet_open.glb",
+  "input_sha256": "a2b61d4d2604094b1cae3a22ddc2db6dfe98f303bc7b920b11bb3011fc23e936",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "a70cf9bc499ce764f6e98d6e52cc03b41b6c8e5c0412f852c6f79042271c4648",
+  "closeup_magnification_vs_full_fit": 1.2278177251684759,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch11a/generators/preview_standard_v1/repo/evidence/poses/toilet/interior.jpg",
+  "output_sha256": "e24eb2db3b40f7108845840749d7b3723581e96cd86a6c1dceda760b03022fed",
+  "bytes": 133542,
+  "elapsed_seconds": 1097.2495047190023,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 2.1739966678426077,
+  "source_bounds": [
+    [
+      -0.2254999876022339,
+      -0.47999998927116394,
+      0.0
+    ],
+    [
+      0.21799999475479126,
+      0.2460000067949295,
+      0.919964611530304
+    ]
+  ],
+  "camera_location": [
+    0.008152480237185955,
+    -3.0321805477142334,
+    10.404380798339844
+  ],
+  "camera_rotation": [
+    0.2914569079875946,
+    -0.0,
+    0.0
+  ],
+  "ortho_scale": 1.7663723230361938,
+  "focus": {
+    "direction": [
+      0,
+      -0.6,
+      2
+    ],
+    "target_m": [
+      0,
+      -0.19,
+      0.38
+    ],
+    "span_m": 0.65,
+    "purpose": "Continuous ceramic bowl cavity and open throat; seat/lid separate above"
+  },
+  "focus_projected_width_height": [
+    0.9641674757003784,
+    1.7350265979766846
+  ],
+  "full_object_fit": false,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        -4.949747085571289,
+        2.404446601867676,
+        4.273934364318848
+      ],
+      "rotation": [
+        1.0147085189819336,
+        7.2455286215245e-08,
+        -2.0578458309173584
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        2.1213204860687256,
+        -0.9953754544258118,
+        4.938175678253174
+      ],
+      "rotation": [
+        0.49907180666923523,
+        -8.699259979039198e-09,
+        1.2191030979156494
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        3.535534143447876,
+        3.6346662044525146,
+        1.537775993347168
+      ],
+      "rotation": [
+        1.4292612075805664,
+        -1.55459161987892e-07,
+        2.3989579677581787
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": null,
+  "floor_hidden": false,
+  "diagnostic_only": false
+}

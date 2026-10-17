@@ -1,0 +1,203 @@
+{
+  "scope": "Exact production bytes and original immutable records; render-only open pose is not another catalog model.",
+  "assets": [
+    {
+      "asset": "toilet",
+      "production_input": "assets/toilet/toilet.glb",
+      "packaged_input": "assets/bathroom/toilet/toilet.glb",
+      "sha256": "17d00453e22620c3ee9e15e2e36c4dd682550599324f730a3dce4cab0ccb75ce",
+      "views": [
+        {
+          "view": "preview",
+          "input_variant": "toilet",
+          "packaged_image": "assets/bathroom/toilet/preview.jpg",
+          "sha256": "77defac8da152279eb8740a058003e9bd20f7126ea251d2b525ebe4e338e53b6",
+          "record": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/preview.json"
+        },
+        {
+          "view": "back",
+          "input_variant": "toilet",
+          "packaged_image": "assets/bathroom/toilet/back.jpg",
+          "sha256": "a488cb151e88383e9f49782635b621139d0b62b8c7d566d94670730334e73305",
+          "record": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/back.json"
+        },
+        {
+          "view": "front",
+          "input_variant": "toilet",
+          "packaged_image": "assets/bathroom/toilet/front.jpg",
+          "sha256": "dc13e29b64ebfcf21e680c17cf29c8e1a0a6eb5df52f00fd271a3c0ee8953c7c",
+          "record": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/front.json"
+        },
+        {
+          "view": "rear",
+          "input_variant": "toilet",
+          "packaged_image": "assets/bathroom/toilet/rear.jpg",
+          "sha256": "2f06a23d5bf4b78be5111fcd0323bffc1fc44d4ddf25cc6f64ecbaf2cf346475",
+          "record": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/rear.json"
+        },
+        {
+          "view": "side",
+          "input_variant": "toilet",
+          "packaged_image": "assets/bathroom/toilet/side.jpg",
+          "sha256": "bb86dcb37b54f534a8273e57bac3dd3e00fc65fd4c293493ad3116532048e9d6",
+          "record": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/side.json"
+        },
+        {
+          "view": "left",
+          "input_variant": "toilet",
+          "packaged_image": "assets/bathroom/toilet/left.jpg",
+          "sha256": "ddf880de7da3b06f63942866ea36c748d3865c026e47df2c2e3b095da98bbb3f",
+          "record": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/left.json"
+        },
+        {
+          "view": "top",
+          "input_variant": "toilet",
+          "packaged_image": "assets/bathroom/toilet/top.jpg",
+          "sha256": "64af58e3292164daff487de524513f5c3f838ac99db1dcc36d22802733cedf8e",
+          "record": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/top.json"
+        },
+        {
+          "view": "underside",
+          "input_variant": "toilet",
+          "packaged_image": "assets/bathroom/toilet/underside.jpg",
+          "sha256": "c9bc474650f17ef6a925997a80343d175d0b442295950cf0656f3a5bdd74c9ec",
+          "record": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/underside.json"
+        },
+        {
+          "view": "close_up",
+          "input_variant": "toilet",
+          "packaged_image": "assets/bathroom/toilet/close_up.jpg",
+          "sha256": "9d9978e3013f50f8899aa0bffc5743e4773be7f1923b1c672d4d1513c438a91b",
+          "record": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/close_up.json"
+        },
+        {
+          "view": "underside_detail",
+          "input_variant": "toilet",
+          "packaged_image": "assets/bathroom/toilet/underside_detail.jpg",
+          "sha256": "c8fa6a4e3f249da1741f62458d5ef2184be35517bb5fa1ef33882a11f6a32c98",
+          "record": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/underside_detail.json"
+        },
+        {
+          "view": "alternate_light",
+          "input_variant": "toilet",
+          "packaged_image": "assets/bathroom/toilet/alternate_light.jpg",
+          "sha256": "d61bdb4f2d3db75ecaaae4dbf495e4909823c6f92c3ddde39e80fad70d693762",
+          "record": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/alternate_light.json"
+        },
+        {
+          "view": "vent_detail",
+          "input_variant": "toilet",
+          "packaged_image": "assets/bathroom/toilet/vent_detail.jpg",
+          "sha256": "e6411f26f8712e7d09e8304b38af42e673c872bb6ef21571ec39c6cc081d8682",
+          "record": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/vent_detail.json"
+        },
+        {
+          "view": "open",
+          "input_variant": "toilet_open",
+          "packaged_image": "assets/bathroom/toilet/open.jpg",
+          "sha256": "c6547a359062e23bf1416aee10883f9600734a0497dc0a889eca9b7fa458a244",
+          "record": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/open.json"
+        },
+        {
+          "view": "interior",
+          "input_variant": "toilet_open",
+          "packaged_image": "assets/bathroom/toilet/interior.jpg",
+          "sha256": "e24eb2db3b40f7108845840749d7b3723581e96cd86a6c1dceda760b03022fed",
+          "record": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/interior.json"
+        }
+      ]
+    },
+    {
+      "asset": "washbasin",
+      "production_input": "assets/washbasin/washbasin.glb",
+      "packaged_input": "assets/bathroom/washbasin/washbasin.glb",
+      "sha256": "4134167325cf4ae8bd41956afcfcce226ba4b671fc34b9bfbd4e727d29edef9a",
+      "views": [
+        {
+          "view": "preview",
+          "input_variant": "washbasin",
+          "packaged_image": "assets/bathroom/washbasin/preview.jpg",
+          "sha256": "f0ba8ded81222c5ccea40059bc4dc73515faa420e479d9a03fc49c1c89b4d773",
+          "record": "generators/bathroom_batch11a_preview_standard_v1/records/washbasin/preview.json"
+        },
+        {
+          "view": "back",
+          "input_variant": "washbasin",
+          "packaged_image": "assets/bathroom/washbasin/back.jpg",
+          "sha256": "aff36e315d054ad4e4b4603f1d69ee80c1fc787f7c6a4e99175537437f2c3217",
+          "record": "generators/bathroom_batch11a_preview_standard_v1/records/washbasin/back.json"
+        },
+        {
+          "view": "front",
+          "input_variant": "washbasin",
+          "packaged_image": "assets/bathroom/washbasin/front.jpg",
+          "sha256": "04c2c79673f9187c63edf61731713558c5beb200227acff9f6e1fdce3b2e9797",
+          "record": "generators/bathroom_batch11a_preview_standard_v1/records/washbasin/front.json"
+        },
+        {
+          "view": "rear",
+          "input_variant": "washbasin",
+          "packaged_image": "assets/bathroom/washbasin/rear.jpg",
+          "sha256": "09e4f11665278770b4cc761374b3cdb1a698de7857fb028e20d1cfdaba27034b",
+          "record": "generators/bathroom_batch11a_preview_standard_v1/records/washbasin/rear.json"
+        },
+        {
+          "view": "side",
+          "input_variant": "washbasin",
+          "packaged_image": "assets/bathroom/washbasin/side.jpg",
+          "sha256": "5b3bc00a0a656b8e15d5161272679f5c2b4044805eef6ee7c6bcbbcecc00c087",
+          "record": "generators/bathroom_batch11a_preview_standard_v1/records/washbasin/side.json"
+        },
+        {
+          "view": "left",
+          "input_variant": "washbasin",
+          "packaged_image": "assets/bathroom/washbasin/left.jpg",
+          "sha256": "e857f07bdcecf3121836528b8fb71e111fe46dc18ffeb99515d77385c2abe0ad",
+          "record": "generators/bathroom_batch11a_preview_standard_v1/records/washbasin/left.json"
+        },
+        {
+          "view": "top",
+          "input_variant": "washbasin",
+          "packaged_image": "assets/bathroom/washbasin/top.jpg",
+          "sha256": "b492ac5e7b0176fafc08f10e01fbadafda11619aeb8bcd03d55ee2562d6f74a1",
+          "record": "generators/bathroom_batch11a_preview_standard_v1/records/washbasin/top.json"
+        },
+        {
+          "view": "underside",
+          "input_variant": "washbasin",
+          "packaged_image": "assets/bathroom/washbasin/underside.jpg",
+          "sha256": "cf5d564fb3b80afe5c6e3c094df5a15938c1b1c871fba68fc37fea4c79fbae34",
+          "record": "generators/bathroom_batch11a_preview_standard_v1/records/washbasin/underside.json"
+        },
+        {
+          "view": "close_up",
+          "input_variant": "washbasin",
+          "packaged_image": "assets/bathroom/washbasin/close_up.jpg",
+          "sha256": "7b82689e98e7827ddb3a42b09d8362a420ea20da0483a0e7fe894d069999b09a",
+          "record": "generators/bathroom_batch11a_preview_standard_v1/records/washbasin/close_up.json"
+        },
+        {
+          "view": "underside_detail",
+          "input_variant": "washbasin",
+          "packaged_image": "assets/bathroom/washbasin/underside_detail.jpg",
+          "sha256": "64a3e0693caddf45ee60801b836d3addb7f3831ecc19baea8f96f7b601709eee",
+          "record": "generators/bathroom_batch11a_preview_standard_v1/records/washbasin/underside_detail.json"
+        },
+        {
+          "view": "alternate_light",
+          "input_variant": "washbasin",
+          "packaged_image": "assets/bathroom/washbasin/alternate_light.jpg",
+          "sha256": "86d01e9a15aff96dfeabde7df8553eab79614eaf23d96e5c45b159cea667d244",
+          "record": "generators/bathroom_batch11a_preview_standard_v1/records/washbasin/alternate_light.json"
+        },
+        {
+          "view": "vent_detail",
+          "input_variant": "washbasin",
+          "packaged_image": "assets/bathroom/washbasin/vent_detail.jpg",
+          "sha256": "2375f5744926a3e26c8f38e7f6101d9e0c3b214a79bd6fee08e8cbcc7db3c766",
+          "record": "generators/bathroom_batch11a_preview_standard_v1/records/washbasin/vent_detail.json"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "asset": "toilet",
+  "view": "underside_detail",
+  "input_repo_path": "assets/toilet/toilet.glb",
+  "input_sha256": "17d00453e22620c3ee9e15e2e36c4dd682550599324f730a3dce4cab0ccb75ce",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "a70cf9bc499ce764f6e98d6e52cc03b41b6c8e5c0412f852c6f79042271c4648",
+  "closeup_magnification_vs_full_fit": 1.273425565059364,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch11a/generators/preview_standard_v1/repo/assets/toilet/underside_detail.jpg",
+  "output_sha256": "c8fa6a4e3f249da1741f62458d5ef2184be35517bb5fa1ef33882a11f6a32c98",
+  "bytes": 112729,
+  "elapsed_seconds": 514.5045953770023,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 2.610966150085279,
+  "source_bounds": [
+    [
+      -0.2254999876022339,
+      -0.47999998927116394,
+      0.0
+    ],
+    [
+      0.21799999475479126,
+      0.2460000067949295,
+      0.765999972820282
+    ]
+  ],
+  "camera_location": [
+    4.092273712158203,
+    -3.6986708641052246,
+    -8.034417152404785
+  ],
+  "camera_rotation": [
+    2.5261127948760986,
+    4.754838300868869e-08,
+    0.7853981256484985
+  ],
+  "ortho_scale": 1.8603134155273438,
+  "focus": {
+    "direction": [
+      1,
+      -1,
+      -2
+    ],
+    "target_m": [
+      0,
+      0.03,
+      0.05
+    ],
+    "span_m": 0.57,
+    "purpose": "Open floor drain socket recessed above skirt base; no coplanar bottom layers"
+  },
+  "focus_projected_width_height": [
+    1.8246709704399109,
+    1.8951765298843384
+  ],
+  "full_object_fit": false,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        -0.6290451288223267,
+        -6.370954513549805,
+        0.876518726348877
+      ],
+      "rotation": [
+        1.5829676389694214,
+        3.839573103903149e-09,
+        -0.06360258907079697
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        3.2596168518066406,
+        -0.2596169114112854,
+        -2.21052885055542
+      ],
+      "rotation": [
+        2.3061718940734863,
+        -4.0126874267798485e-08,
+        1.4362826347351074
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        4.383098602294922,
+        0.6169015765190125,
+        3.531378746032715
+      ],
+      "rotation": [
+        1.061558723449707,
+        -1.5774039852090027e-08,
+        1.6591745615005493
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": [
+    184,
+    184,
+    184
+  ],
+  "floor_hidden": true,
+  "diagnostic_only": false
+}

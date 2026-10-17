@@ -1,0 +1,638 @@
+[
+  {
+    "source": "README.md",
+    "destination": "generators/bathroom_batch11a/README.md",
+    "source_sha256": "82b1af90288d348f75d687bc600d171722aa11ada55b91b03ed3c35b4ea590aa",
+    "source_bytes": 2341,
+    "sha256": "9976858bde54a9ed31ca91913149711de84f3dc82bc394d8e4816e28c0cdca42",
+    "bytes": 2490,
+    "transformation": "Final independent acceptance binding, repository asset paths, or usage documentation only. No model, photo, source code, render configuration, relocation map or immutable evidence bytes changed."
+  },
+  {
+    "source": "assets/bathroom/toilet/alternate_light.jpg",
+    "destination": "assets/bathroom/toilet/alternate_light.jpg",
+    "source_sha256": "d61bdb4f2d3db75ecaaae4dbf495e4909823c6f92c3ddde39e80fad70d693762",
+    "source_bytes": 110596,
+    "sha256": "d61bdb4f2d3db75ecaaae4dbf495e4909823c6f92c3ddde39e80fad70d693762",
+    "bytes": 110596
+  },
+  {
+    "source": "assets/bathroom/toilet/back.jpg",
+    "destination": "assets/bathroom/toilet/back.jpg",
+    "source_sha256": "a488cb151e88383e9f49782635b621139d0b62b8c7d566d94670730334e73305",
+    "source_bytes": 113968,
+    "sha256": "a488cb151e88383e9f49782635b621139d0b62b8c7d566d94670730334e73305",
+    "bytes": 113968
+  },
+  {
+    "source": "assets/bathroom/toilet/close_up.jpg",
+    "destination": "assets/bathroom/toilet/close_up.jpg",
+    "source_sha256": "9d9978e3013f50f8899aa0bffc5743e4773be7f1923b1c672d4d1513c438a91b",
+    "source_bytes": 105979,
+    "sha256": "9d9978e3013f50f8899aa0bffc5743e4773be7f1923b1c672d4d1513c438a91b",
+    "bytes": 105979
+  },
+  {
+    "source": "assets/bathroom/toilet/front.jpg",
+    "destination": "assets/bathroom/toilet/front.jpg",
+    "source_sha256": "dc13e29b64ebfcf21e680c17cf29c8e1a0a6eb5df52f00fd271a3c0ee8953c7c",
+    "source_bytes": 77068,
+    "sha256": "dc13e29b64ebfcf21e680c17cf29c8e1a0a6eb5df52f00fd271a3c0ee8953c7c",
+    "bytes": 77068
+  },
+  {
+    "source": "assets/bathroom/toilet/interior.jpg",
+    "destination": "assets/bathroom/toilet/interior.jpg",
+    "source_sha256": "e24eb2db3b40f7108845840749d7b3723581e96cd86a6c1dceda760b03022fed",
+    "source_bytes": 133542,
+    "sha256": "e24eb2db3b40f7108845840749d7b3723581e96cd86a6c1dceda760b03022fed",
+    "bytes": 133542
+  },
+  {
+    "source": "assets/bathroom/toilet/left.jpg",
+    "destination": "assets/bathroom/toilet/left.jpg",
+    "source_sha256": "ddf880de7da3b06f63942866ea36c748d3865c026e47df2c2e3b095da98bbb3f",
+    "source_bytes": 86030,
+    "sha256": "ddf880de7da3b06f63942866ea36c748d3865c026e47df2c2e3b095da98bbb3f",
+    "bytes": 86030
+  },
+  {
+    "source": "assets/bathroom/toilet/metadata.json",
+    "destination": "assets/bathroom/toilet/metadata.json",
+    "source_sha256": "da432a1b8b90028e29fae8c65ba95ae2219cef4a06eade267fc91ddd4036760c",
+    "source_bytes": 1929,
+    "sha256": "63dd7304dddcffd35b58262b17e3702bba2d90ce73bcca763d12459d236111e3",
+    "bytes": 2459,
+    "transformation": "Final independent acceptance binding, repository asset paths, or usage documentation only. No model, photo, source code, render configuration, relocation map or immutable evidence bytes changed."
+  },
+  {
+    "source": "assets/bathroom/toilet/open.jpg",
+    "destination": "assets/bathroom/toilet/open.jpg",
+    "source_sha256": "c6547a359062e23bf1416aee10883f9600734a0497dc0a889eca9b7fa458a244",
+    "source_bytes": 106772,
+    "sha256": "c6547a359062e23bf1416aee10883f9600734a0497dc0a889eca9b7fa458a244",
+    "bytes": 106772
+  },
+  {
+    "source": "assets/bathroom/toilet/preview.jpg",
+    "destination": "assets/bathroom/toilet/preview.jpg",
+    "source_sha256": "77defac8da152279eb8740a058003e9bd20f7126ea251d2b525ebe4e338e53b6",
+    "source_bytes": 105420,
+    "sha256": "77defac8da152279eb8740a058003e9bd20f7126ea251d2b525ebe4e338e53b6",
+    "bytes": 105420
+  },
+  {
+    "source": "assets/bathroom/toilet/rear.jpg",
+    "destination": "assets/bathroom/toilet/rear.jpg",
+    "source_sha256": "2f06a23d5bf4b78be5111fcd0323bffc1fc44d4ddf25cc6f64ecbaf2cf346475",
+    "source_bytes": 81904,
+    "sha256": "2f06a23d5bf4b78be5111fcd0323bffc1fc44d4ddf25cc6f64ecbaf2cf346475",
+    "bytes": 81904
+  },
+  {
+    "source": "assets/bathroom/toilet/side.jpg",
+    "destination": "assets/bathroom/toilet/side.jpg",
+    "source_sha256": "bb86dcb37b54f534a8273e57bac3dd3e00fc65fd4c293493ad3116532048e9d6",
+    "source_bytes": 84360,
+    "sha256": "bb86dcb37b54f534a8273e57bac3dd3e00fc65fd4c293493ad3116532048e9d6",
+    "bytes": 84360
+  },
+  {
+    "source": "assets/bathroom/toilet/toilet.blend",
+    "destination": "assets/bathroom/toilet/toilet.blend",
+    "source_sha256": "903c4d76ff302b3d1179223c18d6cf3469c57eddf5e43871d5352fb24aa153d2",
+    "source_bytes": 412561,
+    "sha256": "903c4d76ff302b3d1179223c18d6cf3469c57eddf5e43871d5352fb24aa153d2",
+    "bytes": 412561
+  },
+  {
+    "source": "assets/bathroom/toilet/toilet.glb",
+    "destination": "assets/bathroom/toilet/toilet.glb",
+    "source_sha256": "17d00453e22620c3ee9e15e2e36c4dd682550599324f730a3dce4cab0ccb75ce",
+    "source_bytes": 771828,
+    "sha256": "17d00453e22620c3ee9e15e2e36c4dd682550599324f730a3dce4cab0ccb75ce",
+    "bytes": 771828
+  },
+  {
+    "source": "assets/bathroom/toilet/top.jpg",
+    "destination": "assets/bathroom/toilet/top.jpg",
+    "source_sha256": "64af58e3292164daff487de524513f5c3f838ac99db1dcc36d22802733cedf8e",
+    "source_bytes": 114206,
+    "sha256": "64af58e3292164daff487de524513f5c3f838ac99db1dcc36d22802733cedf8e",
+    "bytes": 114206
+  },
+  {
+    "source": "assets/bathroom/toilet/underside.jpg",
+    "destination": "assets/bathroom/toilet/underside.jpg",
+    "source_sha256": "c9bc474650f17ef6a925997a80343d175d0b442295950cf0656f3a5bdd74c9ec",
+    "source_bytes": 97477,
+    "sha256": "c9bc474650f17ef6a925997a80343d175d0b442295950cf0656f3a5bdd74c9ec",
+    "bytes": 97477
+  },
+  {
+    "source": "assets/bathroom/toilet/underside_detail.jpg",
+    "destination": "assets/bathroom/toilet/underside_detail.jpg",
+    "source_sha256": "c8fa6a4e3f249da1741f62458d5ef2184be35517bb5fa1ef33882a11f6a32c98",
+    "source_bytes": 112729,
+    "sha256": "c8fa6a4e3f249da1741f62458d5ef2184be35517bb5fa1ef33882a11f6a32c98",
+    "bytes": 112729
+  },
+  {
+    "source": "assets/bathroom/toilet/vent_detail.jpg",
+    "destination": "assets/bathroom/toilet/vent_detail.jpg",
+    "source_sha256": "e6411f26f8712e7d09e8304b38af42e673c872bb6ef21571ec39c6cc081d8682",
+    "source_bytes": 126043,
+    "sha256": "e6411f26f8712e7d09e8304b38af42e673c872bb6ef21571ec39c6cc081d8682",
+    "bytes": 126043
+  },
+  {
+    "source": "assets/bathroom/washbasin/alternate_light.jpg",
+    "destination": "assets/bathroom/washbasin/alternate_light.jpg",
+    "source_sha256": "86d01e9a15aff96dfeabde7df8553eab79614eaf23d96e5c45b159cea667d244",
+    "source_bytes": 96192,
+    "sha256": "86d01e9a15aff96dfeabde7df8553eab79614eaf23d96e5c45b159cea667d244",
+    "bytes": 96192
+  },
+  {
+    "source": "assets/bathroom/washbasin/back.jpg",
+    "destination": "assets/bathroom/washbasin/back.jpg",
+    "source_sha256": "aff36e315d054ad4e4b4603f1d69ee80c1fc787f7c6a4e99175537437f2c3217",
+    "source_bytes": 109099,
+    "sha256": "aff36e315d054ad4e4b4603f1d69ee80c1fc787f7c6a4e99175537437f2c3217",
+    "bytes": 109099
+  },
+  {
+    "source": "assets/bathroom/washbasin/close_up.jpg",
+    "destination": "assets/bathroom/washbasin/close_up.jpg",
+    "source_sha256": "7b82689e98e7827ddb3a42b09d8362a420ea20da0483a0e7fe894d069999b09a",
+    "source_bytes": 92025,
+    "sha256": "7b82689e98e7827ddb3a42b09d8362a420ea20da0483a0e7fe894d069999b09a",
+    "bytes": 92025
+  },
+  {
+    "source": "assets/bathroom/washbasin/front.jpg",
+    "destination": "assets/bathroom/washbasin/front.jpg",
+    "source_sha256": "04c2c79673f9187c63edf61731713558c5beb200227acff9f6e1fdce3b2e9797",
+    "source_bytes": 56193,
+    "sha256": "04c2c79673f9187c63edf61731713558c5beb200227acff9f6e1fdce3b2e9797",
+    "bytes": 56193
+  },
+  {
+    "source": "assets/bathroom/washbasin/left.jpg",
+    "destination": "assets/bathroom/washbasin/left.jpg",
+    "source_sha256": "e857f07bdcecf3121836528b8fb71e111fe46dc18ffeb99515d77385c2abe0ad",
+    "source_bytes": 62660,
+    "sha256": "e857f07bdcecf3121836528b8fb71e111fe46dc18ffeb99515d77385c2abe0ad",
+    "bytes": 62660
+  },
+  {
+    "source": "assets/bathroom/washbasin/metadata.json",
+    "destination": "assets/bathroom/washbasin/metadata.json",
+    "source_sha256": "a4e4484dcad5d55e464a1acf42e0fd71bfd51550a5705ff8f758dd3f38700246",
+    "source_bytes": 1806,
+    "sha256": "82353b5323007f1940a521a2b21c551041ae9e2f00717981756f9643a19f0ddd",
+    "bytes": 2336,
+    "transformation": "Final independent acceptance binding, repository asset paths, or usage documentation only. No model, photo, source code, render configuration, relocation map or immutable evidence bytes changed."
+  },
+  {
+    "source": "assets/bathroom/washbasin/preview.jpg",
+    "destination": "assets/bathroom/washbasin/preview.jpg",
+    "source_sha256": "f0ba8ded81222c5ccea40059bc4dc73515faa420e479d9a03fc49c1c89b4d773",
+    "source_bytes": 95148,
+    "sha256": "f0ba8ded81222c5ccea40059bc4dc73515faa420e479d9a03fc49c1c89b4d773",
+    "bytes": 95148
+  },
+  {
+    "source": "assets/bathroom/washbasin/rear.jpg",
+    "destination": "assets/bathroom/washbasin/rear.jpg",
+    "source_sha256": "09e4f11665278770b4cc761374b3cdb1a698de7857fb028e20d1cfdaba27034b",
+    "source_bytes": 71599,
+    "sha256": "09e4f11665278770b4cc761374b3cdb1a698de7857fb028e20d1cfdaba27034b",
+    "bytes": 71599
+  },
+  {
+    "source": "assets/bathroom/washbasin/side.jpg",
+    "destination": "assets/bathroom/washbasin/side.jpg",
+    "source_sha256": "5b3bc00a0a656b8e15d5161272679f5c2b4044805eef6ee7c6bcbbcecc00c087",
+    "source_bytes": 62715,
+    "sha256": "5b3bc00a0a656b8e15d5161272679f5c2b4044805eef6ee7c6bcbbcecc00c087",
+    "bytes": 62715
+  },
+  {
+    "source": "assets/bathroom/washbasin/top.jpg",
+    "destination": "assets/bathroom/washbasin/top.jpg",
+    "source_sha256": "b492ac5e7b0176fafc08f10e01fbadafda11619aeb8bcd03d55ee2562d6f74a1",
+    "source_bytes": 107807,
+    "sha256": "b492ac5e7b0176fafc08f10e01fbadafda11619aeb8bcd03d55ee2562d6f74a1",
+    "bytes": 107807
+  },
+  {
+    "source": "assets/bathroom/washbasin/underside.jpg",
+    "destination": "assets/bathroom/washbasin/underside.jpg",
+    "source_sha256": "cf5d564fb3b80afe5c6e3c094df5a15938c1b1c871fba68fc37fea4c79fbae34",
+    "source_bytes": 104815,
+    "sha256": "cf5d564fb3b80afe5c6e3c094df5a15938c1b1c871fba68fc37fea4c79fbae34",
+    "bytes": 104815
+  },
+  {
+    "source": "assets/bathroom/washbasin/underside_detail.jpg",
+    "destination": "assets/bathroom/washbasin/underside_detail.jpg",
+    "source_sha256": "64a3e0693caddf45ee60801b836d3addb7f3831ecc19baea8f96f7b601709eee",
+    "source_bytes": 121268,
+    "sha256": "64a3e0693caddf45ee60801b836d3addb7f3831ecc19baea8f96f7b601709eee",
+    "bytes": 121268
+  },
+  {
+    "source": "assets/bathroom/washbasin/vent_detail.jpg",
+    "destination": "assets/bathroom/washbasin/vent_detail.jpg",
+    "source_sha256": "2375f5744926a3e26c8f38e7f6101d9e0c3b214a79bd6fee08e8cbcc7db3c766",
+    "source_bytes": 142623,
+    "sha256": "2375f5744926a3e26c8f38e7f6101d9e0c3b214a79bd6fee08e8cbcc7db3c766",
+    "bytes": 142623
+  },
+  {
+    "source": "assets/bathroom/washbasin/washbasin.blend",
+    "destination": "assets/bathroom/washbasin/washbasin.blend",
+    "source_sha256": "249326e333b7eef2288e28de62f510ff951d75f6cc743f9b732b3e3e65903e37",
+    "source_bytes": 536691,
+    "sha256": "249326e333b7eef2288e28de62f510ff951d75f6cc743f9b732b3e3e65903e37",
+    "bytes": 536691
+  },
+  {
+    "source": "assets/bathroom/washbasin/washbasin.glb",
+    "destination": "assets/bathroom/washbasin/washbasin.glb",
+    "source_sha256": "4134167325cf4ae8bd41956afcfcce226ba4b671fc34b9bfbd4e727d29edef9a",
+    "source_bytes": 990152,
+    "sha256": "4134167325cf4ae8bd41956afcfcce226ba4b671fc34b9bfbd4e727d29edef9a",
+    "bytes": 990152
+  },
+  {
+    "source": "catalog.json",
+    "destination": "generators/bathroom_batch11a/catalog.json",
+    "source_sha256": "3b4c306be5a6f73f67153b37a24e1bf3fac6afe8dae0ed66e7cc9f3039b964a1",
+    "source_bytes": 2559,
+    "sha256": "d5ef6002f2d12bc408057f46092460f190bdaef798c75680aefef454669268b0",
+    "bytes": 4170,
+    "transformation": "Final independent acceptance binding, repository asset paths, or usage documentation only. No model, photo, source code, render configuration, relocation map or immutable evidence bytes changed."
+  },
+  {
+    "source": "generators/bathroom_batch11a/configs/attachments.json",
+    "destination": "generators/bathroom_batch11a/configs/attachments.json",
+    "source_sha256": "894ab30c2131b37c614f9abe597327fea5e5a5000fd53f82fa8074887aa4b714",
+    "source_bytes": 1252,
+    "sha256": "894ab30c2131b37c614f9abe597327fea5e5a5000fd53f82fa8074887aa4b714",
+    "bytes": 1252
+  },
+  {
+    "source": "generators/bathroom_batch11a/docs/reference-and-design.md",
+    "destination": "generators/bathroom_batch11a/docs/reference-and-design.md",
+    "source_sha256": "23bb5a69d223b538d49f2149738192bf60743246dfc1eb39d7da3860f713a406",
+    "source_bytes": 5973,
+    "sha256": "23bb5a69d223b538d49f2149738192bf60743246dfc1eb39d7da3860f713a406",
+    "bytes": 5973
+  },
+  {
+    "source": "generators/bathroom_batch11a/evidence/photography_validation.json",
+    "destination": "generators/bathroom_batch11a/evidence/photography_validation.json",
+    "source_sha256": "cb4e2b80c365922f2a594bbbe6bb44aa472a5e5fdacdcf51167f803f04e41c67",
+    "source_bytes": 10755,
+    "sha256": "cb4e2b80c365922f2a594bbbe6bb44aa472a5e5fdacdcf51167f803f04e41c67",
+    "bytes": 10755
+  },
+  {
+    "source": "generators/bathroom_batch11a/evidence/poses/provenance.json",
+    "destination": "generators/bathroom_batch11a/evidence/poses/provenance.json",
+    "source_sha256": "69b74e7a3bdc381f10f8d1c205cdebc2ce62cf182cc0791927c5315ca4d142d7",
+    "source_bytes": 503,
+    "sha256": "69b74e7a3bdc381f10f8d1c205cdebc2ce62cf182cc0791927c5315ca4d142d7",
+    "bytes": 503
+  },
+  {
+    "source": "generators/bathroom_batch11a/evidence/saved_validation.json",
+    "destination": "generators/bathroom_batch11a/evidence/saved_validation.json",
+    "source_sha256": "7b4863354968438fdf76bc2fd425b8171f2995c67dc8d436c33a462ff47adc3e",
+    "source_bytes": 47819,
+    "sha256": "7b4863354968438fdf76bc2fd425b8171f2995c67dc8d436c33a462ff47adc3e",
+    "bytes": 47819
+  },
+  {
+    "source": "generators/bathroom_batch11a/evidence/source_reproduction.json",
+    "destination": "generators/bathroom_batch11a/evidence/source_reproduction.json",
+    "source_sha256": "822065cfba0f785e6c70dbf03ba5120e5c3e13ed87d2caf6bb40d2015e6b712b",
+    "source_bytes": 755,
+    "sha256": "822065cfba0f785e6c70dbf03ba5120e5c3e13ed87d2caf6bb40d2015e6b712b",
+    "bytes": 755
+  },
+  {
+    "source": "generators/bathroom_batch11a/independent_review/approval.json",
+    "destination": "generators/bathroom_batch11a/independent_review/approval.json",
+    "source_sha256": "6d2099d722342145001d05a23bcd8bc8a3d2b3f66a371394ba22d8af965f434a",
+    "source_bytes": 1233,
+    "sha256": "6d2099d722342145001d05a23bcd8bc8a3d2b3f66a371394ba22d8af965f434a",
+    "bytes": 1233
+  },
+  {
+    "source": "generators/bathroom_batch11a/independent_review/canonical_full_sets.json",
+    "destination": "generators/bathroom_batch11a/independent_review/canonical_full_sets.json",
+    "source_sha256": "ac5c0874b1934f3f43a2a0f5f19a823a5704064ed4709d758e0204ce68035b5a",
+    "source_bytes": 14776,
+    "sha256": "ac5c0874b1934f3f43a2a0f5f19a823a5704064ed4709d758e0204ce68035b5a",
+    "bytes": 14776
+  },
+  {
+    "source": "generators/bathroom_batch11a/independent_review/gate.md",
+    "destination": "generators/bathroom_batch11a/independent_review/gate.md",
+    "source_sha256": "22a558e91c0ee17a70e7419992e6a09738b63d413b37c4bc4265c568cdb7fa8d",
+    "source_bytes": 3224,
+    "sha256": "22a558e91c0ee17a70e7419992e6a09738b63d413b37c4bc4265c568cdb7fa8d",
+    "bytes": 3224
+  },
+  {
+    "source": "generators/bathroom_batch11a/independent_review/open_pose_comparison.json",
+    "destination": "generators/bathroom_batch11a/independent_review/open_pose_comparison.json",
+    "source_sha256": "00745b2466216c8961932d11f0d1fd90f03dd89dd91527d5aba1661b98e823aa",
+    "source_bytes": 451,
+    "sha256": "00745b2466216c8961932d11f0d1fd90f03dd89dd91527d5aba1661b98e823aa",
+    "bytes": 451
+  },
+  {
+    "source": "generators/bathroom_batch11a/independent_review/source_reproduction.json",
+    "destination": "generators/bathroom_batch11a/independent_review/source_reproduction.json",
+    "source_sha256": "82c10659c58e76c642535ffa97ad7083caa0b2fc294966dfc318f81a8ea1677b",
+    "source_bytes": 933,
+    "sha256": "82c10659c58e76c642535ffa97ad7083caa0b2fc294966dfc318f81a8ea1677b",
+    "bytes": 933
+  },
+  {
+    "source": "generators/bathroom_batch11a/scripts/build_assets.py",
+    "destination": "generators/bathroom_batch11a/scripts/build_assets.py",
+    "source_sha256": "da979f064ad6c53d74aa71e54f24bede491425d85b3a2f0f0e5e2e44dbec0a79",
+    "source_bytes": 24087,
+    "sha256": "da979f064ad6c53d74aa71e54f24bede491425d85b3a2f0f0e5e2e44dbec0a79",
+    "bytes": 24087
+  },
+  {
+    "source": "generators/bathroom_batch11a/scripts/prepare_poses.py",
+    "destination": "generators/bathroom_batch11a/scripts/prepare_poses.py",
+    "source_sha256": "e7a498dea3779da8e613d96fe38680f15e5352c371c745844fbb8c37893a9ec2",
+    "source_bytes": 1840,
+    "sha256": "e7a498dea3779da8e613d96fe38680f15e5352c371c745844fbb8c37893a9ec2",
+    "bytes": 1840
+  },
+  {
+    "source": "generators/bathroom_batch11a/scripts/validate_saved.py",
+    "destination": "generators/bathroom_batch11a/scripts/validate_saved.py",
+    "source_sha256": "4545358815eeff6c2de7e9e786130d23e43649d604cbe72f5f86658bc6682b93",
+    "source_bytes": 1811,
+    "sha256": "4545358815eeff6c2de7e9e786130d23e43649d604cbe72f5f86658bc6682b93",
+    "bytes": 1811
+  },
+  {
+    "source": "generators/bathroom_batch11a_preview_standard_v1/detail_targets.json",
+    "destination": "generators/bathroom_batch11a_preview_standard_v1/detail_targets.json",
+    "source_sha256": "a70cf9bc499ce764f6e98d6e52cc03b41b6c8e5c0412f852c6f79042271c4648",
+    "source_bytes": 2169,
+    "sha256": "a70cf9bc499ce764f6e98d6e52cc03b41b6c8e5c0412f852c6f79042271c4648",
+    "bytes": 2169
+  },
+  {
+    "source": "generators/bathroom_batch11a_preview_standard_v1/inputs.json",
+    "destination": "generators/bathroom_batch11a_preview_standard_v1/inputs.json",
+    "source_sha256": "91eb72262e3919a8a2fee8b33aef6ededb6e4c8be3068e433dd621abfe1a7ba3",
+    "source_bytes": 1097,
+    "sha256": "91eb72262e3919a8a2fee8b33aef6ededb6e4c8be3068e433dd621abfe1a7ba3",
+    "bytes": 1097
+  },
+  {
+    "source": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/alternate_light.json",
+    "destination": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/alternate_light.json",
+    "source_sha256": "134b8c7c4228ee4e3c22e6661885b0f4a60ddf04f08be31d370468fbd7ae6c4a",
+    "source_bytes": 2513,
+    "sha256": "134b8c7c4228ee4e3c22e6661885b0f4a60ddf04f08be31d370468fbd7ae6c4a",
+    "bytes": 2513
+  },
+  {
+    "source": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/back.json",
+    "destination": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/back.json",
+    "source_sha256": "312c24386759b1a13149580195e142865ac1fe636738123cb5e281ca11417476",
+    "source_bytes": 2502,
+    "sha256": "312c24386759b1a13149580195e142865ac1fe636738123cb5e281ca11417476",
+    "bytes": 2502
+  },
+  {
+    "source": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/close_up.json",
+    "destination": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/close_up.json",
+    "source_sha256": "6e2171d5c11078aef339548289d8afbb7a1ed127f95555e758e6c8ff78af5876",
+    "source_bytes": 2722,
+    "sha256": "6e2171d5c11078aef339548289d8afbb7a1ed127f95555e758e6c8ff78af5876",
+    "bytes": 2722
+  },
+  {
+    "source": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/front.json",
+    "destination": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/front.json",
+    "source_sha256": "a08c1f8a59429538c97ab1b9bcd40b2e1e2c4e29a26faed43670fb7fc0a0d1a0",
+    "source_bytes": 2472,
+    "sha256": "a08c1f8a59429538c97ab1b9bcd40b2e1e2c4e29a26faed43670fb7fc0a0d1a0",
+    "bytes": 2472
+  },
+  {
+    "source": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/interior.json",
+    "destination": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/interior.json",
+    "source_sha256": "0c48215acd2041108860a5ec604c664eb64ec65623d4a576d04988f7a7bccea0",
+    "source_bytes": 2738,
+    "sha256": "0c48215acd2041108860a5ec604c664eb64ec65623d4a576d04988f7a7bccea0",
+    "bytes": 2738
+  },
+  {
+    "source": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/left.json",
+    "destination": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/left.json",
+    "source_sha256": "4cb716fdb2dc7c9a6b7b4fc56dc5c95f4f50d348ca31dc4bb6a143abb3101f42",
+    "source_bytes": 2475,
+    "sha256": "4cb716fdb2dc7c9a6b7b4fc56dc5c95f4f50d348ca31dc4bb6a143abb3101f42",
+    "bytes": 2475
+  },
+  {
+    "source": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/open.json",
+    "destination": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/open.json",
+    "source_sha256": "1dafc6b2367af5c8c4c6d5599270367dc45854c354402ca90def54c798cdbb9e",
+    "source_bytes": 2726,
+    "sha256": "1dafc6b2367af5c8c4c6d5599270367dc45854c354402ca90def54c798cdbb9e",
+    "bytes": 2726
+  },
+  {
+    "source": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/preview.json",
+    "destination": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/preview.json",
+    "source_sha256": "66dfaa4111681709934a846cecec3eaba7e17c245e97fd5623991a4476b1fb62",
+    "source_bytes": 2523,
+    "sha256": "66dfaa4111681709934a846cecec3eaba7e17c245e97fd5623991a4476b1fb62",
+    "bytes": 2523
+  },
+  {
+    "source": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/rear.json",
+    "destination": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/rear.json",
+    "source_sha256": "9ccd6221f02178d8750fa7fd916e3678680185e8f91e899fe6e88a83a74b160b",
+    "source_bytes": 2513,
+    "sha256": "9ccd6221f02178d8750fa7fd916e3678680185e8f91e899fe6e88a83a74b160b",
+    "bytes": 2513
+  },
+  {
+    "source": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/side.json",
+    "destination": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/side.json",
+    "source_sha256": "f83d29b2d04a5039f5b8266d4efaed782141b356167ad24c14c21c5101a45e8a",
+    "source_bytes": 2469,
+    "sha256": "f83d29b2d04a5039f5b8266d4efaed782141b356167ad24c14c21c5101a45e8a",
+    "bytes": 2469
+  },
+  {
+    "source": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/top.json",
+    "destination": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/top.json",
+    "source_sha256": "a138676c037a714fd05722394bb889d679f58e5995aab73b381864472cc3d4b4",
+    "source_bytes": 2429,
+    "sha256": "a138676c037a714fd05722394bb889d679f58e5995aab73b381864472cc3d4b4",
+    "bytes": 2429
+  },
+  {
+    "source": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/underside.json",
+    "destination": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/underside.json",
+    "source_sha256": "987fdfa38a0a5b42ac723ec47c621a5275eb6f36454ae99203c59f385bef110e",
+    "source_bytes": 2556,
+    "sha256": "987fdfa38a0a5b42ac723ec47c621a5275eb6f36454ae99203c59f385bef110e",
+    "bytes": 2556
+  },
+  {
+    "source": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/underside_detail.json",
+    "destination": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/underside_detail.json",
+    "source_sha256": "bf687b82599ea6d3137a42b54b5f35a6be23920292f116308a4fd35274ad8887",
+    "source_bytes": 2789,
+    "sha256": "bf687b82599ea6d3137a42b54b5f35a6be23920292f116308a4fd35274ad8887",
+    "bytes": 2789
+  },
+  {
+    "source": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/vent_detail.json",
+    "destination": "generators/bathroom_batch11a_preview_standard_v1/records/toilet/vent_detail.json",
+    "source_sha256": "8bee0cc94fda3402bb0b20d09fd7d81e2d84859747f4ac626f875083db8371f9",
+    "source_bytes": 2745,
+    "sha256": "8bee0cc94fda3402bb0b20d09fd7d81e2d84859747f4ac626f875083db8371f9",
+    "bytes": 2745
+  },
+  {
+    "source": "generators/bathroom_batch11a_preview_standard_v1/records/washbasin/alternate_light.json",
+    "destination": "generators/bathroom_batch11a_preview_standard_v1/records/washbasin/alternate_light.json",
+    "source_sha256": "10ec674ff9c80cf1cd3cfec1e95509e77fc9f4a57c39c9a8e67ad97dd97ca353",
+    "source_bytes": 2525,
+    "sha256": "10ec674ff9c80cf1cd3cfec1e95509e77fc9f4a57c39c9a8e67ad97dd97ca353",
+    "bytes": 2525
+  },
+  {
+    "source": "generators/bathroom_batch11a_preview_standard_v1/records/washbasin/back.json",
+    "destination": "generators/bathroom_batch11a_preview_standard_v1/records/washbasin/back.json",
+    "source_sha256": "af5b6045194a29e460fc5c2c6e40616574a5bfcd5e6e21797e9aea9a5dba750e",
+    "source_bytes": 2518,
+    "sha256": "af5b6045194a29e460fc5c2c6e40616574a5bfcd5e6e21797e9aea9a5dba750e",
+    "bytes": 2518
+  },
+  {
+    "source": "generators/bathroom_batch11a_preview_standard_v1/records/washbasin/close_up.json",
+    "destination": "generators/bathroom_batch11a_preview_standard_v1/records/washbasin/close_up.json",
+    "source_sha256": "3b4578bb98fd72691453b067a09171497f31519b2787f5840c3ef941c6ec4de8",
+    "source_bytes": 2758,
+    "sha256": "3b4578bb98fd72691453b067a09171497f31519b2787f5840c3ef941c6ec4de8",
+    "bytes": 2758
+  },
+  {
+    "source": "generators/bathroom_batch11a_preview_standard_v1/records/washbasin/front.json",
+    "destination": "generators/bathroom_batch11a_preview_standard_v1/records/washbasin/front.json",
+    "source_sha256": "5ed1a1d2fb34247deb2aeb76eb6d2b4b5ab5a05474aa2891954b6aeb12b7bc4f",
+    "source_bytes": 2487,
+    "sha256": "5ed1a1d2fb34247deb2aeb76eb6d2b4b5ab5a05474aa2891954b6aeb12b7bc4f",
+    "bytes": 2487
+  },
+  {
+    "source": "generators/bathroom_batch11a_preview_standard_v1/records/washbasin/left.json",
+    "destination": "generators/bathroom_batch11a_preview_standard_v1/records/washbasin/left.json",
+    "source_sha256": "cd6f1a0e43f2f35e718cb305f2abfd8e4e9fc2af0d4e16eaaab345a6e8076fde",
+    "source_bytes": 2490,
+    "sha256": "cd6f1a0e43f2f35e718cb305f2abfd8e4e9fc2af0d4e16eaaab345a6e8076fde",
+    "bytes": 2490
+  },
+  {
+    "source": "generators/bathroom_batch11a_preview_standard_v1/records/washbasin/preview.json",
+    "destination": "generators/bathroom_batch11a_preview_standard_v1/records/washbasin/preview.json",
+    "source_sha256": "ec28b7e5176b301716cf6ba4238ab4044d195e494657b601be9d0d9d04143b85",
+    "source_bytes": 2533,
+    "sha256": "ec28b7e5176b301716cf6ba4238ab4044d195e494657b601be9d0d9d04143b85",
+    "bytes": 2533
+  },
+  {
+    "source": "generators/bathroom_batch11a_preview_standard_v1/records/washbasin/rear.json",
+    "destination": "generators/bathroom_batch11a_preview_standard_v1/records/washbasin/rear.json",
+    "source_sha256": "fc70d99d1049b4240ecbb939d5c344519c6f203d23464f9338dd6f0b9c6b4e9d",
+    "source_bytes": 2486,
+    "sha256": "fc70d99d1049b4240ecbb939d5c344519c6f203d23464f9338dd6f0b9c6b4e9d",
+    "bytes": 2486
+  },
+  {
+    "source": "generators/bathroom_batch11a_preview_standard_v1/records/washbasin/side.json",
+    "destination": "generators/bathroom_batch11a_preview_standard_v1/records/washbasin/side.json",
+    "source_sha256": "287cc5e824ad50d0dea7ea6d8fba547d1cb33a68a013fb8725d24da657ad5d2b",
+    "source_bytes": 2483,
+    "sha256": "287cc5e824ad50d0dea7ea6d8fba547d1cb33a68a013fb8725d24da657ad5d2b",
+    "bytes": 2483
+  },
+  {
+    "source": "generators/bathroom_batch11a_preview_standard_v1/records/washbasin/top.json",
+    "destination": "generators/bathroom_batch11a_preview_standard_v1/records/washbasin/top.json",
+    "source_sha256": "3055e738a9f9365094d885d8bdcda87f5f1698bb1a49d57aebbf0aa011121f0a",
+    "source_bytes": 2443,
+    "sha256": "3055e738a9f9365094d885d8bdcda87f5f1698bb1a49d57aebbf0aa011121f0a",
+    "bytes": 2443
+  },
+  {
+    "source": "generators/bathroom_batch11a_preview_standard_v1/records/washbasin/underside.json",
+    "destination": "generators/bathroom_batch11a_preview_standard_v1/records/washbasin/underside.json",
+    "source_sha256": "5757d6f0430fd215c77efde582e29e5e28f8d036761fd54f4a11f44a78348927",
+    "source_bytes": 2571,
+    "sha256": "5757d6f0430fd215c77efde582e29e5e28f8d036761fd54f4a11f44a78348927",
+    "bytes": 2571
+  },
+  {
+    "source": "generators/bathroom_batch11a_preview_standard_v1/records/washbasin/underside_detail.json",
+    "destination": "generators/bathroom_batch11a_preview_standard_v1/records/washbasin/underside_detail.json",
+    "source_sha256": "5c5f0055633e92fe6ad916cef91d89e134b9ebb9a6c504b492dd352de478f873",
+    "source_bytes": 2782,
+    "sha256": "5c5f0055633e92fe6ad916cef91d89e134b9ebb9a6c504b492dd352de478f873",
+    "bytes": 2782
+  },
+  {
+    "source": "generators/bathroom_batch11a_preview_standard_v1/records/washbasin/vent_detail.json",
+    "destination": "generators/bathroom_batch11a_preview_standard_v1/records/washbasin/vent_detail.json",
+    "source_sha256": "4edabbb449e4efcac56f8d25ae7e8b40da466431b375642688d48b1424dcbc85",
+    "source_bytes": 2756,
+    "sha256": "4edabbb449e4efcac56f8d25ae7e8b40da466431b375642688d48b1424dcbc85",
+    "bytes": 2756
+  },
+  {
+    "source": "generators/bathroom_batch11a_preview_standard_v1/relocation.json",
+    "destination": "generators/bathroom_batch11a_preview_standard_v1/relocation.json",
+    "source_sha256": "44158b0f5136b0f12cfa3438533059d271a3da7085d46433ac406fdc6064e047",
+    "source_bytes": 9667,
+    "sha256": "44158b0f5136b0f12cfa3438533059d271a3da7085d46433ac406fdc6064e047",
+    "bytes": 9667
+  },
+  {
+    "source": "generators/bathroom_batch11a_preview_standard_v1/render.py",
+    "destination": "generators/bathroom_batch11a_preview_standard_v1/render.py",
+    "source_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+    "source_bytes": 8516,
+    "sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+    "bytes": 8516
+  },
+  {
+    "source": "generators/bathroom_batch11a_preview_standard_v1/standard.json",
+    "destination": "generators/bathroom_batch11a_preview_standard_v1/standard.json",
+    "source_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+    "source_bytes": 3145,
+    "sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+    "bytes": 3145
+  }
+]

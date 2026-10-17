@@ -1,0 +1,111 @@
+{
+  "asset": "toilet",
+  "view": "close_up",
+  "input_repo_path": "assets/toilet/toilet.glb",
+  "input_sha256": "17d00453e22620c3ee9e15e2e36c4dd682550599324f730a3dce4cab0ccb75ce",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "a70cf9bc499ce764f6e98d6e52cc03b41b6c8e5c0412f852c6f79042271c4648",
+  "closeup_magnification_vs_full_fit": 1.4959853378897652,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch11a/generators/preview_standard_v1/repo/assets/toilet/close_up.jpg",
+  "output_sha256": "9d9978e3013f50f8899aa0bffc5743e4773be7f1923b1c672d4d1513c438a91b",
+  "bytes": 105979,
+  "elapsed_seconds": 917.2603707539965,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 2.610966150085279,
+  "source_bounds": [
+    [
+      -0.2254999876022339,
+      -0.47999998927116394,
+      0.0
+    ],
+    [
+      0.21799999475479126,
+      0.2460000067949295,
+      0.765999972820282
+    ]
+  ],
+  "camera_location": [
+    2.866934061050415,
+    -8.788139343261719,
+    5.408430099487305
+  ],
+  "camera_rotation": [
+    1.1278854608535767,
+    -1.205942101734081e-08,
+    0.32175058126449585
+  ],
+  "ortho_scale": 2.088773012161255,
+  "focus": {
+    "direction": [
+      1,
+      -3,
+      1.5
+    ],
+    "target_m": [
+      0,
+      -0.2,
+      0.43
+    ],
+    "span_m": 0.64,
+    "purpose": "Ceramic bowl, raised seat/lid edges and seated bumpers"
+  },
+  "focus_projected_width_height": [
+    1.4120935797691345,
+    2.499819040298462
+  ],
+  "full_object_fit": false,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        -4.436805248260498,
+        -2.342057943344116,
+        4.978633880615234
+      ],
+      "rotation": [
+        0.8648141622543335,
+        1.5308637557609472e-07,
+        -1.0834503173828125
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        3.147765636444092,
+        -2.735092878341675,
+        2.9002203941345215
+      ],
+      "rotation": [
+        1.0860294103622437,
+        -7.412263869355229e-08,
+        0.8544089198112488
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        2.7101078033447266,
+        3.0500166416168213,
+        4.058220863342285
+      ],
+      "rotation": [
+        0.8816583752632141,
+        3.7666271879288615e-08,
+        2.413351058959961
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": null,
+  "floor_hidden": false,
+  "diagnostic_only": false
+}

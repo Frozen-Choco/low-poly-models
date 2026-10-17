@@ -1,0 +1,19 @@
+{
+  "decision": "PASS",
+  "script_sha256": "da979f064ad6c53d74aa71e54f24bede491425d85b3a2f0f0e5e2e44dbec0a79",
+  "scope": "Clean separate directory regeneration yields byte-identical GLB; delivered assets untouched.",
+  "results": [
+    {
+      "asset": "toilet",
+      "delivered_sha256": "17d00453e22620c3ee9e15e2e36c4dd682550599324f730a3dce4cab0ccb75ce",
+      "regenerated_sha256": "17d00453e22620c3ee9e15e2e36c4dd682550599324f730a3dce4cab0ccb75ce",
+      "byte_identical": true
+    },
+    {
+      "asset": "washbasin",
+      "delivered_sha256": "4134167325cf4ae8bd41956afcfcce226ba4b671fc34b9bfbd4e727d29edef9a",
+      "regenerated_sha256": "4134167325cf4ae8bd41956afcfcce226ba4b671fc34b9bfbd4e727d29edef9a",
+      "byte_identical": true
+    }
+  ]
+}

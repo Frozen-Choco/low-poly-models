@@ -1,0 +1,64 @@
+{
+  "reference_dimensions_m": [
+    0.436,
+    0.72,
+    0.766
+  ],
+  "description": "タンク付き洋式便器。丸みのある陶器、独立開閉する便座と蓋、給水栓と排水接続。 保存時の全体寸法は約44.3×72.6×76.6cm（蛇口・付属配管を含む）。便座は0〜82度、蓋は0〜88度で独立開閉。タンク上蓋・配管・金具は静的な編集可能部品。水流・内部弁の動作や製品認証は再現していません。",
+  "mechanism": "Independent lid 0–88° frames1–31 and seat0–82° frames31–61. Reverse closure frames91–151 is visual only; full sweep checked. No fluid simulation.",
+  "references": [
+    "https://www.totousa.com/filemanager_uploads/product_assets/SpecSheet/SS-02049_CST776CEF(R)(G).pdf"
+  ],
+  "id": "toilet",
+  "title_ja": "トイレ",
+  "revision": 10,
+  "dimensions_m": [
+    0.44349998235702515,
+    0.7259999960660934,
+    0.765999972820282
+  ],
+  "triangles": 25770,
+  "units": "meter",
+  "up_axis_blend": "Z",
+  "up_axis_glb": "Y",
+  "review_status": "Independent geometry, full canonical photography and exact source package gates passed",
+  "photography_status": "26 canonical views complete across 2 assets",
+  "files": {
+    "blend": {
+      "bytes": 412561,
+      "sha256": "903c4d76ff302b3d1179223c18d6cf3469c57eddf5e43871d5352fb24aa153d2"
+    },
+    "glb": {
+      "bytes": 771828,
+      "sha256": "17d00453e22620c3ee9e15e2e36c4dd682550599324f730a3dce4cab0ccb75ce"
+    }
+  },
+  "photography": {
+    "standard": "preview_standard_v1",
+    "views": [
+      "preview",
+      "back",
+      "front",
+      "rear",
+      "side",
+      "left",
+      "top",
+      "underside",
+      "close_up",
+      "underside_detail",
+      "alternate_light",
+      "vent_detail",
+      "open",
+      "interior"
+    ],
+    "records": "../../../generators/bathroom_batch11a_preview_standard_v1/records/toilet"
+  },
+  "independent_review": {
+    "technical_status": "approved",
+    "scope": "Independent saved geometry, canonical photography and exact source package acceptance. Visual diorama fixtures; no hydraulic, internal-valve or product certification simulation.",
+    "report": "reviews/bathroom_integration/source_package_approval.json",
+    "report_sha256": "3178b784f83d21bd3469ab555116fae33ee91ce9d17bdd8ed5a8ac23fabcbeee",
+    "source_manifest_sha256": "d345e3a0708b18b6fb0085c83872d600d44b654b8f4f6078eb858b578613bc1a",
+    "path_base": "repository root"
+  }
+}

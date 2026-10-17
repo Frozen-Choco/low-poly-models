@@ -1,6 +1,6 @@
 # Low-poly diorama models
 
-現実世界のジオラマに配置するための、形状の自然さと素材の違いを保った、軽量なオリジナル小物集です。現在37モデル。目標は合計1,000モデルです。
+現実世界のジオラマに配置するための、形状の自然さと素材の違いを保った、軽量なオリジナル小物集です。現在39モデル。目標は合計1,000モデルです。
 
 ## 制作基準
 
@@ -222,7 +222,7 @@ generators/batch02bにある旧回収ボックスの生成・検証内容は履�
 
 [材質修正の根拠・生成手順](generators/apple_material_revision/README.md) · [統一撮影基準](generators/preview_standard_v1/README.md)
 
-確認画像を1,200×1,200、共通の背景・照明・露出・画面内比率で統一しました。材質そのものの明暗差は保持します。現在公開している全37モデルの現行確認画像は、この共通基準に統一しています。履歴用の比較・機構検証画像は別管理です。
+確認画像を1,200×1,200、共通の背景・照明・露出・画面内比率で統一しました。材質そのものの明暗差は保持します。現在公開している全39モデルの現行確認画像は、この共通基準に統一しています。履歴用の比較・機構検証画像は別管理です。
 
 ## 追加モデル：スツール・バケツ・掛け時計
 
@@ -348,3 +348,23 @@ GLB・編集用Blend・1,200×1,200の共通撮影画像を同梱しています
 [掃除機の開いた状態](assets/appliances/vacuum_cleaner/open.jpg) · [掃除機内部](assets/appliances/vacuum_cleaner/interior.jpg)
 
 [資料・再生成手順](generators/appliances_batch10a/README.md) · [レビューと配布情報](docs/reviewed-tv-vacuum.md)
+
+## 水回り
+
+独立レビュー済みのトイレと洗面台を追加。トイレは便座と蓋が独立して開閉します。洗面台は部品別に編集できる静的モデルです。水流・内部弁の動作や製品認証は再現していません。
+
+### トイレ
+
+![トイレ](assets/bathroom/toilet/preview.jpg)
+
+[GLB](assets/bathroom/toilet/toilet.glb) · [Blend](assets/bathroom/toilet/toilet.blend) · [メタデータ](assets/bathroom/toilet/metadata.json)
+
+### 洗面台
+
+![洗面台](assets/bathroom/washbasin/preview.jpg)
+
+[GLB](assets/bathroom/washbasin/washbasin.glb) · [Blend](assets/bathroom/washbasin/washbasin.blend) · [メタデータ](assets/bathroom/washbasin/metadata.json)
+
+[トイレの開いた状態](assets/bathroom/toilet/open.jpg) · [便器内部](assets/bathroom/toilet/interior.jpg)
+
+[資料・再生成手順](generators/bathroom_batch11a/README.md) · [レビューと配布情報](docs/reviewed-bathroom.md)

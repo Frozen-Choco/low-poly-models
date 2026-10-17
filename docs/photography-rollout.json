@@ -41,7 +41,9 @@
     "refrigerator",
     "washing_machine",
     "television",
-    "vacuum_cleaner"
+    "vacuum_cleaner",
+    "toilet",
+    "washbasin"
   ],
   "pending_assets": [],
   "scope": "Current canonical asset photographs only; historical generator evidence retained."

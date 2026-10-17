@@ -1,0 +1,111 @@
+{
+  "asset": "washbasin",
+  "view": "vent_detail",
+  "input_repo_path": "assets/washbasin/washbasin.glb",
+  "input_sha256": "4134167325cf4ae8bd41956afcfcce226ba4b671fc34b9bfbd4e727d29edef9a",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "a70cf9bc499ce764f6e98d6e52cc03b41b6c8e5c0412f852c6f79042271c4648",
+  "closeup_magnification_vs_full_fit": 2.089748249193613,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch11a/generators/preview_standard_v1/repo/assets/washbasin/vent_detail.jpg",
+  "output_sha256": "2375f5744926a3e26c8f38e7f6101d9e0c3b214a79bd6fee08e8cbcc7db3c766",
+  "bytes": 142623,
+  "elapsed_seconds": 921.0916318029995,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 1.8083183513332903,
+  "source_bounds": [
+    [
+      -0.30399999022483826,
+      -0.25949999690055847,
+      0.0
+    ],
+    [
+      0.30399999022483826,
+      0.2619999945163727,
+      1.1059999465942383
+    ]
+  ],
+  "camera_location": [
+    3.106848955154419,
+    9.535284042358398,
+    2.98526668548584
+  ],
+  "camera_rotation": [
+    1.3832886219024658,
+    -4.250175322795258e-08,
+    2.8198421001434326
+  ],
+  "ortho_scale": 1.1754069328308105,
+  "focus": {
+    "direction": [
+      1,
+      3,
+      0.6
+    ],
+    "target_m": [
+      0,
+      0.12,
+      0.62
+    ],
+    "span_m": 0.52,
+    "purpose": "Open-backed pedestal service access and wall plumbing endpoints"
+  },
+  "focus_projected_width_height": [
+    1.1861485838890076,
+    1.9650436639785767
+  ],
+  "full_object_fit": false,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        5.264134407043457,
+        0.13992750644683838,
+        4.642707347869873
+      ],
+      "rotation": [
+        0.9322289228439331,
+        1.7584818579052808e-07,
+        1.6122627258300781
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        -0.7621751427650452,
+        4.4216790199279785,
+        1.9315813779830933
+      ],
+      "rotation": [
+        1.3095077276229858,
+        -2.4257204245259345e-08,
+        -2.979593515396118
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        -3.732883930206299,
+        -0.018311142921447754,
+        4.473505973815918
+      ],
+      "rotation": [
+        0.7780774235725403,
+        2.8119423234329588e-08,
+        -1.5873266458511353
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": null,
+  "floor_hidden": false,
+  "diagnostic_only": false
+}

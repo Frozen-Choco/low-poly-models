@@ -1,0 +1,115 @@
+{
+  "asset": "washbasin",
+  "view": "underside_detail",
+  "input_repo_path": "assets/washbasin/washbasin.glb",
+  "input_sha256": "4134167325cf4ae8bd41956afcfcce226ba4b671fc34b9bfbd4e727d29edef9a",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "a70cf9bc499ce764f6e98d6e52cc03b41b6c8e5c0412f852c6f79042271c4648",
+  "closeup_magnification_vs_full_fit": 1.8868009519511297,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch11a/generators/preview_standard_v1/repo/assets/washbasin/underside_detail.jpg",
+  "output_sha256": "64a3e0693caddf45ee60801b836d3addb7f3831ecc19baea8f96f7b601709eee",
+  "bytes": 121268,
+  "elapsed_seconds": 453.8432569630022,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 1.8083183513332903,
+  "source_bounds": [
+    [
+      -0.30399999022483826,
+      -0.25949999690055847,
+      0.0
+    ],
+    [
+      0.30399999022483826,
+      0.2619999945163727,
+      1.1059999465942383
+    ]
+  ],
+  "camera_location": [
+    4.082482814788818,
+    8.271203994750977,
+    -2.834743022918701
+  ],
+  "camera_rotation": [
+    1.991330862045288,
+    -8.124838046796867e-08,
+    2.677945137023926
+  ],
+  "ortho_scale": 1.3336347341537476,
+  "focus": {
+    "direction": [
+      1,
+      2,
+      -1
+    ],
+    "target_m": [
+      0,
+      0.06,
+      0.69
+    ],
+    "span_m": 0.59,
+    "purpose": "Pedestal crown, basin underside, connected drain and unions"
+  },
+  "focus_projected_width_height": [
+    1.2116742730140686,
+    2.013042628765106
+  ],
+  "full_object_fit": false,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        6.017568588256836,
+        0.967166543006897,
+        2.963024377822876
+      ],
+      "rotation": [
+        1.2384642362594604,
+        -7.011994540562227e-08,
+        1.7605679035186768
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        -0.2081117033958435,
+        4.3271942138671875,
+        -0.4940147399902344
+      ],
+      "rotation": [
+        -1.2906222343444824,
+        -3.141592502593994,
+        0.022865377366542816
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        -2.714547872543335,
+        2.4765982627868652,
+        4.535207271575928
+      ],
+      "rotation": [
+        0.7882348299026489,
+        -3.4300242646168044e-08,
+        -2.3703908920288086
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": [
+    184,
+    184,
+    184
+  ],
+  "floor_hidden": true,
+  "diagnostic_only": false
+}

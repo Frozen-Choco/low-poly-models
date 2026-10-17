@@ -1,0 +1,287 @@
+{
+  "decision": "PASS",
+  "gate": "independent_final_canonical_visual_and_provenance",
+  "source_approval": "reviews/batch11a/approval.json",
+  "source_approval_sha256": "6d2099d722342145001d05a23bcd8bc8a3d2b3f66a371394ba22d8af965f434a",
+  "source_revisions": {
+    "toilet": 10,
+    "washbasin": 8
+  },
+  "core_hashes": {
+    "render.py": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+    "standard.json": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa"
+  },
+  "views": [
+    {
+      "asset": "toilet",
+      "view": "preview",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch11a/generators/preview_standard_v1/repo/assets/toilet/preview.jpg",
+      "image_sha256": "77defac8da152279eb8740a058003e9bd20f7126ea251d2b525ebe4e338e53b6",
+      "record_sha256": "66dfaa4111681709934a846cecec3eaba7e17c245e97fd5623991a4476b1fb62",
+      "input_sha256": "17d00453e22620c3ee9e15e2e36c4dd682550599324f730a3dce4cab0ccb75ce",
+      "bytes": 105420,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "toilet",
+      "view": "back",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch11a/generators/preview_standard_v1/repo/assets/toilet/back.jpg",
+      "image_sha256": "a488cb151e88383e9f49782635b621139d0b62b8c7d566d94670730334e73305",
+      "record_sha256": "312c24386759b1a13149580195e142865ac1fe636738123cb5e281ca11417476",
+      "input_sha256": "17d00453e22620c3ee9e15e2e36c4dd682550599324f730a3dce4cab0ccb75ce",
+      "bytes": 113968,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "toilet",
+      "view": "front",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch11a/generators/preview_standard_v1/repo/assets/toilet/front.jpg",
+      "image_sha256": "dc13e29b64ebfcf21e680c17cf29c8e1a0a6eb5df52f00fd271a3c0ee8953c7c",
+      "record_sha256": "a08c1f8a59429538c97ab1b9bcd40b2e1e2c4e29a26faed43670fb7fc0a0d1a0",
+      "input_sha256": "17d00453e22620c3ee9e15e2e36c4dd682550599324f730a3dce4cab0ccb75ce",
+      "bytes": 77068,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "toilet",
+      "view": "rear",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch11a/generators/preview_standard_v1/repo/assets/toilet/rear.jpg",
+      "image_sha256": "2f06a23d5bf4b78be5111fcd0323bffc1fc44d4ddf25cc6f64ecbaf2cf346475",
+      "record_sha256": "9ccd6221f02178d8750fa7fd916e3678680185e8f91e899fe6e88a83a74b160b",
+      "input_sha256": "17d00453e22620c3ee9e15e2e36c4dd682550599324f730a3dce4cab0ccb75ce",
+      "bytes": 81904,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "toilet",
+      "view": "side",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch11a/generators/preview_standard_v1/repo/assets/toilet/side.jpg",
+      "image_sha256": "bb86dcb37b54f534a8273e57bac3dd3e00fc65fd4c293493ad3116532048e9d6",
+      "record_sha256": "f83d29b2d04a5039f5b8266d4efaed782141b356167ad24c14c21c5101a45e8a",
+      "input_sha256": "17d00453e22620c3ee9e15e2e36c4dd682550599324f730a3dce4cab0ccb75ce",
+      "bytes": 84360,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "toilet",
+      "view": "left",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch11a/generators/preview_standard_v1/repo/assets/toilet/left.jpg",
+      "image_sha256": "ddf880de7da3b06f63942866ea36c748d3865c026e47df2c2e3b095da98bbb3f",
+      "record_sha256": "4cb716fdb2dc7c9a6b7b4fc56dc5c95f4f50d348ca31dc4bb6a143abb3101f42",
+      "input_sha256": "17d00453e22620c3ee9e15e2e36c4dd682550599324f730a3dce4cab0ccb75ce",
+      "bytes": 86030,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "toilet",
+      "view": "top",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch11a/generators/preview_standard_v1/repo/assets/toilet/top.jpg",
+      "image_sha256": "64af58e3292164daff487de524513f5c3f838ac99db1dcc36d22802733cedf8e",
+      "record_sha256": "a138676c037a714fd05722394bb889d679f58e5995aab73b381864472cc3d4b4",
+      "input_sha256": "17d00453e22620c3ee9e15e2e36c4dd682550599324f730a3dce4cab0ccb75ce",
+      "bytes": 114206,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "toilet",
+      "view": "underside",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch11a/generators/preview_standard_v1/repo/assets/toilet/underside.jpg",
+      "image_sha256": "c9bc474650f17ef6a925997a80343d175d0b442295950cf0656f3a5bdd74c9ec",
+      "record_sha256": "987fdfa38a0a5b42ac723ec47c621a5275eb6f36454ae99203c59f385bef110e",
+      "input_sha256": "17d00453e22620c3ee9e15e2e36c4dd682550599324f730a3dce4cab0ccb75ce",
+      "bytes": 97477,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "toilet",
+      "view": "close_up",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch11a/generators/preview_standard_v1/repo/assets/toilet/close_up.jpg",
+      "image_sha256": "9d9978e3013f50f8899aa0bffc5743e4773be7f1923b1c672d4d1513c438a91b",
+      "record_sha256": "6e2171d5c11078aef339548289d8afbb7a1ed127f95555e758e6c8ff78af5876",
+      "input_sha256": "17d00453e22620c3ee9e15e2e36c4dd682550599324f730a3dce4cab0ccb75ce",
+      "bytes": 105979,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "toilet",
+      "view": "underside_detail",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch11a/generators/preview_standard_v1/repo/assets/toilet/underside_detail.jpg",
+      "image_sha256": "c8fa6a4e3f249da1741f62458d5ef2184be35517bb5fa1ef33882a11f6a32c98",
+      "record_sha256": "bf687b82599ea6d3137a42b54b5f35a6be23920292f116308a4fd35274ad8887",
+      "input_sha256": "17d00453e22620c3ee9e15e2e36c4dd682550599324f730a3dce4cab0ccb75ce",
+      "bytes": 112729,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "toilet",
+      "view": "alternate_light",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch11a/generators/preview_standard_v1/repo/assets/toilet/alternate_light.jpg",
+      "image_sha256": "d61bdb4f2d3db75ecaaae4dbf495e4909823c6f92c3ddde39e80fad70d693762",
+      "record_sha256": "134b8c7c4228ee4e3c22e6661885b0f4a60ddf04f08be31d370468fbd7ae6c4a",
+      "input_sha256": "17d00453e22620c3ee9e15e2e36c4dd682550599324f730a3dce4cab0ccb75ce",
+      "bytes": 110596,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "toilet",
+      "view": "vent_detail",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch11a/generators/preview_standard_v1/repo/assets/toilet/vent_detail.jpg",
+      "image_sha256": "e6411f26f8712e7d09e8304b38af42e673c872bb6ef21571ec39c6cc081d8682",
+      "record_sha256": "8bee0cc94fda3402bb0b20d09fd7d81e2d84859747f4ac626f875083db8371f9",
+      "input_sha256": "17d00453e22620c3ee9e15e2e36c4dd682550599324f730a3dce4cab0ccb75ce",
+      "bytes": 126043,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "washbasin",
+      "view": "preview",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch11a/generators/preview_standard_v1/repo/assets/washbasin/preview.jpg",
+      "image_sha256": "f0ba8ded81222c5ccea40059bc4dc73515faa420e479d9a03fc49c1c89b4d773",
+      "record_sha256": "ec28b7e5176b301716cf6ba4238ab4044d195e494657b601be9d0d9d04143b85",
+      "input_sha256": "4134167325cf4ae8bd41956afcfcce226ba4b671fc34b9bfbd4e727d29edef9a",
+      "bytes": 95148,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "washbasin",
+      "view": "back",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch11a/generators/preview_standard_v1/repo/assets/washbasin/back.jpg",
+      "image_sha256": "aff36e315d054ad4e4b4603f1d69ee80c1fc787f7c6a4e99175537437f2c3217",
+      "record_sha256": "af5b6045194a29e460fc5c2c6e40616574a5bfcd5e6e21797e9aea9a5dba750e",
+      "input_sha256": "4134167325cf4ae8bd41956afcfcce226ba4b671fc34b9bfbd4e727d29edef9a",
+      "bytes": 109099,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "washbasin",
+      "view": "front",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch11a/generators/preview_standard_v1/repo/assets/washbasin/front.jpg",
+      "image_sha256": "04c2c79673f9187c63edf61731713558c5beb200227acff9f6e1fdce3b2e9797",
+      "record_sha256": "5ed1a1d2fb34247deb2aeb76eb6d2b4b5ab5a05474aa2891954b6aeb12b7bc4f",
+      "input_sha256": "4134167325cf4ae8bd41956afcfcce226ba4b671fc34b9bfbd4e727d29edef9a",
+      "bytes": 56193,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "washbasin",
+      "view": "rear",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch11a/generators/preview_standard_v1/repo/assets/washbasin/rear.jpg",
+      "image_sha256": "09e4f11665278770b4cc761374b3cdb1a698de7857fb028e20d1cfdaba27034b",
+      "record_sha256": "fc70d99d1049b4240ecbb939d5c344519c6f203d23464f9338dd6f0b9c6b4e9d",
+      "input_sha256": "4134167325cf4ae8bd41956afcfcce226ba4b671fc34b9bfbd4e727d29edef9a",
+      "bytes": 71599,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "washbasin",
+      "view": "side",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch11a/generators/preview_standard_v1/repo/assets/washbasin/side.jpg",
+      "image_sha256": "5b3bc00a0a656b8e15d5161272679f5c2b4044805eef6ee7c6bcbbcecc00c087",
+      "record_sha256": "287cc5e824ad50d0dea7ea6d8fba547d1cb33a68a013fb8725d24da657ad5d2b",
+      "input_sha256": "4134167325cf4ae8bd41956afcfcce226ba4b671fc34b9bfbd4e727d29edef9a",
+      "bytes": 62715,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "washbasin",
+      "view": "left",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch11a/generators/preview_standard_v1/repo/assets/washbasin/left.jpg",
+      "image_sha256": "e857f07bdcecf3121836528b8fb71e111fe46dc18ffeb99515d77385c2abe0ad",
+      "record_sha256": "cd6f1a0e43f2f35e718cb305f2abfd8e4e9fc2af0d4e16eaaab345a6e8076fde",
+      "input_sha256": "4134167325cf4ae8bd41956afcfcce226ba4b671fc34b9bfbd4e727d29edef9a",
+      "bytes": 62660,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "washbasin",
+      "view": "top",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch11a/generators/preview_standard_v1/repo/assets/washbasin/top.jpg",
+      "image_sha256": "b492ac5e7b0176fafc08f10e01fbadafda11619aeb8bcd03d55ee2562d6f74a1",
+      "record_sha256": "3055e738a9f9365094d885d8bdcda87f5f1698bb1a49d57aebbf0aa011121f0a",
+      "input_sha256": "4134167325cf4ae8bd41956afcfcce226ba4b671fc34b9bfbd4e727d29edef9a",
+      "bytes": 107807,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "washbasin",
+      "view": "underside",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch11a/generators/preview_standard_v1/repo/assets/washbasin/underside.jpg",
+      "image_sha256": "cf5d564fb3b80afe5c6e3c094df5a15938c1b1c871fba68fc37fea4c79fbae34",
+      "record_sha256": "5757d6f0430fd215c77efde582e29e5e28f8d036761fd54f4a11f44a78348927",
+      "input_sha256": "4134167325cf4ae8bd41956afcfcce226ba4b671fc34b9bfbd4e727d29edef9a",
+      "bytes": 104815,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "washbasin",
+      "view": "close_up",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch11a/generators/preview_standard_v1/repo/assets/washbasin/close_up.jpg",
+      "image_sha256": "7b82689e98e7827ddb3a42b09d8362a420ea20da0483a0e7fe894d069999b09a",
+      "record_sha256": "3b4578bb98fd72691453b067a09171497f31519b2787f5840c3ef941c6ec4de8",
+      "input_sha256": "4134167325cf4ae8bd41956afcfcce226ba4b671fc34b9bfbd4e727d29edef9a",
+      "bytes": 92025,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "washbasin",
+      "view": "underside_detail",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch11a/generators/preview_standard_v1/repo/assets/washbasin/underside_detail.jpg",
+      "image_sha256": "64a3e0693caddf45ee60801b836d3addb7f3831ecc19baea8f96f7b601709eee",
+      "record_sha256": "5c5f0055633e92fe6ad916cef91d89e134b9ebb9a6c504b492dd352de478f873",
+      "input_sha256": "4134167325cf4ae8bd41956afcfcce226ba4b671fc34b9bfbd4e727d29edef9a",
+      "bytes": 121268,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "washbasin",
+      "view": "alternate_light",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch11a/generators/preview_standard_v1/repo/assets/washbasin/alternate_light.jpg",
+      "image_sha256": "86d01e9a15aff96dfeabde7df8553eab79614eaf23d96e5c45b159cea667d244",
+      "record_sha256": "10ec674ff9c80cf1cd3cfec1e95509e77fc9f4a57c39c9a8e67ad97dd97ca353",
+      "input_sha256": "4134167325cf4ae8bd41956afcfcce226ba4b671fc34b9bfbd4e727d29edef9a",
+      "bytes": 96192,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "washbasin",
+      "view": "vent_detail",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch11a/generators/preview_standard_v1/repo/assets/washbasin/vent_detail.jpg",
+      "image_sha256": "2375f5744926a3e26c8f38e7f6101d9e0c3b214a79bd6fee08e8cbcc7db3c766",
+      "record_sha256": "4edabbb449e4efcac56f8d25ae7e8b40da466431b375642688d48b1424dcbc85",
+      "input_sha256": "4134167325cf4ae8bd41956afcfcce226ba4b671fc34b9bfbd4e727d29edef9a",
+      "bytes": 142623,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "toilet_open",
+      "view": "open",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch11a/generators/preview_standard_v1/repo/evidence/poses/toilet/open.jpg",
+      "image_sha256": "c6547a359062e23bf1416aee10883f9600734a0497dc0a889eca9b7fa458a244",
+      "record_sha256": "1dafc6b2367af5c8c4c6d5599270367dc45854c354402ca90def54c798cdbb9e",
+      "input_sha256": "a2b61d4d2604094b1cae3a22ddc2db6dfe98f303bc7b920b11bb3011fc23e936",
+      "bytes": 106772,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "toilet_open",
+      "view": "interior",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch11a/generators/preview_standard_v1/repo/evidence/poses/toilet/interior.jpg",
+      "image_sha256": "e24eb2db3b40f7108845840749d7b3723581e96cd86a6c1dceda760b03022fed",
+      "record_sha256": "0c48215acd2041108860a5ec604c664eb64ec65623d4a576d04988f7a7bccea0",
+      "input_sha256": "a2b61d4d2604094b1cae3a22ddc2db6dfe98f303bc7b920b11bb3011fc23e936",
+      "bytes": 133542,
+      "visual_decision": "PASS"
+    }
+  ],
+  "checks": [
+    "All26 final1200px JPEG files independently viewed at original resolution",
+    "Frozen renderer/spec byte-identical to previous approved batch",
+    "Every record/input/output/detail-plan hash independently verified",
+    "512sample ceiling/adaptive.005/RGB/JPEG dimensions/byte counts confirmed",
+    "Saved toilet animation frame61 and static open photograph source independently compared for all objects, triangles and materials",
+    "Every image tied to current exact input/output hashes"
+  ],
+  "blocking_findings": [],
+  "publication_executed": false,
+  "authorizes": "These exact26 final photographs pass; exact lean-package acceptance remains separate."
+}
