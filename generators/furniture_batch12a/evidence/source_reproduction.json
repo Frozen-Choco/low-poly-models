@@ -1,0 +1,19 @@
+{
+  "decision": "PASS",
+  "method": "Independent isolated copy of generator, fresh Blender process,2threads; no original model dependencies",
+  "script_sha256": "7a8aebea46b6de21f5673063d650339b462a6ea9b2dde73eb55497ce3882b8ea",
+  "results": [
+    {
+      "asset": "bed",
+      "delivered_sha256": "304fd56a3f10246e19f2f976bd6c0350da429a74307602fe705870a1c1bf35c3",
+      "regenerated_sha256": "304fd56a3f10246e19f2f976bd6c0350da429a74307602fe705870a1c1bf35c3",
+      "byte_identical": true
+    },
+    {
+      "asset": "sofa",
+      "delivered_sha256": "32e8a98da2c6e6a73a167aa05845f1d409fbeb8e634636713cbe6488c3bd0f57",
+      "regenerated_sha256": "32e8a98da2c6e6a73a167aa05845f1d409fbeb8e634636713cbe6488c3bd0f57",
+      "byte_identical": true
+    }
+  ]
+}

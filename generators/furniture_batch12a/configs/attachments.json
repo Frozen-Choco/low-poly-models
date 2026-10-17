@@ -1,0 +1,31 @@
+{
+  "units": "meter",
+  "scope": "Static visual assembly. Positive concealed engagement, no load certification.",
+  "bed": {
+    "ground": ["Headboard post -0.47", "Headboard post 0.47", "Foot post -0.47", "Foot post 0.47"],
+    "support_paths": [
+      ["Ground", "Headboard post / Foot post", "Side rail / End rail", "Slat support ledger", "Mattress support slat", "Supported mattress", "Cotton pillow"],
+      ["Ground", "Headboard post", "Headboard horizontal"]
+    ],
+    "joins": [
+      {"parts": ["Side rail", "Headboard post / Foot post"], "intent": "Rail ends seated in post inner face; top faces intentionally offset after rev2."},
+      {"parts": ["End rail", "Headboard post / Foot post"], "intent": "Rail spans into post inner X faces; wood grain follows member length."},
+      {"parts": ["Slat support ledger", "Side rail"], "intent": "Ledger outer X overlaps rail inner X. Slat ends sit on ledger Z280mm."},
+      {"parts": ["Mattress support slat", "Supported mattress"], "intent": "Slat top Z300.5mm, mattress bottom central flat region Z300mm; 0.5mm concealed seating."}
+    ]
+  },
+  "sofa": {
+    "ground": ["Sofa leg (-0.6, -0.3)", "Sofa leg (-0.6, 0.28)", "Sofa leg (0.6, -0.3)", "Sofa leg (0.6, 0.28)"],
+    "support_paths": [
+      ["Ground", "Sofa leg", "Lower cross rail / Lower side rail", "Underseat support deck", "Upholstered lower frame", "Seat cushion"],
+      ["Lower frame", "Back upright", "Back upper crossbar", "Upholstered back shell", "Back cushion"],
+      ["Lower frame", "Arm internal support", "Upholstered arm"]
+    ],
+    "joins": [
+      {"parts": ["Sofa leg", "Lower cross rail"], "intent": "Leg extends from Z0 to200mm; cross rail starts170mm; side rail starts172mm. Mounting screws are concealed in wood."},
+      {"parts": ["Underseat support deck", "Lower rails"], "intent": "Deck underside236.5mm enters cross rail top240mm by3.5mm and side rail top242mm by5.5mm."},
+      {"parts": ["Seat cushion", "Upholstered lower frame"], "intent": "Seat underside340mm enters padded frame top344mm by4mm."},
+      {"parts": ["Underside dust cover", "Lower rails"], "intent": "Cover perimeter overlaps rail inner boundary; support is perimeter contact."}
+    ]
+  }
+}

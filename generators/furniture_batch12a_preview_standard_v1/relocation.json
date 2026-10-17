@@ -1,0 +1,153 @@
+{
+  "scope": "Exact production bytes and original immutable records. No reference photographs redistributed.",
+  "assets": [
+    {
+      "asset": "bed",
+      "production_input": "assets/bed/bed.glb",
+      "packaged_input": "assets/furniture/bed/bed.glb",
+      "sha256": "304fd56a3f10246e19f2f976bd6c0350da429a74307602fe705870a1c1bf35c3",
+      "views": [
+        {
+          "view": "preview",
+          "packaged_image": "assets/furniture/bed/preview.jpg",
+          "sha256": "a6295586181e343332d622f7966089e43b89af90b1e16d881621b0865ae9ddf4",
+          "record": "generators/furniture_batch12a_preview_standard_v1/records/bed/preview.json"
+        },
+        {
+          "view": "back",
+          "packaged_image": "assets/furniture/bed/back.jpg",
+          "sha256": "2c30d3189207f4748da23f8615c8de13df1f7e2c05e385cf59929a3030eb9df2",
+          "record": "generators/furniture_batch12a_preview_standard_v1/records/bed/back.json"
+        },
+        {
+          "view": "front",
+          "packaged_image": "assets/furniture/bed/front.jpg",
+          "sha256": "69833c1a33b26dc94ce587e1b0b08340edac24eb0e99945c21899712bd422453",
+          "record": "generators/furniture_batch12a_preview_standard_v1/records/bed/front.json"
+        },
+        {
+          "view": "rear",
+          "packaged_image": "assets/furniture/bed/rear.jpg",
+          "sha256": "79c571ecf32578898e8afa2ddd7aae2f6797d5d7a3d546f369e804211069056d",
+          "record": "generators/furniture_batch12a_preview_standard_v1/records/bed/rear.json"
+        },
+        {
+          "view": "side",
+          "packaged_image": "assets/furniture/bed/side.jpg",
+          "sha256": "a097aa1adc2f9e89d8cb7fef4c2bbc6d7301ddf07b917208e95a81a025959eb6",
+          "record": "generators/furniture_batch12a_preview_standard_v1/records/bed/side.json"
+        },
+        {
+          "view": "left",
+          "packaged_image": "assets/furniture/bed/left.jpg",
+          "sha256": "87a149915e2d374c2a0b286dae61ff1e3bd503edcfb8ed4c1d64d447a37bbd06",
+          "record": "generators/furniture_batch12a_preview_standard_v1/records/bed/left.json"
+        },
+        {
+          "view": "top",
+          "packaged_image": "assets/furniture/bed/top.jpg",
+          "sha256": "03f4b291fdd2a0af23cfe387ae1c8e86de1cbd1d0172049a05d7d2dd27bc4f6f",
+          "record": "generators/furniture_batch12a_preview_standard_v1/records/bed/top.json"
+        },
+        {
+          "view": "underside",
+          "packaged_image": "assets/furniture/bed/underside.jpg",
+          "sha256": "263334a3e138f3a35545be4a0ee289206430296062c526b28df203ad91cdadf3",
+          "record": "generators/furniture_batch12a_preview_standard_v1/records/bed/underside.json"
+        },
+        {
+          "view": "close_up",
+          "packaged_image": "assets/furniture/bed/close_up.jpg",
+          "sha256": "d046701959746f2a1efddc6c85c9e57e9ae06be6725878df883c3c8fcf1d43f1",
+          "record": "generators/furniture_batch12a_preview_standard_v1/records/bed/close_up.json"
+        },
+        {
+          "view": "underside_detail",
+          "packaged_image": "assets/furniture/bed/underside_detail.jpg",
+          "sha256": "786d9ae43d56981ad6d1f62507d5e76248f1b12faf155b96a5cac7383e49fed4",
+          "record": "generators/furniture_batch12a_preview_standard_v1/records/bed/underside_detail.json"
+        },
+        {
+          "view": "alternate_light",
+          "packaged_image": "assets/furniture/bed/alternate_light.jpg",
+          "sha256": "57ba264a80076765ba38281ae29ccd688274ef733d0a3080834e147ad8a317c3",
+          "record": "generators/furniture_batch12a_preview_standard_v1/records/bed/alternate_light.json"
+        }
+      ]
+    },
+    {
+      "asset": "sofa",
+      "production_input": "assets/sofa/sofa.glb",
+      "packaged_input": "assets/furniture/sofa/sofa.glb",
+      "sha256": "32e8a98da2c6e6a73a167aa05845f1d409fbeb8e634636713cbe6488c3bd0f57",
+      "views": [
+        {
+          "view": "preview",
+          "packaged_image": "assets/furniture/sofa/preview.jpg",
+          "sha256": "b0cc4ade4300edc23c2c1ba50f9311505ab94f56cfa5ab0acafe2957353cdbb6",
+          "record": "generators/furniture_batch12a_preview_standard_v1/records/sofa/preview.json"
+        },
+        {
+          "view": "back",
+          "packaged_image": "assets/furniture/sofa/back.jpg",
+          "sha256": "733f0291b1d7bcabc7c6f3e6f671eb062434908ecc331c9f45cf945a71c19d92",
+          "record": "generators/furniture_batch12a_preview_standard_v1/records/sofa/back.json"
+        },
+        {
+          "view": "front",
+          "packaged_image": "assets/furniture/sofa/front.jpg",
+          "sha256": "19457f7be1c1d5541f3426047fb28cc498fb09904601ccc7ed64fe760ee16db5",
+          "record": "generators/furniture_batch12a_preview_standard_v1/records/sofa/front.json"
+        },
+        {
+          "view": "rear",
+          "packaged_image": "assets/furniture/sofa/rear.jpg",
+          "sha256": "8256c38330ece3a5e27ef3894468e30d5b47e42cf219fa42cc8f561292e3b155",
+          "record": "generators/furniture_batch12a_preview_standard_v1/records/sofa/rear.json"
+        },
+        {
+          "view": "side",
+          "packaged_image": "assets/furniture/sofa/side.jpg",
+          "sha256": "826d8b8a05b8b2f7e450dd70ad34fc60b5132240ad4a411bcf4275be1aa70094",
+          "record": "generators/furniture_batch12a_preview_standard_v1/records/sofa/side.json"
+        },
+        {
+          "view": "left",
+          "packaged_image": "assets/furniture/sofa/left.jpg",
+          "sha256": "e866ed274527e4a9bb6e7b872aeeed10053206e70aeab11dcb555627b8e54864",
+          "record": "generators/furniture_batch12a_preview_standard_v1/records/sofa/left.json"
+        },
+        {
+          "view": "top",
+          "packaged_image": "assets/furniture/sofa/top.jpg",
+          "sha256": "6c5222100aa4c34c7759a86f6e800fe23bd296b4cc3fc38f9a4374731be819b4",
+          "record": "generators/furniture_batch12a_preview_standard_v1/records/sofa/top.json"
+        },
+        {
+          "view": "underside",
+          "packaged_image": "assets/furniture/sofa/underside.jpg",
+          "sha256": "f848ce92c402985b0d5c7c6b82a99d961219c86aa14848676c46deba14b9ea54",
+          "record": "generators/furniture_batch12a_preview_standard_v1/records/sofa/underside.json"
+        },
+        {
+          "view": "close_up",
+          "packaged_image": "assets/furniture/sofa/close_up.jpg",
+          "sha256": "fcb2d5e1b231a04b1fb0155a2154716c6a07f4cfd393749322632c7dcdb5bd54",
+          "record": "generators/furniture_batch12a_preview_standard_v1/records/sofa/close_up.json"
+        },
+        {
+          "view": "underside_detail",
+          "packaged_image": "assets/furniture/sofa/underside_detail.jpg",
+          "sha256": "a0f2b403981c86e8b63036c8acef67661ab137d7a9e25e650268b39815121a02",
+          "record": "generators/furniture_batch12a_preview_standard_v1/records/sofa/underside_detail.json"
+        },
+        {
+          "view": "alternate_light",
+          "packaged_image": "assets/furniture/sofa/alternate_light.jpg",
+          "sha256": "8346335177e3d1f7b588c497bae0a0d89406af835654a0337d9883f00e7ec8a6",
+          "record": "generators/furniture_batch12a_preview_standard_v1/records/sofa/alternate_light.json"
+        }
+      ]
+    }
+  ]
+}

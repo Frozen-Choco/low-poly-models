@@ -1,0 +1,100 @@
+[
+  {
+    "id": "bed",
+    "title_ja": "ベッド",
+    "category": "furniture",
+    "description": "木枠とすのこで支えるシングルベッド。独立した厚手マットレスと枕。 全体寸法は約98.2×209.0×92.0cm。部品別に編集できる静的モデル。布変形や荷重試験は再現していません。",
+    "units": "meter",
+    "up_axis_blend": "Z",
+    "up_axis_glb": "Y",
+    "front_blend": "-Y",
+    "origin": "lowest support at ground plane",
+    "triangles": 16828,
+    "dimensions_m": [
+      0.9819999933242798,
+      2.0900001525878906,
+      0.9200000166893005
+    ],
+    "blend_bytes": 1488569,
+    "glb_bytes": 1130256,
+    "validated": true,
+    "geometry_validated": true,
+    "status": "Independent geometry, full canonical photography and exact source package gates passed",
+    "photography": {
+      "standard": "preview_standard_v1",
+      "views": [
+        "preview",
+        "back",
+        "front",
+        "rear",
+        "side",
+        "left",
+        "top",
+        "underside",
+        "close_up",
+        "underside_detail",
+        "alternate_light"
+      ]
+    },
+    "independent_review": {
+      "technical_status": "approved",
+      "scope": "Independent saved geometry, canonical photography and exact source package acceptance. Static visual diorama furniture; no cloth physics, recliner mechanism, load certification or product endorsement.",
+      "report": "reviews/bed_sofa_integration/source_package_approval.json",
+      "report_sha256": "35c30dd84f6ef3d55efdb1180a429cd996e03491986123226c0f60141a02799f",
+      "source_manifest_sha256": "e0504e92f62e61a84a2247fbf5bdef21e493adc8503ccee27c3887ce4d65769a",
+      "path_base": "repository root"
+    },
+    "asset_path": "assets/furniture/bed",
+    "blend_sha256": "95e5864ad927b0301c8386020904f528d1132e6c79fdb48c867eb075326a4888",
+    "glb_sha256": "304fd56a3f10246e19f2f976bd6c0350da429a74307602fe705870a1c1bf35c3"
+  },
+  {
+    "id": "sofa",
+    "title_ja": "ソファ",
+    "category": "furniture",
+    "description": "丸みのある布張りの2人掛けソファ。2組の座・背クッションと木脚、内部支持枠。 全体寸法は約145.0×77.7×79.7cm。部品別に編集できる静的モデル。布変形や荷重試験は再現していません。",
+    "units": "meter",
+    "up_axis_blend": "Z",
+    "up_axis_glb": "Y",
+    "front_blend": "-Y",
+    "origin": "lowest support at ground plane",
+    "triangles": 25004,
+    "dimensions_m": [
+      1.4499999284744263,
+      0.7774999737739563,
+      0.7967844009399414
+    ],
+    "blend_bytes": 1526445,
+    "glb_bytes": 1601496,
+    "validated": true,
+    "geometry_validated": true,
+    "status": "Independent geometry, full canonical photography and exact source package gates passed",
+    "photography": {
+      "standard": "preview_standard_v1",
+      "views": [
+        "preview",
+        "back",
+        "front",
+        "rear",
+        "side",
+        "left",
+        "top",
+        "underside",
+        "close_up",
+        "underside_detail",
+        "alternate_light"
+      ]
+    },
+    "independent_review": {
+      "technical_status": "approved",
+      "scope": "Independent saved geometry, canonical photography and exact source package acceptance. Static visual diorama furniture; no cloth physics, recliner mechanism, load certification or product endorsement.",
+      "report": "reviews/bed_sofa_integration/source_package_approval.json",
+      "report_sha256": "35c30dd84f6ef3d55efdb1180a429cd996e03491986123226c0f60141a02799f",
+      "source_manifest_sha256": "e0504e92f62e61a84a2247fbf5bdef21e493adc8503ccee27c3887ce4d65769a",
+      "path_base": "repository root"
+    },
+    "asset_path": "assets/furniture/sofa",
+    "blend_sha256": "41aad48656a52a12a0793f1da5ba13820702fca3954548c3bd52aedb50b38c25",
+    "glb_sha256": "32e8a98da2c6e6a73a167aa05845f1d409fbeb8e634636713cbe6488c3bd0f57"
+  }
+]

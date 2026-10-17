@@ -1,0 +1,26 @@
+{
+  "decision": "PASS",
+  "gate": "independent_exact_lean_package",
+  "candidate": "lowpoly_batch12a/release_candidate",
+  "manifest_sha256": "e0504e92f62e61a84a2247fbf5bdef21e493adc8503ccee27c3887ce4d65769a",
+  "payload_files": 79,
+  "payload_bytes": 9098672,
+  "manifest_bytes": 14087,
+  "source_revisions": {
+    "bed": 2,
+    "sofa": 2
+  },
+  "checks": [
+    "Exact explicit79-file payload allowlist and every SHA256/size verified",
+    "Exactly2Blend+2GLB+22canonicalJPEG; under100MB each; no draft images, third-party photos or manuals",
+    "All22photos and immutable records match individually original-resolution reviewed provenance chains",
+    "Models and metadata/catalog dimensions, units, file sizes and Japanese titles agree",
+    "Frozen renderer/spec byte-identical to approved common standard; packaged inputs and relocation links resolve",
+    "Packaged generator hash matches independent isolated byte-identical GLB reproduction",
+    "Final direct plane-grouped coplanar results and format-comparison evidence match independent reviewed bytes",
+    "Generic reference changes, finite support construction, static mechanisms and no load/cloth simulation claims documented"
+  ],
+  "blocking_findings": [],
+  "publication_executed": false,
+  "authorizes": "Only this exact lean payload and pinned manifest are accepted for parent-controlled integration; publication remains separately paused. Any candidate-byte change requires renewed package acceptance."
+}

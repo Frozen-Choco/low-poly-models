@@ -1,0 +1,177 @@
+{
+  "source": "/workspace/scratch/a456259dbd5d/lowpoly_batch12a/assets/bed/bed.glb",
+  "sha256": "304fd56a3f10246e19f2f976bd6c0350da429a74307602fe705870a1c1bf35c3",
+  "positive_area_coplanar_pairs": [
+    {
+      "a": [
+        "Headboard post -0.47",
+        0
+      ],
+      "b": [
+        "Slat support ledger -0.47",
+        266
+      ],
+      "overlap_area_m2": 0.00019982494411534268,
+      "triangle_average_location": [
+        -0.4572950005531311,
+        0.9900000393390656,
+        0.4401666844884555
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Headboard post -0.47",
+        0
+      ],
+      "b": [
+        "Slat support ledger -0.47",
+        267
+      ],
+      "overlap_area_m2": 2.7874827664489676e-05,
+      "triangle_average_location": [
+        -0.4521283308664958,
+        0.9900000393390656,
+        0.43516668677330017
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Headboard post 0.47",
+        1
+      ],
+      "b": [
+        "Slat support ledger 0.47",
+        266
+      ],
+      "overlap_area_m2": 2.7874827664489676e-05,
+      "triangle_average_location": [
+        0.4521283308664958,
+        0.9900000393390656,
+        0.2878333404660225
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Headboard post 0.47",
+        1
+      ],
+      "b": [
+        "Slat support ledger 0.47",
+        267
+      ],
+      "overlap_area_m2": 0.00019982494411533575,
+      "triangle_average_location": [
+        0.4572950005531311,
+        0.9900000393390656,
+        0.2828333427508672
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Foot post -0.47",
+        6
+      ],
+      "b": [
+        "Slat support ledger -0.47",
+        264
+      ],
+      "overlap_area_m2": 4.9654083406763805e-06,
+      "triangle_average_location": [
+        -0.45779499411582947,
+        -0.9900000393390656,
+        0.24016665915648142
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Foot post -0.47",
+        6
+      ],
+      "b": [
+        "Slat support ledger -0.47",
+        265
+      ],
+      "overlap_area_m2": 4.732062189226338e-05,
+      "triangle_average_location": [
+        -0.4629616638024648,
+        -0.9900000393390656,
+        0.23516666144132614
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Foot post -0.47",
+        7
+      ],
+      "b": [
+        "Slat support ledger -0.47",
+        264
+      ],
+      "overlap_area_m2": 2.2909419323827174e-05,
+      "triangle_average_location": [
+        -0.4521283308664958,
+        -0.9900000393390656,
+        0.18783333152532578
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Foot post -0.47",
+        7
+      ],
+      "b": [
+        "Slat support ledger -0.47",
+        265
+      ],
+      "overlap_area_m2": 0.00015250432222306542,
+      "triangle_average_location": [
+        -0.4572950005531311,
+        -0.9900000393390656,
+        0.1828333338101705
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Foot post 0.47",
+        6
+      ],
+      "b": [
+        "Slat support ledger 0.47",
+        264
+      ],
+      "overlap_area_m2": 0.00019982494411534268,
+      "triangle_average_location": [
+        0.4572950005531311,
+        -0.9900000393390656,
+        0.24016665915648142
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Foot post 0.47",
+        6
+      ],
+      "b": [
+        "Slat support ledger 0.47",
+        265
+      ],
+      "overlap_area_m2": 2.7874827664489676e-05,
+      "triangle_average_location": [
+        0.4521283308664958,
+        -0.9900000393390656,
+        0.23516666144132614
+      ],
+      "normal_dot": -1.0
+    }
+  ],
+  "method": "Direct unoriented-plane grouped triangle pairs, including shared vertices, same mesh and opposite normals; exact 2D polygon clipping; area threshold1e-12m\u00b2, plane tolerance1e-7m."
+}

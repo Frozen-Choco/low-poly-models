@@ -1,0 +1,62 @@
+{
+  "bed": {
+    "close_up": {
+      "direction": [
+        1,
+        -2,
+        1.5
+      ],
+      "target_m": [
+        0.18,
+        0.66,
+        0.51
+      ],
+      "span_m": 0.98,
+      "purpose": "Cotton pillow and rounded mattress, wood headboard joins and grain direction"
+    },
+    "underside_detail": {
+      "direction": [
+        1,
+        -1,
+        -1.5
+      ],
+      "target_m": [
+        0.22,
+        -0.6,
+        0.25
+      ],
+      "span_m": 0.85,
+      "purpose": "Positive slat-end support on continuous side ledger and post/rail engagement"
+    }
+  },
+  "sofa": {
+    "close_up": {
+      "direction": [
+        1,
+        -2,
+        1.2
+      ],
+      "target_m": [
+        0.28,
+        -0.12,
+        0.51
+      ],
+      "span_m": 0.85,
+      "purpose": "Two separate seat/back cushions, rounded upholstery, sewn welt and arm junction"
+    },
+    "underside_detail": {
+      "direction": [
+        1,
+        -1,
+        -1.5
+      ],
+      "target_m": [
+        0.43,
+        -0.2,
+        0.18
+      ],
+      "span_m": 0.78,
+      "purpose": "Wooden legs seated in lower rails, dust-cover boundary and frame support"
+    }
+  }
+}

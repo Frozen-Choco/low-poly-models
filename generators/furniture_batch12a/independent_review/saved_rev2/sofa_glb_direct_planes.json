@@ -1,0 +1,6 @@
+{
+  "source": "/workspace/scratch/a456259dbd5d/lowpoly_batch12a/assets/sofa/sofa.glb",
+  "sha256": "32e8a98da2c6e6a73a167aa05845f1d409fbeb8e634636713cbe6488c3bd0f57",
+  "positive_area_coplanar_pairs": [],
+  "method": "Direct unoriented-plane grouped triangle pairs, including shared vertices, same mesh and opposite normals; exact 2D polygon clipping; area threshold1e-12m\u00b2, plane tolerance1e-7m."
+}

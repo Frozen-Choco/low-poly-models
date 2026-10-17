@@ -1,0 +1,58 @@
+{
+  "description": "丸みのある布張りの2人掛けソファ。2組の座・背クッションと木脚、内部支持枠。 全体寸法は約145.0×77.7×79.7cm。部品別に編集できる静的モデル。布変形や荷重試験は再現していません。",
+  "reference_dimensions_m": [
+    1.37,
+    0.805,
+    0.77
+  ],
+  "mechanism": "Static editable two-seat sofa. Four legs, cross rails, seat deck, arm and back structure; no recliner or cloth physics.",
+  "id": "sofa",
+  "title_ja": "ソファ",
+  "revision": 2,
+  "dimensions_m": [
+    1.4499999284744263,
+    0.7774999737739563,
+    0.7967844009399414
+  ],
+  "triangles": 25004,
+  "units": "meter",
+  "up_axis_blend": "Z",
+  "up_axis_glb": "Y",
+  "review_status": "Independent geometry, full canonical photography and exact source package gates passed",
+  "photography_status": "22 canonical views complete across 2 assets",
+  "files": {
+    "blend": {
+      "bytes": 1526445,
+      "sha256": "41aad48656a52a12a0793f1da5ba13820702fca3954548c3bd52aedb50b38c25"
+    },
+    "glb": {
+      "bytes": 1601496,
+      "sha256": "32e8a98da2c6e6a73a167aa05845f1d409fbeb8e634636713cbe6488c3bd0f57"
+    }
+  },
+  "photography": {
+    "standard": "preview_standard_v1",
+    "views": [
+      "preview",
+      "back",
+      "front",
+      "rear",
+      "side",
+      "left",
+      "top",
+      "underside",
+      "close_up",
+      "underside_detail",
+      "alternate_light"
+    ],
+    "records": "../../../generators/furniture_batch12a_preview_standard_v1/records/sofa"
+  },
+  "independent_review": {
+    "technical_status": "approved",
+    "scope": "Independent saved geometry, canonical photography and exact source package acceptance. Static visual diorama furniture; no cloth physics, recliner mechanism, load certification or product endorsement.",
+    "report": "reviews/bed_sofa_integration/source_package_approval.json",
+    "report_sha256": "35c30dd84f6ef3d55efdb1180a429cd996e03491986123226c0f60141a02799f",
+    "source_manifest_sha256": "e0504e92f62e61a84a2247fbf5bdef21e493adc8503ccee27c3887ce4d65769a",
+    "path_base": "repository root"
+  }
+}

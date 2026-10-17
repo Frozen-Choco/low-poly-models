@@ -1,0 +1,58 @@
+{
+  "description": "木枠とすのこで支えるシングルベッド。独立した厚手マットレスと枕。 全体寸法は約98.2×209.0×92.0cm。部品別に編集できる静的モデル。布変形や荷重試験は再現していません。",
+  "reference_dimensions_m": [
+    0.98,
+    2.09,
+    0.92
+  ],
+  "mechanism": "Static separately editable frame, slats, mattress and pillow; no deformation or load certification.",
+  "id": "bed",
+  "title_ja": "ベッド",
+  "revision": 2,
+  "dimensions_m": [
+    0.9819999933242798,
+    2.0900001525878906,
+    0.9200000166893005
+  ],
+  "triangles": 16828,
+  "units": "meter",
+  "up_axis_blend": "Z",
+  "up_axis_glb": "Y",
+  "review_status": "Independent geometry, full canonical photography and exact source package gates passed",
+  "photography_status": "22 canonical views complete across 2 assets",
+  "files": {
+    "blend": {
+      "bytes": 1488569,
+      "sha256": "95e5864ad927b0301c8386020904f528d1132e6c79fdb48c867eb075326a4888"
+    },
+    "glb": {
+      "bytes": 1130256,
+      "sha256": "304fd56a3f10246e19f2f976bd6c0350da429a74307602fe705870a1c1bf35c3"
+    }
+  },
+  "photography": {
+    "standard": "preview_standard_v1",
+    "views": [
+      "preview",
+      "back",
+      "front",
+      "rear",
+      "side",
+      "left",
+      "top",
+      "underside",
+      "close_up",
+      "underside_detail",
+      "alternate_light"
+    ],
+    "records": "../../../generators/furniture_batch12a_preview_standard_v1/records/bed"
+  },
+  "independent_review": {
+    "technical_status": "approved",
+    "scope": "Independent saved geometry, canonical photography and exact source package acceptance. Static visual diorama furniture; no cloth physics, recliner mechanism, load certification or product endorsement.",
+    "report": "reviews/bed_sofa_integration/source_package_approval.json",
+    "report_sha256": "35c30dd84f6ef3d55efdb1180a429cd996e03491986123226c0f60141a02799f",
+    "source_manifest_sha256": "e0504e92f62e61a84a2247fbf5bdef21e493adc8503ccee27c3887ce4d65769a",
+    "path_base": "repository root"
+  }
+}

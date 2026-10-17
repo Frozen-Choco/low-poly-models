@@ -1,0 +1,42 @@
+[
+  {
+    "asset": "bed",
+    "publisher": "IKEA",
+    "url": "https://www.ikea.com.tr/en/product/tarva-pine-90x200-cm-single-bed-30261270",
+    "image_url": "https://cdn.ikea.com.tr/urunler/2000_2000/PE708894.jpg",
+    "local": "bed-product.jpg",
+    "dimensions_m": [
+      0.98,
+      2.09,
+      0.92
+    ],
+    "visual_review": "Actual image inspected. Four narrow open headboard bars, narrow posts, longitudinal side rails and rounded mattress; generic proportions and construction changed."
+  },
+  {
+    "asset": "sofa",
+    "publisher": "IKEA",
+    "url": "https://www.ikea.com.tr/en/product/linanas-vissle-beige-2-seat-sofa-40499974",
+    "image_url": "https://image-ikea.mncdn.com/urunler/500_500/PE811545.jpg",
+    "local": "sofa.jpg",
+    "dimensions_m": [
+      1.37,
+      0.805,
+      0.77
+    ],
+    "visual_review": "Actual image inspected. Rounded one-piece upholstery, narrow arms, slender legs. Generic model uses two cushions and genuine wood frame/legs, unlike ABS legs and steel back in reference."
+  },
+  {
+    "asset": "bed",
+    "publisher": "IKEA",
+    "url": "https://image-ikea.mncdn.com/montaj-kilavuzu/30261270_30261270_1.pdf",
+    "local": "bed-assembly.pdf",
+    "visual_review": "Independent reviewer inspected manufacturer assembly instructions. Bed continuous slat ledgers/end stops; sofa seat springs, arm bolts and steel/webbed back. Generic geometry uses documented wood/solid support alternatives."
+  },
+  {
+    "asset": "sofa",
+    "publisher": "IKEA",
+    "url": "https://image-ikea.mncdn.com/montaj-kilavuzu/40499974_40499974_1.pdf",
+    "local": "sofa-assembly.pdf",
+    "visual_review": "Independent reviewer inspected manufacturer assembly instructions. Bed continuous slat ledgers/end stops; sofa seat springs, arm bolts and steel/webbed back. Generic geometry uses documented wood/solid support alternatives."
+  }
+]

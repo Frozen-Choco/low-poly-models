@@ -1,0 +1,36 @@
+{
+  "decision": "PASS",
+  "gate": "independent_saved_shape_and_early_shading",
+  "revisions": {
+    "bed": 2,
+    "sofa": 2
+  },
+  "files": [
+    {
+      "path": "lowpoly_batch12a/assets/bed/bed.blend",
+      "sha256": "95e5864ad927b0301c8386020904f528d1132e6c79fdb48c867eb075326a4888",
+      "bytes": 1488569
+    },
+    {
+      "path": "lowpoly_batch12a/assets/bed/bed.glb",
+      "sha256": "304fd56a3f10246e19f2f976bd6c0350da429a74307602fe705870a1c1bf35c3",
+      "bytes": 1130256
+    },
+    {
+      "path": "lowpoly_batch12a/assets/sofa/sofa.blend",
+      "sha256": "41aad48656a52a12a0793f1da5ba13820702fca3954548c3bd52aedb50b38c25",
+      "bytes": 1526445
+    },
+    {
+      "path": "lowpoly_batch12a/assets/sofa/sofa.glb",
+      "sha256": "32e8a98da2c6e6a73a167aa05845f1d409fbeb8e634636713cbe6488c3bd0f57",
+      "bytes": 1601496
+    }
+  ],
+  "asset_reviews": {
+    "bed": "reviews/batch12a/bed_shape_approval.json",
+    "sofa": "reviews/batch12a/sofa_shape_approval.json"
+  },
+  "blocking_findings": [],
+  "authorizes": "Exact source files may proceed to frozen photography after parent CPU allocation. Final photos and package approval remain separate. Publication is paused."
+}

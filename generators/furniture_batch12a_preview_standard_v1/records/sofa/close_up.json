@@ -1,0 +1,111 @@
+{
+  "asset": "sofa",
+  "view": "close_up",
+  "input_repo_path": "assets/sofa/sofa.glb",
+  "input_sha256": "32e8a98da2c6e6a73a167aa05845f1d409fbeb8e634636713cbe6488c3bd0f57",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "4af709f45e6637b379b42dff89a96278626562d094549b6de85c62af8a4e0bed",
+  "closeup_magnification_vs_full_fit": 1.8946553708621932,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch12a/generators/preview_standard_v1/repo/assets/sofa/close_up.jpg",
+  "output_sha256": "fcb2d5e1b231a04b1fb0155a2154716c6a07f4cfd393749322632c7dcdb5bd54",
+  "bytes": 218312,
+  "elapsed_seconds": 951.9679996159975,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 1.3793104128661853,
+  "source_bounds": [
+    [
+      -0.7249999642372131,
+      -0.3799999952316284,
+      0.0
+    ],
+    [
+      0.7249999642372131,
+      0.3974999785423279,
+      0.7967844009399414
+    ]
+  ],
+  "camera_location": [
+    4.326759338378906,
+    -8.058691024780273,
+    5.432110786437988
+  ],
+  "camera_rotation": [
+    1.0782556533813477,
+    4.932612895913735e-08,
+    0.46364763379096985
+  ],
+  "ortho_scale": 1.465517282485962,
+  "focus": {
+    "direction": [
+      1,
+      -2,
+      1.2
+    ],
+    "target_m": [
+      0.28,
+      -0.12,
+      0.51
+    ],
+    "span_m": 0.85,
+    "purpose": "Two separate seat/back cushions, rounded upholstery, sewn welt and arm junction"
+  },
+  "focus_projected_width_height": [
+    2.221320152282715,
+    1.7170500755310059
+  ],
+  "full_object_fit": false,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        -4.154073715209961,
+        -2.7598228454589844,
+        5.014251708984375
+      ],
+      "rotation": [
+        0.8576645851135254,
+        -2.5133456205139737e-08,
+        -0.983741044998169
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        3.4544379711151123,
+        -2.1654584407806396,
+        3.075880527496338
+      ],
+      "rotation": [
+        1.0434513092041016,
+        -5.8043053030587544e-08,
+        1.0104436874389648
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        2.180447816848755,
+        3.5447998046875,
+        3.9533207416534424
+      ],
+      "rotation": [
+        0.9070937037467957,
+        -6.659196571945358e-08,
+        2.5894711017608643
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": null,
+  "floor_hidden": false,
+  "diagnostic_only": false
+}

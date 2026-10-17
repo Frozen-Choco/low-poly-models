@@ -1,0 +1,16 @@
+[
+  {
+    "id": "bed",
+    "repo_path": "assets/furniture/bed/bed.glb",
+    "sha256": "304fd56a3f10246e19f2f976bd6c0350da429a74307602fe705870a1c1bf35c3",
+    "git_sha": null,
+    "provenance": "Original generic furniture. Manufacturer photo morphology and metric dimensional reference; original geometry and packed procedural textures."
+  },
+  {
+    "id": "sofa",
+    "repo_path": "assets/furniture/sofa/sofa.glb",
+    "sha256": "32e8a98da2c6e6a73a167aa05845f1d409fbeb8e634636713cbe6488c3bd0f57",
+    "git_sha": null,
+    "provenance": "Original generic furniture. Manufacturer photo morphology and metric dimensional reference; original geometry and packed procedural textures."
+  }
+]

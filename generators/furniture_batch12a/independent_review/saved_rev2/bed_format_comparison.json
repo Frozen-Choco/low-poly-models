@@ -1,0 +1,262 @@
+{
+  "asset": "bed",
+  "source_hashes": {
+    "blend": "95e5864ad927b0301c8386020904f528d1132e6c79fdb48c867eb075326a4888",
+    "glb": "304fd56a3f10246e19f2f976bd6c0350da429a74307602fe705870a1c1bf35c3"
+  },
+  "poses": [
+    {
+      "frame": 1,
+      "missing_names": [],
+      "objects": [
+        {
+          "name": "Bed rail bolt",
+          "max_bidirectional_vertex_to_surface_distance_m": 1.4901161193847656e-08,
+          "triangles_blend": 284,
+          "triangles_glb": 284
+        },
+        {
+          "name": "Bed rail bolt.001",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 284,
+          "triangles_glb": 284
+        },
+        {
+          "name": "Bed rail bolt.002",
+          "max_bidirectional_vertex_to_surface_distance_m": 1.4901161193847656e-08,
+          "triangles_blend": 284,
+          "triangles_glb": 284
+        },
+        {
+          "name": "Bed rail bolt.003",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 284,
+          "triangles_glb": 284
+        },
+        {
+          "name": "Bed rail bolt.004",
+          "max_bidirectional_vertex_to_surface_distance_m": 1.4901161193847656e-08,
+          "triangles_blend": 284,
+          "triangles_glb": 284
+        },
+        {
+          "name": "Bed rail bolt.005",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 284,
+          "triangles_glb": 284
+        },
+        {
+          "name": "Bed rail bolt.006",
+          "max_bidirectional_vertex_to_surface_distance_m": 1.4901161193847656e-08,
+          "triangles_blend": 284,
+          "triangles_glb": 284
+        },
+        {
+          "name": "Bed rail bolt.007",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 284,
+          "triangles_glb": 284
+        },
+        {
+          "name": "Cotton pillow",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 2352,
+          "triangles_glb": 2352
+        },
+        {
+          "name": "End rail -1.0175",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "End rail 1.0175",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Foot post -0.47",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Foot post 0.47",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Headboard horizontal 0.58",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Headboard horizontal 0.72",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Headboard horizontal 0.86",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Headboard post -0.47",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Headboard post 0.47",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Mattress support slat 00",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Mattress support slat 01",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Mattress support slat 02",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Mattress support slat 03",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Mattress support slat 04",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Mattress support slat 05",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Mattress support slat 06",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Mattress support slat 07",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Mattress support slat 08",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Mattress support slat 09",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Mattress support slat 10",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Mattress support slat 11",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Mattress support slat 12",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Mattress support slat 13",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Mattress support slat 14",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Mattress support slat 15",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Mattress upper welt",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 576,
+          "triangles_glb": 576
+        },
+        {
+          "name": "Pillow stitched edge",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 576,
+          "triangles_glb": 576
+        },
+        {
+          "name": "Side rail -0.47",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Side rail 0.47",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Slat support ledger -0.47",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Slat support ledger 0.47",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Supported mattress",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 2352,
+          "triangles_glb": 2352
+        }
+      ],
+      "max_distance_m": 1.4901161193847656e-08
+    }
+  ]
+}

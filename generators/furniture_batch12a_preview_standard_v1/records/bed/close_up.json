@@ -1,0 +1,111 @@
+{
+  "asset": "bed",
+  "view": "close_up",
+  "input_repo_path": "assets/bed/bed.glb",
+  "input_sha256": "304fd56a3f10246e19f2f976bd6c0350da429a74307602fe705870a1c1bf35c3",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "4af709f45e6637b379b42dff89a96278626562d094549b6de85c62af8a4e0bed",
+  "closeup_magnification_vs_full_fit": 2.087755446032378,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch12a/generators/preview_standard_v1/repo/assets/bed/close_up.jpg",
+  "output_sha256": "d046701959746f2a1efddc6c85c9e57e9ae06be6725878df883c3c8fcf1d43f1",
+  "bytes": 174028,
+  "elapsed_seconds": 852.2447209069942,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 0.9569377291784165,
+  "source_bounds": [
+    [
+      -0.4909999966621399,
+      -1.0450000762939453,
+      0.0
+    ],
+    [
+      0.4909999966621399,
+      1.0450000762939453,
+      0.9200000166893005
+    ]
+  ],
+  "camera_location": [
+    3.886155605316162,
+    -6.796234607696533,
+    6.058897972106934
+  ],
+  "camera_rotation": [
+    0.9799235463142395,
+    2.111996266762617e-08,
+    0.46364760398864746
+  ],
+  "ortho_scale": 1.1722487211227417,
+  "focus": {
+    "direction": [
+      1,
+      -2,
+      1.5
+    ],
+    "target_m": [
+      0.18,
+      0.66,
+      0.51
+    ],
+    "span_m": 0.98,
+    "purpose": "Cotton pillow and rounded mattress, wood headboard joins and grain direction"
+  },
+  "focus_projected_width_height": [
+    1.7312441766262054,
+    1.9578949213027954
+  ],
+  "full_object_fit": false,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        -4.357266426086426,
+        -2.3534374237060547,
+        5.051853179931641
+      ],
+      "rotation": [
+        0.8497310280799866,
+        6.064441748776517e-08,
+        -1.0692980289459229
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        3.330146312713623,
+        -1.9168756008148193,
+        3.4047040939331055
+      ],
+      "rotation": [
+        0.9602968096733093,
+        1.5446146051090182e-07,
+        1.0440641641616821
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        2.0298969745635986,
+        3.8459010124206543,
+        3.720557928085327
+      ],
+      "rotation": [
+        0.9614766240119934,
+        1.1644003450328455e-07,
+        2.6501100063323975
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": null,
+  "floor_hidden": false,
+  "diagnostic_only": false
+}

@@ -1,0 +1,115 @@
+{
+  "asset": "sofa",
+  "view": "underside_detail",
+  "input_repo_path": "assets/sofa/sofa.glb",
+  "input_sha256": "32e8a98da2c6e6a73a167aa05845f1d409fbeb8e634636713cbe6488c3bd0f57",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "4af709f45e6637b379b42dff89a96278626562d094549b6de85c62af8a4e0bed",
+  "closeup_magnification_vs_full_fit": 1.9647409188109952,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch12a/generators/preview_standard_v1/repo/assets/sofa/underside_detail.jpg",
+  "output_sha256": "a0f2b403981c86e8b63036c8acef67661ab137d7a9e25e650268b39815121a02",
+  "bytes": 195683,
+  "elapsed_seconds": 410.9993353919999,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 1.3793104128661853,
+  "source_bounds": [
+    [
+      -0.7249999642372131,
+      -0.3799999952316284,
+      0.0
+    ],
+    [
+      0.7249999642372131,
+      0.3974999785423279,
+      0.7967844009399414
+    ]
+  ],
+  "camera_location": [
+    5.443816184997559,
+    -5.138643741607666,
+    -7.027792930603027
+  ],
+  "camera_rotation": [
+    2.3856234550476074,
+    -7.9672659580865e-08,
+    0.7853981852531433
+  ],
+  "ortho_scale": 1.344827651977539,
+  "focus": {
+    "direction": [
+      1,
+      -1,
+      -1.5
+    ],
+    "target_m": [
+      0.43,
+      -0.2,
+      0.18
+    ],
+    "span_m": 0.78,
+    "purpose": "Wooden legs seated in lower rails, dust-cover boundary and frame support"
+  },
+  "focus_projected_width_height": [
+    2.1137903332710266,
+    2.042331576347351
+  ],
+  "full_object_fit": false,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        -0.33941173553466797,
+        -6.660587310791016,
+        1.1224567890167236
+      ],
+      "rotation": [
+        1.490246295928955,
+        1.957832562737849e-09,
+        -0.06722109019756317
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        3.8658621311187744,
+        -0.8658615946769714,
+        -2.154252767562866
+      ],
+      "rotation": [
+        2.1915459632873535,
+        1.8643768839865515e-07,
+        1.3705941438674927
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        4.419594764709473,
+        0.5804051160812378,
+        3.555536985397339
+      ],
+      "rotation": [
+        0.9749711155891418,
+        -1.739929018640396e-07,
+        1.7275835275650024
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": [
+    184,
+    184,
+    184
+  ],
+  "floor_hidden": true,
+  "diagnostic_only": false
+}

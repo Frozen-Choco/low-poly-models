@@ -1,0 +1,246 @@
+{
+  "decision": "PASS",
+  "gate": "independent_final_canonical_visual_and_provenance",
+  "source_approval": "reviews/batch12a/approval.json",
+  "source_approval_sha256": "4a43f13f98039f93c7043d6510ff44dd94e1fa773fecaa6f8aca6544aa036eb5",
+  "source_revisions": {
+    "bed": 2,
+    "sofa": 2
+  },
+  "core_hashes": {
+    "render.py": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+    "standard.json": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa"
+  },
+  "views": [
+    {
+      "asset": "bed",
+      "view": "preview",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch12a/generators/preview_standard_v1/repo/assets/bed/preview.jpg",
+      "image_sha256": "a6295586181e343332d622f7966089e43b89af90b1e16d881621b0865ae9ddf4",
+      "record_sha256": "559583bd08dd428ee4ed4f514553560fe2079163a9dc7eea4b6445f75fab0d3b",
+      "input_sha256": "304fd56a3f10246e19f2f976bd6c0350da429a74307602fe705870a1c1bf35c3",
+      "bytes": 128871,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "bed",
+      "view": "back",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch12a/generators/preview_standard_v1/repo/assets/bed/back.jpg",
+      "image_sha256": "2c30d3189207f4748da23f8615c8de13df1f7e2c05e385cf59929a3030eb9df2",
+      "record_sha256": "b1179003e2eecb85e112a2dcd70c9870dcaddb1335000e6030beb81e5c8e97e8",
+      "input_sha256": "304fd56a3f10246e19f2f976bd6c0350da429a74307602fe705870a1c1bf35c3",
+      "bytes": 126202,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "bed",
+      "view": "front",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch12a/generators/preview_standard_v1/repo/assets/bed/front.jpg",
+      "image_sha256": "69833c1a33b26dc94ce587e1b0b08340edac24eb0e99945c21899712bd422453",
+      "record_sha256": "63321ec375026175e0d3dd11c1d7b550bb10212c0390f2e0503192f37478d37c",
+      "input_sha256": "304fd56a3f10246e19f2f976bd6c0350da429a74307602fe705870a1c1bf35c3",
+      "bytes": 145839,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "bed",
+      "view": "rear",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch12a/generators/preview_standard_v1/repo/assets/bed/rear.jpg",
+      "image_sha256": "79c571ecf32578898e8afa2ddd7aae2f6797d5d7a3d546f369e804211069056d",
+      "record_sha256": "0c2efc48c207bd8fd93b6411ffb7e8d455aed19da002dc45924190155ccd85b2",
+      "input_sha256": "304fd56a3f10246e19f2f976bd6c0350da429a74307602fe705870a1c1bf35c3",
+      "bytes": 147409,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "bed",
+      "view": "side",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch12a/generators/preview_standard_v1/repo/assets/bed/side.jpg",
+      "image_sha256": "a097aa1adc2f9e89d8cb7fef4c2bbc6d7301ddf07b917208e95a81a025959eb6",
+      "record_sha256": "0fa79226f40af0cb58fc212989baf6071a9cd210097bdf64659b706c404d052f",
+      "input_sha256": "304fd56a3f10246e19f2f976bd6c0350da429a74307602fe705870a1c1bf35c3",
+      "bytes": 64147,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "bed",
+      "view": "left",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch12a/generators/preview_standard_v1/repo/assets/bed/left.jpg",
+      "image_sha256": "87a149915e2d374c2a0b286dae61ff1e3bd503edcfb8ed4c1d64d447a37bbd06",
+      "record_sha256": "bade8f20be5f1a8bb997479ae075cebbf318ba24f05ad6b77b0d252ff70982b6",
+      "input_sha256": "304fd56a3f10246e19f2f976bd6c0350da429a74307602fe705870a1c1bf35c3",
+      "bytes": 64819,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "bed",
+      "view": "top",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch12a/generators/preview_standard_v1/repo/assets/bed/top.jpg",
+      "image_sha256": "03f4b291fdd2a0af23cfe387ae1c8e86de1cbd1d0172049a05d7d2dd27bc4f6f",
+      "record_sha256": "eb57091de75452433922284d0804d38382ae597c62e0158598bf9875cedc8e7b",
+      "input_sha256": "304fd56a3f10246e19f2f976bd6c0350da429a74307602fe705870a1c1bf35c3",
+      "bytes": 119102,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "bed",
+      "view": "underside",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch12a/generators/preview_standard_v1/repo/assets/bed/underside.jpg",
+      "image_sha256": "263334a3e138f3a35545be4a0ee289206430296062c526b28df203ad91cdadf3",
+      "record_sha256": "5b83c186bc0b007fadaac5002f8d2514e62dcc6ed08c5f13d5494b35a45d730f",
+      "input_sha256": "304fd56a3f10246e19f2f976bd6c0350da429a74307602fe705870a1c1bf35c3",
+      "bytes": 143973,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "bed",
+      "view": "close_up",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch12a/generators/preview_standard_v1/repo/assets/bed/close_up.jpg",
+      "image_sha256": "d046701959746f2a1efddc6c85c9e57e9ae06be6725878df883c3c8fcf1d43f1",
+      "record_sha256": "2ed557e1f9d0d850e404f7f1f67ace2c29b46dba68ec27969ed67462763aec3d",
+      "input_sha256": "304fd56a3f10246e19f2f976bd6c0350da429a74307602fe705870a1c1bf35c3",
+      "bytes": 174028,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "bed",
+      "view": "underside_detail",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch12a/generators/preview_standard_v1/repo/assets/bed/underside_detail.jpg",
+      "image_sha256": "786d9ae43d56981ad6d1f62507d5e76248f1b12faf155b96a5cac7383e49fed4",
+      "record_sha256": "488e049224116ea80730dd147fd183b4ac3c1e62013eb690d0950c198476940d",
+      "input_sha256": "304fd56a3f10246e19f2f976bd6c0350da429a74307602fe705870a1c1bf35c3",
+      "bytes": 348495,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "bed",
+      "view": "alternate_light",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch12a/generators/preview_standard_v1/repo/assets/bed/alternate_light.jpg",
+      "image_sha256": "57ba264a80076765ba38281ae29ccd688274ef733d0a3080834e147ad8a317c3",
+      "record_sha256": "95d1cd700ef99956604111fde65216f2d2343dbf0e296f3eaade087948a6ab43",
+      "input_sha256": "304fd56a3f10246e19f2f976bd6c0350da429a74307602fe705870a1c1bf35c3",
+      "bytes": 135215,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "sofa",
+      "view": "preview",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch12a/generators/preview_standard_v1/repo/assets/sofa/preview.jpg",
+      "image_sha256": "b0cc4ade4300edc23c2c1ba50f9311505ab94f56cfa5ab0acafe2957353cdbb6",
+      "record_sha256": "a1e3769eb421e4bde5c862f97dd78862a0f9905bad18749eaf1572ee70f7fb62",
+      "input_sha256": "32e8a98da2c6e6a73a167aa05845f1d409fbeb8e634636713cbe6488c3bd0f57",
+      "bytes": 146803,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "sofa",
+      "view": "back",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch12a/generators/preview_standard_v1/repo/assets/sofa/back.jpg",
+      "image_sha256": "733f0291b1d7bcabc7c6f3e6f671eb062434908ecc331c9f45cf945a71c19d92",
+      "record_sha256": "5b75384ef3d07c0636798b5c334d9d7044a1616f30e34e38ef1ab06f5384992f",
+      "input_sha256": "32e8a98da2c6e6a73a167aa05845f1d409fbeb8e634636713cbe6488c3bd0f57",
+      "bytes": 131614,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "sofa",
+      "view": "front",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch12a/generators/preview_standard_v1/repo/assets/sofa/front.jpg",
+      "image_sha256": "19457f7be1c1d5541f3426047fb28cc498fb09904601ccc7ed64fe760ee16db5",
+      "record_sha256": "f6b2bb5cbca3367c2111c595752aaf18ac168e5f9ef1b0188662a51262cdf779",
+      "input_sha256": "32e8a98da2c6e6a73a167aa05845f1d409fbeb8e634636713cbe6488c3bd0f57",
+      "bytes": 108363,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "sofa",
+      "view": "rear",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch12a/generators/preview_standard_v1/repo/assets/sofa/rear.jpg",
+      "image_sha256": "8256c38330ece3a5e27ef3894468e30d5b47e42cf219fa42cc8f561292e3b155",
+      "record_sha256": "807680376e896062930167e704bb72b66d313f29c968eeb9ce7fa173b9c4355b",
+      "input_sha256": "32e8a98da2c6e6a73a167aa05845f1d409fbeb8e634636713cbe6488c3bd0f57",
+      "bytes": 98797,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "sofa",
+      "view": "side",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch12a/generators/preview_standard_v1/repo/assets/sofa/side.jpg",
+      "image_sha256": "826d8b8a05b8b2f7e450dd70ad34fc60b5132240ad4a411bcf4275be1aa70094",
+      "record_sha256": "2ee0bb0d92026657e656e3ea7ce0fe660394ba83bcaeea211463af6a09e73d36",
+      "input_sha256": "32e8a98da2c6e6a73a167aa05845f1d409fbeb8e634636713cbe6488c3bd0f57",
+      "bytes": 118490,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "sofa",
+      "view": "left",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch12a/generators/preview_standard_v1/repo/assets/sofa/left.jpg",
+      "image_sha256": "e866ed274527e4a9bb6e7b872aeeed10053206e70aeab11dcb555627b8e54864",
+      "record_sha256": "3eaf93a2bbcf6a60de38a8e5be347364f4e6791de187be247906e299d0ce941b",
+      "input_sha256": "32e8a98da2c6e6a73a167aa05845f1d409fbeb8e634636713cbe6488c3bd0f57",
+      "bytes": 118646,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "sofa",
+      "view": "top",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch12a/generators/preview_standard_v1/repo/assets/sofa/top.jpg",
+      "image_sha256": "6c5222100aa4c34c7759a86f6e800fe23bd296b4cc3fc38f9a4374731be819b4",
+      "record_sha256": "dd7371552d6e0f8cc1681d9a5f984ed12b391ccc35f77f03ba16066d49e70cb9",
+      "input_sha256": "32e8a98da2c6e6a73a167aa05845f1d409fbeb8e634636713cbe6488c3bd0f57",
+      "bytes": 138948,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "sofa",
+      "view": "underside",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch12a/generators/preview_standard_v1/repo/assets/sofa/underside.jpg",
+      "image_sha256": "f848ce92c402985b0d5c7c6b82a99d961219c86aa14848676c46deba14b9ea54",
+      "record_sha256": "72d131198a83e15fc8f93fd747563a553ce7db4393291c64ed5d9db6845c00c2",
+      "input_sha256": "32e8a98da2c6e6a73a167aa05845f1d409fbeb8e634636713cbe6488c3bd0f57",
+      "bytes": 112817,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "sofa",
+      "view": "close_up",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch12a/generators/preview_standard_v1/repo/assets/sofa/close_up.jpg",
+      "image_sha256": "fcb2d5e1b231a04b1fb0155a2154716c6a07f4cfd393749322632c7dcdb5bd54",
+      "record_sha256": "6e45d29693a5d02173f0053e6035ade82c4f36e598efd723f0dd14939da66b10",
+      "input_sha256": "32e8a98da2c6e6a73a167aa05845f1d409fbeb8e634636713cbe6488c3bd0f57",
+      "bytes": 218312,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "sofa",
+      "view": "underside_detail",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch12a/generators/preview_standard_v1/repo/assets/sofa/underside_detail.jpg",
+      "image_sha256": "a0f2b403981c86e8b63036c8acef67661ab137d7a9e25e650268b39815121a02",
+      "record_sha256": "3b57684f27557451897dcbc35d68e3b780e30f4296f22a0c3e4e2358b42e3c05",
+      "input_sha256": "32e8a98da2c6e6a73a167aa05845f1d409fbeb8e634636713cbe6488c3bd0f57",
+      "bytes": 195683,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "sofa",
+      "view": "alternate_light",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch12a/generators/preview_standard_v1/repo/assets/sofa/alternate_light.jpg",
+      "image_sha256": "8346335177e3d1f7b588c497bae0a0d89406af835654a0337d9883f00e7ec8a6",
+      "record_sha256": "5ee1ef59456a0c2ac9901ded3f5767810dea1001370e1d1602a70df194f3e597",
+      "input_sha256": "32e8a98da2c6e6a73a167aa05845f1d409fbeb8e634636713cbe6488c3bd0f57",
+      "bytes": 151349,
+      "visual_decision": "PASS"
+    }
+  ],
+  "checks": [
+    "All22 final1200px JPEG files independently viewed at original resolution",
+    "Frozen renderer/spec byte-identical to previous approved batch",
+    "Every record/input/output/detail-plan hash independently verified",
+    "512sample ceiling/adaptive.005/RGB/JPEG dimensions/byte counts confirmed",
+    "Every image tied to current exact input/output hashes"
+  ],
+  "blocking_findings": [],
+  "publication_executed": false,
+  "authorizes": "These exact22 final photographs pass; exact lean-package acceptance remains separate."
+}

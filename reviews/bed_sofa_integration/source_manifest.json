@@ -1,0 +1,321 @@
+{
+  "scope": "Exact lean candidate allowlist; no publication",
+  "files": {
+    "README.md": {
+      "bytes": 1727,
+      "sha256": "980bbfe2a2318fac21c42a09cbeaaf8e52c8a394b3d87001770c80fb08407c0a"
+    },
+    "assets/furniture/bed/alternate_light.jpg": {
+      "bytes": 135215,
+      "sha256": "57ba264a80076765ba38281ae29ccd688274ef733d0a3080834e147ad8a317c3"
+    },
+    "assets/furniture/bed/back.jpg": {
+      "bytes": 126202,
+      "sha256": "2c30d3189207f4748da23f8615c8de13df1f7e2c05e385cf59929a3030eb9df2"
+    },
+    "assets/furniture/bed/bed.blend": {
+      "bytes": 1488569,
+      "sha256": "95e5864ad927b0301c8386020904f528d1132e6c79fdb48c867eb075326a4888"
+    },
+    "assets/furniture/bed/bed.glb": {
+      "bytes": 1130256,
+      "sha256": "304fd56a3f10246e19f2f976bd6c0350da429a74307602fe705870a1c1bf35c3"
+    },
+    "assets/furniture/bed/close_up.jpg": {
+      "bytes": 174028,
+      "sha256": "d046701959746f2a1efddc6c85c9e57e9ae06be6725878df883c3c8fcf1d43f1"
+    },
+    "assets/furniture/bed/front.jpg": {
+      "bytes": 145839,
+      "sha256": "69833c1a33b26dc94ce587e1b0b08340edac24eb0e99945c21899712bd422453"
+    },
+    "assets/furniture/bed/left.jpg": {
+      "bytes": 64819,
+      "sha256": "87a149915e2d374c2a0b286dae61ff1e3bd503edcfb8ed4c1d64d447a37bbd06"
+    },
+    "assets/furniture/bed/metadata.json": {
+      "bytes": 1521,
+      "sha256": "40f0c7536b56a5eb106215c27725f09f0cb8491c0706667bdb03457e2efd64f5"
+    },
+    "assets/furniture/bed/preview.jpg": {
+      "bytes": 128871,
+      "sha256": "a6295586181e343332d622f7966089e43b89af90b1e16d881621b0865ae9ddf4"
+    },
+    "assets/furniture/bed/rear.jpg": {
+      "bytes": 147409,
+      "sha256": "79c571ecf32578898e8afa2ddd7aae2f6797d5d7a3d546f369e804211069056d"
+    },
+    "assets/furniture/bed/side.jpg": {
+      "bytes": 64147,
+      "sha256": "a097aa1adc2f9e89d8cb7fef4c2bbc6d7301ddf07b917208e95a81a025959eb6"
+    },
+    "assets/furniture/bed/top.jpg": {
+      "bytes": 119102,
+      "sha256": "03f4b291fdd2a0af23cfe387ae1c8e86de1cbd1d0172049a05d7d2dd27bc4f6f"
+    },
+    "assets/furniture/bed/underside.jpg": {
+      "bytes": 143973,
+      "sha256": "263334a3e138f3a35545be4a0ee289206430296062c526b28df203ad91cdadf3"
+    },
+    "assets/furniture/bed/underside_detail.jpg": {
+      "bytes": 348495,
+      "sha256": "786d9ae43d56981ad6d1f62507d5e76248f1b12faf155b96a5cac7383e49fed4"
+    },
+    "assets/furniture/sofa/alternate_light.jpg": {
+      "bytes": 151349,
+      "sha256": "8346335177e3d1f7b588c497bae0a0d89406af835654a0337d9883f00e7ec8a6"
+    },
+    "assets/furniture/sofa/back.jpg": {
+      "bytes": 131614,
+      "sha256": "733f0291b1d7bcabc7c6f3e6f671eb062434908ecc331c9f45cf945a71c19d92"
+    },
+    "assets/furniture/sofa/close_up.jpg": {
+      "bytes": 218312,
+      "sha256": "fcb2d5e1b231a04b1fb0155a2154716c6a07f4cfd393749322632c7dcdb5bd54"
+    },
+    "assets/furniture/sofa/front.jpg": {
+      "bytes": 108363,
+      "sha256": "19457f7be1c1d5541f3426047fb28cc498fb09904601ccc7ed64fe760ee16db5"
+    },
+    "assets/furniture/sofa/left.jpg": {
+      "bytes": 118646,
+      "sha256": "e866ed274527e4a9bb6e7b872aeeed10053206e70aeab11dcb555627b8e54864"
+    },
+    "assets/furniture/sofa/metadata.json": {
+      "bytes": 1558,
+      "sha256": "f0bec1aa81b0674278fa27eb50ceb7720df413ced491c51a9858fad505d81f5b"
+    },
+    "assets/furniture/sofa/preview.jpg": {
+      "bytes": 146803,
+      "sha256": "b0cc4ade4300edc23c2c1ba50f9311505ab94f56cfa5ab0acafe2957353cdbb6"
+    },
+    "assets/furniture/sofa/rear.jpg": {
+      "bytes": 98797,
+      "sha256": "8256c38330ece3a5e27ef3894468e30d5b47e42cf219fa42cc8f561292e3b155"
+    },
+    "assets/furniture/sofa/side.jpg": {
+      "bytes": 118490,
+      "sha256": "826d8b8a05b8b2f7e450dd70ad34fc60b5132240ad4a411bcf4275be1aa70094"
+    },
+    "assets/furniture/sofa/sofa.blend": {
+      "bytes": 1526445,
+      "sha256": "41aad48656a52a12a0793f1da5ba13820702fca3954548c3bd52aedb50b38c25"
+    },
+    "assets/furniture/sofa/sofa.glb": {
+      "bytes": 1601496,
+      "sha256": "32e8a98da2c6e6a73a167aa05845f1d409fbeb8e634636713cbe6488c3bd0f57"
+    },
+    "assets/furniture/sofa/top.jpg": {
+      "bytes": 138948,
+      "sha256": "6c5222100aa4c34c7759a86f6e800fe23bd296b4cc3fc38f9a4374731be819b4"
+    },
+    "assets/furniture/sofa/underside.jpg": {
+      "bytes": 112817,
+      "sha256": "f848ce92c402985b0d5c7c6b82a99d961219c86aa14848676c46deba14b9ea54"
+    },
+    "assets/furniture/sofa/underside_detail.jpg": {
+      "bytes": 195683,
+      "sha256": "a0f2b403981c86e8b63036c8acef67661ab137d7a9e25e650268b39815121a02"
+    },
+    "catalog.json": {
+      "bytes": 2262,
+      "sha256": "acac83aa020a34844aebfc29ad7e3307fc888ac55f45fb16f00926b5ea60a06f"
+    },
+    "generators/furniture_batch12a/configs/attachments.json": {
+      "bytes": 2209,
+      "sha256": "c6cb2dcc6d421feb54aa4fef4c96ba88e868c5566503e3a0eee2034ebdc8b9a0"
+    },
+    "generators/furniture_batch12a/docs/reference-and-design.md": {
+      "bytes": 5725,
+      "sha256": "4c32f5aa1bfbf6f052eb75b93ae553ce04558ccd28f7406e7d86294236fae0cc"
+    },
+    "generators/furniture_batch12a/evidence/photography_validation.json": {
+      "bytes": 8964,
+      "sha256": "46c2ec679bf1dd39d5318daf4c7f990abe1bb35eb6c61d1c5ea26d4d0f65f960"
+    },
+    "generators/furniture_batch12a/evidence/saved_validation.json": {
+      "bytes": 46054,
+      "sha256": "025b254ea1efdd6b43a45279bc77a41f9d91e23d9f7e5b3f8d1ab6c04a29ec49"
+    },
+    "generators/furniture_batch12a/evidence/source_reproduction.json": {
+      "bytes": 758,
+      "sha256": "9ed8a214207981a96de506029ec3b5f6ed2c836502e9fdc963222f122a803946"
+    },
+    "generators/furniture_batch12a/independent_review/approval.json": {
+      "bytes": 1186,
+      "sha256": "4a43f13f98039f93c7043d6510ff44dd94e1fa773fecaa6f8aca6544aa036eb5"
+    },
+    "generators/furniture_batch12a/independent_review/audit_coplanar.py": {
+      "bytes": 3245,
+      "sha256": "6e98dde1cda3c7c53e9483ba736a7d47327b8c6e4fe54fd5edda4e35da5ae119"
+    },
+    "generators/furniture_batch12a/independent_review/canonical_full_sets.json": {
+      "bytes": 12348,
+      "sha256": "8abd3efa54b4c95396c42d1ecbdabab2fedf54c7c3b4467619e87bbcdce8dc12"
+    },
+    "generators/furniture_batch12a/independent_review/checklist.md": {
+      "bytes": 2367,
+      "sha256": "5c726d2bb334b0d25243afa0d1249ff39c46624e06c522592347989a5b225af5"
+    },
+    "generators/furniture_batch12a/independent_review/compare_formats.py": {
+      "bytes": 1596,
+      "sha256": "da14f372792dde4e073b9de30d2c2afdd5405e69e4f4774816c2d4ab862671da"
+    },
+    "generators/furniture_batch12a/independent_review/gate.md": {
+      "bytes": 3141,
+      "sha256": "355cd6b0a35ae9cf22b768bd95308875d15b478288fc2cd9007892918aa1b9de"
+    },
+    "generators/furniture_batch12a/independent_review/inspect_saved.py": {
+      "bytes": 3667,
+      "sha256": "2df8bfdff1c264ffe97ea66f3c81336cecba85fb7f65c188b69f9db0b07ad0a5"
+    },
+    "generators/furniture_batch12a/independent_review/saved_rev2/bed_blend_direct_planes.json": {
+      "bytes": 3876,
+      "sha256": "36a712692b5b286d1047e8e87e587bedf1e66581bc68024606c5c9bd3dabd1b2"
+    },
+    "generators/furniture_batch12a/independent_review/saved_rev2/bed_format_comparison.json": {
+      "bytes": 8365,
+      "sha256": "00a5c6d4e29aec04554a6562f894fce93a40388301c558b718c2a9536660a5ef"
+    },
+    "generators/furniture_batch12a/independent_review/saved_rev2/bed_glb_direct_planes.json": {
+      "bytes": 3894,
+      "sha256": "d36e25ace733fc224b0f66bc2227d5d726dffcb29be8216e940506ee68491685"
+    },
+    "generators/furniture_batch12a/independent_review/saved_rev2/sofa_blend_direct_planes.json": {
+      "bytes": 406,
+      "sha256": "4bf45cb089115c1f490876547b83d3d6ed52c0db91d0b80c9229ebbc80cc1dff"
+    },
+    "generators/furniture_batch12a/independent_review/saved_rev2/sofa_format_comparison.json": {
+      "bytes": 6586,
+      "sha256": "fb5bdc80727fdf440930e44a2acb9ca5bee1b75df96f9515c97b4515f372b0bc"
+    },
+    "generators/furniture_batch12a/independent_review/saved_rev2/sofa_glb_direct_planes.json": {
+      "bytes": 404,
+      "sha256": "020534a3c6ed758a052d54c44e93482b771c6feef0852e155079abda39dca684"
+    },
+    "generators/furniture_batch12a/independent_review/source_reproduction.json": {
+      "bytes": 758,
+      "sha256": "9ed8a214207981a96de506029ec3b5f6ed2c836502e9fdc963222f122a803946"
+    },
+    "generators/furniture_batch12a/reference/sources.json": {
+      "bytes": 1864,
+      "sha256": "56dd2e4a9b2840abaa5f020da57b54b99566776c0cf06863bf17cdac75a32f9d"
+    },
+    "generators/furniture_batch12a/scripts/build_assets.py": {
+      "bytes": 11062,
+      "sha256": "7a8aebea46b6de21f5673063d650339b462a6ea9b2dde73eb55497ce3882b8ea"
+    },
+    "generators/furniture_batch12a/scripts/validate_saved.py": {
+      "bytes": 1803,
+      "sha256": "ce1bb19898dc0c0993a0bab1daaff70600cc5a0c435168d1279b5601503a7cf5"
+    },
+    "generators/furniture_batch12a_preview_standard_v1/detail_targets.json": {
+      "bytes": 1164,
+      "sha256": "4af709f45e6637b379b42dff89a96278626562d094549b6de85c62af8a4e0bed"
+    },
+    "generators/furniture_batch12a_preview_standard_v1/inputs.json": {
+      "bytes": 686,
+      "sha256": "28f776c464b8aea45e51db3a591b030a252bad65d0fc0fbbd5065a5e01f81cdb"
+    },
+    "generators/furniture_batch12a_preview_standard_v1/records/bed/alternate_light.json": {
+      "bytes": 2512,
+      "sha256": "95d1cd700ef99956604111fde65216f2d2343dbf0e296f3eaade087948a6ab43"
+    },
+    "generators/furniture_batch12a_preview_standard_v1/records/bed/back.json": {
+      "bytes": 2500,
+      "sha256": "b1179003e2eecb85e112a2dcd70c9870dcaddb1335000e6030beb81e5c8e97e8"
+    },
+    "generators/furniture_batch12a_preview_standard_v1/records/bed/close_up.json": {
+      "bytes": 2737,
+      "sha256": "2ed557e1f9d0d850e404f7f1f67ace2c29b46dba68ec27969ed67462763aec3d"
+    },
+    "generators/furniture_batch12a_preview_standard_v1/records/bed/front.json": {
+      "bytes": 2477,
+      "sha256": "63321ec375026175e0d3dd11c1d7b550bb10212c0390f2e0503192f37478d37c"
+    },
+    "generators/furniture_batch12a_preview_standard_v1/records/bed/left.json": {
+      "bytes": 2493,
+      "sha256": "bade8f20be5f1a8bb997479ae075cebbf318ba24f05ad6b77b0d252ff70982b6"
+    },
+    "generators/furniture_batch12a_preview_standard_v1/records/bed/preview.json": {
+      "bytes": 2511,
+      "sha256": "559583bd08dd428ee4ed4f514553560fe2079163a9dc7eea4b6445f75fab0d3b"
+    },
+    "generators/furniture_batch12a_preview_standard_v1/records/bed/rear.json": {
+      "bytes": 2509,
+      "sha256": "0c2efc48c207bd8fd93b6411ffb7e8d455aed19da002dc45924190155ccd85b2"
+    },
+    "generators/furniture_batch12a_preview_standard_v1/records/bed/side.json": {
+      "bytes": 2487,
+      "sha256": "0fa79226f40af0cb58fc212989baf6071a9cd210097bdf64659b706c404d052f"
+    },
+    "generators/furniture_batch12a_preview_standard_v1/records/bed/top.json": {
+      "bytes": 2385,
+      "sha256": "eb57091de75452433922284d0804d38382ae597c62e0158598bf9875cedc8e7b"
+    },
+    "generators/furniture_batch12a_preview_standard_v1/records/bed/underside.json": {
+      "bytes": 2560,
+      "sha256": "5b83c186bc0b007fadaac5002f8d2514e62dcc6ed08c5f13d5494b35a45d730f"
+    },
+    "generators/furniture_batch12a_preview_standard_v1/records/bed/underside_detail.json": {
+      "bytes": 2783,
+      "sha256": "488e049224116ea80730dd147fd183b4ac3c1e62013eb690d0950c198476940d"
+    },
+    "generators/furniture_batch12a_preview_standard_v1/records/sofa/alternate_light.json": {
+      "bytes": 2518,
+      "sha256": "5ee1ef59456a0c2ac9901ded3f5767810dea1001370e1d1602a70df194f3e597"
+    },
+    "generators/furniture_batch12a_preview_standard_v1/records/sofa/back.json": {
+      "bytes": 2508,
+      "sha256": "5b75384ef3d07c0636798b5c334d9d7044a1616f30e34e38ef1ab06f5384992f"
+    },
+    "generators/furniture_batch12a_preview_standard_v1/records/sofa/close_up.json": {
+      "bytes": 2743,
+      "sha256": "6e45d29693a5d02173f0053e6035ade82c4f36e598efd723f0dd14939da66b10"
+    },
+    "generators/furniture_batch12a_preview_standard_v1/records/sofa/front.json": {
+      "bytes": 2435,
+      "sha256": "f6b2bb5cbca3367c2111c595752aaf18ac168e5f9ef1b0188662a51262cdf779"
+    },
+    "generators/furniture_batch12a_preview_standard_v1/records/sofa/left.json": {
+      "bytes": 2514,
+      "sha256": "3eaf93a2bbcf6a60de38a8e5be347364f4e6791de187be247906e299d0ce941b"
+    },
+    "generators/furniture_batch12a_preview_standard_v1/records/sofa/preview.json": {
+      "bytes": 2514,
+      "sha256": "a1e3769eb421e4bde5c862f97dd78862a0f9905bad18749eaf1572ee70f7fb62"
+    },
+    "generators/furniture_batch12a_preview_standard_v1/records/sofa/rear.json": {
+      "bytes": 2465,
+      "sha256": "807680376e896062930167e704bb72b66d313f29c968eeb9ce7fa173b9c4355b"
+    },
+    "generators/furniture_batch12a_preview_standard_v1/records/sofa/side.json": {
+      "bytes": 2509,
+      "sha256": "2ee0bb0d92026657e656e3ea7ce0fe660394ba83bcaeea211463af6a09e73d36"
+    },
+    "generators/furniture_batch12a_preview_standard_v1/records/sofa/top.json": {
+      "bytes": 2387,
+      "sha256": "dd7371552d6e0f8cc1681d9a5f984ed12b391ccc35f77f03ba16066d49e70cb9"
+    },
+    "generators/furniture_batch12a_preview_standard_v1/records/sofa/underside.json": {
+      "bytes": 2559,
+      "sha256": "72d131198a83e15fc8f93fd747563a553ce7db4393291c64ed5d9db6845c00c2"
+    },
+    "generators/furniture_batch12a_preview_standard_v1/records/sofa/underside_detail.json": {
+      "bytes": 2780,
+      "sha256": "3b57684f27557451897dcbc35d68e3b780e30f4296f22a0c3e4e2358b42e3c05"
+    },
+    "generators/furniture_batch12a_preview_standard_v1/relocation.json": {
+      "bytes": 7241,
+      "sha256": "a50510c1b41b960027b860828c07c134feb6dcb612491dd165213f9c301048cc"
+    },
+    "generators/furniture_batch12a_preview_standard_v1/render.py": {
+      "bytes": 8516,
+      "sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d"
+    },
+    "generators/furniture_batch12a_preview_standard_v1/standard.json": {
+      "bytes": 3145,
+      "sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa"
+    }
+  }
+}

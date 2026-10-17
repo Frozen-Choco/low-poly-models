@@ -1,0 +1,208 @@
+{
+  "asset": "sofa",
+  "source_hashes": {
+    "blend": "41aad48656a52a12a0793f1da5ba13820702fca3954548c3bd52aedb50b38c25",
+    "glb": "32e8a98da2c6e6a73a167aa05845f1d409fbeb8e634636713cbe6488c3bd0f57"
+  },
+  "poses": [
+    {
+      "frame": 1,
+      "missing_names": [],
+      "objects": [
+        {
+          "name": "Arm internal support -0.663",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Arm internal support 0.663",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Back cushion 0",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 2352,
+          "triangles_glb": 2352
+        },
+        {
+          "name": "Back cushion 1",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 2352,
+          "triangles_glb": 2352
+        },
+        {
+          "name": "Back cushion sewn welt 0",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 576,
+          "triangles_glb": 576
+        },
+        {
+          "name": "Back cushion sewn welt 1",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 576,
+          "triangles_glb": 576
+        },
+        {
+          "name": "Back upper crossbar",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Back upright -0.56",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Back upright 0.56",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Center support crossmember",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Leg mounting screw (-0.6, -0.3)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 284,
+          "triangles_glb": 284
+        },
+        {
+          "name": "Leg mounting screw (-0.6, 0.28)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 284,
+          "triangles_glb": 284
+        },
+        {
+          "name": "Leg mounting screw (0.6, -0.3)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 284,
+          "triangles_glb": 284
+        },
+        {
+          "name": "Leg mounting screw (0.6, 0.28)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 284,
+          "triangles_glb": 284
+        },
+        {
+          "name": "Lower cross rail -0.3",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Lower cross rail 0.28",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Lower side rail -0.6",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Lower side rail 0.6",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Seat cushion 0",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 2352,
+          "triangles_glb": 2352
+        },
+        {
+          "name": "Seat cushion 1",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 2352,
+          "triangles_glb": 2352
+        },
+        {
+          "name": "Seat cushion sewn welt 0",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 576,
+          "triangles_glb": 576
+        },
+        {
+          "name": "Seat cushion sewn welt 1",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 576,
+          "triangles_glb": 576
+        },
+        {
+          "name": "Sofa leg (-0.6, -0.3)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Sofa leg (-0.6, 0.28)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Sofa leg (0.6, -0.3)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Sofa leg (0.6, 0.28)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Underseat support deck",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Underside dust cover",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Upholstered arm -0.663",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 2352,
+          "triangles_glb": 2352
+        },
+        {
+          "name": "Upholstered arm 0.663",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 2352,
+          "triangles_glb": 2352
+        },
+        {
+          "name": "Upholstered back shell",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 2352,
+          "triangles_glb": 2352
+        },
+        {
+          "name": "Upholstered lower frame",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        }
+      ],
+      "max_distance_m": 0.0
+    }
+  ]
+}
