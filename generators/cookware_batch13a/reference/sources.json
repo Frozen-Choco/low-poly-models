@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-17",
+  "frying_pan": {
+    "page": "https://www.thermos.jp/product/series/kfc.html",
+    "image": "https://www.thermos.jp/product_file/file/kfc026_mdb.jpg",
+    "manual": "https://www.thermos.jp/product/series/product_file/file/kfc026.pdf"
+  },
+  "cooking_pot": {
+    "page": "https://miyazaki-ss.co.jp/product/ソースポット/",
+    "image": "https://miyazaki-ss.co.jp/wp-content/uploads/2022/12/ryote-scaled.jpg",
+    "dimensions": "https://miyazaki-ss.co.jp/wp-content/uploads/2022/07/オブジェサイズ表記.pdf"
+  }
+}

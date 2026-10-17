@@ -1,0 +1,38 @@
+{
+  "units": "meter",
+  "scope": "Static visual assembly; no thermal or manufacturing certification",
+  "frying_pan": {
+    "support_paths": [
+      [
+        "Ground",
+        "Bonded induction base",
+        "Pan continuous bowl wall and floor",
+        "Pan wall rivet",
+        "Pan handle mounting bracket",
+        "Pan handle welded receiver boss",
+        "Pan handle steel tang",
+        "Pan phenolic handle"
+      ]
+    ],
+    "intent": "Concealed positive rivet engagement, welded curved seat to receiver boss, tang embedded in receiver and polymer grip; open hanging hole. Boss top Z47mm intentionally offset from seat top Z48mm."
+  },
+  "cooking_pot": {
+    "support_paths": [
+      [
+        "Ground",
+        "Pot continuous three-layer steel exterior",
+        "Pot handle welded mounting seat",
+        "Pot handle fixing screw",
+        "Pot open phenolic loop handle"
+      ],
+      [
+        "Pot rim",
+        "Lid removable steel dome and locating skirt",
+        "Lid knob metal seating washer",
+        "Lid phenolic graspable knob",
+        "Lid knob underside fixing screw"
+      ]
+    ],
+    "intent": "Lid skirt radial clearance 1mm; free upward removal. Thin shell represents visible cladding; internal layers omitted."
+  }
+}

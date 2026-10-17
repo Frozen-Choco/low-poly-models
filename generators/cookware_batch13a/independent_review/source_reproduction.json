@@ -1,0 +1,23 @@
+{
+  "decision": "PASS",
+  "method": "Independent isolated source copy, fresh Blender process,1thread; exact semantic GLB equivalence. Pot byte-identical; pan triangle ordering/buffer sharing differs without geometry/material change.",
+  "script_sha256": "dca8a71c0c3df9cc5dea40d979285cffdf15765cf9854de08b16cb5d8dc905ad",
+  "results": [
+    {
+      "asset": "frying_pan",
+      "delivered_sha256": "054a0fc2598f75f1d03198afb3a5466f110dbe4d4a540ed025a37e8f44d52f56",
+      "regenerated_sha256": "330d90fa4f21478515b90292085f54f88f1584f8a0a345469e74fb621028a9af",
+      "byte_identical": false,
+      "exact_geometry_material_equivalence": true,
+      "checks": "Identical named scene graph/transforms/extras/materials and all vertex position, normal, UV arrays; exact oriented triangle multiset with winding preserved. Index ordering and buffer sharing ignored only."
+    },
+    {
+      "asset": "cooking_pot",
+      "delivered_sha256": "f47f6b7c4464e4c13448dc6b364edce51adc029c2cc16166422c67522d7f4eca",
+      "regenerated_sha256": "f47f6b7c4464e4c13448dc6b364edce51adc029c2cc16166422c67522d7f4eca",
+      "byte_identical": true,
+      "exact_geometry_material_equivalence": true,
+      "checks": "Identical named scene graph/transforms/extras/materials and all vertex position, normal, UV arrays; exact oriented triangle multiset with winding preserved. Index ordering and buffer sharing ignored only."
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "source": "lowpoly_batch13a/assets/frying_pan/frying_pan.blend",
+  "sha256": "c8619a3eb3a8db0661eef9300d5d9f49f36ae7de5bdd742c6dfc278e1de4c765",
+  "positive_area_coplanar_pairs": [],
+  "method": "Direct unoriented-plane grouped triangle pairs, including shared vertices, same mesh and opposite normals; exact 2D polygon clipping; area threshold1e-12m\u00b2, plane tolerance1e-7m."
+}

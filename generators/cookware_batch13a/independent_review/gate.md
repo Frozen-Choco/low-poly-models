@@ -1,0 +1,18 @@
+# Independent geometry and mechanism gate
+
+Manufacturer evidence is recorded in primary-source-review.md. These are original generic visual assets, not manufacturing drawings or heat/load/food safety certification.
+
+## Pot revision3
+Both saved formats have finite closed manifold positively oriented solids, no duplicate or degenerate triangles and no self-surface candidates. Matched geometry differs below1e-6m between formats. The inner/outer/floor/rim are one real-thickness shell. Four handle seat surfaces remain outside the100mm inner radius (minimum100.413mm), while overlapping outer wall thickness deliberately as welded attachments. Screw shafts enter the metal seats and polymer loops; intersections are concealed fastening engagements.
+
+The lid skirt has99mm outer radius versus100mm inside mouth. Independent upward/downward rays measure both support surfaces at Z99mm. Direct plane-grouped polygon clipping finds412positive-area pairs, all between the upward pot rim and downward lid seat with opposite normals; they are concealed intentional support contact, not an exposed duplicate shell. Other lid-body surface candidates lie along the same mating boundary. Eleven vertical lift samples from0.1mm through160mm find no lid/fixed-body collisions in both formats, consistent with axisymmetric radial clearance. Steam openings are true holes (independent rays pass through the lid). Knob/washer/screw intersections are concealed fastening engagements. Thread pitch and steel lamination are intentionally omitted; no pressure seal or animation/physics claim.
+
+All16revision2 diagnostic views were individually examined at original1200px. Revision3geometry/material audit is identical apart from file bytes/hash, and all16new diagnostic decoded pixels match the reviewed images exactly. Two additional raised-lid images were directly examined at original1200px. The18view diagnostic gate passes.
+
+## Pan revisions and current status
+Revision1rejected inner-cavity attachment intrusion, weak lid support, and triangular shading artifacts around Boolean holes. These were corrected. Revision4receiver-boss addition created24same-facing coplanar overlaps with the mounting saddle; revision5eliminated all24by changing boss height. Current solid support path runs base/bowl→riveted exterior saddle→receiver boss→steel tang→polymer handle. Rev5all14diagnostics passed visual inspection, with shallow rivet heads and an actual hanging hole.
+
+Revision6explicit fixed triangulation resolves varying quad diagonals. Independent isolated reproduction now has identical positions, normals, UVs, oriented triangle multisets, scene transforms and materials; only triangle index ordering/buffer sharing differ. Pot GLB is byte-identical. Both source files are accepted as reproducible under these precise limits. Pan revision6saved geometry passes all checks, all14diagnostic decoded pixel arrays exactly match the individually reviewed revision5images, and the shape gate passes. Canonical photography is authorized only for hashes pinned by approval.json; final imagery/package are separate gates.
+
+## Review limits
+BVH intersection counts alone are candidates, not defects. Every observed object-pair category was checked against source layout, saved geometry and original-size visual views. Direct plane grouping plus projected triangle clipping checks shared-vertex, same-object and opposite-normal overlaps missed by BVH. Thin coatings use material assignment instead of duplicated surfaces. Grounded bottoms, support contacts and retained fasteners are visual/mechanical plausibility checks, not finite-element engineering validation.

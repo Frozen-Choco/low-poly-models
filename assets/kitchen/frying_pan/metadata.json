@@ -1,0 +1,58 @@
+{
+  "description": "浅い有底のフライパン。ノンスティック内面、金属底、リベット留めの柄と吊り穴。 全体寸法は約45.0×26.5×8.2cm。部品別に編集できる静的モデル。加熱や調理のシミュレーションは再現していません。",
+  "reference_dimensions_m": [
+    0.45,
+    0.265,
+    0.08
+  ],
+  "mechanism": "Static editable bowl, induction plate, rivets, tang and phenolic grip. No cooking or heat simulation.",
+  "id": "frying_pan",
+  "title_ja": "フライパン",
+  "revision": 6,
+  "dimensions_m": [
+    0.44980180263519287,
+    0.26499998569488525,
+    0.08198708295822144
+  ],
+  "triangles": 9770,
+  "units": "meter",
+  "up_axis_blend": "Z",
+  "up_axis_glb": "Y",
+  "review_status": "Independent geometry, full canonical photography and exact source package gates passed",
+  "photography_status": "22 canonical views complete across 2 assets",
+  "files": {
+    "blend": {
+      "bytes": 222442,
+      "sha256": "c8619a3eb3a8db0661eef9300d5d9f49f36ae7de5bdd742c6dfc278e1de4c765"
+    },
+    "glb": {
+      "bytes": 287756,
+      "sha256": "054a0fc2598f75f1d03198afb3a5466f110dbe4d4a540ed025a37e8f44d52f56"
+    }
+  },
+  "photography": {
+    "standard": "preview_standard_v1",
+    "views": [
+      "preview",
+      "back",
+      "front",
+      "rear",
+      "side",
+      "left",
+      "top",
+      "underside",
+      "close_up",
+      "underside_detail",
+      "alternate_light"
+    ],
+    "records": "../../../generators/cookware_batch13a_preview_standard_v1/records/frying_pan"
+  },
+  "independent_review": {
+    "technical_status": "approved",
+    "scope": "Independent saved geometry, canonical photography and exact source package acceptance. Static visual diorama cookware; no heat/cooking simulation, internal metal lamination or engineering certification.",
+    "report": "reviews/cookware_integration/source_package_approval.json",
+    "report_sha256": "d5f165080c96281ef57a00cfc19215f81c45a8a98aa49d042b694e7888cfa61f",
+    "source_manifest_sha256": "706c6bf831042b4e53d315387558269dd9002ba088445973820e0004b02b12be",
+    "path_base": "repository root"
+  }
+}

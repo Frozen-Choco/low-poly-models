@@ -1,0 +1,111 @@
+{
+  "asset": "frying_pan",
+  "view": "close_up",
+  "input_repo_path": "assets/frying_pan/frying_pan.glb",
+  "input_sha256": "054a0fc2598f75f1d03198afb3a5466f110dbe4d4a540ed025a37e8f44d52f56",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "2f3089dab6d648eb13a24a77640a7097ea6bc923af31f4a2cc4c080e2fd99e89",
+  "closeup_magnification_vs_full_fit": 2.210632295852715,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch13a/generators/preview_standard_v1/repo/assets/frying_pan/close_up.jpg",
+  "output_sha256": "230e876d90cb811005eefaabd81dc4d93ae6d5fb838559bc70ccac5edf2a3f7b",
+  "bytes": 129787,
+  "elapsed_seconds": 760.0848193460115,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 4.446402811822609,
+  "source_bounds": [
+    [
+      -0.13249999284744263,
+      -0.13249999284744263,
+      0.0
+    ],
+    [
+      0.31730180978775024,
+      0.13249999284744263,
+      0.08198708295822144
+    ]
+  ],
+  "camera_location": [
+    3.6828110218048096,
+    -7.1201887130737305,
+    6.230016231536865
+  ],
+  "camera_rotation": [
+    0.9207591414451599,
+    3.212688781673023e-08,
+    0.46364766359329224
+  ],
+  "ortho_scale": 1.0560206174850464,
+  "focus": {
+    "direction": [
+      1,
+      -2,
+      1.7
+    ],
+    "target_m": [
+      0.12,
+      0,
+      0.04
+    ],
+    "span_m": 0.19,
+    "purpose": "Pan real-thickness rim, inner rivets, handle attachment and cooking surface"
+  },
+  "focus_projected_width_height": [
+    1.8675786256790161,
+    0.8205522000789642
+  ],
+  "full_object_fit": false,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        -4.499888896942139,
+        -2.0681934356689453,
+        5.04890251159668
+      ],
+      "rotation": [
+        0.8490311503410339,
+        -3.6476059506185265e-08,
+        -1.1213548183441162
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        3.228696584701538,
+        -1.7139753103256226,
+        3.5848302841186523
+      ],
+      "rotation": [
+        0.9112122058868408,
+        -9.752802299090035e-08,
+        1.0684213638305664
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        1.924582839012146,
+        4.0565290451049805,
+        3.560969829559326
+      ],
+      "rotation": [
+        0.9964260458946228,
+        -6.289303655648837e-08,
+        2.682217597961426
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": null,
+  "floor_hidden": false,
+  "diagnostic_only": false
+}

@@ -1,0 +1,58 @@
+{
+  "description": "両手取っ手のステンレス鍋。丸み底、有底の内槽、外せる金属蓋とつまみ。 全体寸法は約29.6×20.6×16.7cm。部品別に編集できる静的モデル。加熱や調理のシミュレーションは再現していません。",
+  "reference_dimensions_m": [
+    0.295,
+    0.206,
+    0.17
+  ],
+  "mechanism": "Static separately editable pot, loop handles, fasteners, removable lid and knob. Full-clad reference steel represented as solid visible shell, internal lamination not modeled; no thermal certification.",
+  "id": "cooking_pot",
+  "title_ja": "鍋",
+  "revision": 3,
+  "dimensions_m": [
+    0.29600000381469727,
+    0.20600000023841858,
+    0.16699999570846558
+  ],
+  "triangles": 16616,
+  "units": "meter",
+  "up_axis_blend": "Z",
+  "up_axis_glb": "Y",
+  "review_status": "Independent geometry, full canonical photography and exact source package gates passed",
+  "photography_status": "22 canonical views complete across 2 assets",
+  "files": {
+    "blend": {
+      "bytes": 291069,
+      "sha256": "6c45156fe7dbffaa8db93e1f3be02e063969b0ea8264d0c75723d0de3dbe2a30"
+    },
+    "glb": {
+      "bytes": 513952,
+      "sha256": "f47f6b7c4464e4c13448dc6b364edce51adc029c2cc16166422c67522d7f4eca"
+    }
+  },
+  "photography": {
+    "standard": "preview_standard_v1",
+    "views": [
+      "preview",
+      "back",
+      "front",
+      "rear",
+      "side",
+      "left",
+      "top",
+      "underside",
+      "close_up",
+      "underside_detail",
+      "alternate_light"
+    ],
+    "records": "../../../generators/cookware_batch13a_preview_standard_v1/records/cooking_pot"
+  },
+  "independent_review": {
+    "technical_status": "approved",
+    "scope": "Independent saved geometry, canonical photography and exact source package acceptance. Static visual diorama cookware; no heat/cooking simulation, internal metal lamination or engineering certification.",
+    "report": "reviews/cookware_integration/source_package_approval.json",
+    "report_sha256": "d5f165080c96281ef57a00cfc19215f81c45a8a98aa49d042b694e7888cfa61f",
+    "source_manifest_sha256": "706c6bf831042b4e53d315387558269dd9002ba088445973820e0004b02b12be",
+    "path_base": "repository root"
+  }
+}

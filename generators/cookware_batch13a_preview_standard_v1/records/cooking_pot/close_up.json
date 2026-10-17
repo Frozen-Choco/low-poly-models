@@ -1,0 +1,111 @@
+{
+  "asset": "cooking_pot",
+  "view": "close_up",
+  "input_repo_path": "assets/cooking_pot/cooking_pot.glb",
+  "input_sha256": "f47f6b7c4464e4c13448dc6b364edce51adc029c2cc16166422c67522d7f4eca",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "2f3089dab6d648eb13a24a77640a7097ea6bc923af31f4a2cc4c080e2fd99e89",
+  "closeup_magnification_vs_full_fit": 1.4300850798145934,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch13a/generators/preview_standard_v1/repo/assets/cooking_pot/close_up.jpg",
+  "output_sha256": "8f09c63e9a6e3dbd020f7f0c4a038236189808569dac77f36084777a7ba3480f",
+  "bytes": 140333,
+  "elapsed_seconds": 834.2570309729927,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 6.756756669679118,
+  "source_bounds": [
+    [
+      -0.14800000190734863,
+      -0.10300000011920929,
+      0.0
+    ],
+    [
+      0.14800000190734863,
+      0.10300000011920929,
+      0.16699999570846558
+    ]
+  ],
+  "camera_location": [
+    4.5486602783203125,
+    -7.881104469299316,
+    5.336770534515381
+  ],
+  "camera_rotation": [
+    1.0782557725906372,
+    7.338719854033116e-08,
+    0.4636476933956146
+  ],
+  "ortho_scale": 1.6047296524047852,
+  "focus": {
+    "direction": [
+      1,
+      -2,
+      1.2
+    ],
+    "target_m": [
+      0.09,
+      0,
+      0.09
+    ],
+    "span_m": 0.19,
+    "purpose": "Open loop grip, metal attachment seats and removable lid rim"
+  },
+  "focus_projected_width_height": [
+    1.8359199464321136,
+    1.3035905361175537
+  ],
+  "full_object_fit": false,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        -4.153931617736816,
+        -2.7601075172424316,
+        5.014255523681641
+      ],
+      "rotation": [
+        0.8576645255088806,
+        -2.8128249729419963e-10,
+        -0.983741044998169
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        3.454580307006836,
+        -2.1657426357269287,
+        3.075883388519287
+      ],
+      "rotation": [
+        1.043451189994812,
+        -2.8652744621382453e-09,
+        1.0104435682296753
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        2.1805899143218994,
+        3.544515371322632,
+        3.953324317932129
+      ],
+      "rotation": [
+        0.90709388256073,
+        4.8240391237186486e-08,
+        2.589470863342285
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": null,
+  "floor_hidden": false,
+  "diagnostic_only": false
+}

@@ -1,0 +1,138 @@
+{
+  "decision": "PASS_SHAPE_GATE",
+  "asset": "cooking_pot",
+  "revision": 3,
+  "files": [
+    {
+      "path": "lowpoly_batch13a/assets/cooking_pot/cooking_pot.blend",
+      "sha256": "6c45156fe7dbffaa8db93e1f3be02e063969b0ea8264d0c75723d0de3dbe2a30",
+      "bytes": 291069
+    },
+    {
+      "path": "lowpoly_batch13a/assets/cooking_pot/cooking_pot.glb",
+      "sha256": "f47f6b7c4464e4c13448dc6b364edce51adc029c2cc16166422c67522d7f4eca",
+      "bytes": 513952
+    }
+  ],
+  "views": [
+    {
+      "path": "lowpoly_batch13a/evidence/diagnostics_rev3/cooking_pot/blend/back.png",
+      "sha256": "99b7e17fe2b3ccdb9e6573e0ac9061c3003358e5d540d392845c8d20cf7cf1bd",
+      "original_resolution_viewed": true,
+      "review_method": "Pixel-identical to individually original1200px inspected rev2 image; verified decoded pixel equality"
+    },
+    {
+      "path": "lowpoly_batch13a/evidence/diagnostics_rev3/cooking_pot/blend/close_up.png",
+      "sha256": "c51eaf512cb054f41c12a165d2d5ac55272281d80716e401799d3643637cefbf",
+      "original_resolution_viewed": true,
+      "review_method": "Pixel-identical to individually original1200px inspected rev2 image; verified decoded pixel equality"
+    },
+    {
+      "path": "lowpoly_batch13a/evidence/diagnostics_rev3/cooking_pot/blend/front.png",
+      "sha256": "d3f643592ddccfd847715c76ca9cab933bcda7b589f049662b8fb25acfb3c000",
+      "original_resolution_viewed": true,
+      "review_method": "Pixel-identical to individually original1200px inspected rev2 image; verified decoded pixel equality"
+    },
+    {
+      "path": "lowpoly_batch13a/evidence/diagnostics_rev3/cooking_pot/blend/lid_underside.png",
+      "sha256": "092eedad4b36c66d87deb805dc2dde1b64fc57d00423d74c10c1725ecbbc0a52",
+      "original_resolution_viewed": true,
+      "review_method": "Pixel-identical to individually original1200px inspected rev2 image; verified decoded pixel equality"
+    },
+    {
+      "path": "lowpoly_batch13a/evidence/diagnostics_rev3/cooking_pot/blend/raised_lid.png",
+      "sha256": "f6c0dc8c18b8b1abfc0e757b4d943caebc6101ca47d05ff40ce91a6c553405a4",
+      "original_resolution_viewed": true,
+      "review_method": "Direct original1200px inspection"
+    },
+    {
+      "path": "lowpoly_batch13a/evidence/diagnostics_rev3/cooking_pot/blend/side.png",
+      "sha256": "a0fee01d470199927848df2fcd88ac85cd0b8e3f21683c1abc81d00a19c17d3e",
+      "original_resolution_viewed": true,
+      "review_method": "Pixel-identical to individually original1200px inspected rev2 image; verified decoded pixel equality"
+    },
+    {
+      "path": "lowpoly_batch13a/evidence/diagnostics_rev3/cooking_pot/blend/structure.png",
+      "sha256": "4262cde96b3532fdf7a1dc9e4d4c2d3263180f99e839218820076cff05cf71e2",
+      "original_resolution_viewed": true,
+      "review_method": "Pixel-identical to individually original1200px inspected rev2 image; verified decoded pixel equality"
+    },
+    {
+      "path": "lowpoly_batch13a/evidence/diagnostics_rev3/cooking_pot/blend/top.png",
+      "sha256": "a4031c4bb101959c172ac57b0647475603bef18600a92843a89adc423e26c66d",
+      "original_resolution_viewed": true,
+      "review_method": "Pixel-identical to individually original1200px inspected rev2 image; verified decoded pixel equality"
+    },
+    {
+      "path": "lowpoly_batch13a/evidence/diagnostics_rev3/cooking_pot/blend/underside.png",
+      "sha256": "62ea7eaa83f43c66a5310cfcf525f0cb1c6c72df5e66113914a2653136c999cd",
+      "original_resolution_viewed": true,
+      "review_method": "Pixel-identical to individually original1200px inspected rev2 image; verified decoded pixel equality"
+    },
+    {
+      "path": "lowpoly_batch13a/evidence/diagnostics_rev3/cooking_pot/glb/back.png",
+      "sha256": "adaac15078e043e5f1c1bfbd139d2e500d6c064f34507e80e4fc7c5a9cd1be0f",
+      "original_resolution_viewed": true,
+      "review_method": "Pixel-identical to individually original1200px inspected rev2 image; verified decoded pixel equality"
+    },
+    {
+      "path": "lowpoly_batch13a/evidence/diagnostics_rev3/cooking_pot/glb/close_up.png",
+      "sha256": "4623ddc460975c987c6f9beb9de45ec292946a0f4f346a8ecc53f31101ef5538",
+      "original_resolution_viewed": true,
+      "review_method": "Pixel-identical to individually original1200px inspected rev2 image; verified decoded pixel equality"
+    },
+    {
+      "path": "lowpoly_batch13a/evidence/diagnostics_rev3/cooking_pot/glb/front.png",
+      "sha256": "cf9fca80897412948c6c5748a165b25ac685e31cbbff9d0b35ad2e2f8334778c",
+      "original_resolution_viewed": true,
+      "review_method": "Pixel-identical to individually original1200px inspected rev2 image; verified decoded pixel equality"
+    },
+    {
+      "path": "lowpoly_batch13a/evidence/diagnostics_rev3/cooking_pot/glb/lid_underside.png",
+      "sha256": "0fdf3f2417e916a78447b8a48d9608d1606b321efc582110b1853077e6d97899",
+      "original_resolution_viewed": true,
+      "review_method": "Pixel-identical to individually original1200px inspected rev2 image; verified decoded pixel equality"
+    },
+    {
+      "path": "lowpoly_batch13a/evidence/diagnostics_rev3/cooking_pot/glb/raised_lid.png",
+      "sha256": "400fc356b93000409e920b4cc88ce57b94b342614faf086dd4309e1a4931e806",
+      "original_resolution_viewed": true,
+      "review_method": "Direct original1200px inspection"
+    },
+    {
+      "path": "lowpoly_batch13a/evidence/diagnostics_rev3/cooking_pot/glb/side.png",
+      "sha256": "0564e95fd7653c5a7b22cde82cdb572e699b43d3c25b8fc13cdad2b7d55d3cec",
+      "original_resolution_viewed": true,
+      "review_method": "Pixel-identical to individually original1200px inspected rev2 image; verified decoded pixel equality"
+    },
+    {
+      "path": "lowpoly_batch13a/evidence/diagnostics_rev3/cooking_pot/glb/structure.png",
+      "sha256": "64db925f1aa8561f96f0fb193be889cc2333999a8aca637f25bbea458c3519d7",
+      "original_resolution_viewed": true,
+      "review_method": "Pixel-identical to individually original1200px inspected rev2 image; verified decoded pixel equality"
+    },
+    {
+      "path": "lowpoly_batch13a/evidence/diagnostics_rev3/cooking_pot/glb/top.png",
+      "sha256": "33e48f580e0c5fb921c41d8360a935b3dee816d7c0be14113d9984a417694d6a",
+      "original_resolution_viewed": true,
+      "review_method": "Pixel-identical to individually original1200px inspected rev2 image; verified decoded pixel equality"
+    },
+    {
+      "path": "lowpoly_batch13a/evidence/diagnostics_rev3/cooking_pot/glb/underside.png",
+      "sha256": "98c3d288892fe80b17fbeecb6fc8e91d859876bf59f8a635e7b6884c8ccd20ca",
+      "original_resolution_viewed": true,
+      "review_method": "Pixel-identical to individually original1200px inspected rev2 image; verified decoded pixel equality"
+    }
+  ],
+  "checks": [
+    "Saved Blend/GLB finite, positive-volume welded manifold solids, zero degenerate/duplicate/self-intersecting faces",
+    "Handle seats outside inner cooking cavity by at least0.413mm; coherent finite shell and concealed positive fastener engagements",
+    "412direct-plane clipped overlap pairs exclusively opposite-facing lid-bottom/pot-rim support contact, no exposed duplicate faces",
+    "Independent upward/downward rays confirm lid rim support Z0.099;11vertical-lift samples0.1\u2013160mm have zero body collisions",
+    "Both steam vents truly open by mesh ray tests; lid removed interior and underside visually coherent",
+    "All18 final diagnostic pixel images independently reviewed at1200px:16exact decoded matches to reviewed rev2 plus2raised-lid views",
+    "Both formats geometry distance<1e-6m and materials agree"
+  ],
+  "blocking_findings": [],
+  "authorizes": "Exact listed source bytes may proceed to frozen canonical photography under parent CPU allocation. Final photographs and exact package require separate acceptance."
+}

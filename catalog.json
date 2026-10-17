@@ -2148,5 +2148,103 @@
     "asset_path": "assets/furniture/sofa",
     "blend_sha256": "41aad48656a52a12a0793f1da5ba13820702fca3954548c3bd52aedb50b38c25",
     "glb_sha256": "32e8a98da2c6e6a73a167aa05845f1d409fbeb8e634636713cbe6488c3bd0f57"
+  },
+  {
+    "id": "frying_pan",
+    "title_ja": "フライパン",
+    "category": "kitchen",
+    "description": "浅い有底のフライパン。ノンスティック内面、金属底、リベット留めの柄と吊り穴。 全体寸法は約45.0×26.5×8.2cm。部品別に編集できる静的モデル。加熱や調理のシミュレーションは再現していません。",
+    "units": "meter",
+    "up_axis_blend": "Z",
+    "up_axis_glb": "Y",
+    "front_blend": "-Y",
+    "origin": "lowest support at ground plane",
+    "triangles": 9770,
+    "dimensions_m": [
+      0.44980180263519287,
+      0.26499998569488525,
+      0.08198708295822144
+    ],
+    "blend_bytes": 222442,
+    "glb_bytes": 287756,
+    "validated": true,
+    "geometry_validated": true,
+    "status": "Independent geometry, full canonical photography and exact source package gates passed",
+    "photography": {
+      "standard": "preview_standard_v1",
+      "views": [
+        "preview",
+        "back",
+        "front",
+        "rear",
+        "side",
+        "left",
+        "top",
+        "underside",
+        "close_up",
+        "underside_detail",
+        "alternate_light"
+      ]
+    },
+    "independent_review": {
+      "technical_status": "approved",
+      "scope": "Independent saved geometry, canonical photography and exact source package acceptance. Static visual diorama cookware; no heat/cooking simulation, internal metal lamination or engineering certification.",
+      "report": "reviews/cookware_integration/source_package_approval.json",
+      "report_sha256": "d5f165080c96281ef57a00cfc19215f81c45a8a98aa49d042b694e7888cfa61f",
+      "source_manifest_sha256": "706c6bf831042b4e53d315387558269dd9002ba088445973820e0004b02b12be",
+      "path_base": "repository root"
+    },
+    "asset_path": "assets/kitchen/frying_pan",
+    "blend_sha256": "c8619a3eb3a8db0661eef9300d5d9f49f36ae7de5bdd742c6dfc278e1de4c765",
+    "glb_sha256": "054a0fc2598f75f1d03198afb3a5466f110dbe4d4a540ed025a37e8f44d52f56"
+  },
+  {
+    "id": "cooking_pot",
+    "title_ja": "鍋",
+    "category": "kitchen",
+    "description": "両手取っ手のステンレス鍋。丸み底、有底の内槽、外せる金属蓋とつまみ。 全体寸法は約29.6×20.6×16.7cm。部品別に編集できる静的モデル。加熱や調理のシミュレーションは再現していません。",
+    "units": "meter",
+    "up_axis_blend": "Z",
+    "up_axis_glb": "Y",
+    "front_blend": "-Y",
+    "origin": "lowest support at ground plane",
+    "triangles": 16616,
+    "dimensions_m": [
+      0.29600000381469727,
+      0.20600000023841858,
+      0.16699999570846558
+    ],
+    "blend_bytes": 291069,
+    "glb_bytes": 513952,
+    "validated": true,
+    "geometry_validated": true,
+    "status": "Independent geometry, full canonical photography and exact source package gates passed",
+    "photography": {
+      "standard": "preview_standard_v1",
+      "views": [
+        "preview",
+        "back",
+        "front",
+        "rear",
+        "side",
+        "left",
+        "top",
+        "underside",
+        "close_up",
+        "underside_detail",
+        "alternate_light"
+      ]
+    },
+    "independent_review": {
+      "technical_status": "approved",
+      "scope": "Independent saved geometry, canonical photography and exact source package acceptance. Static visual diorama cookware; no heat/cooking simulation, internal metal lamination or engineering certification.",
+      "report": "reviews/cookware_integration/source_package_approval.json",
+      "report_sha256": "d5f165080c96281ef57a00cfc19215f81c45a8a98aa49d042b694e7888cfa61f",
+      "source_manifest_sha256": "706c6bf831042b4e53d315387558269dd9002ba088445973820e0004b02b12be",
+      "path_base": "repository root"
+    },
+    "asset_path": "assets/kitchen/cooking_pot",
+    "blend_sha256": "6c45156fe7dbffaa8db93e1f3be02e063969b0ea8264d0c75723d0de3dbe2a30",
+    "glb_sha256": "f47f6b7c4464e4c13448dc6b364edce51adc029c2cc16166422c67522d7f4eca"
   }
 ]

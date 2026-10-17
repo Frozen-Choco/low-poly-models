@@ -1,0 +1,102 @@
+{
+  "asset": "frying_pan",
+  "view": "left",
+  "input_repo_path": "assets/frying_pan/frying_pan.glb",
+  "input_sha256": "054a0fc2598f75f1d03198afb3a5466f110dbe4d4a540ed025a37e8f44d52f56",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "2f3089dab6d648eb13a24a77640a7097ea6bc923af31f4a2cc4c080e2fd99e89",
+  "closeup_magnification_vs_full_fit": 1.0000000202341726,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch13a/generators/preview_standard_v1/repo/assets/frying_pan/left.jpg",
+  "output_sha256": "4318b26983c45e367727730b7d765aa7d721943d6319fb715507a551ab2556e9",
+  "bytes": 62212,
+  "elapsed_seconds": 43.838181518003694,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 4.446402811822609,
+  "source_bounds": [
+    [
+      -0.13249999284744263,
+      -0.13249999284744263,
+      0.0
+    ],
+    [
+      0.31730180978775024,
+      0.13249999284744263,
+      0.08198708295822144
+    ]
+  ],
+  "camera_location": [
+    -10.0,
+    4.172325134277344e-07,
+    0.18227335810661316
+  ],
+  "camera_rotation": [
+    1.5707963705062866,
+    -0.0,
+    -1.5707963705062866
+  ],
+  "ortho_scale": 1.4728708267211914,
+  "focus": "full object",
+  "focus_projected_width_height": [
+    1.178296685218811,
+    0.36454756557941437
+  ],
+  "full_object_fit": true,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        -2.815951108932495,
+        4.949747085571289,
+        4.154793739318848
+      ],
+      "rotation": [
+        1.009339690208435,
+        -3.394637460019112e-08,
+        -2.660930871963501
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        -4.429111003875732,
+        -2.1213204860687256,
+        1.0892235040664673
+      ],
+      "rotation": [
+        1.4762786626815796,
+        1.4794397884543287e-07,
+        -1.102541446685791
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        0.15831422805786133,
+        -3.535534143447876,
+        4.546900749206543
+      ],
+      "rotation": [
+        0.7390649914741516,
+        -5.802279989808312e-09,
+        0.11076071113348007
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": [
+    184,
+    184,
+    184
+  ],
+  "floor_hidden": true,
+  "diagnostic_only": false
+}

@@ -1,0 +1,246 @@
+{
+  "decision": "PASS",
+  "gate": "independent_final_canonical_visual_and_provenance",
+  "source_approval": "reviews/batch13a/approval.json",
+  "source_approval_sha256": "26d28f6f5ed01b34613ad2c5226b7f42c5dd65f75c2ec4d4ab7120411d46e565",
+  "source_revisions": {
+    "frying_pan": 6,
+    "cooking_pot": 3
+  },
+  "core_hashes": {
+    "render.py": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+    "standard.json": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa"
+  },
+  "views": [
+    {
+      "asset": "frying_pan",
+      "view": "preview",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch13a/generators/preview_standard_v1/repo/assets/frying_pan/preview.jpg",
+      "image_sha256": "1f591c220fb38dbdd777c8007d0c539f78d6cb22a953f66af380af9285125001",
+      "record_sha256": "e2000fc178f98628dc20d242da74c58359179bf1c6f895e958e77f6f83dcd0b5",
+      "input_sha256": "054a0fc2598f75f1d03198afb3a5466f110dbe4d4a540ed025a37e8f44d52f56",
+      "bytes": 106319,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "frying_pan",
+      "view": "back",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch13a/generators/preview_standard_v1/repo/assets/frying_pan/back.jpg",
+      "image_sha256": "60e77d30f0c52d05245d4dbd3ec7899f7d535b3a2afd8773d5927a39fb124c63",
+      "record_sha256": "4fbbe0a5f3b34ec5cf2d5c85789b1d604a331a4360bc1ee7c3d748baec423c4a",
+      "input_sha256": "054a0fc2598f75f1d03198afb3a5466f110dbe4d4a540ed025a37e8f44d52f56",
+      "bytes": 106906,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "frying_pan",
+      "view": "front",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch13a/generators/preview_standard_v1/repo/assets/frying_pan/front.jpg",
+      "image_sha256": "c67df3d75f0aa48053d3fdda28c23c99b47f9ed233151849c12c134a025760af",
+      "record_sha256": "e59f48cec737508cf4dc2810b245d690a182cd6258dd178175e1fdae78c4cf5b",
+      "input_sha256": "054a0fc2598f75f1d03198afb3a5466f110dbe4d4a540ed025a37e8f44d52f56",
+      "bytes": 55379,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "frying_pan",
+      "view": "rear",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch13a/generators/preview_standard_v1/repo/assets/frying_pan/rear.jpg",
+      "image_sha256": "affbcd6f6042d01a01b33a7552bb5dfe5a45d7b19e006374557739917060f4f3",
+      "record_sha256": "42423444afc4d4cda7ae1fcaa77779d3c1f75710ecf352ec8edac9a89f3c2038",
+      "input_sha256": "054a0fc2598f75f1d03198afb3a5466f110dbe4d4a540ed025a37e8f44d52f56",
+      "bytes": 54834,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "frying_pan",
+      "view": "side",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch13a/generators/preview_standard_v1/repo/assets/frying_pan/side.jpg",
+      "image_sha256": "2a7e1d373612956a201986251d5e65933a1c389a972dead133a81c6c3f5634f5",
+      "record_sha256": "046b0d6c8da199921862803636963e2ef3481887351f0573dd1d20cb762360c0",
+      "input_sha256": "054a0fc2598f75f1d03198afb3a5466f110dbe4d4a540ed025a37e8f44d52f56",
+      "bytes": 66355,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "frying_pan",
+      "view": "left",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch13a/generators/preview_standard_v1/repo/assets/frying_pan/left.jpg",
+      "image_sha256": "4318b26983c45e367727730b7d765aa7d721943d6319fb715507a551ab2556e9",
+      "record_sha256": "6d3678396ea4858b77b194592006269c71f71e229ded97a520d71f0b834b5c9c",
+      "input_sha256": "054a0fc2598f75f1d03198afb3a5466f110dbe4d4a540ed025a37e8f44d52f56",
+      "bytes": 62212,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "frying_pan",
+      "view": "top",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch13a/generators/preview_standard_v1/repo/assets/frying_pan/top.jpg",
+      "image_sha256": "e361c348c3cc76d803f39edde91aa3520a15472afc5677451f2700d960104383",
+      "record_sha256": "42675c8c24a738932686d3097a5638f066041bb7b27d6cf7df51857ef0f541e9",
+      "input_sha256": "054a0fc2598f75f1d03198afb3a5466f110dbe4d4a540ed025a37e8f44d52f56",
+      "bytes": 99998,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "frying_pan",
+      "view": "underside",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch13a/generators/preview_standard_v1/repo/assets/frying_pan/underside.jpg",
+      "image_sha256": "17f6e08a3d7e07bad7f5dc27ed701da0d5cf53ca1830651d35edb1e7cb91cc3b",
+      "record_sha256": "53904fa473ff36ec51ec36b8697f5f48fc5c87824d0ffd15e35314125ab7c3f2",
+      "input_sha256": "054a0fc2598f75f1d03198afb3a5466f110dbe4d4a540ed025a37e8f44d52f56",
+      "bytes": 85293,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "frying_pan",
+      "view": "close_up",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch13a/generators/preview_standard_v1/repo/assets/frying_pan/close_up.jpg",
+      "image_sha256": "230e876d90cb811005eefaabd81dc4d93ae6d5fb838559bc70ccac5edf2a3f7b",
+      "record_sha256": "25725c5ce09226827c78d13ee5125e937ba3a74c25a55f6338e02ec7652582f5",
+      "input_sha256": "054a0fc2598f75f1d03198afb3a5466f110dbe4d4a540ed025a37e8f44d52f56",
+      "bytes": 129787,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "frying_pan",
+      "view": "underside_detail",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch13a/generators/preview_standard_v1/repo/assets/frying_pan/underside_detail.jpg",
+      "image_sha256": "b2083f85e334c469ea5868c082b9e72da5387701e98a675802b3ab97d13adc2c",
+      "record_sha256": "52aea89ca73bcc9ab3b4bce3502a9cc5db7577f743bee24cdd769758a73a645b",
+      "input_sha256": "054a0fc2598f75f1d03198afb3a5466f110dbe4d4a540ed025a37e8f44d52f56",
+      "bytes": 125591,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "frying_pan",
+      "view": "alternate_light",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch13a/generators/preview_standard_v1/repo/assets/frying_pan/alternate_light.jpg",
+      "image_sha256": "244e0bf10ae887a8d0de58e6c98e713be9c0b18d9e798ebca60c4b8af86a0939",
+      "record_sha256": "395f920b5158265921744c24f801c870cf7f205d9ff4dddd1ce35e59b2919956",
+      "input_sha256": "054a0fc2598f75f1d03198afb3a5466f110dbe4d4a540ed025a37e8f44d52f56",
+      "bytes": 109505,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "cooking_pot",
+      "view": "preview",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch13a/generators/preview_standard_v1/repo/assets/cooking_pot/preview.jpg",
+      "image_sha256": "5119b53dc9305906f57e007c8750857909f7dd384640205d813185507a806fc1",
+      "record_sha256": "a809f6f83aad2ffca209b7b37cb25f28a8d7cf4cba7e61d8961bc3562c9f2b9a",
+      "input_sha256": "f47f6b7c4464e4c13448dc6b364edce51adc029c2cc16166422c67522d7f4eca",
+      "bytes": 143312,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "cooking_pot",
+      "view": "back",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch13a/generators/preview_standard_v1/repo/assets/cooking_pot/back.jpg",
+      "image_sha256": "bc5d52624a17dda80777c386513e16c26845229792d4074aa8310822e93e6832",
+      "record_sha256": "5f531c69077db0c7007fc78e10172a78b59428204297ad455cda8ec8f9ecd470",
+      "input_sha256": "f47f6b7c4464e4c13448dc6b364edce51adc029c2cc16166422c67522d7f4eca",
+      "bytes": 143596,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "cooking_pot",
+      "view": "front",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch13a/generators/preview_standard_v1/repo/assets/cooking_pot/front.jpg",
+      "image_sha256": "95aa08f6dbbe0c428ba672350960e8bd1e44160968989ac49366dfee493068cf",
+      "record_sha256": "c50cc4aad4be9e1408d504477297aee789a09a9ec1929e5665026eaddc7d6fb0",
+      "input_sha256": "f47f6b7c4464e4c13448dc6b364edce51adc029c2cc16166422c67522d7f4eca",
+      "bytes": 80799,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "cooking_pot",
+      "view": "rear",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch13a/generators/preview_standard_v1/repo/assets/cooking_pot/rear.jpg",
+      "image_sha256": "1260d511ad3819c09ae9f492bf49b8e463f70e2e8db5da3b5bbbac278769112b",
+      "record_sha256": "897ad3bcad09c9fb007a376b4761b7b57edf7727a91440fe8e33f2ac763533d9",
+      "input_sha256": "f47f6b7c4464e4c13448dc6b364edce51adc029c2cc16166422c67522d7f4eca",
+      "bytes": 80876,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "cooking_pot",
+      "view": "side",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch13a/generators/preview_standard_v1/repo/assets/cooking_pot/side.jpg",
+      "image_sha256": "aa0b9f5a9ba5f5da92b5cf8eabe4ee24d9773cbd40c5c2d43b026539263b77c3",
+      "record_sha256": "1fca782448e36101eb8fd5acc9fef55fc434a130dceaa214fafefc4fd08f802c",
+      "input_sha256": "f47f6b7c4464e4c13448dc6b364edce51adc029c2cc16166422c67522d7f4eca",
+      "bytes": 104796,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "cooking_pot",
+      "view": "left",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch13a/generators/preview_standard_v1/repo/assets/cooking_pot/left.jpg",
+      "image_sha256": "99768077ec7ba580bca7b8f5da6a7e022527e6a5445d9dd5b916ff983c6fb833",
+      "record_sha256": "53272bd04682695317c02414fe1032eefd893b8e497e6c68304044f1652bd3fe",
+      "input_sha256": "f47f6b7c4464e4c13448dc6b364edce51adc029c2cc16166422c67522d7f4eca",
+      "bytes": 104856,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "cooking_pot",
+      "view": "top",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch13a/generators/preview_standard_v1/repo/assets/cooking_pot/top.jpg",
+      "image_sha256": "bd0f2bd45d98a0843b68378f6cb012ab1c12b1ed3e19b201687793a96d9f592e",
+      "record_sha256": "de3738c5be060b6b73ceb431fb26d272310f5b576a2f374051afd4ca18f2413a",
+      "input_sha256": "f47f6b7c4464e4c13448dc6b364edce51adc029c2cc16166422c67522d7f4eca",
+      "bytes": 129952,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "cooking_pot",
+      "view": "underside",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch13a/generators/preview_standard_v1/repo/assets/cooking_pot/underside.jpg",
+      "image_sha256": "88c0f8b7a544a5c1020aacd0fe2f79500d12f425ff78262cee271dca67825ea7",
+      "record_sha256": "f77a3cd41b2ddccc2efe64ec7e664d534fe826a5e44e1a4a6f1426a163e9bd32",
+      "input_sha256": "f47f6b7c4464e4c13448dc6b364edce51adc029c2cc16166422c67522d7f4eca",
+      "bytes": 94276,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "cooking_pot",
+      "view": "close_up",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch13a/generators/preview_standard_v1/repo/assets/cooking_pot/close_up.jpg",
+      "image_sha256": "8f09c63e9a6e3dbd020f7f0c4a038236189808569dac77f36084777a7ba3480f",
+      "record_sha256": "d32dca203f9bc95883f89ab1a0e5cf668cdb132e5269c64e696821771ba8cc53",
+      "input_sha256": "f47f6b7c4464e4c13448dc6b364edce51adc029c2cc16166422c67522d7f4eca",
+      "bytes": 140333,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "cooking_pot",
+      "view": "underside_detail",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch13a/generators/preview_standard_v1/repo/assets/cooking_pot/underside_detail.jpg",
+      "image_sha256": "13180ac02d4aa5ae7f92cf06606d3943220bf2c45c1b31c7f209e8b3d9eeafe9",
+      "record_sha256": "f29d50bf0609212b959489e1d06e46035bf2f4abf0c85c8a52cb60450ac503c8",
+      "input_sha256": "f47f6b7c4464e4c13448dc6b364edce51adc029c2cc16166422c67522d7f4eca",
+      "bytes": 109484,
+      "visual_decision": "PASS"
+    },
+    {
+      "asset": "cooking_pot",
+      "view": "alternate_light",
+      "image": "/workspace/scratch/a456259dbd5d/lowpoly_batch13a/generators/preview_standard_v1/repo/assets/cooking_pot/alternate_light.jpg",
+      "image_sha256": "4626cf9301286b691eff2f2ba9cfbf33e3f7d2d7207ad1d0b70ce541a1dcc2d4",
+      "record_sha256": "bb0efbd46afc7f61af74458e47be40497d18646f27dfd1be98715f6c7bd445b8",
+      "input_sha256": "f47f6b7c4464e4c13448dc6b364edce51adc029c2cc16166422c67522d7f4eca",
+      "bytes": 147204,
+      "visual_decision": "PASS"
+    }
+  ],
+  "checks": [
+    "All22 final1200px JPEG files independently viewed at original resolution",
+    "Frozen renderer/spec byte-identical to previous approved batch",
+    "Every record/input/output/detail-plan hash independently verified",
+    "512sample ceiling/adaptive.005/RGB/JPEG dimensions/byte counts confirmed",
+    "Every image tied to current exact input/output hashes"
+  ],
+  "blocking_findings": [],
+  "publication_executed": false,
+  "authorizes": "These exact22 final photographs pass; exact lean-package acceptance remains separate."
+}

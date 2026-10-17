@@ -1,0 +1,42 @@
+{
+  "source": "lowpoly_batch13a/assets/cooking_pot/cooking_pot.blend",
+  "sha256": "6c45156fe7dbffaa8db93e1f3be02e063969b0ea8264d0c75723d0de3dbe2a30",
+  "features": {
+    "steam_holes_vertical_rays_no_lid_hit": [
+      true,
+      true
+    ],
+    "Pot handle welded mounting seat (-1, -0.027)_minimum_radial_position_m": 0.1004129560273493,
+    "Pot handle welded mounting seat (-1, 0.027)_minimum_radial_position_m": 0.1004129560273493,
+    "Pot handle welded mounting seat (1, -0.027)_minimum_radial_position_m": 0.1004129560273493,
+    "Pot handle welded mounting seat (1, 0.027)_minimum_radial_position_m": 0.1004129560273493,
+    "lid_skirt_outer_radius_m": 0.099,
+    "pot_inner_radius_at_skirt_m": 0.1,
+    "pot_lid_rim_support_measured_rays": {
+      "0.1015": {
+        "pot_top": [
+          0.1014999970793724,
+          0.0,
+          0.0990000069141388
+        ],
+        "lid_underside": [
+          0.1014999970793724,
+          0.0,
+          0.0989999994635582
+        ]
+      },
+      "-0.1015": {
+        "pot_top": [
+          -0.1014999970793724,
+          0.0,
+          0.0990000069141388
+        ],
+        "lid_underside": [
+          -0.1014999970793724,
+          0.0,
+          0.0989999994635582
+        ]
+      }
+    }
+  }
+}

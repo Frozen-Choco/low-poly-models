@@ -1,0 +1,52 @@
+{
+  "source": "lowpoly_batch13a/assets/cooking_pot/cooking_pot.glb",
+  "sha256": "f47f6b7c4464e4c13448dc6b364edce51adc029c2cc16166422c67522d7f4eca",
+  "decision": "PASS",
+  "sampled_vertical_lift": [
+    {
+      "lift_m": 0.0001,
+      "lid_body_surface_intersections": 0
+    },
+    {
+      "lift_m": 0.0005,
+      "lid_body_surface_intersections": 0
+    },
+    {
+      "lift_m": 0.001,
+      "lid_body_surface_intersections": 0
+    },
+    {
+      "lift_m": 0.002,
+      "lid_body_surface_intersections": 0
+    },
+    {
+      "lift_m": 0.003,
+      "lid_body_surface_intersections": 0
+    },
+    {
+      "lift_m": 0.005,
+      "lid_body_surface_intersections": 0
+    },
+    {
+      "lift_m": 0.01,
+      "lid_body_surface_intersections": 0
+    },
+    {
+      "lift_m": 0.02,
+      "lid_body_surface_intersections": 0
+    },
+    {
+      "lift_m": 0.04,
+      "lid_body_surface_intersections": 0
+    },
+    {
+      "lift_m": 0.08,
+      "lid_body_surface_intersections": 0
+    },
+    {
+      "lift_m": 0.16,
+      "lid_body_surface_intersections": 0
+    }
+  ],
+  "limit": "Static collision samples and axisymmetric skirt clearance; no force/thermal simulation."
+}

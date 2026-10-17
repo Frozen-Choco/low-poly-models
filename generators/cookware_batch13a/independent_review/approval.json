@@ -1,0 +1,37 @@
+{
+  "decision": "PASS",
+  "gate": "independent_saved_shape_and_diagnostics",
+  "source_revisions": {
+    "frying_pan": 6,
+    "cooking_pot": 3
+  },
+  "files": [
+    {
+      "path": "lowpoly_batch13a/assets/frying_pan/frying_pan.blend",
+      "sha256": "c8619a3eb3a8db0661eef9300d5d9f49f36ae7de5bdd742c6dfc278e1de4c765",
+      "bytes": 222442
+    },
+    {
+      "path": "lowpoly_batch13a/assets/frying_pan/frying_pan.glb",
+      "sha256": "054a0fc2598f75f1d03198afb3a5466f110dbe4d4a540ed025a37e8f44d52f56",
+      "bytes": 287756
+    },
+    {
+      "path": "lowpoly_batch13a/assets/cooking_pot/cooking_pot.blend",
+      "sha256": "6c45156fe7dbffaa8db93e1f3be02e063969b0ea8264d0c75723d0de3dbe2a30",
+      "bytes": 291069
+    },
+    {
+      "path": "lowpoly_batch13a/assets/cooking_pot/cooking_pot.glb",
+      "sha256": "f47f6b7c4464e4c13448dc6b364edce51adc029c2cc16166422c67522d7f4eca",
+      "bytes": 513952
+    }
+  ],
+  "shape_approvals": {
+    "frying_pan": "9edd007392913b2ecf243c140333b051c3a80243465b57735df5cc75215df4f1",
+    "cooking_pot": "66285e09ab3eed10c63b0d3f4028ea9efa4c8b4889e86ba7bc689d48c2949cd9"
+  },
+  "diagnostic_images": 32,
+  "blocking_findings": [],
+  "authorizes": "Only these exact fourmodel files are cleared for frozen photography. Final imagery and exact payload approval remain separate."
+}

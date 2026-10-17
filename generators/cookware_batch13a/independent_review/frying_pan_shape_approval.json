@@ -1,0 +1,114 @@
+{
+  "decision": "PASS_SHAPE_GATE",
+  "asset": "frying_pan",
+  "revision": 6,
+  "files": [
+    {
+      "path": "lowpoly_batch13a/assets/frying_pan/frying_pan.blend",
+      "sha256": "c8619a3eb3a8db0661eef9300d5d9f49f36ae7de5bdd742c6dfc278e1de4c765",
+      "bytes": 222442
+    },
+    {
+      "path": "lowpoly_batch13a/assets/frying_pan/frying_pan.glb",
+      "sha256": "054a0fc2598f75f1d03198afb3a5466f110dbe4d4a540ed025a37e8f44d52f56",
+      "bytes": 287756
+    }
+  ],
+  "views": [
+    {
+      "path": "lowpoly_batch13a/evidence/diagnostics_rev6/frying_pan/blend/back.png",
+      "sha256": "c6db72ac20310b079fc05c97fcc5c14570d5c9fb483113737b2220dc4d366d05",
+      "original_resolution_viewed": true,
+      "review_method": "Exact decoded pixel equality to individually original1200px inspected revision5diagnostic"
+    },
+    {
+      "path": "lowpoly_batch13a/evidence/diagnostics_rev6/frying_pan/blend/close_up.png",
+      "sha256": "6384967e3f5ca301e3048f9e44599e976fb3cfdef80c4b8e8eea01b0c8c4673c",
+      "original_resolution_viewed": true,
+      "review_method": "Exact decoded pixel equality to individually original1200px inspected revision5diagnostic"
+    },
+    {
+      "path": "lowpoly_batch13a/evidence/diagnostics_rev6/frying_pan/blend/front.png",
+      "sha256": "2c7d92b1cada2105c80c746a27bec9c8f9bbbd5b9dd1b841c8d9e813f6871a5b",
+      "original_resolution_viewed": true,
+      "review_method": "Exact decoded pixel equality to individually original1200px inspected revision5diagnostic"
+    },
+    {
+      "path": "lowpoly_batch13a/evidence/diagnostics_rev6/frying_pan/blend/side.png",
+      "sha256": "33b5fe226a0b894d216dd874d6e470157ebfc0b52001f26dc4aa9e60cab0b143",
+      "original_resolution_viewed": true,
+      "review_method": "Exact decoded pixel equality to individually original1200px inspected revision5diagnostic"
+    },
+    {
+      "path": "lowpoly_batch13a/evidence/diagnostics_rev6/frying_pan/blend/structure.png",
+      "sha256": "e5b54234ff981a0be0e40d4c10e7bc435fdd1c34c25725696729ec0b0269b1c6",
+      "original_resolution_viewed": true,
+      "review_method": "Exact decoded pixel equality to individually original1200px inspected revision5diagnostic"
+    },
+    {
+      "path": "lowpoly_batch13a/evidence/diagnostics_rev6/frying_pan/blend/top.png",
+      "sha256": "f37fcc4ff94b35e6973ccbbe280829f828ad6e7c636316de39dd55e202e59e42",
+      "original_resolution_viewed": true,
+      "review_method": "Exact decoded pixel equality to individually original1200px inspected revision5diagnostic"
+    },
+    {
+      "path": "lowpoly_batch13a/evidence/diagnostics_rev6/frying_pan/blend/underside.png",
+      "sha256": "55ce6533f94835902131600a4964c628c6f087614b1f22c8b1188d950ba5c923",
+      "original_resolution_viewed": true,
+      "review_method": "Exact decoded pixel equality to individually original1200px inspected revision5diagnostic"
+    },
+    {
+      "path": "lowpoly_batch13a/evidence/diagnostics_rev6/frying_pan/glb/back.png",
+      "sha256": "4bdeff9aafe88b2a71d2937904905bbcd5129a0b02edacd5b98730d82d523127",
+      "original_resolution_viewed": true,
+      "review_method": "Exact decoded pixel equality to individually original1200px inspected revision5diagnostic"
+    },
+    {
+      "path": "lowpoly_batch13a/evidence/diagnostics_rev6/frying_pan/glb/close_up.png",
+      "sha256": "26982fc75345e3d2b1197461b8dfc195713f912798f4f220ab07b7c19d666baf",
+      "original_resolution_viewed": true,
+      "review_method": "Exact decoded pixel equality to individually original1200px inspected revision5diagnostic"
+    },
+    {
+      "path": "lowpoly_batch13a/evidence/diagnostics_rev6/frying_pan/glb/front.png",
+      "sha256": "5e8ba6857c80023f6be789a6c514cdb647fc56f9a2565a3315c8413b735a3251",
+      "original_resolution_viewed": true,
+      "review_method": "Exact decoded pixel equality to individually original1200px inspected revision5diagnostic"
+    },
+    {
+      "path": "lowpoly_batch13a/evidence/diagnostics_rev6/frying_pan/glb/side.png",
+      "sha256": "6ea0578036f60a84fdabbe058d88b7e0611b64bfacc73699aebfe8cfe347832d",
+      "original_resolution_viewed": true,
+      "review_method": "Exact decoded pixel equality to individually original1200px inspected revision5diagnostic"
+    },
+    {
+      "path": "lowpoly_batch13a/evidence/diagnostics_rev6/frying_pan/glb/structure.png",
+      "sha256": "8efa861c8496367299721fcf02584a17f2921f776ac1cf82a413ed7d364095b4",
+      "original_resolution_viewed": true,
+      "review_method": "Exact decoded pixel equality to individually original1200px inspected revision5diagnostic"
+    },
+    {
+      "path": "lowpoly_batch13a/evidence/diagnostics_rev6/frying_pan/glb/top.png",
+      "sha256": "926e9a75421e7fb2dd955bc91191fc84d8e2f9b976ac07b2dbbaf4f5063013da",
+      "original_resolution_viewed": true,
+      "review_method": "Exact decoded pixel equality to individually original1200px inspected revision5diagnostic"
+    },
+    {
+      "path": "lowpoly_batch13a/evidence/diagnostics_rev6/frying_pan/glb/underside.png",
+      "sha256": "2a42b6106fbc6946ccc34913b73d84e56d1b38074c7fa6c42b0b541e45df6ef0",
+      "original_resolution_viewed": true,
+      "review_method": "Exact decoded pixel equality to individually original1200px inspected revision5diagnostic"
+    }
+  ],
+  "checks": [
+    "Saved Blend/GLB finite, positive-volume welded manifold solids; zero duplicate/degenerate/self-intersecting faces",
+    "Zero direct-plane positive-area coplanar overlaps in both formats",
+    "Exterior saddle/receiver boss/tang stay outside inner cooking cavity, positive concealed connection path through rivets and receiver",
+    "Actual hanging hole independently ray-tested; shallow rivet heads and round grip visually coherent",
+    "All14diagnostic views original1200px reviewed: finalrev6decoded pixels exactly match individually inspectedrev5",
+    "Saved-format bidirectional geometry distance below1e-6m; matched materials",
+    "Independent isolated regeneration: all vertex/normal/UV arrays, oriented triangle multisets, scene transforms and materials exactly match; binary index ordering/buffer sharing may differ"
+  ],
+  "blocking_findings": [],
+  "authorizes": "Exact listed source bytes may proceed to frozen canonical photography under parent CPU allocation. Final photographs and exact package require separate acceptance."
+}

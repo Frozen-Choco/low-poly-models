@@ -1,0 +1,106 @@
+{
+  "asset": "cooking_pot",
+  "source_hashes": {
+    "blend": "6c45156fe7dbffaa8db93e1f3be02e063969b0ea8264d0c75723d0de3dbe2a30",
+    "glb": "f47f6b7c4464e4c13448dc6b364edce51adc029c2cc16166422c67522d7f4eca"
+  },
+  "poses": [
+    {
+      "frame": 1,
+      "missing_names": [],
+      "objects": [
+        {
+          "name": "Lid knob metal seating washer",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Lid knob underside fixing screw",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Lid phenolic graspable knob",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 1920,
+          "triangles_glb": 1920
+        },
+        {
+          "name": "Lid removable steel dome and locating skirt",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 3864,
+          "triangles_glb": 3864
+        },
+        {
+          "name": "Pot continuous three-layer steel exterior",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 3456,
+          "triangles_glb": 3456
+        },
+        {
+          "name": "Pot handle fixing screw (-1, -0.027)",
+          "max_bidirectional_vertex_to_surface_distance_m": 7.450580596923828e-09,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Pot handle fixing screw (-1, 0.027)",
+          "max_bidirectional_vertex_to_surface_distance_m": 7.450580596923828e-09,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Pot handle fixing screw (1, -0.027)",
+          "max_bidirectional_vertex_to_surface_distance_m": 7.450580596923828e-09,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Pot handle fixing screw (1, 0.027)",
+          "max_bidirectional_vertex_to_surface_distance_m": 7.450580596923828e-09,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Pot handle welded mounting seat (-1, -0.027)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Pot handle welded mounting seat (-1, 0.027)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Pot handle welded mounting seat (1, -0.027)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Pot handle welded mounting seat (1, 0.027)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Pot open phenolic loop handle -1",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 796,
+          "triangles_glb": 796
+        },
+        {
+          "name": "Pot open phenolic loop handle 1",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 796,
+          "triangles_glb": 796
+        }
+      ],
+      "max_distance_m": 7.450580596923828e-09
+    }
+  ]
+}

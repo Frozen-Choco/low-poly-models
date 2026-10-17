@@ -1,0 +1,62 @@
+{
+  "frying_pan": {
+    "close_up": {
+      "direction": [
+        1,
+        -2,
+        1.7
+      ],
+      "target_m": [
+        0.12,
+        0,
+        0.04
+      ],
+      "span_m": 0.19,
+      "purpose": "Pan real-thickness rim, inner rivets, handle attachment and cooking surface"
+    },
+    "underside_detail": {
+      "direction": [
+        1,
+        -1,
+        -1.5
+      ],
+      "target_m": [
+        0.04,
+        0,
+        0.015
+      ],
+      "span_m": 0.25,
+      "purpose": "Bonded induction bottom, continuous bowl base and handle mounting"
+    }
+  },
+  "cooking_pot": {
+    "close_up": {
+      "direction": [
+        1,
+        -2,
+        1.2
+      ],
+      "target_m": [
+        0.09,
+        0,
+        0.09
+      ],
+      "span_m": 0.19,
+      "purpose": "Open loop grip, metal attachment seats and removable lid rim"
+    },
+    "underside_detail": {
+      "direction": [
+        1,
+        -1,
+        -1.5
+      ],
+      "target_m": [
+        0.03,
+        0,
+        0.03
+      ],
+      "span_m": 0.24,
+      "purpose": "Rounded closed pot base and side handle seating"
+    }
+  }
+}

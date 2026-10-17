@@ -1,0 +1,94 @@
+{
+  "asset": "frying_pan",
+  "source_hashes": {
+    "blend": "c8619a3eb3a8db0661eef9300d5d9f49f36ae7de5bdd742c6dfc278e1de4c765",
+    "glb": "054a0fc2598f75f1d03198afb3a5466f110dbe4d4a540ed025a37e8f44d52f56"
+  },
+  "poses": [
+    {
+      "frame": 1,
+      "missing_names": [],
+      "objects": [
+        {
+          "name": "Bonded induction base",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Pan concealed rivet shaft -0.014",
+          "max_bidirectional_vertex_to_surface_distance_m": 3.725290298461914e-09,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Pan concealed rivet shaft 0",
+          "max_bidirectional_vertex_to_surface_distance_m": 1.862645149230957e-09,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Pan concealed rivet shaft 0.014",
+          "max_bidirectional_vertex_to_surface_distance_m": 3.725290298461914e-09,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Pan continuous bowl wall and floor",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 3072,
+          "triangles_glb": 3072
+        },
+        {
+          "name": "Pan handle mounting bracket",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 196,
+          "triangles_glb": 196
+        },
+        {
+          "name": "Pan handle steel tang",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Pan handle underside screw",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Pan handle welded receiver boss",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Pan phenolic handle",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 498,
+          "triangles_glb": 498
+        },
+        {
+          "name": "Pan shallow coated rivet head -0.014",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 528,
+          "triangles_glb": 528
+        },
+        {
+          "name": "Pan shallow coated rivet head 0",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 528,
+          "triangles_glb": 528
+        },
+        {
+          "name": "Pan shallow coated rivet head 0.014",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 528,
+          "triangles_glb": 528
+        }
+      ],
+      "max_distance_m": 3.725290298461914e-09
+    }
+  ]
+}

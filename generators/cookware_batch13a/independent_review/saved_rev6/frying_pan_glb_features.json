@@ -1,0 +1,10 @@
+{
+  "source": "lowpoly_batch13a/assets/frying_pan/frying_pan.glb",
+  "sha256": "054a0fc2598f75f1d03198afb3a5466f110dbe4d4a540ed025a37e8f44d52f56",
+  "features": {
+    "hanging_hole_center_ray_no_handle_hit": true,
+    "Pan handle mounting bracket_minimum_clearance_outside_inner_cavity_m": 0.001676466968041801,
+    "Pan handle steel tang_minimum_clearance_outside_inner_cavity_m": 0.005872918958016365,
+    "Pan handle welded receiver boss_minimum_clearance_outside_inner_cavity_m": 0.002201837226968567
+  }
+}

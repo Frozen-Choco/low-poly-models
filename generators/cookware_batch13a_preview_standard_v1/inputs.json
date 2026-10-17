@@ -1,0 +1,16 @@
+[
+  {
+    "id": "frying_pan",
+    "repo_path": "assets/kitchen/frying_pan/frying_pan.glb",
+    "sha256": "054a0fc2598f75f1d03198afb3a5466f110dbe4d4a540ed025a37e8f44d52f56",
+    "git_sha": null,
+    "provenance": "Original generic cookware. Manufacturer morphology and metric dimensions; original geometry and PBR materials."
+  },
+  {
+    "id": "cooking_pot",
+    "repo_path": "assets/kitchen/cooking_pot/cooking_pot.glb",
+    "sha256": "f47f6b7c4464e4c13448dc6b364edce51adc029c2cc16166422c67522d7f4eca",
+    "git_sha": null,
+    "provenance": "Original generic cookware. Manufacturer morphology and metric dimensions; original geometry and PBR materials."
+  }
+]

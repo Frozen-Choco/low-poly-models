@@ -1,0 +1,115 @@
+{
+  "asset": "cooking_pot",
+  "view": "underside_detail",
+  "input_repo_path": "assets/cooking_pot/cooking_pot.glb",
+  "input_sha256": "f47f6b7c4464e4c13448dc6b364edce51adc029c2cc16166422c67522d7f4eca",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "2f3089dab6d648eb13a24a77640a7097ea6bc923af31f4a2cc4c080e2fd99e89",
+  "closeup_magnification_vs_full_fit": 0.9540314685413387,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch13a/generators/preview_standard_v1/repo/assets/cooking_pot/underside_detail.jpg",
+  "output_sha256": "13180ac02d4aa5ae7f92cf06606d3943220bf2c45c1b31c7f209e8b3d9eeafe9",
+  "bytes": 109484,
+  "elapsed_seconds": 160.85290060700208,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 6.756756669679118,
+  "source_bounds": [
+    [
+      -0.14800000190734863,
+      -0.10300000011920929,
+      0.0
+    ],
+    [
+      0.14800000190734863,
+      0.10300000011920929,
+      0.16699999570846558
+    ]
+  ],
+  "camera_location": [
+    5.053415298461914,
+    -4.850712776184082,
+    -7.073366165161133
+  ],
+  "camera_rotation": [
+    2.3856234550476074,
+    -7.9672659580865e-08,
+    0.7853981852531433
+  ],
+  "ortho_scale": 2.027026891708374,
+  "focus": {
+    "direction": [
+      1,
+      -1,
+      -1.5
+    ],
+    "target_m": [
+      0.03,
+      0,
+      0.03
+    ],
+    "span_m": 0.24,
+    "purpose": "Rounded closed pot base and side handle seating"
+  },
+  "focus_projected_width_height": [
+    1.5470779538154602,
+    1.426577627658844
+  ],
+  "full_object_fit": false,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        -0.34937477111816406,
+        -6.6506242752075195,
+        1.1330106258392334
+      ],
+      "rotation": [
+        1.490246057510376,
+        -4.763611727298667e-09,
+        -0.06722104549407959
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        3.855898857116699,
+        -0.8558982014656067,
+        -2.1436989307403564
+      ],
+      "rotation": [
+        2.1915459632873535,
+        2.5449170948377287e-07,
+        1.3705941438674927
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        4.409631729125977,
+        0.590368390083313,
+        3.5660908222198486
+      ],
+      "rotation": [
+        0.9749711155891418,
+        -1.3530721787446964e-07,
+        1.7275832891464233
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": [
+    184,
+    184,
+    184
+  ],
+  "floor_hidden": true,
+  "diagnostic_only": false
+}

@@ -1,0 +1,153 @@
+{
+  "scope": "Exact production bytes and original immutable records. No reference photographs redistributed.",
+  "assets": [
+    {
+      "asset": "frying_pan",
+      "production_input": "assets/frying_pan/frying_pan.glb",
+      "packaged_input": "assets/kitchen/frying_pan/frying_pan.glb",
+      "sha256": "054a0fc2598f75f1d03198afb3a5466f110dbe4d4a540ed025a37e8f44d52f56",
+      "views": [
+        {
+          "view": "preview",
+          "packaged_image": "assets/kitchen/frying_pan/preview.jpg",
+          "sha256": "1f591c220fb38dbdd777c8007d0c539f78d6cb22a953f66af380af9285125001",
+          "record": "generators/cookware_batch13a_preview_standard_v1/records/frying_pan/preview.json"
+        },
+        {
+          "view": "back",
+          "packaged_image": "assets/kitchen/frying_pan/back.jpg",
+          "sha256": "60e77d30f0c52d05245d4dbd3ec7899f7d535b3a2afd8773d5927a39fb124c63",
+          "record": "generators/cookware_batch13a_preview_standard_v1/records/frying_pan/back.json"
+        },
+        {
+          "view": "front",
+          "packaged_image": "assets/kitchen/frying_pan/front.jpg",
+          "sha256": "c67df3d75f0aa48053d3fdda28c23c99b47f9ed233151849c12c134a025760af",
+          "record": "generators/cookware_batch13a_preview_standard_v1/records/frying_pan/front.json"
+        },
+        {
+          "view": "rear",
+          "packaged_image": "assets/kitchen/frying_pan/rear.jpg",
+          "sha256": "affbcd6f6042d01a01b33a7552bb5dfe5a45d7b19e006374557739917060f4f3",
+          "record": "generators/cookware_batch13a_preview_standard_v1/records/frying_pan/rear.json"
+        },
+        {
+          "view": "side",
+          "packaged_image": "assets/kitchen/frying_pan/side.jpg",
+          "sha256": "2a7e1d373612956a201986251d5e65933a1c389a972dead133a81c6c3f5634f5",
+          "record": "generators/cookware_batch13a_preview_standard_v1/records/frying_pan/side.json"
+        },
+        {
+          "view": "left",
+          "packaged_image": "assets/kitchen/frying_pan/left.jpg",
+          "sha256": "4318b26983c45e367727730b7d765aa7d721943d6319fb715507a551ab2556e9",
+          "record": "generators/cookware_batch13a_preview_standard_v1/records/frying_pan/left.json"
+        },
+        {
+          "view": "top",
+          "packaged_image": "assets/kitchen/frying_pan/top.jpg",
+          "sha256": "e361c348c3cc76d803f39edde91aa3520a15472afc5677451f2700d960104383",
+          "record": "generators/cookware_batch13a_preview_standard_v1/records/frying_pan/top.json"
+        },
+        {
+          "view": "underside",
+          "packaged_image": "assets/kitchen/frying_pan/underside.jpg",
+          "sha256": "17f6e08a3d7e07bad7f5dc27ed701da0d5cf53ca1830651d35edb1e7cb91cc3b",
+          "record": "generators/cookware_batch13a_preview_standard_v1/records/frying_pan/underside.json"
+        },
+        {
+          "view": "close_up",
+          "packaged_image": "assets/kitchen/frying_pan/close_up.jpg",
+          "sha256": "230e876d90cb811005eefaabd81dc4d93ae6d5fb838559bc70ccac5edf2a3f7b",
+          "record": "generators/cookware_batch13a_preview_standard_v1/records/frying_pan/close_up.json"
+        },
+        {
+          "view": "underside_detail",
+          "packaged_image": "assets/kitchen/frying_pan/underside_detail.jpg",
+          "sha256": "b2083f85e334c469ea5868c082b9e72da5387701e98a675802b3ab97d13adc2c",
+          "record": "generators/cookware_batch13a_preview_standard_v1/records/frying_pan/underside_detail.json"
+        },
+        {
+          "view": "alternate_light",
+          "packaged_image": "assets/kitchen/frying_pan/alternate_light.jpg",
+          "sha256": "244e0bf10ae887a8d0de58e6c98e713be9c0b18d9e798ebca60c4b8af86a0939",
+          "record": "generators/cookware_batch13a_preview_standard_v1/records/frying_pan/alternate_light.json"
+        }
+      ]
+    },
+    {
+      "asset": "cooking_pot",
+      "production_input": "assets/cooking_pot/cooking_pot.glb",
+      "packaged_input": "assets/kitchen/cooking_pot/cooking_pot.glb",
+      "sha256": "f47f6b7c4464e4c13448dc6b364edce51adc029c2cc16166422c67522d7f4eca",
+      "views": [
+        {
+          "view": "preview",
+          "packaged_image": "assets/kitchen/cooking_pot/preview.jpg",
+          "sha256": "5119b53dc9305906f57e007c8750857909f7dd384640205d813185507a806fc1",
+          "record": "generators/cookware_batch13a_preview_standard_v1/records/cooking_pot/preview.json"
+        },
+        {
+          "view": "back",
+          "packaged_image": "assets/kitchen/cooking_pot/back.jpg",
+          "sha256": "bc5d52624a17dda80777c386513e16c26845229792d4074aa8310822e93e6832",
+          "record": "generators/cookware_batch13a_preview_standard_v1/records/cooking_pot/back.json"
+        },
+        {
+          "view": "front",
+          "packaged_image": "assets/kitchen/cooking_pot/front.jpg",
+          "sha256": "95aa08f6dbbe0c428ba672350960e8bd1e44160968989ac49366dfee493068cf",
+          "record": "generators/cookware_batch13a_preview_standard_v1/records/cooking_pot/front.json"
+        },
+        {
+          "view": "rear",
+          "packaged_image": "assets/kitchen/cooking_pot/rear.jpg",
+          "sha256": "1260d511ad3819c09ae9f492bf49b8e463f70e2e8db5da3b5bbbac278769112b",
+          "record": "generators/cookware_batch13a_preview_standard_v1/records/cooking_pot/rear.json"
+        },
+        {
+          "view": "side",
+          "packaged_image": "assets/kitchen/cooking_pot/side.jpg",
+          "sha256": "aa0b9f5a9ba5f5da92b5cf8eabe4ee24d9773cbd40c5c2d43b026539263b77c3",
+          "record": "generators/cookware_batch13a_preview_standard_v1/records/cooking_pot/side.json"
+        },
+        {
+          "view": "left",
+          "packaged_image": "assets/kitchen/cooking_pot/left.jpg",
+          "sha256": "99768077ec7ba580bca7b8f5da6a7e022527e6a5445d9dd5b916ff983c6fb833",
+          "record": "generators/cookware_batch13a_preview_standard_v1/records/cooking_pot/left.json"
+        },
+        {
+          "view": "top",
+          "packaged_image": "assets/kitchen/cooking_pot/top.jpg",
+          "sha256": "bd0f2bd45d98a0843b68378f6cb012ab1c12b1ed3e19b201687793a96d9f592e",
+          "record": "generators/cookware_batch13a_preview_standard_v1/records/cooking_pot/top.json"
+        },
+        {
+          "view": "underside",
+          "packaged_image": "assets/kitchen/cooking_pot/underside.jpg",
+          "sha256": "88c0f8b7a544a5c1020aacd0fe2f79500d12f425ff78262cee271dca67825ea7",
+          "record": "generators/cookware_batch13a_preview_standard_v1/records/cooking_pot/underside.json"
+        },
+        {
+          "view": "close_up",
+          "packaged_image": "assets/kitchen/cooking_pot/close_up.jpg",
+          "sha256": "8f09c63e9a6e3dbd020f7f0c4a038236189808569dac77f36084777a7ba3480f",
+          "record": "generators/cookware_batch13a_preview_standard_v1/records/cooking_pot/close_up.json"
+        },
+        {
+          "view": "underside_detail",
+          "packaged_image": "assets/kitchen/cooking_pot/underside_detail.jpg",
+          "sha256": "13180ac02d4aa5ae7f92cf06606d3943220bf2c45c1b31c7f209e8b3d9eeafe9",
+          "record": "generators/cookware_batch13a_preview_standard_v1/records/cooking_pot/underside_detail.json"
+        },
+        {
+          "view": "alternate_light",
+          "packaged_image": "assets/kitchen/cooking_pot/alternate_light.jpg",
+          "sha256": "4626cf9301286b691eff2f2ba9cfbf33e3f7d2d7207ad1d0b70ce541a1dcc2d4",
+          "record": "generators/cookware_batch13a_preview_standard_v1/records/cooking_pot/alternate_light.json"
+        }
+      ]
+    }
+  ]
+}

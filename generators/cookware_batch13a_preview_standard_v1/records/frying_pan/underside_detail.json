@@ -1,0 +1,115 @@
+{
+  "asset": "frying_pan",
+  "view": "underside_detail",
+  "input_repo_path": "assets/frying_pan/frying_pan.glb",
+  "input_sha256": "054a0fc2598f75f1d03198afb3a5466f110dbe4d4a540ed025a37e8f44d52f56",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "2f3089dab6d648eb13a24a77640a7097ea6bc923af31f4a2cc4c080e2fd99e89",
+  "closeup_magnification_vs_full_fit": 1.4562110317984471,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch13a/generators/preview_standard_v1/repo/assets/frying_pan/underside_detail.jpg",
+  "output_sha256": "b2083f85e334c469ea5868c082b9e72da5387701e98a675802b3ab97d13adc2c",
+  "bytes": 125591,
+  "elapsed_seconds": 137.99274389600032,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 4.446402811822609,
+  "source_bounds": [
+    [
+      -0.13249999284744263,
+      -0.13249999284744263,
+      0.0
+    ],
+    [
+      0.31730180978775024,
+      0.13249999284744263,
+      0.08198708295822144
+    ]
+  ],
+  "camera_location": [
+    4.617717266082764,
+    -4.850712776184082,
+    -7.209372520446777
+  ],
+  "camera_rotation": [
+    2.3856234550476074,
+    -7.9672659580865e-08,
+    0.7853981852531433
+  ],
+  "ortho_scale": 1.3895008563995361,
+  "focus": {
+    "direction": [
+      1,
+      -1,
+      -1.5
+    ],
+    "target_m": [
+      0.04,
+      0,
+      0.015
+    ],
+    "span_m": 0.25,
+    "purpose": "Bonded induction bottom, continuous bowl base and handle mounting"
+  },
+  "focus_projected_width_height": [
+    1.6187251806259155,
+    1.31121826171875
+  ],
+  "full_object_fit": false,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        -0.09021759033203125,
+        -6.909781455993652,
+        0.8584935069084167
+      ],
+      "rotation": [
+        1.490246057510376,
+        -7.924183975660526e-09,
+        -0.06722106039524078
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        4.115056037902832,
+        -1.1150553226470947,
+        -2.418215751647949
+      ],
+      "rotation": [
+        2.1915459632873535,
+        -1.119047965403297e-07,
+        1.3705942630767822
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        4.668788909912109,
+        0.33121123909950256,
+        3.2915737628936768
+      ],
+      "rotation": [
+        0.9749711155891418,
+        -1.7776172001049417e-07,
+        1.7275832891464233
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": [
+    184,
+    184,
+    184
+  ],
+  "floor_hidden": true,
+  "diagnostic_only": false
+}

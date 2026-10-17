@@ -1,0 +1,7011 @@
+{
+  "source": "lowpoly_batch13a/assets/cooking_pot/cooking_pot.blend",
+  "sha256": "6c45156fe7dbffaa8db93e1f3be02e063969b0ea8264d0c75723d0de3dbe2a30",
+  "positive_area_coplanar_pairs": [
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1824
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1544
+      ],
+      "overlap_area_m2": 4.869225065096128e-07,
+      "triangle_average_location": [
+        0.10155818611383438,
+        0.0033137584881236157,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1824
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1545
+      ],
+      "overlap_area_m2": 4.540954298682564e-06,
+      "triangle_average_location": [
+        0.1019380974272887,
+        0.004436512244865298,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1825
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1544
+      ],
+      "overlap_area_m2": 4.442829688643992e-06,
+      "triangle_average_location": [
+        0.10134476299087207,
+        0.002196455063919226,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1825
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1545
+      ],
+      "overlap_area_m2": 5.114430059977683e-07,
+      "triangle_average_location": [
+        0.10172467430432637,
+        0.003319208820660909,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1826
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1546
+      ],
+      "overlap_area_m2": 4.86916968008423e-07,
+      "triangle_average_location": [
+        0.10112401098012924,
+        0.009948886775722107,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1826
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1547
+      ],
+      "overlap_area_m2": 4.540943310044423e-06,
+      "triangle_average_location": [
+        0.10142967725793521,
+        0.011094083931917945,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1827
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1546
+      ],
+      "overlap_area_m2": 4.442848406150085e-06,
+      "triangle_average_location": [
+        0.10098412012060483,
+        0.00882001694602271,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1827
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1547
+      ],
+      "overlap_area_m2": 5.114499742746607e-07,
+      "triangle_average_location": [
+        0.1012897863984108,
+        0.009965214102218548,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1828
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1548
+      ],
+      "overlap_area_m2": 4.869234664396649e-07,
+      "triangle_average_location": [
+        0.10025680810213089,
+        0.016541412100195885,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1828
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1549
+      ],
+      "overlap_area_m2": 4.540937576451732e-06,
+      "triangle_average_location": [
+        0.10048692176739375,
+        0.017704148932049673,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1828
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1550
+      ],
+      "overlap_area_m2": 1.0901519487474531e-12,
+      "triangle_average_location": [
+        0.09964637582500775,
+        0.019798668411870796,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1829
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1548
+      ],
+      "overlap_area_m2": 4.442840017052996e-06,
+      "triangle_average_location": [
+        0.10019104803601901,
+        0.015405809972435236,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1829
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1549
+      ],
+      "overlap_area_m2": 5.114410000019469e-07,
+      "triangle_average_location": [
+        0.10042116170128186,
+        0.016568546804289024,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1830
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1550
+      ],
+      "overlap_area_m2": 4.869262758343089e-07,
+      "triangle_average_location": [
+        0.09896029159426689,
+        0.023063104910155136,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1830
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1551
+      ],
+      "overlap_area_m2": 4.5409503119382254e-06,
+      "triangle_average_location": [
+        0.09911386420329411,
+        0.024238402334352333,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1831
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1550
+      ],
+      "overlap_area_m2": 4.442843353091581e-06,
+      "triangle_average_location": [
+        0.09896894420186679,
+        0.021925633152325947,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1831
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1551
+      ],
+      "overlap_area_m2": 5.114412251318659e-07,
+      "triangle_average_location": [
+        0.09912251681089401,
+        0.023100930576523144,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1832
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1552
+      ],
+      "overlap_area_m2": 4.869150366463835e-07,
+      "triangle_average_location": [
+        0.09724000965555508,
+        0.0294860377907753,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1833
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1552
+      ],
+      "overlap_area_m2": 4.442845576776468e-06,
+      "triangle_average_location": [
+        0.09732303768396378,
+        0.028351567685604095,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1833
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1553
+      ],
+      "overlap_area_m2": 5.11452875411782e-07,
+      "triangle_average_location": [
+        0.09739941358566284,
+        0.029534392679731052,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1834
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1554
+      ],
+      "overlap_area_m2": 4.869196975888664e-07,
+      "triangle_average_location": [
+        0.09510333215196927,
+        0.035782706613341965,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1834
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1555
+      ],
+      "overlap_area_m2": 4.540959195286137e-06,
+      "triangle_average_location": [
+        0.09510218476255734,
+        0.03696799464523792,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1835
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1553
+      ],
+      "overlap_area_m2": 1.7961773561558925e-12,
+      "triangle_average_location": [
+        0.09636712446808815,
+        0.032689208475251995,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1835
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1554
+      ],
+      "overlap_area_m2": 4.4428337201097776e-06,
+      "triangle_average_location": [
+        0.09526038045684497,
+        0.03465609562893709,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1835
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1555
+      ],
+      "overlap_area_m2": 5.114437006139248e-07,
+      "triangle_average_location": [
+        0.09525923306743304,
+        0.03584138366083304,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1836
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1556
+      ],
+      "overlap_area_m2": 4.869177132565787e-07,
+      "triangle_average_location": [
+        0.09255940839648247,
+        0.04192614989976088,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1836
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1557
+      ],
+      "overlap_area_m2": 4.540963411311374e-06,
+      "triangle_average_location": [
+        0.09248074144124985,
+        0.04310882526139418,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1837
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1556
+      ],
+      "overlap_area_m2": 4.442852514219492e-06,
+      "triangle_average_location": [
+        0.09278980394204457,
+        0.04081222228705883,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1837
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1557
+      ],
+      "overlap_area_m2": 5.114478234269099e-07,
+      "triangle_average_location": [
+        0.09271113698681195,
+        0.04199489764869213,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1838
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1558
+      ],
+      "overlap_area_m2": 4.869188616526271e-07,
+      "triangle_average_location": [
+        0.08961912989616394,
+        0.047890057787299156,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1838
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1559
+      ],
+      "overlap_area_m2": 4.540943914974754e-06,
+      "triangle_average_location": [
+        0.08946328113476436,
+        0.04906505532562733,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1839
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1558
+      ],
+      "overlap_area_m2": 4.442853364609346e-06,
+      "triangle_average_location": [
+        0.08992188672224681,
+        0.04679358440140883,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1839
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1559
+      ],
+      "overlap_area_m2": 5.114478322525325e-07,
+      "triangle_average_location": [
+        0.08976603796084721,
+        0.047968581939737,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1840
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1560
+      ],
+      "overlap_area_m2": 4.869193043174901e-07,
+      "triangle_average_location": [
+        0.08629508813222249,
+        0.0536488921691974,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1840
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1561
+      ],
+      "overlap_area_m2": 4.540945521586213e-06,
+      "triangle_average_location": [
+        0.08606272439161937,
+        0.05481118087967237,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1840
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1562
+      ],
+      "overlap_area_m2": 2.323098883089593e-12,
+      "triangle_average_location": [
+        0.08448462312420209,
+        0.056424601624409355,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1841
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1560
+      ],
+      "overlap_area_m2": 4.442835530876592e-06,
+      "triangle_average_location": [
+        0.08666890983780225,
+        0.05257456749677658,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1841
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1561
+      ],
+      "overlap_area_m2": 5.114484033143935e-07,
+      "triangle_average_location": [
+        0.08643654609719913,
+        0.05373685620725155,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1842
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1562
+      ],
+      "overlap_area_m2": 4.869197330675465e-07,
+      "triangle_average_location": [
+        0.08260151743888855,
+        0.059177994107206665,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1842
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1563
+      ],
+      "overlap_area_m2": 4.540942420842246e-06,
+      "triangle_average_location": [
+        0.082293634613355,
+        0.060322597001989685,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1842
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1564
+      ],
+      "overlap_area_m2": 3.401708168621065e-12,
+      "triangle_average_location": [
+        0.0806133896112442,
+        0.061829350888729095,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1843
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1562
+      ],
+      "overlap_area_m2": 4.442842123236496e-06,
+      "triangle_average_location": [
+        0.0830448033909003,
+        0.05813041888177395,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1843
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1563
+      ],
+      "overlap_area_m2": 5.11444094897489e-07,
+      "triangle_average_location": [
+        0.08273692056536674,
+        0.05927502177655697,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1844
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1564
+      ],
+      "overlap_area_m2": 4.86922396932335e-07,
+      "triangle_average_location": [
+        0.0785542366405328,
+        0.06445368751883507,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1844
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1565
+      ],
+      "overlap_area_m2": 4.540936663300667e-06,
+      "triangle_average_location": [
+        0.07817215224107106,
+        0.06557570273677508,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1845
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1564
+      ],
+      "overlap_area_m2": 4.442844319287563e-06,
+      "triangle_average_location": [
+        0.07906508694092433,
+        0.06343734761079152,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1845
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1565
+      ],
+      "overlap_area_m2": 5.114446854767238e-07,
+      "triangle_average_location": [
+        0.07868300254146258,
+        0.06455936282873154,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1846
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1566
+      ],
+      "overlap_area_m2": 4.869205854382379e-07,
+      "triangle_average_location": [
+        0.07417057454586029,
+        0.06945337976018588,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1846
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1567
+      ],
+      "overlap_area_m2": 4.540934122967272e-06,
+      "triangle_average_location": [
+        0.07371592397491138,
+        0.0705480029185613,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1847
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1566
+      ],
+      "overlap_area_m2": 4.442836704070946e-06,
+      "triangle_average_location": [
+        0.07474680369098981,
+        0.06847262755036354,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1847
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1567
+      ],
+      "overlap_area_m2": 5.114444310209791e-07,
+      "triangle_average_location": [
+        0.0742921531200409,
+        0.06956725070873897,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1848
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1568
+      ],
+      "overlap_area_m2": 4.869182036789516e-07,
+      "triangle_average_location": [
+        0.06946930040915807,
+        0.07415566220879555,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1848
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1569
+      ],
+      "overlap_area_m2": 4.540947171696903e-06,
+      "triangle_average_location": [
+        0.06894403075178464,
+        0.07521820689241092,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1849
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1568
+      ],
+      "overlap_area_m2": 4.442825212538394e-06,
+      "triangle_average_location": [
+        0.07010844101508458,
+        0.07321469609936078,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1849
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1569
+      ],
+      "overlap_area_m2": 5.114452555831858e-07,
+      "triangle_average_location": [
+        0.06958317135771115,
+        0.07427724078297615,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1850
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1570
+      ],
+      "overlap_area_m2": 4.869192393947355e-07,
+      "triangle_average_location": [
+        0.0644705481827259,
+        0.07854039842883746,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1850
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1571
+      ],
+      "overlap_area_m2": 4.540941281723065e-06,
+      "triangle_average_location": [
+        0.06387690951426823,
+        0.07956631481647491,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1851
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1570
+      ],
+      "overlap_area_m2": 4.44284275844236e-06,
+      "triangle_average_location": [
+        0.06516986216108005,
+        0.0776432491838932,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1851
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1571
+      ],
+      "overlap_area_m2": 5.11444785438863e-07,
+      "triangle_average_location": [
+        0.06457622349262238,
+        0.07866916557153066,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1852
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1572
+      ],
+      "overlap_area_m2": 4.869280558462107e-07,
+      "triangle_average_location": [
+        0.059195724626382194,
+        0.08258881295720737,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1852
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1573
+      ],
+      "overlap_area_m2": 4.540938166791141e-06,
+      "triangle_average_location": [
+        0.058536259457468987,
+        0.08357370644807816,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1853
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1571
+      ],
+      "overlap_area_m2": 3.401705132854982e-12,
+      "triangle_average_location": [
+        0.06196518490711848,
+        0.08071878924965858,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1853
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1572
+      ],
+      "overlap_area_m2": 4.44283991806382e-06,
+      "triangle_average_location": [
+        0.059952216843763985,
+        0.08173932135105133,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1853
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1573
+      ],
+      "overlap_area_m2": 5.114422313417383e-07,
+      "triangle_average_location": [
+        0.059292751674850784,
+        0.08272421484192212,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1854
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1574
+      ],
+      "overlap_area_m2": 4.869193400798208e-07,
+      "triangle_average_location": [
+        0.053667415554324784,
+        0.08628356953461964,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1854
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1575
+      ],
+      "overlap_area_m2": 4.54094420992892e-06,
+      "triangle_average_location": [
+        0.052944947655002274,
+        0.08722322310010593,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1855
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1573
+      ],
+      "overlap_area_m2": 2.3230991783029786e-12,
+      "triangle_average_location": [
+        0.056553252041339874,
+        0.08459868157903354,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1855
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1574
+      ],
+      "overlap_area_m2": 4.442838482098758e-06,
+      "triangle_average_location": [
+        0.05447784811258316,
+        0.08548537393411,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1855
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1575
+      ],
+      "overlap_area_m2": 5.114464283043942e-07,
+      "triangle_average_location": [
+        0.05375538021326065,
+        0.08642502749959628,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1856
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1576
+      ],
+      "overlap_area_m2": 4.869211185200631e-07,
+      "triangle_average_location": [
+        0.0479092945655187,
+        0.08960884685317676,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1856
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1577
+      ],
+      "overlap_area_m2": 4.5409587171355535e-06,
+      "triangle_average_location": [
+        0.04712691716849804,
+        0.09049923717975616,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1857
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1576
+      ],
+      "overlap_area_m2": 4.442839677369203e-06,
+      "triangle_average_location": [
+        0.0487701961149772,
+        0.08886536459128062,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1857
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1577
+      ],
+      "overlap_area_m2": 5.11444460465308e-07,
+      "triangle_average_location": [
+        0.04798781871795654,
+        0.08975575491786003,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1858
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1578
+      ],
+      "overlap_area_m2": 4.869219803317907e-07,
+      "triangle_average_location": [
+        0.04194601811468601,
+        0.09255040685335796,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1858
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1579
+      ],
+      "overlap_area_m2": 4.54095632724791e-06,
+      "triangle_average_location": [
+        0.041107081497708954,
+        0.0933877204855283,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1859
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1578
+      ],
+      "overlap_area_m2": 4.442861369652806e-06,
+      "triangle_average_location": [
+        0.042853702480594315,
+        0.09186482181151708,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1859
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1579
+      ],
+      "overlap_area_m2": 5.114420846667484e-07,
+      "triangle_average_location": [
+        0.042014765863617264,
+        0.09270213544368744,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1860
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1580
+      ],
+      "overlap_area_m2": 4.869111120261657e-07,
+      "triangle_average_location": [
+        0.03580312182505926,
+        0.09509564936161041,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1860
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1581
+      ],
+      "overlap_area_m2": 4.540945899478895e-06,
+      "triangle_average_location": [
+        0.034911218409736954,
+        0.09587630008657773,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1860
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1582
+      ],
+      "overlap_area_m2": 1.7961773561558925e-12,
+      "triangle_average_location": [
+        0.03267703826228777,
+        0.09619562576214473,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1861
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1580
+      ],
+      "overlap_area_m2": 4.442843396757715e-06,
+      "triangle_average_location": [
+        0.036753702287872635,
+        0.09447089831034343,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1861
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1581
+      ],
+      "overlap_area_m2": 5.114556056509938e-07,
+      "triangle_average_location": [
+        0.03586179887255033,
+        0.09525154903531075,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1862
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1582
+      ],
+      "overlap_area_m2": 4.86917021373121e-07,
+      "triangle_average_location": [
+        0.029506910902758438,
+        0.0972336766620477,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1862
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1583
+      ],
+      "overlap_area_m2": 4.540959182505561e-06,
+      "triangle_average_location": [
+        0.028565860042969387,
+        0.0979543241361777,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1863
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1582
+      ],
+      "overlap_area_m2": 4.442833999678227e-06,
+      "triangle_average_location": [
+        0.030496316651503246,
+        0.0966724343597889,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1863
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1583
+      ],
+      "overlap_area_m2": 5.114460824263866e-07,
+      "triangle_average_location": [
+        0.02955526579171419,
+        0.09739308183391888,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1864
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1584
+      ],
+      "overlap_area_m2": 4.869200647471088e-07,
+      "triangle_average_location": [
+        0.0230843477572004,
+        0.09895533819993337,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1864
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1585
+      ],
+      "overlap_area_m2": 4.540942130017698e-06,
+      "triangle_average_location": [
+        0.022098179285724957,
+        0.09961289539933205,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1865
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1584
+      ],
+      "overlap_area_m2": 4.442855601786987e-06,
+      "triangle_average_location": [
+        0.02410834189504385,
+        0.09846000745892525,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1865
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1585
+      ],
+      "overlap_area_m2": 5.114436647437603e-07,
+      "triangle_average_location": [
+        0.02312217342356841,
+        0.09911756465832393,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1866
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1586
+      ],
+      "overlap_area_m2": 4.869245511402451e-07,
+      "triangle_average_location": [
+        0.016562933723131817,
+        0.10025325541694959,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1866
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1587
+      ],
+      "overlap_area_m2": 4.540935690218158e-06,
+      "triangle_average_location": [
+        0.015535870411743721,
+        0.10084490478038788,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1867
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1585
+      ],
+      "overlap_area_m2": 1.0901518403272359e-12,
+      "triangle_average_location": [
+        0.019873878142486017,
+        0.09980098406473796,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1867
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1586
+      ],
+      "overlap_area_m2": 4.442836751047908e-06,
+      "triangle_average_location": [
+        0.01761713158339262,
+        0.09982595841089885,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1867
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1587
+      ],
+      "overlap_area_m2": 5.114450675398115e-07,
+      "triangle_average_location": [
+        0.016590068272004526,
+        0.10041760777433713,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1868
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1588
+      ],
+      "overlap_area_m2": 4.86924117664724e-07,
+      "triangle_average_location": [
+        0.009970594275121888,
+        0.10112187266349792,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1868
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1589
+      ],
+      "overlap_area_m2": 4.540953175292148e-06,
+      "triangle_average_location": [
+        0.008907034294679761,
+        0.10164508347709973,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1869
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1588
+      ],
+      "overlap_area_m2": 4.4428391282663e-06,
+      "triangle_average_location": [
+        0.0110504818148911,
+        0.10076443726817767,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1869
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1589
+      ],
+      "overlap_area_m2": 5.114425325524554e-07,
+      "triangle_average_location": [
+        0.009986921834448973,
+        0.10128764808177948,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1870
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1590
+      ],
+      "overlap_area_m2": 4.869166645662829e-07,
+      "triangle_average_location": [
+        0.0033355595854421484,
+        0.10155747334162395,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1870
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1591
+      ],
+      "overlap_area_m2": 4.540933959936306e-06,
+      "triangle_average_location": [
+        0.002240057180946076,
+        0.10201000298062961,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1871
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1590
+      ],
+      "overlap_area_m2": 4.442849672282019e-06,
+      "triangle_average_location": [
+        0.004436512244865301,
+        0.10127143189311028,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1871
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1591
+      ],
+      "overlap_area_m2": 5.114489077516244e-07,
+      "triangle_average_location": [
+        0.0033410098403692276,
+        0.10172396153211594,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1872
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1592
+      ],
+      "overlap_area_m2": 4.869225065095721e-07,
+      "triangle_average_location": [
+        -0.0033137584881236127,
+        0.10155818611383438,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1872
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1593
+      ],
+      "overlap_area_m2": 4.540954298682591e-06,
+      "triangle_average_location": [
+        -0.004436512244865296,
+        0.1019380974272887,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1873
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1592
+      ],
+      "overlap_area_m2": 4.442829688644019e-06,
+      "triangle_average_location": [
+        -0.0021964550639192223,
+        0.10134476299087207,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1873
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1593
+      ],
+      "overlap_area_m2": 5.114430059977683e-07,
+      "triangle_average_location": [
+        -0.003319208820660906,
+        0.10172467430432637,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1874
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1594
+      ],
+      "overlap_area_m2": 4.86916968008423e-07,
+      "triangle_average_location": [
+        -0.009948886775722107,
+        0.10112401098012924,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1874
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1595
+      ],
+      "overlap_area_m2": 4.540943310044423e-06,
+      "triangle_average_location": [
+        -0.011094083931917945,
+        0.10142967725793521,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1875
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1594
+      ],
+      "overlap_area_m2": 4.442848406150085e-06,
+      "triangle_average_location": [
+        -0.00882001694602271,
+        0.10098412012060483,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1875
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1595
+      ],
+      "overlap_area_m2": 5.114499742746607e-07,
+      "triangle_average_location": [
+        -0.009965214102218548,
+        0.1012897863984108,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1876
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1596
+      ],
+      "overlap_area_m2": 4.869234664396649e-07,
+      "triangle_average_location": [
+        -0.016541412100195885,
+        0.10025680810213089,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1876
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1597
+      ],
+      "overlap_area_m2": 4.540937576451732e-06,
+      "triangle_average_location": [
+        -0.017704148932049673,
+        0.10048692176739375,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1876
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1598
+      ],
+      "overlap_area_m2": 1.0901519487474531e-12,
+      "triangle_average_location": [
+        -0.019798668411870796,
+        0.09964637582500775,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1877
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1596
+      ],
+      "overlap_area_m2": 4.442840017052996e-06,
+      "triangle_average_location": [
+        -0.015405809972435236,
+        0.10019104803601901,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1877
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1597
+      ],
+      "overlap_area_m2": 5.114410000019469e-07,
+      "triangle_average_location": [
+        -0.016568546804289024,
+        0.10042116170128186,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1878
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1598
+      ],
+      "overlap_area_m2": 4.869262758343089e-07,
+      "triangle_average_location": [
+        -0.023063104910155136,
+        0.09896029159426689,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1878
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1599
+      ],
+      "overlap_area_m2": 4.5409503119382254e-06,
+      "triangle_average_location": [
+        -0.024238402334352333,
+        0.09911386420329411,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1879
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1598
+      ],
+      "overlap_area_m2": 4.442843353091581e-06,
+      "triangle_average_location": [
+        -0.021925633152325947,
+        0.09896894420186679,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1879
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1599
+      ],
+      "overlap_area_m2": 5.114412251318659e-07,
+      "triangle_average_location": [
+        -0.023100930576523144,
+        0.09912251681089401,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1880
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1600
+      ],
+      "overlap_area_m2": 4.869150366463835e-07,
+      "triangle_average_location": [
+        -0.0294860377907753,
+        0.09724000965555508,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1881
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1600
+      ],
+      "overlap_area_m2": 4.442845576776468e-06,
+      "triangle_average_location": [
+        -0.028351567685604095,
+        0.09732303768396378,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1881
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1601
+      ],
+      "overlap_area_m2": 5.11452875411782e-07,
+      "triangle_average_location": [
+        -0.029534392679731052,
+        0.09739941358566284,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1882
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1602
+      ],
+      "overlap_area_m2": 4.869196975888664e-07,
+      "triangle_average_location": [
+        -0.035782706613341965,
+        0.09510333215196927,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1882
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1603
+      ],
+      "overlap_area_m2": 4.540959195286137e-06,
+      "triangle_average_location": [
+        -0.03696799464523792,
+        0.09510218476255734,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1883
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1601
+      ],
+      "overlap_area_m2": 1.7961773561558925e-12,
+      "triangle_average_location": [
+        -0.032689208475251995,
+        0.09636712446808815,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1883
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1602
+      ],
+      "overlap_area_m2": 4.4428337201097776e-06,
+      "triangle_average_location": [
+        -0.03465609562893709,
+        0.09526038045684497,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1883
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1603
+      ],
+      "overlap_area_m2": 5.114437006139248e-07,
+      "triangle_average_location": [
+        -0.03584138366083304,
+        0.09525923306743304,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1884
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1604
+      ],
+      "overlap_area_m2": 4.869177132565787e-07,
+      "triangle_average_location": [
+        -0.04192614989976088,
+        0.09255940839648247,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1884
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1605
+      ],
+      "overlap_area_m2": 4.540963411311374e-06,
+      "triangle_average_location": [
+        -0.04310882526139418,
+        0.09248074144124985,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1885
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1604
+      ],
+      "overlap_area_m2": 4.442852514219492e-06,
+      "triangle_average_location": [
+        -0.04081222228705883,
+        0.09278980394204457,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1885
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1605
+      ],
+      "overlap_area_m2": 5.114478234269099e-07,
+      "triangle_average_location": [
+        -0.04199489764869213,
+        0.09271113698681195,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1886
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1606
+      ],
+      "overlap_area_m2": 4.869188616526271e-07,
+      "triangle_average_location": [
+        -0.047890057787299156,
+        0.08961912989616394,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1886
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1607
+      ],
+      "overlap_area_m2": 4.540943914974754e-06,
+      "triangle_average_location": [
+        -0.04906505532562733,
+        0.08946328113476436,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1887
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1606
+      ],
+      "overlap_area_m2": 4.442853364609346e-06,
+      "triangle_average_location": [
+        -0.04679358440140883,
+        0.08992188672224681,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1887
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1607
+      ],
+      "overlap_area_m2": 5.114478322525325e-07,
+      "triangle_average_location": [
+        -0.047968581939737,
+        0.08976603796084721,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1888
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1608
+      ],
+      "overlap_area_m2": 4.869193043174901e-07,
+      "triangle_average_location": [
+        -0.0536488921691974,
+        0.08629508813222249,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1888
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1609
+      ],
+      "overlap_area_m2": 4.540945521586213e-06,
+      "triangle_average_location": [
+        -0.05481118087967237,
+        0.08606272439161937,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1888
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1610
+      ],
+      "overlap_area_m2": 2.323098883089593e-12,
+      "triangle_average_location": [
+        -0.056424601624409355,
+        0.08448462312420209,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1889
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1608
+      ],
+      "overlap_area_m2": 4.442835530876592e-06,
+      "triangle_average_location": [
+        -0.05257456749677658,
+        0.08666890983780225,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1889
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1609
+      ],
+      "overlap_area_m2": 5.114484033143935e-07,
+      "triangle_average_location": [
+        -0.05373685620725155,
+        0.08643654609719913,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1890
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1610
+      ],
+      "overlap_area_m2": 4.869197330675465e-07,
+      "triangle_average_location": [
+        -0.059177994107206665,
+        0.08260151743888855,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1890
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1611
+      ],
+      "overlap_area_m2": 4.540942420842246e-06,
+      "triangle_average_location": [
+        -0.060322597001989685,
+        0.082293634613355,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1890
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1612
+      ],
+      "overlap_area_m2": 3.401708168621065e-12,
+      "triangle_average_location": [
+        -0.061829350888729095,
+        0.0806133896112442,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1891
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1610
+      ],
+      "overlap_area_m2": 4.442842123236496e-06,
+      "triangle_average_location": [
+        -0.05813041888177395,
+        0.0830448033909003,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1891
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1611
+      ],
+      "overlap_area_m2": 5.11444094897489e-07,
+      "triangle_average_location": [
+        -0.05927502177655697,
+        0.08273692056536674,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1892
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1612
+      ],
+      "overlap_area_m2": 4.86922396932335e-07,
+      "triangle_average_location": [
+        -0.06445368751883507,
+        0.0785542366405328,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1892
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1613
+      ],
+      "overlap_area_m2": 4.540936663300667e-06,
+      "triangle_average_location": [
+        -0.06557570273677508,
+        0.07817215224107106,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1893
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1612
+      ],
+      "overlap_area_m2": 4.442844319287563e-06,
+      "triangle_average_location": [
+        -0.06343734761079152,
+        0.07906508694092433,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1893
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1613
+      ],
+      "overlap_area_m2": 5.114446854767238e-07,
+      "triangle_average_location": [
+        -0.06455936282873154,
+        0.07868300254146258,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1894
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1614
+      ],
+      "overlap_area_m2": 4.869205854382379e-07,
+      "triangle_average_location": [
+        -0.06945337976018588,
+        0.07417057454586029,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1894
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1615
+      ],
+      "overlap_area_m2": 4.540934122967272e-06,
+      "triangle_average_location": [
+        -0.0705480029185613,
+        0.07371592397491138,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1895
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1614
+      ],
+      "overlap_area_m2": 4.442836704070946e-06,
+      "triangle_average_location": [
+        -0.06847262755036354,
+        0.07474680369098981,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1895
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1615
+      ],
+      "overlap_area_m2": 5.114444310209791e-07,
+      "triangle_average_location": [
+        -0.06956725070873897,
+        0.0742921531200409,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1896
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1616
+      ],
+      "overlap_area_m2": 4.869182036789516e-07,
+      "triangle_average_location": [
+        -0.07415566220879555,
+        0.06946930040915807,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1896
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1617
+      ],
+      "overlap_area_m2": 4.540947171696903e-06,
+      "triangle_average_location": [
+        -0.07521820689241092,
+        0.06894403075178464,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1897
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1616
+      ],
+      "overlap_area_m2": 4.442825212538394e-06,
+      "triangle_average_location": [
+        -0.07321469609936078,
+        0.07010844101508458,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1897
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1617
+      ],
+      "overlap_area_m2": 5.114452555831858e-07,
+      "triangle_average_location": [
+        -0.07427724078297615,
+        0.06958317135771115,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1898
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1618
+      ],
+      "overlap_area_m2": 4.869192393947355e-07,
+      "triangle_average_location": [
+        -0.07854039842883746,
+        0.0644705481827259,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1898
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1619
+      ],
+      "overlap_area_m2": 4.540941281723065e-06,
+      "triangle_average_location": [
+        -0.07956631481647491,
+        0.06387690951426823,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1899
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1618
+      ],
+      "overlap_area_m2": 4.44284275844236e-06,
+      "triangle_average_location": [
+        -0.0776432491838932,
+        0.06516986216108005,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1899
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1619
+      ],
+      "overlap_area_m2": 5.11444785438863e-07,
+      "triangle_average_location": [
+        -0.07866916557153066,
+        0.06457622349262238,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1900
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1620
+      ],
+      "overlap_area_m2": 4.869280558462107e-07,
+      "triangle_average_location": [
+        -0.08258881295720737,
+        0.059195724626382194,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1900
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1621
+      ],
+      "overlap_area_m2": 4.540938166791141e-06,
+      "triangle_average_location": [
+        -0.08357370644807816,
+        0.058536259457468987,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1901
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1619
+      ],
+      "overlap_area_m2": 3.401705132854982e-12,
+      "triangle_average_location": [
+        -0.08071878924965858,
+        0.06196518490711848,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1901
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1620
+      ],
+      "overlap_area_m2": 4.44283991806382e-06,
+      "triangle_average_location": [
+        -0.08173932135105133,
+        0.059952216843763985,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1901
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1621
+      ],
+      "overlap_area_m2": 5.114422313417383e-07,
+      "triangle_average_location": [
+        -0.08272421484192212,
+        0.059292751674850784,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1902
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1622
+      ],
+      "overlap_area_m2": 4.869193400798208e-07,
+      "triangle_average_location": [
+        -0.08628356953461964,
+        0.053667415554324784,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1902
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1623
+      ],
+      "overlap_area_m2": 4.54094420992892e-06,
+      "triangle_average_location": [
+        -0.08722322310010593,
+        0.052944947655002274,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1903
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1621
+      ],
+      "overlap_area_m2": 2.3230991783029786e-12,
+      "triangle_average_location": [
+        -0.08459868157903354,
+        0.056553252041339874,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1903
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1622
+      ],
+      "overlap_area_m2": 4.442838482098758e-06,
+      "triangle_average_location": [
+        -0.08548537393411,
+        0.05447784811258316,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1903
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1623
+      ],
+      "overlap_area_m2": 5.114464283043942e-07,
+      "triangle_average_location": [
+        -0.08642502749959628,
+        0.05375538021326065,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1904
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1624
+      ],
+      "overlap_area_m2": 4.869211185200631e-07,
+      "triangle_average_location": [
+        -0.08960884685317676,
+        0.0479092945655187,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1904
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1625
+      ],
+      "overlap_area_m2": 4.5409587171355535e-06,
+      "triangle_average_location": [
+        -0.09049923717975616,
+        0.04712691716849804,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1905
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1624
+      ],
+      "overlap_area_m2": 4.442839677369203e-06,
+      "triangle_average_location": [
+        -0.08886536459128062,
+        0.0487701961149772,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1905
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1625
+      ],
+      "overlap_area_m2": 5.11444460465308e-07,
+      "triangle_average_location": [
+        -0.08975575491786003,
+        0.04798781871795654,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1906
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1626
+      ],
+      "overlap_area_m2": 4.869219803317907e-07,
+      "triangle_average_location": [
+        -0.09255040685335796,
+        0.04194601811468601,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1906
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1627
+      ],
+      "overlap_area_m2": 4.54095632724791e-06,
+      "triangle_average_location": [
+        -0.0933877204855283,
+        0.041107081497708954,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1907
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1626
+      ],
+      "overlap_area_m2": 4.442861369652806e-06,
+      "triangle_average_location": [
+        -0.09186482181151708,
+        0.042853702480594315,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1907
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1627
+      ],
+      "overlap_area_m2": 5.114420846667484e-07,
+      "triangle_average_location": [
+        -0.09270213544368744,
+        0.042014765863617264,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1908
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1628
+      ],
+      "overlap_area_m2": 4.869111120261657e-07,
+      "triangle_average_location": [
+        -0.09509564936161041,
+        0.03580312182505926,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1908
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1629
+      ],
+      "overlap_area_m2": 4.540945899478895e-06,
+      "triangle_average_location": [
+        -0.09587630008657773,
+        0.034911218409736954,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1908
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1630
+      ],
+      "overlap_area_m2": 1.7961773561558925e-12,
+      "triangle_average_location": [
+        -0.09619562576214473,
+        0.03267703826228777,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1909
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1628
+      ],
+      "overlap_area_m2": 4.442843396757715e-06,
+      "triangle_average_location": [
+        -0.09447089831034343,
+        0.036753702287872635,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1909
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1629
+      ],
+      "overlap_area_m2": 5.114556056509938e-07,
+      "triangle_average_location": [
+        -0.09525154903531075,
+        0.03586179887255033,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1910
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1630
+      ],
+      "overlap_area_m2": 4.86917021373121e-07,
+      "triangle_average_location": [
+        -0.0972336766620477,
+        0.029506910902758438,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1910
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1631
+      ],
+      "overlap_area_m2": 4.540959182505561e-06,
+      "triangle_average_location": [
+        -0.0979543241361777,
+        0.028565860042969387,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1911
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1630
+      ],
+      "overlap_area_m2": 4.442833999678227e-06,
+      "triangle_average_location": [
+        -0.0966724343597889,
+        0.030496316651503246,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1911
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1631
+      ],
+      "overlap_area_m2": 5.114460824263866e-07,
+      "triangle_average_location": [
+        -0.09739308183391888,
+        0.02955526579171419,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1912
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1632
+      ],
+      "overlap_area_m2": 4.869200647471088e-07,
+      "triangle_average_location": [
+        -0.09895533819993337,
+        0.0230843477572004,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1912
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1633
+      ],
+      "overlap_area_m2": 4.540942130017698e-06,
+      "triangle_average_location": [
+        -0.09961289539933205,
+        0.022098179285724957,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1913
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1632
+      ],
+      "overlap_area_m2": 4.442855601786987e-06,
+      "triangle_average_location": [
+        -0.09846000745892525,
+        0.02410834189504385,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1913
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1633
+      ],
+      "overlap_area_m2": 5.114436647437603e-07,
+      "triangle_average_location": [
+        -0.09911756465832393,
+        0.02312217342356841,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1914
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1634
+      ],
+      "overlap_area_m2": 4.869245511402451e-07,
+      "triangle_average_location": [
+        -0.10025325541694959,
+        0.016562933723131817,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1914
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1635
+      ],
+      "overlap_area_m2": 4.540935690218158e-06,
+      "triangle_average_location": [
+        -0.10084490478038788,
+        0.015535870411743721,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1915
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1633
+      ],
+      "overlap_area_m2": 1.0901518403272359e-12,
+      "triangle_average_location": [
+        -0.09980098406473796,
+        0.019873878142486017,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1915
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1634
+      ],
+      "overlap_area_m2": 4.442836751047908e-06,
+      "triangle_average_location": [
+        -0.09982595841089885,
+        0.01761713158339262,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1915
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1635
+      ],
+      "overlap_area_m2": 5.114450675398115e-07,
+      "triangle_average_location": [
+        -0.10041760777433713,
+        0.016590068272004526,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1916
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1636
+      ],
+      "overlap_area_m2": 4.86924117664724e-07,
+      "triangle_average_location": [
+        -0.10112187266349792,
+        0.009970594275121888,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1916
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1637
+      ],
+      "overlap_area_m2": 4.540953175292148e-06,
+      "triangle_average_location": [
+        -0.10164508347709973,
+        0.008907034294679761,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1917
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1636
+      ],
+      "overlap_area_m2": 4.4428391282663e-06,
+      "triangle_average_location": [
+        -0.10076443726817767,
+        0.0110504818148911,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1917
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1637
+      ],
+      "overlap_area_m2": 5.114425325524554e-07,
+      "triangle_average_location": [
+        -0.10128764808177948,
+        0.009986921834448973,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1918
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1638
+      ],
+      "overlap_area_m2": 4.869166645662829e-07,
+      "triangle_average_location": [
+        -0.10155747334162395,
+        0.003335559585442152,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1918
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1639
+      ],
+      "overlap_area_m2": 4.540933959936225e-06,
+      "triangle_average_location": [
+        -0.10201000298062961,
+        0.0022400571809460803,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1919
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1638
+      ],
+      "overlap_area_m2": 4.442849672282032e-06,
+      "triangle_average_location": [
+        -0.10127143189311028,
+        0.004436512244865303,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1919
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1639
+      ],
+      "overlap_area_m2": 5.114489077516515e-07,
+      "triangle_average_location": [
+        -0.10172396153211594,
+        0.003341009840369231,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1920
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1640
+      ],
+      "overlap_area_m2": 4.869225065095586e-07,
+      "triangle_average_location": [
+        -0.10155818611383438,
+        -0.0033137584881236092,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1920
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1641
+      ],
+      "overlap_area_m2": 4.540954298682564e-06,
+      "triangle_average_location": [
+        -0.1019380974272887,
+        -0.004436512244865294,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1921
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1640
+      ],
+      "overlap_area_m2": 4.442829688644019e-06,
+      "triangle_average_location": [
+        -0.10134476299087207,
+        -0.002196455063919218,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1921
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1641
+      ],
+      "overlap_area_m2": 5.114430059977141e-07,
+      "triangle_average_location": [
+        -0.10172467430432637,
+        -0.0033192088206609027,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1922
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1642
+      ],
+      "overlap_area_m2": 4.86916968008423e-07,
+      "triangle_average_location": [
+        -0.10112401098012924,
+        -0.009948886775722107,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1922
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1643
+      ],
+      "overlap_area_m2": 4.540943310044423e-06,
+      "triangle_average_location": [
+        -0.10142967725793521,
+        -0.011094083931917945,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1923
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1642
+      ],
+      "overlap_area_m2": 4.442848406150085e-06,
+      "triangle_average_location": [
+        -0.10098412012060483,
+        -0.00882001694602271,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1923
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1643
+      ],
+      "overlap_area_m2": 5.114499742746607e-07,
+      "triangle_average_location": [
+        -0.1012897863984108,
+        -0.009965214102218548,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1924
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1644
+      ],
+      "overlap_area_m2": 4.869234664396649e-07,
+      "triangle_average_location": [
+        -0.10025680810213089,
+        -0.016541412100195885,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1924
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1645
+      ],
+      "overlap_area_m2": 4.540937576451732e-06,
+      "triangle_average_location": [
+        -0.10048692176739375,
+        -0.017704148932049673,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1924
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1646
+      ],
+      "overlap_area_m2": 1.0901519487474531e-12,
+      "triangle_average_location": [
+        -0.09964637582500775,
+        -0.019798668411870796,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1925
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1644
+      ],
+      "overlap_area_m2": 4.442840017052996e-06,
+      "triangle_average_location": [
+        -0.10019104803601901,
+        -0.015405809972435236,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1925
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1645
+      ],
+      "overlap_area_m2": 5.114410000019469e-07,
+      "triangle_average_location": [
+        -0.10042116170128186,
+        -0.016568546804289024,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1926
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1646
+      ],
+      "overlap_area_m2": 4.869262758343089e-07,
+      "triangle_average_location": [
+        -0.09896029159426689,
+        -0.023063104910155136,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1926
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1647
+      ],
+      "overlap_area_m2": 4.5409503119382254e-06,
+      "triangle_average_location": [
+        -0.09911386420329411,
+        -0.024238402334352333,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1927
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1646
+      ],
+      "overlap_area_m2": 4.442843353091581e-06,
+      "triangle_average_location": [
+        -0.09896894420186679,
+        -0.021925633152325947,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1927
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1647
+      ],
+      "overlap_area_m2": 5.114412251318659e-07,
+      "triangle_average_location": [
+        -0.09912251681089401,
+        -0.023100930576523144,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1928
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1648
+      ],
+      "overlap_area_m2": 4.869150366463835e-07,
+      "triangle_average_location": [
+        -0.09724000965555508,
+        -0.0294860377907753,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1929
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1648
+      ],
+      "overlap_area_m2": 4.442845576776468e-06,
+      "triangle_average_location": [
+        -0.09732303768396378,
+        -0.028351567685604095,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1929
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1649
+      ],
+      "overlap_area_m2": 5.11452875411782e-07,
+      "triangle_average_location": [
+        -0.09739941358566284,
+        -0.029534392679731052,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1930
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1650
+      ],
+      "overlap_area_m2": 4.869196975888664e-07,
+      "triangle_average_location": [
+        -0.09510333215196927,
+        -0.035782706613341965,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1930
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1651
+      ],
+      "overlap_area_m2": 4.540959195286137e-06,
+      "triangle_average_location": [
+        -0.09510218476255734,
+        -0.03696799464523792,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1931
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1649
+      ],
+      "overlap_area_m2": 1.7961773561558925e-12,
+      "triangle_average_location": [
+        -0.09636712446808815,
+        -0.032689208475251995,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1931
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1650
+      ],
+      "overlap_area_m2": 4.4428337201097776e-06,
+      "triangle_average_location": [
+        -0.09526038045684497,
+        -0.03465609562893709,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1931
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1651
+      ],
+      "overlap_area_m2": 5.114437006139248e-07,
+      "triangle_average_location": [
+        -0.09525923306743304,
+        -0.03584138366083304,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1932
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1652
+      ],
+      "overlap_area_m2": 4.869177132565787e-07,
+      "triangle_average_location": [
+        -0.09255940839648247,
+        -0.04192614989976088,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1932
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1653
+      ],
+      "overlap_area_m2": 4.540963411311374e-06,
+      "triangle_average_location": [
+        -0.09248074144124985,
+        -0.04310882526139418,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1933
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1652
+      ],
+      "overlap_area_m2": 4.442852514219492e-06,
+      "triangle_average_location": [
+        -0.09278980394204457,
+        -0.04081222228705883,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1933
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1653
+      ],
+      "overlap_area_m2": 5.114478234269099e-07,
+      "triangle_average_location": [
+        -0.09271113698681195,
+        -0.04199489764869213,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1934
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1654
+      ],
+      "overlap_area_m2": 4.869188616526271e-07,
+      "triangle_average_location": [
+        -0.08961912989616394,
+        -0.047890057787299156,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1934
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1655
+      ],
+      "overlap_area_m2": 4.540943914974754e-06,
+      "triangle_average_location": [
+        -0.08946328113476436,
+        -0.04906505532562733,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1935
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1654
+      ],
+      "overlap_area_m2": 4.442853364609346e-06,
+      "triangle_average_location": [
+        -0.08992188672224681,
+        -0.04679358440140883,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1935
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1655
+      ],
+      "overlap_area_m2": 5.114478322525325e-07,
+      "triangle_average_location": [
+        -0.08976603796084721,
+        -0.047968581939737,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1936
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1656
+      ],
+      "overlap_area_m2": 4.869193043174901e-07,
+      "triangle_average_location": [
+        -0.08629508813222249,
+        -0.0536488921691974,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1936
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1657
+      ],
+      "overlap_area_m2": 4.540945521586213e-06,
+      "triangle_average_location": [
+        -0.08606272439161937,
+        -0.05481118087967237,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1936
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1658
+      ],
+      "overlap_area_m2": 2.323098883089593e-12,
+      "triangle_average_location": [
+        -0.08448462312420209,
+        -0.056424601624409355,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1937
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1656
+      ],
+      "overlap_area_m2": 4.442835530876592e-06,
+      "triangle_average_location": [
+        -0.08666890983780225,
+        -0.05257456749677658,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1937
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1657
+      ],
+      "overlap_area_m2": 5.114484033143935e-07,
+      "triangle_average_location": [
+        -0.08643654609719913,
+        -0.05373685620725155,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1938
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1658
+      ],
+      "overlap_area_m2": 4.869197330675465e-07,
+      "triangle_average_location": [
+        -0.08260151743888855,
+        -0.059177994107206665,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1938
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1659
+      ],
+      "overlap_area_m2": 4.540942420842246e-06,
+      "triangle_average_location": [
+        -0.082293634613355,
+        -0.060322597001989685,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1938
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1660
+      ],
+      "overlap_area_m2": 3.401708168621065e-12,
+      "triangle_average_location": [
+        -0.0806133896112442,
+        -0.061829350888729095,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1939
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1658
+      ],
+      "overlap_area_m2": 4.442842123236496e-06,
+      "triangle_average_location": [
+        -0.0830448033909003,
+        -0.05813041888177395,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1939
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1659
+      ],
+      "overlap_area_m2": 5.11444094897489e-07,
+      "triangle_average_location": [
+        -0.08273692056536674,
+        -0.05927502177655697,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1940
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1660
+      ],
+      "overlap_area_m2": 4.86922396932335e-07,
+      "triangle_average_location": [
+        -0.0785542366405328,
+        -0.06445368751883507,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1940
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1661
+      ],
+      "overlap_area_m2": 4.540936663300667e-06,
+      "triangle_average_location": [
+        -0.07817215224107106,
+        -0.06557570273677508,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1941
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1660
+      ],
+      "overlap_area_m2": 4.442844319287563e-06,
+      "triangle_average_location": [
+        -0.07906508694092433,
+        -0.06343734761079152,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1941
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1661
+      ],
+      "overlap_area_m2": 5.114446854767238e-07,
+      "triangle_average_location": [
+        -0.07868300254146258,
+        -0.06455936282873154,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1942
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1662
+      ],
+      "overlap_area_m2": 4.869205854382379e-07,
+      "triangle_average_location": [
+        -0.07417057454586029,
+        -0.06945337976018588,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1942
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1663
+      ],
+      "overlap_area_m2": 4.540934122967272e-06,
+      "triangle_average_location": [
+        -0.07371592397491138,
+        -0.0705480029185613,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1943
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1662
+      ],
+      "overlap_area_m2": 4.442836704070946e-06,
+      "triangle_average_location": [
+        -0.07474680369098981,
+        -0.06847262755036354,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1943
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1663
+      ],
+      "overlap_area_m2": 5.114444310209791e-07,
+      "triangle_average_location": [
+        -0.0742921531200409,
+        -0.06956725070873897,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1944
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1664
+      ],
+      "overlap_area_m2": 4.869182036789516e-07,
+      "triangle_average_location": [
+        -0.06946930040915807,
+        -0.07415566220879555,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1944
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1665
+      ],
+      "overlap_area_m2": 4.540947171696903e-06,
+      "triangle_average_location": [
+        -0.06894403075178464,
+        -0.07521820689241092,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1945
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1664
+      ],
+      "overlap_area_m2": 4.442825212538394e-06,
+      "triangle_average_location": [
+        -0.07010844101508458,
+        -0.07321469609936078,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1945
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1665
+      ],
+      "overlap_area_m2": 5.114452555831858e-07,
+      "triangle_average_location": [
+        -0.06958317135771115,
+        -0.07427724078297615,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1946
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1666
+      ],
+      "overlap_area_m2": 4.869192393947355e-07,
+      "triangle_average_location": [
+        -0.0644705481827259,
+        -0.07854039842883746,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1946
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1667
+      ],
+      "overlap_area_m2": 4.540941281723065e-06,
+      "triangle_average_location": [
+        -0.06387690951426823,
+        -0.07956631481647491,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1947
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1666
+      ],
+      "overlap_area_m2": 4.44284275844236e-06,
+      "triangle_average_location": [
+        -0.06516986216108005,
+        -0.0776432491838932,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1947
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1667
+      ],
+      "overlap_area_m2": 5.11444785438863e-07,
+      "triangle_average_location": [
+        -0.06457622349262238,
+        -0.07866916557153066,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1948
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1668
+      ],
+      "overlap_area_m2": 4.869280558462107e-07,
+      "triangle_average_location": [
+        -0.059195724626382194,
+        -0.08258881295720737,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1948
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1669
+      ],
+      "overlap_area_m2": 4.540938166791141e-06,
+      "triangle_average_location": [
+        -0.058536259457468987,
+        -0.08357370644807816,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1949
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1667
+      ],
+      "overlap_area_m2": 3.401705132854982e-12,
+      "triangle_average_location": [
+        -0.06196518490711848,
+        -0.08071878924965858,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1949
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1668
+      ],
+      "overlap_area_m2": 4.44283991806382e-06,
+      "triangle_average_location": [
+        -0.059952216843763985,
+        -0.08173932135105133,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1949
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1669
+      ],
+      "overlap_area_m2": 5.114422313417383e-07,
+      "triangle_average_location": [
+        -0.059292751674850784,
+        -0.08272421484192212,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1950
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1670
+      ],
+      "overlap_area_m2": 4.869193400798208e-07,
+      "triangle_average_location": [
+        -0.053667415554324784,
+        -0.08628356953461964,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1950
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1671
+      ],
+      "overlap_area_m2": 4.54094420992892e-06,
+      "triangle_average_location": [
+        -0.052944947655002274,
+        -0.08722322310010593,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1951
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1669
+      ],
+      "overlap_area_m2": 2.3230991783029786e-12,
+      "triangle_average_location": [
+        -0.056553252041339874,
+        -0.08459868157903354,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1951
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1670
+      ],
+      "overlap_area_m2": 4.442838482098758e-06,
+      "triangle_average_location": [
+        -0.05447784811258316,
+        -0.08548537393411,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1951
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1671
+      ],
+      "overlap_area_m2": 5.114464283043942e-07,
+      "triangle_average_location": [
+        -0.05375538021326065,
+        -0.08642502749959628,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1952
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1672
+      ],
+      "overlap_area_m2": 4.869211185200631e-07,
+      "triangle_average_location": [
+        -0.0479092945655187,
+        -0.08960884685317676,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1952
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1673
+      ],
+      "overlap_area_m2": 4.5409587171355535e-06,
+      "triangle_average_location": [
+        -0.04712691716849804,
+        -0.09049923717975616,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1953
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1672
+      ],
+      "overlap_area_m2": 4.442839677369203e-06,
+      "triangle_average_location": [
+        -0.0487701961149772,
+        -0.08886536459128062,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1953
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1673
+      ],
+      "overlap_area_m2": 5.11444460465308e-07,
+      "triangle_average_location": [
+        -0.04798781871795654,
+        -0.08975575491786003,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1954
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1674
+      ],
+      "overlap_area_m2": 4.869219803317907e-07,
+      "triangle_average_location": [
+        -0.04194601811468601,
+        -0.09255040685335796,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1954
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1675
+      ],
+      "overlap_area_m2": 4.54095632724791e-06,
+      "triangle_average_location": [
+        -0.041107081497708954,
+        -0.0933877204855283,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1955
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1674
+      ],
+      "overlap_area_m2": 4.442861369652806e-06,
+      "triangle_average_location": [
+        -0.042853702480594315,
+        -0.09186482181151708,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1955
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1675
+      ],
+      "overlap_area_m2": 5.114420846667484e-07,
+      "triangle_average_location": [
+        -0.042014765863617264,
+        -0.09270213544368744,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1956
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1676
+      ],
+      "overlap_area_m2": 4.869111120261657e-07,
+      "triangle_average_location": [
+        -0.03580312182505926,
+        -0.09509564936161041,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1956
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1677
+      ],
+      "overlap_area_m2": 4.540945899478895e-06,
+      "triangle_average_location": [
+        -0.034911218409736954,
+        -0.09587630008657773,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1956
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1678
+      ],
+      "overlap_area_m2": 1.7961773561558925e-12,
+      "triangle_average_location": [
+        -0.03267703826228777,
+        -0.09619562576214473,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1957
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1676
+      ],
+      "overlap_area_m2": 4.442843396757715e-06,
+      "triangle_average_location": [
+        -0.036753702287872635,
+        -0.09447089831034343,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1957
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1677
+      ],
+      "overlap_area_m2": 5.114556056509938e-07,
+      "triangle_average_location": [
+        -0.03586179887255033,
+        -0.09525154903531075,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1958
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1678
+      ],
+      "overlap_area_m2": 4.86917021373121e-07,
+      "triangle_average_location": [
+        -0.029506910902758438,
+        -0.0972336766620477,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1958
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1679
+      ],
+      "overlap_area_m2": 4.540959182505561e-06,
+      "triangle_average_location": [
+        -0.028565860042969387,
+        -0.0979543241361777,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1959
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1678
+      ],
+      "overlap_area_m2": 4.442833999678227e-06,
+      "triangle_average_location": [
+        -0.030496316651503246,
+        -0.0966724343597889,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1959
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1679
+      ],
+      "overlap_area_m2": 5.114460824263866e-07,
+      "triangle_average_location": [
+        -0.02955526579171419,
+        -0.09739308183391888,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1960
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1680
+      ],
+      "overlap_area_m2": 4.869200647471088e-07,
+      "triangle_average_location": [
+        -0.0230843477572004,
+        -0.09895533819993337,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1960
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1681
+      ],
+      "overlap_area_m2": 4.540942130017698e-06,
+      "triangle_average_location": [
+        -0.022098179285724957,
+        -0.09961289539933205,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1961
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1680
+      ],
+      "overlap_area_m2": 4.442855601786987e-06,
+      "triangle_average_location": [
+        -0.02410834189504385,
+        -0.09846000745892525,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1961
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1681
+      ],
+      "overlap_area_m2": 5.114436647437603e-07,
+      "triangle_average_location": [
+        -0.02312217342356841,
+        -0.09911756465832393,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1962
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1682
+      ],
+      "overlap_area_m2": 4.869245511402451e-07,
+      "triangle_average_location": [
+        -0.016562933723131817,
+        -0.10025325541694959,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1962
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1683
+      ],
+      "overlap_area_m2": 4.540935690218158e-06,
+      "triangle_average_location": [
+        -0.015535870411743721,
+        -0.10084490478038788,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1963
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1681
+      ],
+      "overlap_area_m2": 1.0901518403272359e-12,
+      "triangle_average_location": [
+        -0.019873878142486017,
+        -0.09980098406473796,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1963
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1682
+      ],
+      "overlap_area_m2": 4.442836751047908e-06,
+      "triangle_average_location": [
+        -0.01761713158339262,
+        -0.09982595841089885,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1963
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1683
+      ],
+      "overlap_area_m2": 5.114450675398115e-07,
+      "triangle_average_location": [
+        -0.016590068272004526,
+        -0.10041760777433713,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1964
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1684
+      ],
+      "overlap_area_m2": 4.86924117664724e-07,
+      "triangle_average_location": [
+        -0.009970594275121888,
+        -0.10112187266349792,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1964
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1685
+      ],
+      "overlap_area_m2": 4.540953175292148e-06,
+      "triangle_average_location": [
+        -0.008907034294679761,
+        -0.10164508347709973,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1965
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1684
+      ],
+      "overlap_area_m2": 4.4428391282663e-06,
+      "triangle_average_location": [
+        -0.0110504818148911,
+        -0.10076443726817767,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1965
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1685
+      ],
+      "overlap_area_m2": 5.114425325524554e-07,
+      "triangle_average_location": [
+        -0.009986921834448973,
+        -0.10128764808177948,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1966
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1686
+      ],
+      "overlap_area_m2": 4.869166645662287e-07,
+      "triangle_average_location": [
+        -0.003335559585442155,
+        -0.10155747334162395,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1966
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1687
+      ],
+      "overlap_area_m2": 4.540933959936306e-06,
+      "triangle_average_location": [
+        -0.0022400571809460842,
+        -0.10201000298062961,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1967
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1686
+      ],
+      "overlap_area_m2": 4.442849672282032e-06,
+      "triangle_average_location": [
+        -0.004436512244865304,
+        -0.10127143189311028,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1967
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1687
+      ],
+      "overlap_area_m2": 5.11448907751665e-07,
+      "triangle_average_location": [
+        -0.0033410098403692337,
+        -0.10172396153211594,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1968
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1688
+      ],
+      "overlap_area_m2": 4.869225065096128e-07,
+      "triangle_average_location": [
+        0.003313758488123606,
+        -0.10155818611383438,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1968
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1689
+      ],
+      "overlap_area_m2": 4.540954298682632e-06,
+      "triangle_average_location": [
+        0.004436512244865292,
+        -0.1019380974272887,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1969
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1688
+      ],
+      "overlap_area_m2": 4.442829688644019e-06,
+      "triangle_average_location": [
+        0.002196455063919214,
+        -0.10134476299087207,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1969
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1689
+      ],
+      "overlap_area_m2": 5.114430059977141e-07,
+      "triangle_average_location": [
+        0.0033192088206608996,
+        -0.10172467430432637,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1970
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1690
+      ],
+      "overlap_area_m2": 4.86916968008423e-07,
+      "triangle_average_location": [
+        0.009948886775722107,
+        -0.10112401098012924,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1970
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1691
+      ],
+      "overlap_area_m2": 4.540943310044423e-06,
+      "triangle_average_location": [
+        0.011094083931917945,
+        -0.10142967725793521,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1971
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1690
+      ],
+      "overlap_area_m2": 4.442848406150085e-06,
+      "triangle_average_location": [
+        0.00882001694602271,
+        -0.10098412012060483,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1971
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1691
+      ],
+      "overlap_area_m2": 5.114499742746607e-07,
+      "triangle_average_location": [
+        0.009965214102218548,
+        -0.1012897863984108,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1972
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1692
+      ],
+      "overlap_area_m2": 4.869234664396649e-07,
+      "triangle_average_location": [
+        0.016541412100195885,
+        -0.10025680810213089,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1972
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1693
+      ],
+      "overlap_area_m2": 4.540937576451732e-06,
+      "triangle_average_location": [
+        0.017704148932049673,
+        -0.10048692176739375,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1972
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1694
+      ],
+      "overlap_area_m2": 1.0901519487474531e-12,
+      "triangle_average_location": [
+        0.019798668411870796,
+        -0.09964637582500775,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1973
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1692
+      ],
+      "overlap_area_m2": 4.442840017052996e-06,
+      "triangle_average_location": [
+        0.015405809972435236,
+        -0.10019104803601901,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1973
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1693
+      ],
+      "overlap_area_m2": 5.114410000019469e-07,
+      "triangle_average_location": [
+        0.016568546804289024,
+        -0.10042116170128186,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1974
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1694
+      ],
+      "overlap_area_m2": 4.869262758343089e-07,
+      "triangle_average_location": [
+        0.023063104910155136,
+        -0.09896029159426689,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1974
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1695
+      ],
+      "overlap_area_m2": 4.5409503119382254e-06,
+      "triangle_average_location": [
+        0.024238402334352333,
+        -0.09911386420329411,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1975
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1694
+      ],
+      "overlap_area_m2": 4.442843353091581e-06,
+      "triangle_average_location": [
+        0.021925633152325947,
+        -0.09896894420186679,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1975
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1695
+      ],
+      "overlap_area_m2": 5.114412251318659e-07,
+      "triangle_average_location": [
+        0.023100930576523144,
+        -0.09912251681089401,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1976
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1696
+      ],
+      "overlap_area_m2": 4.869150366463835e-07,
+      "triangle_average_location": [
+        0.0294860377907753,
+        -0.09724000965555508,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1977
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1696
+      ],
+      "overlap_area_m2": 4.442845576776468e-06,
+      "triangle_average_location": [
+        0.028351567685604095,
+        -0.09732303768396378,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1977
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1697
+      ],
+      "overlap_area_m2": 5.11452875411782e-07,
+      "triangle_average_location": [
+        0.029534392679731052,
+        -0.09739941358566284,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1978
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1698
+      ],
+      "overlap_area_m2": 4.869196975888664e-07,
+      "triangle_average_location": [
+        0.035782706613341965,
+        -0.09510333215196927,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1978
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1699
+      ],
+      "overlap_area_m2": 4.540959195286137e-06,
+      "triangle_average_location": [
+        0.03696799464523792,
+        -0.09510218476255734,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1979
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1697
+      ],
+      "overlap_area_m2": 1.7961773561558925e-12,
+      "triangle_average_location": [
+        0.032689208475251995,
+        -0.09636712446808815,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1979
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1698
+      ],
+      "overlap_area_m2": 4.4428337201097776e-06,
+      "triangle_average_location": [
+        0.03465609562893709,
+        -0.09526038045684497,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1979
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1699
+      ],
+      "overlap_area_m2": 5.114437006139248e-07,
+      "triangle_average_location": [
+        0.03584138366083304,
+        -0.09525923306743304,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1980
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1700
+      ],
+      "overlap_area_m2": 4.869177132565787e-07,
+      "triangle_average_location": [
+        0.04192614989976088,
+        -0.09255940839648247,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1980
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1701
+      ],
+      "overlap_area_m2": 4.540963411311374e-06,
+      "triangle_average_location": [
+        0.04310882526139418,
+        -0.09248074144124985,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1981
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1700
+      ],
+      "overlap_area_m2": 4.442852514219492e-06,
+      "triangle_average_location": [
+        0.04081222228705883,
+        -0.09278980394204457,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1981
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1701
+      ],
+      "overlap_area_m2": 5.114478234269099e-07,
+      "triangle_average_location": [
+        0.04199489764869213,
+        -0.09271113698681195,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1982
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1702
+      ],
+      "overlap_area_m2": 4.869188616526271e-07,
+      "triangle_average_location": [
+        0.047890057787299156,
+        -0.08961912989616394,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1982
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1703
+      ],
+      "overlap_area_m2": 4.540943914974754e-06,
+      "triangle_average_location": [
+        0.04906505532562733,
+        -0.08946328113476436,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1983
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1702
+      ],
+      "overlap_area_m2": 4.442853364609346e-06,
+      "triangle_average_location": [
+        0.04679358440140883,
+        -0.08992188672224681,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1983
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1703
+      ],
+      "overlap_area_m2": 5.114478322525325e-07,
+      "triangle_average_location": [
+        0.047968581939737,
+        -0.08976603796084721,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1984
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1704
+      ],
+      "overlap_area_m2": 4.869193043174901e-07,
+      "triangle_average_location": [
+        0.0536488921691974,
+        -0.08629508813222249,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1984
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1705
+      ],
+      "overlap_area_m2": 4.540945521586213e-06,
+      "triangle_average_location": [
+        0.05481118087967237,
+        -0.08606272439161937,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1984
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1706
+      ],
+      "overlap_area_m2": 2.323098883089593e-12,
+      "triangle_average_location": [
+        0.056424601624409355,
+        -0.08448462312420209,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1985
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1704
+      ],
+      "overlap_area_m2": 4.442835530876592e-06,
+      "triangle_average_location": [
+        0.05257456749677658,
+        -0.08666890983780225,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1985
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1705
+      ],
+      "overlap_area_m2": 5.114484033143935e-07,
+      "triangle_average_location": [
+        0.05373685620725155,
+        -0.08643654609719913,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1986
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1706
+      ],
+      "overlap_area_m2": 4.869197330675465e-07,
+      "triangle_average_location": [
+        0.059177994107206665,
+        -0.08260151743888855,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1986
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1707
+      ],
+      "overlap_area_m2": 4.540942420842246e-06,
+      "triangle_average_location": [
+        0.060322597001989685,
+        -0.082293634613355,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1986
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1708
+      ],
+      "overlap_area_m2": 3.401708168621065e-12,
+      "triangle_average_location": [
+        0.061829350888729095,
+        -0.0806133896112442,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1987
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1706
+      ],
+      "overlap_area_m2": 4.442842123236496e-06,
+      "triangle_average_location": [
+        0.05813041888177395,
+        -0.0830448033909003,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1987
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1707
+      ],
+      "overlap_area_m2": 5.11444094897489e-07,
+      "triangle_average_location": [
+        0.05927502177655697,
+        -0.08273692056536674,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1988
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1708
+      ],
+      "overlap_area_m2": 4.86922396932335e-07,
+      "triangle_average_location": [
+        0.06445368751883507,
+        -0.0785542366405328,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1988
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1709
+      ],
+      "overlap_area_m2": 4.540936663300667e-06,
+      "triangle_average_location": [
+        0.06557570273677508,
+        -0.07817215224107106,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1989
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1708
+      ],
+      "overlap_area_m2": 4.442844319287563e-06,
+      "triangle_average_location": [
+        0.06343734761079152,
+        -0.07906508694092433,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1989
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1709
+      ],
+      "overlap_area_m2": 5.114446854767238e-07,
+      "triangle_average_location": [
+        0.06455936282873154,
+        -0.07868300254146258,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1990
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1710
+      ],
+      "overlap_area_m2": 4.869205854382379e-07,
+      "triangle_average_location": [
+        0.06945337976018588,
+        -0.07417057454586029,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1990
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1711
+      ],
+      "overlap_area_m2": 4.540934122967272e-06,
+      "triangle_average_location": [
+        0.0705480029185613,
+        -0.07371592397491138,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1991
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1710
+      ],
+      "overlap_area_m2": 4.442836704070946e-06,
+      "triangle_average_location": [
+        0.06847262755036354,
+        -0.07474680369098981,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1991
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1711
+      ],
+      "overlap_area_m2": 5.114444310209791e-07,
+      "triangle_average_location": [
+        0.06956725070873897,
+        -0.0742921531200409,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1992
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1712
+      ],
+      "overlap_area_m2": 4.869182036789516e-07,
+      "triangle_average_location": [
+        0.07415566220879555,
+        -0.06946930040915807,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1992
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1713
+      ],
+      "overlap_area_m2": 4.540947171696903e-06,
+      "triangle_average_location": [
+        0.07521820689241092,
+        -0.06894403075178464,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1993
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1712
+      ],
+      "overlap_area_m2": 4.442825212538394e-06,
+      "triangle_average_location": [
+        0.07321469609936078,
+        -0.07010844101508458,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1993
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1713
+      ],
+      "overlap_area_m2": 5.114452555831858e-07,
+      "triangle_average_location": [
+        0.07427724078297615,
+        -0.06958317135771115,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1994
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1714
+      ],
+      "overlap_area_m2": 4.869192393947355e-07,
+      "triangle_average_location": [
+        0.07854039842883746,
+        -0.0644705481827259,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1994
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1715
+      ],
+      "overlap_area_m2": 4.540941281723065e-06,
+      "triangle_average_location": [
+        0.07956631481647491,
+        -0.06387690951426823,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1995
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1714
+      ],
+      "overlap_area_m2": 4.44284275844236e-06,
+      "triangle_average_location": [
+        0.0776432491838932,
+        -0.06516986216108005,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1995
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1715
+      ],
+      "overlap_area_m2": 5.11444785438863e-07,
+      "triangle_average_location": [
+        0.07866916557153066,
+        -0.06457622349262238,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1996
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1716
+      ],
+      "overlap_area_m2": 4.869280558462107e-07,
+      "triangle_average_location": [
+        0.08258881295720737,
+        -0.059195724626382194,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1996
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1717
+      ],
+      "overlap_area_m2": 4.540938166791141e-06,
+      "triangle_average_location": [
+        0.08357370644807816,
+        -0.058536259457468987,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1997
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1715
+      ],
+      "overlap_area_m2": 3.401705132854982e-12,
+      "triangle_average_location": [
+        0.08071878924965858,
+        -0.06196518490711848,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1997
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1716
+      ],
+      "overlap_area_m2": 4.44283991806382e-06,
+      "triangle_average_location": [
+        0.08173932135105133,
+        -0.059952216843763985,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1997
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1717
+      ],
+      "overlap_area_m2": 5.114422313417383e-07,
+      "triangle_average_location": [
+        0.08272421484192212,
+        -0.059292751674850784,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1998
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1718
+      ],
+      "overlap_area_m2": 4.869193400798208e-07,
+      "triangle_average_location": [
+        0.08628356953461964,
+        -0.053667415554324784,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1998
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1719
+      ],
+      "overlap_area_m2": 4.54094420992892e-06,
+      "triangle_average_location": [
+        0.08722322310010593,
+        -0.052944947655002274,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1999
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1717
+      ],
+      "overlap_area_m2": 2.3230991783029786e-12,
+      "triangle_average_location": [
+        0.08459868157903354,
+        -0.056553252041339874,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1999
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1718
+      ],
+      "overlap_area_m2": 4.442838482098758e-06,
+      "triangle_average_location": [
+        0.08548537393411,
+        -0.05447784811258316,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        1999
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1719
+      ],
+      "overlap_area_m2": 5.114464283043942e-07,
+      "triangle_average_location": [
+        0.08642502749959628,
+        -0.05375538021326065,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        2000
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1720
+      ],
+      "overlap_area_m2": 4.869211185200631e-07,
+      "triangle_average_location": [
+        0.08960884685317676,
+        -0.0479092945655187,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        2000
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1721
+      ],
+      "overlap_area_m2": 4.5409587171355535e-06,
+      "triangle_average_location": [
+        0.09049923717975616,
+        -0.04712691716849804,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        2001
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1720
+      ],
+      "overlap_area_m2": 4.442839677369203e-06,
+      "triangle_average_location": [
+        0.08886536459128062,
+        -0.0487701961149772,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        2001
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1721
+      ],
+      "overlap_area_m2": 5.11444460465308e-07,
+      "triangle_average_location": [
+        0.08975575491786003,
+        -0.04798781871795654,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        2002
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1722
+      ],
+      "overlap_area_m2": 4.869219803317907e-07,
+      "triangle_average_location": [
+        0.09255040685335796,
+        -0.04194601811468601,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        2002
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1723
+      ],
+      "overlap_area_m2": 4.54095632724791e-06,
+      "triangle_average_location": [
+        0.0933877204855283,
+        -0.041107081497708954,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        2003
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1722
+      ],
+      "overlap_area_m2": 4.442861369652806e-06,
+      "triangle_average_location": [
+        0.09186482181151708,
+        -0.042853702480594315,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        2003
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1723
+      ],
+      "overlap_area_m2": 5.114420846667484e-07,
+      "triangle_average_location": [
+        0.09270213544368744,
+        -0.042014765863617264,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        2004
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1724
+      ],
+      "overlap_area_m2": 4.869111120261657e-07,
+      "triangle_average_location": [
+        0.09509564936161041,
+        -0.03580312182505926,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        2004
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1725
+      ],
+      "overlap_area_m2": 4.540945899478895e-06,
+      "triangle_average_location": [
+        0.09587630008657773,
+        -0.034911218409736954,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        2004
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1726
+      ],
+      "overlap_area_m2": 1.7961773561558925e-12,
+      "triangle_average_location": [
+        0.09619562576214473,
+        -0.03267703826228777,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        2005
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1724
+      ],
+      "overlap_area_m2": 4.442843396757715e-06,
+      "triangle_average_location": [
+        0.09447089831034343,
+        -0.036753702287872635,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        2005
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1725
+      ],
+      "overlap_area_m2": 5.114556056509938e-07,
+      "triangle_average_location": [
+        0.09525154903531075,
+        -0.03586179887255033,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        2006
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1726
+      ],
+      "overlap_area_m2": 4.86917021373121e-07,
+      "triangle_average_location": [
+        0.0972336766620477,
+        -0.029506910902758438,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        2006
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1727
+      ],
+      "overlap_area_m2": 4.540959182505561e-06,
+      "triangle_average_location": [
+        0.0979543241361777,
+        -0.028565860042969387,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        2007
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1726
+      ],
+      "overlap_area_m2": 4.442833999678227e-06,
+      "triangle_average_location": [
+        0.0966724343597889,
+        -0.030496316651503246,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        2007
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1727
+      ],
+      "overlap_area_m2": 5.114460824263866e-07,
+      "triangle_average_location": [
+        0.09739308183391888,
+        -0.02955526579171419,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        2008
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1728
+      ],
+      "overlap_area_m2": 4.869200647471088e-07,
+      "triangle_average_location": [
+        0.09895533819993337,
+        -0.0230843477572004,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        2008
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1729
+      ],
+      "overlap_area_m2": 4.540942130017698e-06,
+      "triangle_average_location": [
+        0.09961289539933205,
+        -0.022098179285724957,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        2009
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1728
+      ],
+      "overlap_area_m2": 4.442855601786987e-06,
+      "triangle_average_location": [
+        0.09846000745892525,
+        -0.02410834189504385,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        2009
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1729
+      ],
+      "overlap_area_m2": 5.114436647437603e-07,
+      "triangle_average_location": [
+        0.09911756465832393,
+        -0.02312217342356841,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        2010
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1730
+      ],
+      "overlap_area_m2": 4.869245511402451e-07,
+      "triangle_average_location": [
+        0.10025325541694959,
+        -0.016562933723131817,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        2010
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1731
+      ],
+      "overlap_area_m2": 4.540935690218158e-06,
+      "triangle_average_location": [
+        0.10084490478038788,
+        -0.015535870411743721,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        2011
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1729
+      ],
+      "overlap_area_m2": 1.0901518403272359e-12,
+      "triangle_average_location": [
+        0.09980098406473796,
+        -0.019873878142486017,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        2011
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1730
+      ],
+      "overlap_area_m2": 4.442836751047908e-06,
+      "triangle_average_location": [
+        0.09982595841089885,
+        -0.01761713158339262,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        2011
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1731
+      ],
+      "overlap_area_m2": 5.114450675398115e-07,
+      "triangle_average_location": [
+        0.10041760777433713,
+        -0.016590068272004526,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        2012
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1732
+      ],
+      "overlap_area_m2": 4.86924117664724e-07,
+      "triangle_average_location": [
+        0.10112187266349792,
+        -0.009970594275121888,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        2012
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1733
+      ],
+      "overlap_area_m2": 4.540953175292148e-06,
+      "triangle_average_location": [
+        0.10164508347709973,
+        -0.008907034294679761,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        2013
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1732
+      ],
+      "overlap_area_m2": 4.4428391282663e-06,
+      "triangle_average_location": [
+        0.10076443726817767,
+        -0.0110504818148911,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        2013
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1733
+      ],
+      "overlap_area_m2": 5.114425325524554e-07,
+      "triangle_average_location": [
+        0.10128764808177948,
+        -0.009986921834448973,
+        0.0989999994635582
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        2014
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1734
+      ],
+      "overlap_area_m2": 4.869166645662287e-07,
+      "triangle_average_location": [
+        0.10155747334162395,
+        -0.003335559585442146,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        2014
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1735
+      ],
+      "overlap_area_m2": 4.540933959936333e-06,
+      "triangle_average_location": [
+        0.10201000298062961,
+        -0.002240057180946072,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        2015
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1734
+      ],
+      "overlap_area_m2": 4.442849672282046e-06,
+      "triangle_average_location": [
+        0.10127143189311028,
+        -0.004436512244865298,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Pot continuous three-layer steel exterior",
+        2015
+      ],
+      "b": [
+        "Lid removable steel dome and locating skirt",
+        1735
+      ],
+      "overlap_area_m2": 5.114489077516515e-07,
+      "triangle_average_location": [
+        0.10172396153211594,
+        -0.0033410098403692245,
+        0.0989999994635582
+      ],
+      "normal_dot": -1.0
+    }
+  ],
+  "method": "Direct unoriented-plane grouped triangle pairs, including shared vertices, same mesh and opposite normals; exact 2D polygon clipping; area threshold1e-12m\u00b2, plane tolerance1e-7m."
+}

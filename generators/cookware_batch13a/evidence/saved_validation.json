@@ -1,0 +1,706 @@
+[
+  {
+    "id": "frying_pan",
+    "format": "blend",
+    "sha256": "c8619a3eb3a8db0661eef9300d5d9f49f36ae7de5bdd742c6dfc278e1de4c765",
+    "bytes": 222442,
+    "finite": true,
+    "bounds": [
+      [
+        -0.13249999284744263,
+        -0.13249999284744263,
+        0.0
+      ],
+      [
+        0.31730180978775024,
+        0.13249999284744263,
+        0.08198708295822144
+      ]
+    ],
+    "objects": [
+      {
+        "name": "Pan continuous bowl wall and floor",
+        "vertices": 1538,
+        "triangles": 3072,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 0.0002328357399661171,
+        "uv_layers": 1,
+        "material_slots": 3,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Bonded induction base",
+        "vertices": 384,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 3.111307662771677e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pan handle mounting bracket",
+        "vertices": 100,
+        "triangles": 196,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 4.027816236385947e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pan concealed rivet shaft -0.014",
+        "vertices": 384,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 8.93373847340033e-08,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pan shallow coated rivet head -0.014",
+        "vertices": 266,
+        "triangles": 528,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 4.986425258875159e-08,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pan concealed rivet shaft 0.014",
+        "vertices": 384,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 8.93373847340033e-08,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pan shallow coated rivet head 0.014",
+        "vertices": 266,
+        "triangles": 528,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 4.9864252588751595e-08,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pan concealed rivet shaft 0",
+        "vertices": 384,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 8.93373847340033e-08,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pan shallow coated rivet head 0",
+        "vertices": 266,
+        "triangles": 528,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 4.986425258875158e-08,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pan handle welded receiver boss",
+        "vertices": 152,
+        "triangles": 300,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 6.1380856720272375e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pan handle steel tang",
+        "vertices": 152,
+        "triangles": 300,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.9596466877348024e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pan phenolic handle",
+        "vertices": 249,
+        "triangles": 498,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 0.00010755552767529184,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pan handle underside screw",
+        "vertices": 384,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.7804806597757553e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      }
+    ],
+    "actions": []
+  },
+  {
+    "id": "frying_pan",
+    "format": "glb",
+    "sha256": "054a0fc2598f75f1d03198afb3a5466f110dbe4d4a540ed025a37e8f44d52f56",
+    "bytes": 287756,
+    "finite": true,
+    "bounds": [
+      [
+        -0.13249999284744263,
+        -0.13249999284744263,
+        0.0
+      ],
+      [
+        0.31730180978775024,
+        0.13249999284744263,
+        0.08198708295822144
+      ]
+    ],
+    "objects": [
+      {
+        "name": "Pan continuous bowl wall and floor",
+        "vertices": 2262,
+        "triangles": 3072,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 0.0002328357399661128,
+        "uv_layers": 1,
+        "material_slots": 3,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Bonded induction base",
+        "vertices": 516,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 3.111307662738359e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pan handle mounting bracket",
+        "vertices": 158,
+        "triangles": 196,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 4.02781623638595e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pan concealed rivet shaft -0.014",
+        "vertices": 514,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 8.933738473422705e-08,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pan shallow coated rivet head -0.014",
+        "vertices": 370,
+        "triangles": 528,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 4.986425258875159e-08,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pan concealed rivet shaft 0.014",
+        "vertices": 514,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 8.933738473422705e-08,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pan shallow coated rivet head 0.014",
+        "vertices": 370,
+        "triangles": 528,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 4.9864252588751595e-08,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pan concealed rivet shaft 0",
+        "vertices": 514,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 8.933738473422705e-08,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pan shallow coated rivet head 0",
+        "vertices": 370,
+        "triangles": 528,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 4.986425258875158e-08,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pan handle welded receiver boss",
+        "vertices": 220,
+        "triangles": 300,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 6.138025908088848e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pan handle steel tang",
+        "vertices": 216,
+        "triangles": 300,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.9596265161461344e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pan phenolic handle",
+        "vertices": 418,
+        "triangles": 498,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 0.00010754805678677628,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pan handle underside screw",
+        "vertices": 498,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.7804806597807636e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      }
+    ],
+    "actions": []
+  },
+  {
+    "id": "cooking_pot",
+    "format": "blend",
+    "sha256": "6c45156fe7dbffaa8db93e1f3be02e063969b0ea8264d0c75723d0de3dbe2a30",
+    "bytes": 291069,
+    "finite": true,
+    "bounds": [
+      [
+        -0.14800000190734863,
+        -0.10300000011920929,
+        0.0
+      ],
+      [
+        0.14800000190734863,
+        0.10300000011920929,
+        0.16699999570846558
+      ]
+    ],
+    "objects": [
+      {
+        "name": "Pot continuous three-layer steel exterior",
+        "vertices": 1730,
+        "triangles": 3456,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 0.00022729498798452734,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pot handle welded mounting seat (-1, -0.027)",
+        "vertices": 152,
+        "triangles": 300,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 8.152494942184936e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pot handle fixing screw (-1, -0.027)",
+        "vertices": 384,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 5.345892277552458e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pot handle welded mounting seat (-1, 0.027)",
+        "vertices": 152,
+        "triangles": 300,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 8.152494942184936e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pot handle fixing screw (-1, 0.027)",
+        "vertices": 384,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 5.345892277552458e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pot open phenolic loop handle -1",
+        "vertices": 400,
+        "triangles": 796,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.93420440044826e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pot handle welded mounting seat (1, -0.027)",
+        "vertices": 152,
+        "triangles": 300,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 8.152494942184936e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pot handle fixing screw (1, -0.027)",
+        "vertices": 384,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 5.345892277552458e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pot handle welded mounting seat (1, 0.027)",
+        "vertices": 152,
+        "triangles": 300,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 8.152494942184936e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pot handle fixing screw (1, 0.027)",
+        "vertices": 384,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 5.345892277552458e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pot open phenolic loop handle 1",
+        "vertices": 400,
+        "triangles": 796,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.9342044004482613e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Lid removable steel dome and locating skirt",
+        "vertices": 1930,
+        "triangles": 3864,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 8.219691265230298e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Lid phenolic graspable knob",
+        "vertices": 962,
+        "triangles": 1920,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 4.569743390545607e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Lid knob metal seating washer",
+        "vertices": 384,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 9.031966559219768e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Lid knob underside fixing screw",
+        "vertices": 384,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.4731630958933323e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      }
+    ],
+    "actions": []
+  },
+  {
+    "id": "cooking_pot",
+    "format": "glb",
+    "sha256": "f47f6b7c4464e4c13448dc6b364edce51adc029c2cc16166422c67522d7f4eca",
+    "bytes": 513952,
+    "finite": true,
+    "bounds": [
+      [
+        -0.14800000190734863,
+        -0.10300000011920929,
+        0.0
+      ],
+      [
+        0.14800000190734863,
+        0.10300000011920929,
+        0.16699999570846558
+      ]
+    ],
+    "objects": [
+      {
+        "name": "Pot continuous three-layer steel exterior",
+        "vertices": 2653,
+        "triangles": 3456,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 0.00022729498798450872,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pot handle welded mounting seat (-1, -0.027)",
+        "vertices": 218,
+        "triangles": 300,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 8.152016825697308e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pot handle fixing screw (-1, -0.027)",
+        "vertices": 496,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 5.345892277595085e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pot handle welded mounting seat (-1, 0.027)",
+        "vertices": 218,
+        "triangles": 300,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 8.152016825697308e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pot handle fixing screw (-1, 0.027)",
+        "vertices": 496,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 5.345892277595085e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pot open phenolic loop handle -1",
+        "vertices": 589,
+        "triangles": 796,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.934204400448269e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pot handle welded mounting seat (1, -0.027)",
+        "vertices": 218,
+        "triangles": 300,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 8.152016825697308e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pot handle fixing screw (1, -0.027)",
+        "vertices": 496,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 5.345892277595085e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pot handle welded mounting seat (1, 0.027)",
+        "vertices": 218,
+        "triangles": 300,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 8.152016825697308e-06,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pot handle fixing screw (1, 0.027)",
+        "vertices": 496,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 5.345892277595085e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Pot open phenolic loop handle 1",
+        "vertices": 589,
+        "triangles": 796,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.934204400448257e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Lid removable steel dome and locating skirt",
+        "vertices": 3692,
+        "triangles": 3864,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 8.219691265230971e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Lid phenolic graspable knob",
+        "vertices": 1656,
+        "triangles": 1920,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 4.569743390545617e-05,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Lid knob metal seating washer",
+        "vertices": 502,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 9.03196655895354e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      },
+      {
+        "name": "Lid knob underside fixing screw",
+        "vertices": 510,
+        "triangles": 764,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "signed_volume": 1.4731630958960352e-07,
+        "uv_layers": 1,
+        "material_slots": 1,
+        "zero_area_triangles": 0
+      }
+    ],
+    "actions": []
+  }
+]
