@@ -1,0 +1,74 @@
+[
+  {
+    "format": "blend",
+    "path": "/workspace/scratch/a456259dbd5d/recovery_20261017_2110/comb_tissue/models/comb/comb.blend",
+    "sha256": "eee2de985d3db8a1272a6b64eb88af200621efec3e7c0efcadc55857f6cc1862",
+    "bytes": 2807524,
+    "dimensions_m": [
+      0.17000000178813934,
+      0.029999999329447746,
+      0.0031999999191612005
+    ],
+    "min": [
+      -0.08500000089406967,
+      -0.014999999664723873,
+      0.0
+    ],
+    "triangles": 38548,
+    "nonmanifold_edges_after_seam_weld": 0,
+    "connected_components": 1,
+    "zero_area_faces": 0,
+    "signed_volume_m3": 1.3858411536722157e-05,
+    "43_teeth_and_42_through_gaps": true,
+    "end_guards_and_solid_spine": true,
+    "materials": [
+      {
+        "name": "Warm brown cellulose acetate",
+        "base_color": [
+          0.13500000536441803,
+          0.052000001072883606,
+          0.023000000044703484,
+          1.0
+        ],
+        "roughness": 0.28999999165534973,
+        "metallic": 0.0
+      }
+    ]
+  },
+  {
+    "format": "glb",
+    "path": "/workspace/scratch/a456259dbd5d/recovery_20261017_2110/comb_tissue/models/comb/comb.glb",
+    "sha256": "6e658f52e6a473fbd41d6ca36b5cecf6b37a1a465deca2933dd265b394e5fa3b",
+    "bytes": 739800,
+    "dimensions_m": [
+      0.17000000178813934,
+      0.029999999329447746,
+      0.0031999999191612005
+    ],
+    "min": [
+      -0.08500000089406967,
+      -0.014999999664723873,
+      0.0
+    ],
+    "triangles": 38548,
+    "nonmanifold_edges_after_seam_weld": 0,
+    "connected_components": 1,
+    "zero_area_faces": 0,
+    "signed_volume_m3": 1.3858411536722157e-05,
+    "43_teeth_and_42_through_gaps": true,
+    "end_guards_and_solid_spine": true,
+    "materials": [
+      {
+        "name": "Warm brown cellulose acetate",
+        "base_color": [
+          0.13500000536441803,
+          0.052000001072883606,
+          0.023000000044703484,
+          1.0
+        ],
+        "roughness": 0.28999999165534973,
+        "metallic": 0.0
+      }
+    ]
+  }
+]

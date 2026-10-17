@@ -1,0 +1,16 @@
+{
+  "asset_id": "comb",
+  "revision": "r3",
+  "input_sha256": "6e658f52e6a473fbd41d6ca36b5cecf6b37a1a465deca2933dd265b394e5fa3b",
+  "result": "PASS_EARLY_VISUAL_GATE_ONLY",
+  "observations": [
+    "Smooth rounded tooth tip highlights without coarse facets",
+    "Broad cap remains flat with no r2 diagonal specular stripes",
+    "Actual tooth gaps and finite thickness evident",
+    "Brown nonmetallic resin plausible under two lighting conditions"
+  ],
+  "views": {
+    "close_up": "ecb8bc2147d400259cc7862d4526ce0eea7b90e5c94dc982c08e28e769e8ad70",
+    "alternate_light": "490c05fff1571353b6b3a0ca9b7b085fe7dd456abfbfb43287a515cf8dae3984"
+  }
+}

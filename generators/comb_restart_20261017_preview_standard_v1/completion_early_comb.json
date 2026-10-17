@@ -1,0 +1,11 @@
+{
+  "views": [
+    "close_up",
+    "alternate_light"
+  ],
+  "success": [
+    true,
+    true
+  ],
+  "all_success": true
+}

@@ -1,0 +1,39 @@
+{
+  "asset": "comb",
+  "view": "close_up",
+  "input_sha256": "6e658f52e6a473fbd41d6ca36b5cecf6b37a1a465deca2933dd265b394e5fa3b",
+  "camera_location": [
+    0.0,
+    -3.819789409637451,
+    9.303590774536133
+  ],
+  "camera_rotation": [
+    0.3805064558982849,
+    -0.0,
+    0.0
+  ],
+  "ortho_scale": 0.6617646813392639,
+  "closeup_magnification": 3.777777917885491,
+  "focus": {
+    "direction": [
+      0,
+      -0.4,
+      1
+    ],
+    "target_m": [
+      0,
+      -0.009,
+      0.0016
+    ],
+    "span_m": 0.045,
+    "description": "Rounded central teeth and real through gaps"
+  },
+  "resolution": [
+    1200,
+    1200
+  ],
+  "samples": 512,
+  "threshold": 0.004999999888241291,
+  "denoise": false,
+  "source_renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d"
+}

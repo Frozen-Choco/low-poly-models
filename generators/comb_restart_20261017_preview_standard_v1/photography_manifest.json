@@ -1,0 +1,132 @@
+[
+  {
+    "path": "recovery_20261017_2110/photography/render.py",
+    "bytes": 8516,
+    "sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d"
+  },
+  {
+    "path": "recovery_20261017_2110/photography/standard.json",
+    "bytes": 3145,
+    "sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa"
+  },
+  {
+    "path": "recovery_20261017_2110/photography/inputs.json",
+    "bytes": 210,
+    "sha256": "303970abb9ee2cf50641cfe50f1a89b9b2fb271f6cef8061872814d022f0eea5"
+  },
+  {
+    "path": "recovery_20261017_2110/photography/detail_targets.json",
+    "bytes": 528,
+    "sha256": "e533a1fcc711ba15b3b8f825500ae994317445485f55a590322391a356b596d7"
+  },
+  {
+    "path": "recovery_20261017_2110/photography/records/comb/top.json",
+    "bytes": 2427,
+    "sha256": "8991c824ad23287fcfc88d8651c653017e127d41a7d2b4263bddcfb240de6803"
+  },
+  {
+    "path": "recovery_20261017_2110/photography/records/comb/left.json",
+    "bytes": 2554,
+    "sha256": "bd32233a76d586e5e822d72629b1ab4134af185933f9bf62ac6d7d341acf7a7e"
+  },
+  {
+    "path": "recovery_20261017_2110/photography/records/comb/preview.json",
+    "bytes": 2550,
+    "sha256": "6ca86dd8ae83d276b8850895d9efe383e58e1d59a7ebb1ecb1460bfa0d9d4533"
+  },
+  {
+    "path": "recovery_20261017_2110/photography/records/comb/close_up.json",
+    "bytes": 2681,
+    "sha256": "8105a92d3b11d1d5bf598817e1d80c2407ece72a2072f419945a0d3297e13ff9"
+  },
+  {
+    "path": "recovery_20261017_2110/photography/records/comb/alternate_light.json",
+    "bytes": 2550,
+    "sha256": "ae92932680195bee94d79e172b03bd03185b7b48e4b0724204dadb296e8a2e53"
+  },
+  {
+    "path": "recovery_20261017_2110/photography/records/comb/underside_detail.json",
+    "bytes": 2760,
+    "sha256": "d51dc33a6122b2f0d52eba0e5dd56b3f99830720481a61eff006e275727b1312"
+  },
+  {
+    "path": "recovery_20261017_2110/photography/records/comb/front.json",
+    "bytes": 2468,
+    "sha256": "e75c77e1650fb008e1f8261214d020cb07f720a7ef71f2675c47a7615df31c42"
+  },
+  {
+    "path": "recovery_20261017_2110/photography/records/comb/rear.json",
+    "bytes": 2502,
+    "sha256": "f0be9688af320c36ca3739bb583969f9e541c6992360fb933b71783a096015e0"
+  },
+  {
+    "path": "recovery_20261017_2110/photography/records/comb/side.json",
+    "bytes": 2547,
+    "sha256": "0656edf877ffcb7732476aab7e6a3f691e905dcca9d5bc81689e18823a29909e"
+  },
+  {
+    "path": "recovery_20261017_2110/photography/records/comb/underside.json",
+    "bytes": 2548,
+    "sha256": "76fc80fb8d5a1811f0c6185f1d3c4371e9ff65639533219ba9a294f594f6f14c"
+  },
+  {
+    "path": "recovery_20261017_2110/photography/records/comb/back.json",
+    "bytes": 2532,
+    "sha256": "a427f3be2af969ac472a64551405a98a096d3b1dfea3686dc5ff92aea2e21e59"
+  },
+  {
+    "path": "recovery_20261017_2110/photography/repo/models/comb/left.jpg",
+    "bytes": 57186,
+    "sha256": "7235937da3f23dc11d9896dab075ca8d35adf32590d19728da654b0baa21ee8f"
+  },
+  {
+    "path": "recovery_20261017_2110/photography/repo/models/comb/rear.jpg",
+    "bytes": 49875,
+    "sha256": "b096919c97f16eabc1c558e8cbe1e1dc014f8bd4d00a3f20ad92cc5620f9c54f"
+  },
+  {
+    "path": "recovery_20261017_2110/photography/repo/models/comb/underside.jpg",
+    "bytes": 83537,
+    "sha256": "2c967f58fc27e014e437170fb0934287065e81b839170bcd48c14d9180e87738"
+  },
+  {
+    "path": "recovery_20261017_2110/photography/repo/models/comb/underside_detail.jpg",
+    "bytes": 116412,
+    "sha256": "25b097f2d4512b2b95d54c4c8bb8d8e80c59b71d5b9e7e217a5a765ec61f4a87"
+  },
+  {
+    "path": "recovery_20261017_2110/photography/repo/models/comb/preview.jpg",
+    "bytes": 105986,
+    "sha256": "4ccbfd2fd64024972435e2f555404a2b8857f4231b18c37580c7655d4e114171"
+  },
+  {
+    "path": "recovery_20261017_2110/photography/repo/models/comb/top.jpg",
+    "bytes": 99191,
+    "sha256": "0dd7d07d9f0799a5eeff4c7c97d8e7a8e09a6d08568e7231a290cd1574c48060"
+  },
+  {
+    "path": "recovery_20261017_2110/photography/repo/models/comb/side.jpg",
+    "bytes": 57217,
+    "sha256": "9713e58cb15479161940249352d7f7892176b3ba280243050b53304c7b722707"
+  },
+  {
+    "path": "recovery_20261017_2110/photography/repo/models/comb/alternate_light.jpg",
+    "bytes": 110220,
+    "sha256": "490c05fff1571353b6b3a0ca9b7b085fe7dd456abfbfb43287a515cf8dae3984"
+  },
+  {
+    "path": "recovery_20261017_2110/photography/repo/models/comb/front.jpg",
+    "bytes": 58174,
+    "sha256": "135e66ab871079d32ae14f5fb5a8235995152ca767b35ab60bb47e6aa0c744a9"
+  },
+  {
+    "path": "recovery_20261017_2110/photography/repo/models/comb/close_up.jpg",
+    "bytes": 130783,
+    "sha256": "ecb8bc2147d400259cc7862d4526ce0eea7b90e5c94dc982c08e28e769e8ad70"
+  },
+  {
+    "path": "recovery_20261017_2110/photography/repo/models/comb/back.jpg",
+    "bytes": 105544,
+    "sha256": "e259fc30cdf4b1dfaf8c22dd6b09a172c1100a9ea75a3b1e095141cde9f12415"
+  }
+]

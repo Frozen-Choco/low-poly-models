@@ -1,0 +1,136 @@
+{
+  "asset_id": "comb",
+  "display_name": "くし",
+  "stage": "independent_geometry_gate",
+  "result": "PASS_FOR_CANONICAL_PHOTOGRAPHY_ONLY",
+  "reviewer": "review_restarted_comb_model",
+  "maker": "prepare_comb_tissue_restart",
+  "checks": [
+    {
+      "format": "blend",
+      "path": "/workspace/scratch/a456259dbd5d/recovery_20261017_2110/comb_tissue/models/comb/comb.blend",
+      "sha256": "eee2de985d3db8a1272a6b64eb88af200621efec3e7c0efcadc55857f6cc1862",
+      "bytes": 2807524,
+      "dimensions_m": [
+        0.17000000178813934,
+        0.029999999329447746,
+        0.0031999999191612005
+      ],
+      "min": [
+        -0.08500000089406967,
+        -0.014999999664723873,
+        0.0
+      ],
+      "triangles": 38548,
+      "nonmanifold_edges_after_seam_weld": 0,
+      "connected_components": 1,
+      "zero_area_faces": 0,
+      "signed_volume_m3": 1.3858411536722157e-05,
+      "43_teeth_and_42_through_gaps": true,
+      "end_guards_and_solid_spine": true,
+      "materials": [
+        {
+          "name": "Warm brown cellulose acetate",
+          "base_color": [
+            0.13500000536441803,
+            0.052000001072883606,
+            0.023000000044703484,
+            1.0
+          ],
+          "roughness": 0.28999999165534973,
+          "metallic": 0.0
+        }
+      ]
+    },
+    {
+      "format": "glb",
+      "path": "/workspace/scratch/a456259dbd5d/recovery_20261017_2110/comb_tissue/models/comb/comb.glb",
+      "sha256": "6e658f52e6a473fbd41d6ca36b5cecf6b37a1a465deca2933dd265b394e5fa3b",
+      "bytes": 739800,
+      "dimensions_m": [
+        0.17000000178813934,
+        0.029999999329447746,
+        0.0031999999191612005
+      ],
+      "min": [
+        -0.08500000089406967,
+        -0.014999999664723873,
+        0.0
+      ],
+      "triangles": 38548,
+      "nonmanifold_edges_after_seam_weld": 0,
+      "connected_components": 1,
+      "zero_area_faces": 0,
+      "signed_volume_m3": 1.3858411536722157e-05,
+      "43_teeth_and_42_through_gaps": true,
+      "end_guards_and_solid_spine": true,
+      "materials": [
+        {
+          "name": "Warm brown cellulose acetate",
+          "base_color": [
+            0.13500000536441803,
+            0.052000001072883606,
+            0.023000000044703484,
+            1.0
+          ],
+          "roughness": 0.28999999165534973,
+          "metallic": 0.0
+        }
+      ]
+    }
+  ],
+  "primary_sources": [
+    {
+      "url": "https://kentbrushes.jp/products/r5t",
+      "verified": "170x30mm coarse tooth cellulose acetate; rounded tips; official image inspected independently"
+    },
+    {
+      "url": "https://kentbrushes.com/collections/handmade-combs/products/handmade-170mm-dressing-table-comb-thick-hair-a-r5t",
+      "verified": "170x30mm envelope,11mm tooth length explicitly specified"
+    }
+  ],
+  "source_sha256": "21a511f19edf5c8bf89894f2802537290996f9d996f4e1c91ba4805fe60b0e2b",
+  "functional_observations": [
+    "Each of43teeth has solid finite thickness",
+    "All42between-tooth gaps are actual through openings",
+    "End guards and continuous solid grip spine verified by raycast",
+    "Single connected closed positive-volume mesh in both saved formats",
+    "Flat pose has z=0 support; metre dimensions match",
+    "Non-metallic brown resin material survives GLB export with roughness0.29"
+  ],
+  "authored_assumptions": [
+    "43teeth",
+    "3.2mm plate thickness",
+    "2.2mm tooth width",
+    "0.28mm bevel",
+    "unbranded single brown color"
+  ],
+  "limitations": [
+    "Not a product replica or manufacturing safety certification",
+    "Canonical1200px/512sample/.005/no-denoise images have not been inspected yet",
+    "Photographic material/curvature review,source reproduction,and exact package final approval still required",
+    "This record does not authorize publication"
+  ],
+  "revision": "r3",
+  "correction": "Keep explicit flat cap corner normals after sharp-edge assignment. Independent direct GLB inspection finds1830cap triangles,all corner normals axis-exact (0deg error),correcting12.64deg r2 contamination.",
+  "independent_source_reproduction_glb_byte_identical": true,
+  "glb_cap_normals": {
+    "file": "recovery_20261017_2110/comb_tissue/models/comb/comb.glb",
+    "sha256": "6e658f52e6a473fbd41d6ca36b5cecf6b37a1a465deca2933dd265b394e5fa3b",
+    "caps": [
+      {
+        "y": 0,
+        "triangles": 915,
+        "max_normal_angle_degrees": 0.0,
+        "triangles_over_0_1degree": 0
+      },
+      {
+        "y": 0.0032,
+        "triangles": 915,
+        "max_normal_angle_degrees": 0.0,
+        "triangles_over_0_1degree": 0
+      }
+    ],
+    "pass": true
+  }
+}

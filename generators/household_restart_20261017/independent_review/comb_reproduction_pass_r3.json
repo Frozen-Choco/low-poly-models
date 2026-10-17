@@ -1,0 +1,12 @@
+{
+  "asset_id": "comb",
+  "revision": "r3",
+  "independent_runner": "review_restarted_comb_model",
+  "source_sha256": "21a511f19edf5c8bf89894f2802537290996f9d996f4e1c91ba4805fe60b0e2b",
+  "regenerated_source_sha256": "21a511f19edf5c8bf89894f2802537290996f9d996f4e1c91ba4805fe60b0e2b",
+  "glb_sha256": "6e658f52e6a473fbd41d6ca36b5cecf6b37a1a465deca2933dd265b394e5fa3b",
+  "regenerated_glb_sha256": "6e658f52e6a473fbd41d6ca36b5cecf6b37a1a465deca2933dd265b394e5fa3b",
+  "byte_identical": true,
+  "blend_byte_identity_not_claimed": true,
+  "validation": "Saved candidate Blend independently checked for geometry,function,dimensions,materials; both saved formats agree."
+}

@@ -1,0 +1,25 @@
+{
+  "views": [
+    "preview",
+    "top",
+    "back",
+    "underside",
+    "front",
+    "rear",
+    "left",
+    "side",
+    "underside_detail"
+  ],
+  "success": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "all_success": true
+}

@@ -1,0 +1,32 @@
+{
+  "comb": {
+    "close_up": {
+      "direction": [
+        0,
+        -0.4,
+        1
+      ],
+      "target_m": [
+        0,
+        -0.009,
+        0.0016
+      ],
+      "span_m": 0.045,
+      "description": "Rounded central teeth and real through gaps"
+    },
+    "underside_detail": {
+      "direction": [
+        0,
+        0.3,
+        -1
+      ],
+      "target_m": [
+        0,
+        -0.009,
+        0.0016
+      ],
+      "span_m": 0.045,
+      "description": "Underside of rounded teeth and through gaps"
+    }
+  }
+}

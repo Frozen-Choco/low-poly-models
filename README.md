@@ -222,7 +222,7 @@ generators/batch02bにある旧回収ボックスの生成・検証内容は履�
 
 [材質修正の根拠・生成手順](generators/apple_material_revision/README.md) · [統一撮影基準](generators/preview_standard_v1/README.md)
 
-確認画像を1,200×1,200、共通の背景・照明・露出・画面内比率で統一しました。材質そのものの明暗差は保持します。現在公開している全45モデルの現行確認画像は、この共通基準に統一しています。履歴用の比較・機構検証画像は別管理です。
+確認画像を1,200×1,200、共通の背景・照明・露出・画面内比率で統一しました。材質そのものの明暗差は保持します。現在公開している全46モデルの現行確認画像は、この共通基準に統一しています。履歴用の比較・機構検証画像は別管理です。
 
 ## 追加モデル：スツール・バケツ・掛け時計
 
@@ -422,3 +422,13 @@ GLB・編集用Blend・1,200×1,200の共通撮影画像を同梱しています
 [GLB](assets/appliances/electric_fan/electric_fan.glb) · [Blend](assets/appliances/electric_fan/electric_fan.blend) · [メタデータ](assets/appliances/electric_fan/metadata.json)
 
 [資料・再生成手順](generators/appliances_batch14a/README.md) · [レビューと配布情報](docs/reviewed-toaster-fan.md)
+
+## くし
+
+丸い歯先と実際の歯間を持つ、静的なジオラマ用のくしです。保存GLB・Blend、実物資料に照らした構造、再生成、共通条件の全11画像を独立レビューしています。
+
+![くし](assets/household/comb/preview.jpg)
+
+[GLB](assets/household/comb/comb.glb) · [Blend](assets/household/comb/comb.blend) · [メタデータ](assets/household/comb/metadata.json) · [設計と検証範囲](generators/household_restart_20261017/docs/comb-design.md)
+
+[再生成手順](assets/household/comb/README.md) · [独立承認](reviews/comb_restart_20261017/source_package_approval.json) · [写真の再現と移設記録](docs/reviewed-comb.md)

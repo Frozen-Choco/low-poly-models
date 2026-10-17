@@ -1,0 +1,35 @@
+{
+  "asset_id": "comb",
+  "revision": "r3",
+  "result": "PASS_EXACT_PACKAGE",
+  "reviewer": "review_restarted_comb_model",
+  "maker": "prepare_comb_tissue_restart",
+  "packager": "audit_release_recovery",
+  "manifest_sha256": "8e421522f64a3178204b9a69a3fece326d8a710f1d2f7ee7036fb98ff9062a28",
+  "file_count": 48,
+  "total_bytes": 4604331,
+  "model_glb_sha256": "6e658f52e6a473fbd41d6ca36b5cecf6b37a1a465deca2933dd265b394e5fa3b",
+  "model_blend_sha256": "eee2de985d3db8a1272a6b64eb88af200621efec3e7c0efcadc55857f6cc1862",
+  "checks": [
+    "All48paths,sizes,SHA256andGitblobSHA match manifest; no extra or missing files",
+    "GLB and Blend geometry/function/dimensions/material independently passed",
+    "43solid teeth42real gaps,end guards,uninterrupted spine,zero-plane support",
+    "SavedGLB1830flat cap triangles have axis-correct corner normals",
+    "Independent source reproduction yields byte-identical GLB",
+    "All11canonical1200px photographs independently viewed at full resolution",
+    "Photo input/output/spec/renderer hashes match current exact files",
+    "Metadata short Japanese title,triangle count,bytes,hashes match",
+    "Python syntax/JSON parsing valid",
+    "Manufacturer references and declared assumptions consistent; no manufacturer images or unrelated tissue files included"
+  ],
+  "conditions": [
+    "Any change to approved payload requires review again",
+    "Publication relocation and catalog/main integration must receive separate independent integration approval",
+    "Historical paths in evidence identify actual observed inputs; relocation ledger must preserve unchanged bytes",
+    "README generator path must be checked against final published location"
+  ],
+  "not_claimed": [
+    "GitHub published",
+    "Manufacturing or product safety certification"
+  ]
+}

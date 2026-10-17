@@ -1,0 +1,71 @@
+{
+  "slug": "comb",
+  "title": "くし",
+  "description": "丸い歯先と実際の歯間を持つ、粗歯のくし。",
+  "units": "metres",
+  "origin": "Object-centred XY; comb bottom z=0",
+  "original_authoring": "Original generic procedural mesh; no trademark, no imported manufacturer mesh",
+  "scope": "Static diorama prop; not a certified manufactured item",
+  "status": "Independent shape, full canonical photography and exact source package gates passed",
+  "triangles": 38548,
+  "mesh_objects": 1,
+  "references": [
+    "https://kentbrushes.jp/products/r5t",
+    "https://kentbrushes.com/collections/handmade-combs/products/handmade-170mm-dressing-table-comb-thick-hair-a-r5t"
+  ],
+  "files": {
+    "comb.glb": {
+      "bytes": 739800,
+      "sha256": "6e658f52e6a473fbd41d6ca36b5cecf6b37a1a465deca2933dd265b394e5fa3b"
+    },
+    "comb.blend": {
+      "bytes": 2807524,
+      "sha256": "eee2de985d3db8a1272a6b64eb88af200621efec3e7c0efcadc55857f6cc1862"
+    }
+  },
+  "dimensions_m": [
+    0.17000000178813934,
+    0.029999999329447746,
+    0.0031999999191612005
+  ],
+  "id": "comb",
+  "title_ja": "くし",
+  "category": "household",
+  "revision": "r3",
+  "verification_scope": {
+    "saved_blend_glb_shape": "independently passed",
+    "source_regenerated_glb_byte_match": "independently passed",
+    "canonical_images": "all11 independently inspected and content passed",
+    "exact_package_approval": "passed",
+    "publication_integration": "verified by separately approved integration manifest"
+  },
+  "asset_path": "assets/household/comb",
+  "glb_bytes": 739800,
+  "blend_bytes": 2807524,
+  "glb_sha256": "6e658f52e6a473fbd41d6ca36b5cecf6b37a1a465deca2933dd265b394e5fa3b",
+  "blend_sha256": "eee2de985d3db8a1272a6b64eb88af200621efec3e7c0efcadc55857f6cc1862",
+  "photography": {
+    "standard": "preview_standard_v1",
+    "views": [
+      "preview",
+      "back",
+      "front",
+      "rear",
+      "side",
+      "left",
+      "top",
+      "underside",
+      "close_up",
+      "underside_detail",
+      "alternate_light"
+    ],
+    "record_directory": "generators/comb_restart_20261017_preview_standard_v1/records/comb"
+  },
+  "independent_review": {
+    "technical_status": "approved",
+    "report": "reviews/comb_restart_20261017/source_package_approval.json",
+    "report_sha256": "5d665b48d2d67a59a93170dd2c5fa2afd5e1da1b4933d5540a3f9ab4e78f43ac",
+    "source_manifest_sha256": "8e421522f64a3178204b9a69a3fece326d8a710f1d2f7ee7036fb98ff9062a28",
+    "path_base": "repository root"
+  }
+}

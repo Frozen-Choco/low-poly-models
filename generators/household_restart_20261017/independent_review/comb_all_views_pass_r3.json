@@ -1,0 +1,71 @@
+{
+  "asset_id": "comb",
+  "revision": "r3",
+  "result": "PASS_ALL11_VISUAL_AND_PHOTO_RECORD_CHECKS",
+  "views": {
+    "alternate_light": {
+      "sha256": "490c05fff1571353b6b3a0ca9b7b085fe7dd456abfbfb43287a515cf8dae3984",
+      "bytes": 110220,
+      "independently_viewed_full_resolution": true
+    },
+    "back": {
+      "sha256": "e259fc30cdf4b1dfaf8c22dd6b09a172c1100a9ea75a3b1e095141cde9f12415",
+      "bytes": 105544,
+      "independently_viewed_full_resolution": true
+    },
+    "close_up": {
+      "sha256": "ecb8bc2147d400259cc7862d4526ce0eea7b90e5c94dc982c08e28e769e8ad70",
+      "bytes": 130783,
+      "independently_viewed_full_resolution": true
+    },
+    "front": {
+      "sha256": "135e66ab871079d32ae14f5fb5a8235995152ca767b35ab60bb47e6aa0c744a9",
+      "bytes": 58174,
+      "independently_viewed_full_resolution": true
+    },
+    "left": {
+      "sha256": "7235937da3f23dc11d9896dab075ca8d35adf32590d19728da654b0baa21ee8f",
+      "bytes": 57186,
+      "independently_viewed_full_resolution": true
+    },
+    "preview": {
+      "sha256": "4ccbfd2fd64024972435e2f555404a2b8857f4231b18c37580c7655d4e114171",
+      "bytes": 105986,
+      "independently_viewed_full_resolution": true
+    },
+    "rear": {
+      "sha256": "b096919c97f16eabc1c558e8cbe1e1dc014f8bd4d00a3f20ad92cc5620f9c54f",
+      "bytes": 49875,
+      "independently_viewed_full_resolution": true
+    },
+    "side": {
+      "sha256": "9713e58cb15479161940249352d7f7892176b3ba280243050b53304c7b722707",
+      "bytes": 57217,
+      "independently_viewed_full_resolution": true
+    },
+    "top": {
+      "sha256": "0dd7d07d9f0799a5eeff4c7c97d8e7a8e09a6d08568e7231a290cd1574c48060",
+      "bytes": 99191,
+      "independently_viewed_full_resolution": true
+    },
+    "underside": {
+      "sha256": "2c967f58fc27e014e437170fb0934287065e81b839170bcd48c14d9180e87738",
+      "bytes": 83537,
+      "independently_viewed_full_resolution": true
+    },
+    "underside_detail": {
+      "sha256": "25b097f2d4512b2b95d54c4c8bb8d8e80c59b71d5b9e7e217a5a765ec61f4a87",
+      "bytes": 116412,
+      "independently_viewed_full_resolution": true
+    }
+  },
+  "observations": [
+    "Smooth tooth curves and highlights",
+    "No planar normal streak artifacts",
+    "Whole-object views within frame",
+    "Actual through gaps,finite thickness,end guards and uninterrupted grip",
+    "Underside closed and flat",
+    "No floating or floor penetration",
+    "Brown resin maintained under both lighting conditions"
+  ]
+}

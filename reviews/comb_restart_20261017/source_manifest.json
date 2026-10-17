@@ -1,0 +1,290 @@
+[
+  {
+    "path": "docs/comb-design.md",
+    "bytes": 2912,
+    "sha256": "e4fbcb13b7a694fdc2dd985f40af80de29c7eecc058e01f7ebfd61e6aedb50fd",
+    "git_sha": "3b4b1e80607883c5eef1b3ff24ae62a23cecda67"
+  },
+  {
+    "path": "evidence/comb_build.json",
+    "bytes": 740,
+    "sha256": "12b71fd99920502c897ee389c3a90cf5ba446a1ca7565b737cc12565cf4cf1e1",
+    "git_sha": "463f388d79a0a500ae28bfdef7df80642e9cf3af"
+  },
+  {
+    "path": "evidence/comb_build_r3.log",
+    "bytes": 1167,
+    "sha256": "b4a6d2fb9946dfd8be7ed8d76843d34a0d0d8aa0c04c31fd7f8baa370ffd815c",
+    "git_sha": "c44eaee5214c198180b7307ad51906b0b8da62ea"
+  },
+  {
+    "path": "independent_review/check_comb.py",
+    "bytes": 2888,
+    "sha256": "55446eeadedcc3236070058839009afbb334fa45a557ece9cc8d9ddf26e489e7",
+    "git_sha": "dd33409519d98da2e51b0cc68c22e0ec4c9b6e36"
+  },
+  {
+    "path": "independent_review/check_glb_cap_normals.py",
+    "bytes": 1298,
+    "sha256": "b90cf3b99f5eb5922a080025ccf1805aeef690f2cb74f22c7de169c0652f5830",
+    "git_sha": "127799fb3a8ce1dcc440a7bdc5698bfcbc3e5d12"
+  },
+  {
+    "path": "independent_review/comb_all_views_pass_r3.json",
+    "bytes": 2475,
+    "sha256": "f8717d692a5955cfbb82b96935f3789a0ad5cd37242c94f8ac95f37b0b252799",
+    "git_sha": "3ce339c1f7d7e86f209e7b5b5a0edb3a23ce5014"
+  },
+  {
+    "path": "independent_review/comb_early_visual_pass_r3.json",
+    "bytes": 647,
+    "sha256": "e12557b05ee7e17afbfcbcf05ad52e5aafa4c882247903fbf4fb86514aa9d5cc",
+    "git_sha": "b0fc74fbe682da65defc00fefa6399a7c3825db6"
+  },
+  {
+    "path": "independent_review/comb_geometry_checks.json",
+    "bytes": 1986,
+    "sha256": "e386fff606b4c8d409053078d0f6e0228a7da7820a711f06fe778c68f88429b0",
+    "git_sha": "b60fdcb4e0867f0c3b08e9ae49bc3fa66ce1d4cb"
+  },
+  {
+    "path": "independent_review/comb_r3_cap_normals.json",
+    "bytes": 441,
+    "sha256": "8314b3bbc613ce92d2649c0402b14c4e00c4acfb963475b9562224c8b18a0b48",
+    "git_sha": "25f2ced3fade57c3f4bed6369f7f44f23d543bba"
+  },
+  {
+    "path": "independent_review/comb_reproduction_pass_r3.json",
+    "bytes": 668,
+    "sha256": "c76958d9033803de71fbbabda0675480173027086476320f35857d6129a8874b",
+    "git_sha": "07ce5b7c47b8d61eec0f40426ffd2ed628de0681"
+  },
+  {
+    "path": "independent_review/comb_shape_approval_r3.json",
+    "bytes": 4610,
+    "sha256": "e3fc70b7b57e30a8f53c38644777713d370b001c89da792c05b01f56bfb04fe5",
+    "git_sha": "cd897254755f81337872bda8fc91e8d864f7471d"
+  },
+  {
+    "path": "independent_review/reproduce_comb_r3.log",
+    "bytes": 1167,
+    "sha256": "48479ec0c482da4762bf43b523de8b489f5cd9d8ebc9ff96d62b86f2f39732a4",
+    "git_sha": "17eecdb6e71972cc9b7b043e5e9d183da9dcd9f5"
+  },
+  {
+    "path": "models/comb/README.md",
+    "bytes": 1649,
+    "sha256": "08383d69da67fd9947e26d9d068de74dc422304c6dba118f0e36cf4e100baa3c",
+    "git_sha": "b2052ccbf650097a5df3c3333a55197036a68058"
+  },
+  {
+    "path": "models/comb/alternate_light.jpg",
+    "bytes": 110220,
+    "sha256": "490c05fff1571353b6b3a0ca9b7b085fe7dd456abfbfb43287a515cf8dae3984",
+    "git_sha": "c94c03de250dfa9039d66290cadfb81c647e5035"
+  },
+  {
+    "path": "models/comb/back.jpg",
+    "bytes": 105544,
+    "sha256": "e259fc30cdf4b1dfaf8c22dd6b09a172c1100a9ea75a3b1e095141cde9f12415",
+    "git_sha": "dbe73807b1cc16d8e28f36a09c39b672add00832"
+  },
+  {
+    "path": "models/comb/close_up.jpg",
+    "bytes": 130783,
+    "sha256": "ecb8bc2147d400259cc7862d4526ce0eea7b90e5c94dc982c08e28e769e8ad70",
+    "git_sha": "f09a47e60250e5cb1cc135dbaa305390a6fb27f9"
+  },
+  {
+    "path": "models/comb/comb.blend",
+    "bytes": 2807524,
+    "sha256": "eee2de985d3db8a1272a6b64eb88af200621efec3e7c0efcadc55857f6cc1862",
+    "git_sha": "d2f64889115e4fa7be77207ab25e44376d8114de"
+  },
+  {
+    "path": "models/comb/comb.glb",
+    "bytes": 739800,
+    "sha256": "6e658f52e6a473fbd41d6ca36b5cecf6b37a1a465deca2933dd265b394e5fa3b",
+    "git_sha": "5c5e262ca704470594b65febb04cda31613050d2"
+  },
+  {
+    "path": "models/comb/front.jpg",
+    "bytes": 58174,
+    "sha256": "135e66ab871079d32ae14f5fb5a8235995152ca767b35ab60bb47e6aa0c744a9",
+    "git_sha": "8f1d92b4e3ef1a4866818fcc06698daff75a9ab2"
+  },
+  {
+    "path": "models/comb/left.jpg",
+    "bytes": 57186,
+    "sha256": "7235937da3f23dc11d9896dab075ca8d35adf32590d19728da654b0baa21ee8f",
+    "git_sha": "8291bde63294f077776ac1bd0f69ab95b01319bb"
+  },
+  {
+    "path": "models/comb/metadata.json",
+    "bytes": 1455,
+    "sha256": "b7b243221ef3f22d7aa77c244f8db2da7c165575924d6304b9162440edcfc441",
+    "git_sha": "a0befd0001527aec2dee6293de86f322a3e4277a"
+  },
+  {
+    "path": "models/comb/preview.jpg",
+    "bytes": 105986,
+    "sha256": "4ccbfd2fd64024972435e2f555404a2b8857f4231b18c37580c7655d4e114171",
+    "git_sha": "46cad1b18a7e77797d9b0bc3d1739bf9b72d595b"
+  },
+  {
+    "path": "models/comb/rear.jpg",
+    "bytes": 49875,
+    "sha256": "b096919c97f16eabc1c558e8cbe1e1dc014f8bd4d00a3f20ad92cc5620f9c54f",
+    "git_sha": "903d1dc10c8b046268cbc321f96ab4b271144474"
+  },
+  {
+    "path": "models/comb/side.jpg",
+    "bytes": 57217,
+    "sha256": "9713e58cb15479161940249352d7f7892176b3ba280243050b53304c7b722707",
+    "git_sha": "3abafb6f2cd46f2ea09ba80741d501a8e2cf3c68"
+  },
+  {
+    "path": "models/comb/top.jpg",
+    "bytes": 99191,
+    "sha256": "0dd7d07d9f0799a5eeff4c7c97d8e7a8e09a6d08568e7231a290cd1574c48060",
+    "git_sha": "228c2ffab6fcd9294dad3d771da1aea78c9d6656"
+  },
+  {
+    "path": "models/comb/underside.jpg",
+    "bytes": 83537,
+    "sha256": "2c967f58fc27e014e437170fb0934287065e81b839170bcd48c14d9180e87738",
+    "git_sha": "61c01315842764338395ea2da47a6675ba30915b"
+  },
+  {
+    "path": "models/comb/underside_detail.jpg",
+    "bytes": 116412,
+    "sha256": "25b097f2d4512b2b95d54c4c8bb8d8e80c59b71d5b9e7e217a5a765ec61f4a87",
+    "git_sha": "6e052a65844f6aa894cf7e0b32ba4da9bc729656"
+  },
+  {
+    "path": "photography/completion_early_comb.json",
+    "bytes": 120,
+    "sha256": "d66454ecafc480746c6f0bcd381a17f09daf9cf76348475cba11095f8ee65cd4",
+    "git_sha": "ef3acc7b97562cd0263488215cfc07e1909494ac"
+  },
+  {
+    "path": "photography/completion_remaining_comb.json",
+    "bytes": 279,
+    "sha256": "4f91805ce789eca320a1333718e090fdad400b0c1cc74be1fb8cd53d9bc635c6",
+    "git_sha": "7b975ccfe22da656522273754c0e68b8e94740f3"
+  },
+  {
+    "path": "photography/detail_targets.json",
+    "bytes": 528,
+    "sha256": "e533a1fcc711ba15b3b8f825500ae994317445485f55a590322391a356b596d7",
+    "git_sha": "3c89f1ae4b06e1f7e3d8d33b8a0006fec784ecd3"
+  },
+  {
+    "path": "photography/inputs.json",
+    "bytes": 210,
+    "sha256": "303970abb9ee2cf50641cfe50f1a89b9b2fb271f6cef8061872814d022f0eea5",
+    "git_sha": "2523cfb64e47285294d3f3796313e0391f4b75fa"
+  },
+  {
+    "path": "photography/photography_manifest.json",
+    "bytes": 4815,
+    "sha256": "355b6cd2c35c3e228a4d66e76c81a893394b16451883ec6afa868c742d417bc0",
+    "git_sha": "e75e1d5e3cbfa0d4ce808f76ec1d6414bca5051b"
+  },
+  {
+    "path": "photography/preflight.py",
+    "bytes": 7834,
+    "sha256": "19ad8eb9b3c4cf707d395164d49e90b87aeccda372d494113cb4f5e60962611c",
+    "git_sha": "7983b1346e5c273517f23097d91f1dc132700aed"
+  },
+  {
+    "path": "photography/preflight_records/comb/close_up.json",
+    "bytes": 798,
+    "sha256": "973dc68be3ea4a63f7f197edf2d147bf59b6177150e0238b11254fe9b4c6c8a9",
+    "git_sha": "52f311893b138a6eee1d2a806c1e60461196cfd2"
+  },
+  {
+    "path": "photography/records/comb/alternate_light.json",
+    "bytes": 2550,
+    "sha256": "ae92932680195bee94d79e172b03bd03185b7b48e4b0724204dadb296e8a2e53",
+    "git_sha": "0f2967dc8848881fc593949b1355cf82c3c56964"
+  },
+  {
+    "path": "photography/records/comb/back.json",
+    "bytes": 2532,
+    "sha256": "a427f3be2af969ac472a64551405a98a096d3b1dfea3686dc5ff92aea2e21e59",
+    "git_sha": "681e080b3aa44185ecb891959f47682cb77cf48d"
+  },
+  {
+    "path": "photography/records/comb/close_up.json",
+    "bytes": 2681,
+    "sha256": "8105a92d3b11d1d5bf598817e1d80c2407ece72a2072f419945a0d3297e13ff9",
+    "git_sha": "935ad429ebfbd2e642d739e1a42ec8b9e5c57026"
+  },
+  {
+    "path": "photography/records/comb/front.json",
+    "bytes": 2468,
+    "sha256": "e75c77e1650fb008e1f8261214d020cb07f720a7ef71f2675c47a7615df31c42",
+    "git_sha": "3120f74bc33e394ad6943353c449d3f59e1b5fe6"
+  },
+  {
+    "path": "photography/records/comb/left.json",
+    "bytes": 2554,
+    "sha256": "bd32233a76d586e5e822d72629b1ab4134af185933f9bf62ac6d7d341acf7a7e",
+    "git_sha": "5236948c770975f0b6cbfccdc7bd9df2a4b067b4"
+  },
+  {
+    "path": "photography/records/comb/preview.json",
+    "bytes": 2550,
+    "sha256": "6ca86dd8ae83d276b8850895d9efe383e58e1d59a7ebb1ecb1460bfa0d9d4533",
+    "git_sha": "d0707c13a336edc269950d2cf838af775f5647f4"
+  },
+  {
+    "path": "photography/records/comb/rear.json",
+    "bytes": 2502,
+    "sha256": "f0be9688af320c36ca3739bb583969f9e541c6992360fb933b71783a096015e0",
+    "git_sha": "ce98670e7bc714810e8695b36a9c56ba53eca592"
+  },
+  {
+    "path": "photography/records/comb/side.json",
+    "bytes": 2547,
+    "sha256": "0656edf877ffcb7732476aab7e6a3f691e905dcca9d5bc81689e18823a29909e",
+    "git_sha": "9742e60dfee54dcf72561f682bd5ff5fbf8b08f8"
+  },
+  {
+    "path": "photography/records/comb/top.json",
+    "bytes": 2427,
+    "sha256": "8991c824ad23287fcfc88d8651c653017e127d41a7d2b4263bddcfb240de6803",
+    "git_sha": "24f04da094bfb9bdf29eb6d36c68dee263e15a98"
+  },
+  {
+    "path": "photography/records/comb/underside.json",
+    "bytes": 2548,
+    "sha256": "76fc80fb8d5a1811f0c6185f1d3c4371e9ff65639533219ba9a294f594f6f14c",
+    "git_sha": "a322107d3e737ac63f910c9717d8d58d416333f3"
+  },
+  {
+    "path": "photography/records/comb/underside_detail.json",
+    "bytes": 2760,
+    "sha256": "d51dc33a6122b2f0d52eba0e5dd56b3f99830720481a61eff006e275727b1312",
+    "git_sha": "7a3fe6c3beb9697ab1b9474593b248f66207d58f"
+  },
+  {
+    "path": "photography/render.py",
+    "bytes": 8516,
+    "sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+    "git_sha": "1e5fad9575c989982cb32eb35dd6ffda407e0163"
+  },
+  {
+    "path": "photography/standard.json",
+    "bytes": 3145,
+    "sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+    "git_sha": "a6219981286b79fcca9f91725c1159418fc2fc4b"
+  },
+  {
+    "path": "scripts/build_comb.py",
+    "bytes": 4415,
+    "sha256": "21a511f19edf5c8bf89894f2802537290996f9d996f4e1c91ba4805fe60b0e2b",
+    "git_sha": "7ef93d2d79198fd74bc6e818a7df4654a4e61cc0"
+  }
+]

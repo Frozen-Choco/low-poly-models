@@ -1,0 +1,302 @@
+{
+  "source_manifest_sha256": "8e421522f64a3178204b9a69a3fece326d8a710f1d2f7ee7036fb98ff9062a28",
+  "byte_identical_copies": [
+    {
+      "source_path": "docs/comb-design.md",
+      "destination": "generators/household_restart_20261017/docs/comb-design.md",
+      "sha256": "e4fbcb13b7a694fdc2dd985f40af80de29c7eecc058e01f7ebfd61e6aedb50fd",
+      "bytes": 2912
+    },
+    {
+      "source_path": "evidence/comb_build.json",
+      "destination": "generators/household_restart_20261017/evidence/comb_build.json",
+      "sha256": "12b71fd99920502c897ee389c3a90cf5ba446a1ca7565b737cc12565cf4cf1e1",
+      "bytes": 740
+    },
+    {
+      "source_path": "evidence/comb_build_r3.log",
+      "destination": "generators/household_restart_20261017/evidence/comb_build_r3.log",
+      "sha256": "b4a6d2fb9946dfd8be7ed8d76843d34a0d0d8aa0c04c31fd7f8baa370ffd815c",
+      "bytes": 1167
+    },
+    {
+      "source_path": "independent_review/check_comb.py",
+      "destination": "generators/household_restart_20261017/independent_review/check_comb.py",
+      "sha256": "55446eeadedcc3236070058839009afbb334fa45a557ece9cc8d9ddf26e489e7",
+      "bytes": 2888
+    },
+    {
+      "source_path": "independent_review/check_glb_cap_normals.py",
+      "destination": "generators/household_restart_20261017/independent_review/check_glb_cap_normals.py",
+      "sha256": "b90cf3b99f5eb5922a080025ccf1805aeef690f2cb74f22c7de169c0652f5830",
+      "bytes": 1298
+    },
+    {
+      "source_path": "independent_review/comb_all_views_pass_r3.json",
+      "destination": "generators/household_restart_20261017/independent_review/comb_all_views_pass_r3.json",
+      "sha256": "f8717d692a5955cfbb82b96935f3789a0ad5cd37242c94f8ac95f37b0b252799",
+      "bytes": 2475
+    },
+    {
+      "source_path": "independent_review/comb_early_visual_pass_r3.json",
+      "destination": "generators/household_restart_20261017/independent_review/comb_early_visual_pass_r3.json",
+      "sha256": "e12557b05ee7e17afbfcbcf05ad52e5aafa4c882247903fbf4fb86514aa9d5cc",
+      "bytes": 647
+    },
+    {
+      "source_path": "independent_review/comb_geometry_checks.json",
+      "destination": "generators/household_restart_20261017/independent_review/comb_geometry_checks.json",
+      "sha256": "e386fff606b4c8d409053078d0f6e0228a7da7820a711f06fe778c68f88429b0",
+      "bytes": 1986
+    },
+    {
+      "source_path": "independent_review/comb_r3_cap_normals.json",
+      "destination": "generators/household_restart_20261017/independent_review/comb_r3_cap_normals.json",
+      "sha256": "8314b3bbc613ce92d2649c0402b14c4e00c4acfb963475b9562224c8b18a0b48",
+      "bytes": 441
+    },
+    {
+      "source_path": "independent_review/comb_reproduction_pass_r3.json",
+      "destination": "generators/household_restart_20261017/independent_review/comb_reproduction_pass_r3.json",
+      "sha256": "c76958d9033803de71fbbabda0675480173027086476320f35857d6129a8874b",
+      "bytes": 668
+    },
+    {
+      "source_path": "independent_review/comb_shape_approval_r3.json",
+      "destination": "generators/household_restart_20261017/independent_review/comb_shape_approval_r3.json",
+      "sha256": "e3fc70b7b57e30a8f53c38644777713d370b001c89da792c05b01f56bfb04fe5",
+      "bytes": 4610
+    },
+    {
+      "source_path": "independent_review/reproduce_comb_r3.log",
+      "destination": "generators/household_restart_20261017/independent_review/reproduce_comb_r3.log",
+      "sha256": "48479ec0c482da4762bf43b523de8b489f5cd9d8ebc9ff96d62b86f2f39732a4",
+      "bytes": 1167
+    },
+    {
+      "source_path": "models/comb/README.md",
+      "destination": "assets/household/comb/README.md",
+      "sha256": "08383d69da67fd9947e26d9d068de74dc422304c6dba118f0e36cf4e100baa3c",
+      "bytes": 1649
+    },
+    {
+      "source_path": "models/comb/alternate_light.jpg",
+      "destination": "assets/household/comb/alternate_light.jpg",
+      "sha256": "490c05fff1571353b6b3a0ca9b7b085fe7dd456abfbfb43287a515cf8dae3984",
+      "bytes": 110220
+    },
+    {
+      "source_path": "models/comb/back.jpg",
+      "destination": "assets/household/comb/back.jpg",
+      "sha256": "e259fc30cdf4b1dfaf8c22dd6b09a172c1100a9ea75a3b1e095141cde9f12415",
+      "bytes": 105544
+    },
+    {
+      "source_path": "models/comb/close_up.jpg",
+      "destination": "assets/household/comb/close_up.jpg",
+      "sha256": "ecb8bc2147d400259cc7862d4526ce0eea7b90e5c94dc982c08e28e769e8ad70",
+      "bytes": 130783
+    },
+    {
+      "source_path": "models/comb/comb.blend",
+      "destination": "assets/household/comb/comb.blend",
+      "sha256": "eee2de985d3db8a1272a6b64eb88af200621efec3e7c0efcadc55857f6cc1862",
+      "bytes": 2807524
+    },
+    {
+      "source_path": "models/comb/comb.glb",
+      "destination": "assets/household/comb/comb.glb",
+      "sha256": "6e658f52e6a473fbd41d6ca36b5cecf6b37a1a465deca2933dd265b394e5fa3b",
+      "bytes": 739800
+    },
+    {
+      "source_path": "models/comb/front.jpg",
+      "destination": "assets/household/comb/front.jpg",
+      "sha256": "135e66ab871079d32ae14f5fb5a8235995152ca767b35ab60bb47e6aa0c744a9",
+      "bytes": 58174
+    },
+    {
+      "source_path": "models/comb/left.jpg",
+      "destination": "assets/household/comb/left.jpg",
+      "sha256": "7235937da3f23dc11d9896dab075ca8d35adf32590d19728da654b0baa21ee8f",
+      "bytes": 57186
+    },
+    {
+      "source_path": "models/comb/metadata.json",
+      "destination": "generators/household_restart_20261017/source_metadata.json",
+      "sha256": "b7b243221ef3f22d7aa77c244f8db2da7c165575924d6304b9162440edcfc441",
+      "bytes": 1455
+    },
+    {
+      "source_path": "models/comb/preview.jpg",
+      "destination": "assets/household/comb/preview.jpg",
+      "sha256": "4ccbfd2fd64024972435e2f555404a2b8857f4231b18c37580c7655d4e114171",
+      "bytes": 105986
+    },
+    {
+      "source_path": "models/comb/rear.jpg",
+      "destination": "assets/household/comb/rear.jpg",
+      "sha256": "b096919c97f16eabc1c558e8cbe1e1dc014f8bd4d00a3f20ad92cc5620f9c54f",
+      "bytes": 49875
+    },
+    {
+      "source_path": "models/comb/side.jpg",
+      "destination": "assets/household/comb/side.jpg",
+      "sha256": "9713e58cb15479161940249352d7f7892176b3ba280243050b53304c7b722707",
+      "bytes": 57217
+    },
+    {
+      "source_path": "models/comb/top.jpg",
+      "destination": "assets/household/comb/top.jpg",
+      "sha256": "0dd7d07d9f0799a5eeff4c7c97d8e7a8e09a6d08568e7231a290cd1574c48060",
+      "bytes": 99191
+    },
+    {
+      "source_path": "models/comb/underside.jpg",
+      "destination": "assets/household/comb/underside.jpg",
+      "sha256": "2c967f58fc27e014e437170fb0934287065e81b839170bcd48c14d9180e87738",
+      "bytes": 83537
+    },
+    {
+      "source_path": "models/comb/underside_detail.jpg",
+      "destination": "assets/household/comb/underside_detail.jpg",
+      "sha256": "25b097f2d4512b2b95d54c4c8bb8d8e80c59b71d5b9e7e217a5a765ec61f4a87",
+      "bytes": 116412
+    },
+    {
+      "source_path": "photography/completion_early_comb.json",
+      "destination": "generators/comb_restart_20261017_preview_standard_v1/completion_early_comb.json",
+      "sha256": "d66454ecafc480746c6f0bcd381a17f09daf9cf76348475cba11095f8ee65cd4",
+      "bytes": 120
+    },
+    {
+      "source_path": "photography/completion_remaining_comb.json",
+      "destination": "generators/comb_restart_20261017_preview_standard_v1/completion_remaining_comb.json",
+      "sha256": "4f91805ce789eca320a1333718e090fdad400b0c1cc74be1fb8cd53d9bc635c6",
+      "bytes": 279
+    },
+    {
+      "source_path": "photography/detail_targets.json",
+      "destination": "generators/comb_restart_20261017_preview_standard_v1/detail_targets.json",
+      "sha256": "e533a1fcc711ba15b3b8f825500ae994317445485f55a590322391a356b596d7",
+      "bytes": 528
+    },
+    {
+      "source_path": "photography/inputs.json",
+      "destination": "generators/comb_restart_20261017_preview_standard_v1/inputs.original.json",
+      "sha256": "303970abb9ee2cf50641cfe50f1a89b9b2fb271f6cef8061872814d022f0eea5",
+      "bytes": 210
+    },
+    {
+      "source_path": "photography/photography_manifest.json",
+      "destination": "generators/comb_restart_20261017_preview_standard_v1/photography_manifest.json",
+      "sha256": "355b6cd2c35c3e228a4d66e76c81a893394b16451883ec6afa868c742d417bc0",
+      "bytes": 4815
+    },
+    {
+      "source_path": "photography/preflight.py",
+      "destination": "generators/comb_restart_20261017_preview_standard_v1/preflight.py",
+      "sha256": "19ad8eb9b3c4cf707d395164d49e90b87aeccda372d494113cb4f5e60962611c",
+      "bytes": 7834
+    },
+    {
+      "source_path": "photography/preflight_records/comb/close_up.json",
+      "destination": "generators/comb_restart_20261017_preview_standard_v1/preflight_records/comb/close_up.json",
+      "sha256": "973dc68be3ea4a63f7f197edf2d147bf59b6177150e0238b11254fe9b4c6c8a9",
+      "bytes": 798
+    },
+    {
+      "source_path": "photography/records/comb/alternate_light.json",
+      "destination": "generators/comb_restart_20261017_preview_standard_v1/records/comb/alternate_light.json",
+      "sha256": "ae92932680195bee94d79e172b03bd03185b7b48e4b0724204dadb296e8a2e53",
+      "bytes": 2550
+    },
+    {
+      "source_path": "photography/records/comb/back.json",
+      "destination": "generators/comb_restart_20261017_preview_standard_v1/records/comb/back.json",
+      "sha256": "a427f3be2af969ac472a64551405a98a096d3b1dfea3686dc5ff92aea2e21e59",
+      "bytes": 2532
+    },
+    {
+      "source_path": "photography/records/comb/close_up.json",
+      "destination": "generators/comb_restart_20261017_preview_standard_v1/records/comb/close_up.json",
+      "sha256": "8105a92d3b11d1d5bf598817e1d80c2407ece72a2072f419945a0d3297e13ff9",
+      "bytes": 2681
+    },
+    {
+      "source_path": "photography/records/comb/front.json",
+      "destination": "generators/comb_restart_20261017_preview_standard_v1/records/comb/front.json",
+      "sha256": "e75c77e1650fb008e1f8261214d020cb07f720a7ef71f2675c47a7615df31c42",
+      "bytes": 2468
+    },
+    {
+      "source_path": "photography/records/comb/left.json",
+      "destination": "generators/comb_restart_20261017_preview_standard_v1/records/comb/left.json",
+      "sha256": "bd32233a76d586e5e822d72629b1ab4134af185933f9bf62ac6d7d341acf7a7e",
+      "bytes": 2554
+    },
+    {
+      "source_path": "photography/records/comb/preview.json",
+      "destination": "generators/comb_restart_20261017_preview_standard_v1/records/comb/preview.json",
+      "sha256": "6ca86dd8ae83d276b8850895d9efe383e58e1d59a7ebb1ecb1460bfa0d9d4533",
+      "bytes": 2550
+    },
+    {
+      "source_path": "photography/records/comb/rear.json",
+      "destination": "generators/comb_restart_20261017_preview_standard_v1/records/comb/rear.json",
+      "sha256": "f0be9688af320c36ca3739bb583969f9e541c6992360fb933b71783a096015e0",
+      "bytes": 2502
+    },
+    {
+      "source_path": "photography/records/comb/side.json",
+      "destination": "generators/comb_restart_20261017_preview_standard_v1/records/comb/side.json",
+      "sha256": "0656edf877ffcb7732476aab7e6a3f691e905dcca9d5bc81689e18823a29909e",
+      "bytes": 2547
+    },
+    {
+      "source_path": "photography/records/comb/top.json",
+      "destination": "generators/comb_restart_20261017_preview_standard_v1/records/comb/top.json",
+      "sha256": "8991c824ad23287fcfc88d8651c653017e127d41a7d2b4263bddcfb240de6803",
+      "bytes": 2427
+    },
+    {
+      "source_path": "photography/records/comb/underside.json",
+      "destination": "generators/comb_restart_20261017_preview_standard_v1/records/comb/underside.json",
+      "sha256": "76fc80fb8d5a1811f0c6185f1d3c4371e9ff65639533219ba9a294f594f6f14c",
+      "bytes": 2548
+    },
+    {
+      "source_path": "photography/records/comb/underside_detail.json",
+      "destination": "generators/comb_restart_20261017_preview_standard_v1/records/comb/underside_detail.json",
+      "sha256": "d51dc33a6122b2f0d52eba0e5dd56b3f99830720481a61eff006e275727b1312",
+      "bytes": 2760
+    },
+    {
+      "source_path": "photography/render.py",
+      "destination": "generators/comb_restart_20261017_preview_standard_v1/render.py",
+      "sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+      "bytes": 8516
+    },
+    {
+      "source_path": "photography/standard.json",
+      "destination": "generators/comb_restart_20261017_preview_standard_v1/standard.json",
+      "sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+      "bytes": 3145
+    },
+    {
+      "source_path": "scripts/build_comb.py",
+      "destination": "generators/household_restart_20261017/scripts/build_comb.py",
+      "sha256": "21a511f19edf5c8bf89894f2802537290996f9d996f4e1c91ba4805fe60b0e2b",
+      "bytes": 4415
+    }
+  ],
+  "photography_input_path_only_change": {
+    "original": "models/comb/comb.glb",
+    "published": "assets/household/comb/comb.glb",
+    "source_inputs": "generators/comb_restart_20261017_preview_standard_v1/inputs.original.json",
+    "portable_inputs": "generators/comb_restart_20261017_preview_standard_v1/inputs.json"
+  },
+  "preserved_historical_record_paths": true,
+  "metadata_changes": "Publication status, repository-root provenance links and photography mapping only; model metrics and file hashes preserved.",
+  "source_metadata": "generators/household_restart_20261017/source_metadata.json"
+}
