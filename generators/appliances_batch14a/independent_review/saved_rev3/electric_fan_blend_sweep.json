@@ -1,0 +1,21 @@
+{
+  "source": "/workspace/scratch/a456259dbd5d/lowpoly_batch14a/assets/electric_fan/electric_fan.blend",
+  "sha256": "1af55fa92e77f832dfc6c838d0157fa7038dcfcde83ff2cd2ab3c1fd4974164c",
+  "center": [
+    0.0,
+    0.0,
+    0.6549999713897705
+  ],
+  "sample_step_degrees": 2,
+  "poses": 180,
+  "blade_radial_bounds_m": [
+    0.02299995629795864,
+    0.14800003900471842
+  ],
+  "blade_y_bounds_m": [
+    -0.014999999664723873,
+    0.01785316877067089
+  ],
+  "collision_poses": [],
+  "method": "Independent saved-mesh blade rotation about Y. BVH triangle intersections against all fixed parts except coaxial motor shaft. Samples are supplemented by full-envelope bounds; not dynamics certification."
+}

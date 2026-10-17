@@ -1,0 +1,96 @@
+{
+  "units": "meter",
+  "scope": "Static visual assembly. No electrical, thermal, mechanical safety certification.",
+  "toaster": {
+    "support_paths": [
+      [
+        "Ground",
+        "Foot",
+        "Moulded base",
+        "Chassis support boss",
+        "Steel chassis deck",
+        "Cage outer support",
+        "Cage bridge above tray",
+        "Bread cage end plate",
+        "Mica heating panel",
+        "Cold heater ribbon"
+      ],
+      [
+        "Bread cage end plate",
+        "Carrier connecting crossbar",
+        "Bread carrier floor",
+        "Bread cage vertical wire",
+        "Bread centering rail"
+      ],
+      [
+        "Moulded base",
+        "Continuous chrome shell"
+      ],
+      [
+        "Steel chassis deck",
+        "Lever guide rail",
+        "Lever slider",
+        "Lever horizontal stem",
+        "Lever thumb pad"
+      ],
+      [
+        "Lever slider",
+        "Carrier lift link",
+        "Carrier connecting crossbar",
+        "Bread carrier floor"
+      ],
+      [
+        "Steel chassis deck",
+        "Crumb tray pan",
+        "Crumb tray connecting tang",
+        "Crumb tray rear grip"
+      ]
+    ],
+    "intent": "Embedded hidden positive joints, deliberate opening at bread slots and lever guide. Tray and lever static; internals simplified.",
+    "clearances_m": {
+      "tray_width": 0.137,
+      "rear_exit_width": 0.141,
+      "tray_top": 0.0385,
+      "bridge_bottom": 0.04,
+      "outer_support_inner_x": 0.0693,
+      "tang_bottom": 0.03675,
+      "deck_top": 0.0365,
+      "grip_front_y": 0.144,
+      "base_rear_y": 0.1405
+    }
+  },
+  "electric_fan": {
+    "support_paths": [
+      [
+        "Ground",
+        "Base rubber foot",
+        "Base weighted steel plate",
+        "Base moulded cover",
+        "Column lower socket",
+        "Column steel core",
+        "Column upper sleeve",
+        "Neck head carrier",
+        "Head tilt axle",
+        "Motor casing"
+      ],
+      [
+        "Motor casing",
+        "Motor shaft",
+        "Rotor hub",
+        "Rotor blade",
+        "Rotor spindle cap"
+      ],
+      [
+        "Motor casing",
+        "Rear guard mounting boss",
+        "Rear guard spoke",
+        "Rear guard hoop",
+        "Guard retaining rim",
+        "Guard rim clip",
+        "Front guard spoke",
+        "Front guard centre badge"
+      ]
+    ],
+    "intent": "Hidden positive engagement of joints; actual open solid-wire cages. Rotor sweep must remain inside guards. Tilt and oscillation not animated."
+  }
+}

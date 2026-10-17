@@ -1,0 +1,153 @@
+{
+  "scope": "Exact production bytes and original immutable records. No reference photographs redistributed.",
+  "assets": [
+    {
+      "asset": "toaster",
+      "production_input": "assets/toaster/toaster.glb",
+      "packaged_input": "assets/appliances/toaster/toaster.glb",
+      "sha256": "8c215031ec9b3c822ba19f497d626d51c2a93e3e3fd3cd91f161a25815e6e46c",
+      "views": [
+        {
+          "view": "preview",
+          "packaged_image": "assets/appliances/toaster/preview.jpg",
+          "sha256": "94f6289dd2809e3fae6f691a211c9a51d3984f6076debb5f246aa464a9cc4be1",
+          "record": "generators/appliances_batch14a_preview_standard_v1/records/toaster/preview.json"
+        },
+        {
+          "view": "back",
+          "packaged_image": "assets/appliances/toaster/back.jpg",
+          "sha256": "9130cefb4c740e27f51b042271c6003fa7f4abda8e8c72be6da342dd0da04f6c",
+          "record": "generators/appliances_batch14a_preview_standard_v1/records/toaster/back.json"
+        },
+        {
+          "view": "front",
+          "packaged_image": "assets/appliances/toaster/front.jpg",
+          "sha256": "dc6a81db865a083f2fe94b2c9d573ba91ba9a4f9cb264aca5a306a7316d2cf95",
+          "record": "generators/appliances_batch14a_preview_standard_v1/records/toaster/front.json"
+        },
+        {
+          "view": "rear",
+          "packaged_image": "assets/appliances/toaster/rear.jpg",
+          "sha256": "748f610e8648078319c998a23c26640b217305519e42065a92a9792975e3a287",
+          "record": "generators/appliances_batch14a_preview_standard_v1/records/toaster/rear.json"
+        },
+        {
+          "view": "side",
+          "packaged_image": "assets/appliances/toaster/side.jpg",
+          "sha256": "852a3fff0fc0650b069bbd7bf20a4a8f851952f5255572deceff24eecf0b476e",
+          "record": "generators/appliances_batch14a_preview_standard_v1/records/toaster/side.json"
+        },
+        {
+          "view": "left",
+          "packaged_image": "assets/appliances/toaster/left.jpg",
+          "sha256": "8cd0c242b415474e696faab9e296ff54bee5b71a9efdf6df047c17cd5d6f53d2",
+          "record": "generators/appliances_batch14a_preview_standard_v1/records/toaster/left.json"
+        },
+        {
+          "view": "top",
+          "packaged_image": "assets/appliances/toaster/top.jpg",
+          "sha256": "70eb7461eab5bb12d12275dbd1d5230e8267606f1dd0d546ebb66b4a985712e9",
+          "record": "generators/appliances_batch14a_preview_standard_v1/records/toaster/top.json"
+        },
+        {
+          "view": "underside",
+          "packaged_image": "assets/appliances/toaster/underside.jpg",
+          "sha256": "6e3389aa848aa34e34a82a126da1afbe2098e39fbb5a23297eeaa8c2e46c584a",
+          "record": "generators/appliances_batch14a_preview_standard_v1/records/toaster/underside.json"
+        },
+        {
+          "view": "close_up",
+          "packaged_image": "assets/appliances/toaster/close_up.jpg",
+          "sha256": "d6921358e7df14f4e981f3de572a2f50547144293086478ab49d557721456dff",
+          "record": "generators/appliances_batch14a_preview_standard_v1/records/toaster/close_up.json"
+        },
+        {
+          "view": "underside_detail",
+          "packaged_image": "assets/appliances/toaster/underside_detail.jpg",
+          "sha256": "544132bf66173888bcc1c37a434da5809151addd8f9f28aa4aef1b21bc080c3e",
+          "record": "generators/appliances_batch14a_preview_standard_v1/records/toaster/underside_detail.json"
+        },
+        {
+          "view": "alternate_light",
+          "packaged_image": "assets/appliances/toaster/alternate_light.jpg",
+          "sha256": "403a4a42069d286a46a69dd2a0c74f96ef002855aa94f124bcf1d7fe1e141a8a",
+          "record": "generators/appliances_batch14a_preview_standard_v1/records/toaster/alternate_light.json"
+        }
+      ]
+    },
+    {
+      "asset": "electric_fan",
+      "production_input": "assets/electric_fan/electric_fan.glb",
+      "packaged_input": "assets/appliances/electric_fan/electric_fan.glb",
+      "sha256": "ec7b3faa77535401268f245e7b7f27d1935ed5624989008b6849894188bd80ad",
+      "views": [
+        {
+          "view": "preview",
+          "packaged_image": "assets/appliances/electric_fan/preview.jpg",
+          "sha256": "d63d2b6b587fed919a4fb9fc6259baedc1b6399360208a4229deb22dff9e5182",
+          "record": "generators/appliances_batch14a_preview_standard_v1/records/electric_fan/preview.json"
+        },
+        {
+          "view": "back",
+          "packaged_image": "assets/appliances/electric_fan/back.jpg",
+          "sha256": "57366c3ee4b58dd516f7b094db137c749b359f14bf92803f9d269019b8fb7546",
+          "record": "generators/appliances_batch14a_preview_standard_v1/records/electric_fan/back.json"
+        },
+        {
+          "view": "front",
+          "packaged_image": "assets/appliances/electric_fan/front.jpg",
+          "sha256": "31c194ad2190d699a76143c85bc32527e20c599d3fcf58692297798819ec4b41",
+          "record": "generators/appliances_batch14a_preview_standard_v1/records/electric_fan/front.json"
+        },
+        {
+          "view": "rear",
+          "packaged_image": "assets/appliances/electric_fan/rear.jpg",
+          "sha256": "249cc9fcffff5a00ed65a23cabcb79bdcc643803147cabe75ff8b1c4c12e3c7b",
+          "record": "generators/appliances_batch14a_preview_standard_v1/records/electric_fan/rear.json"
+        },
+        {
+          "view": "side",
+          "packaged_image": "assets/appliances/electric_fan/side.jpg",
+          "sha256": "008fd01741d9abe16ce6eccfbea74de8a31700fe8db303d4e672ac0957a39b03",
+          "record": "generators/appliances_batch14a_preview_standard_v1/records/electric_fan/side.json"
+        },
+        {
+          "view": "left",
+          "packaged_image": "assets/appliances/electric_fan/left.jpg",
+          "sha256": "ed52fe46676cc1252ec86d0d3d9c3b04ef64fde9fb4761024e150ae2b65ea0ee",
+          "record": "generators/appliances_batch14a_preview_standard_v1/records/electric_fan/left.json"
+        },
+        {
+          "view": "top",
+          "packaged_image": "assets/appliances/electric_fan/top.jpg",
+          "sha256": "57412ed3e982b8d4f46773aedbaf8556a699089abbab13aab112f8d03302e000",
+          "record": "generators/appliances_batch14a_preview_standard_v1/records/electric_fan/top.json"
+        },
+        {
+          "view": "underside",
+          "packaged_image": "assets/appliances/electric_fan/underside.jpg",
+          "sha256": "0fb03878156db69099427a7330f7959b0960f9060f52ac6122bc601767ea95dc",
+          "record": "generators/appliances_batch14a_preview_standard_v1/records/electric_fan/underside.json"
+        },
+        {
+          "view": "close_up",
+          "packaged_image": "assets/appliances/electric_fan/close_up.jpg",
+          "sha256": "9da1c2075b09b4da44a3c308e2d018ec43961ee378153350fdcf13270be5bf68",
+          "record": "generators/appliances_batch14a_preview_standard_v1/records/electric_fan/close_up.json"
+        },
+        {
+          "view": "underside_detail",
+          "packaged_image": "assets/appliances/electric_fan/underside_detail.jpg",
+          "sha256": "a70ee9de3883daf649d89c2c6100d85454b825fb95983af67255f2982104e32d",
+          "record": "generators/appliances_batch14a_preview_standard_v1/records/electric_fan/underside_detail.json"
+        },
+        {
+          "view": "alternate_light",
+          "packaged_image": "assets/appliances/electric_fan/alternate_light.jpg",
+          "sha256": "a5fbdbe07a9da7aaba2a1b0878c8c92c59b40cfef12a5571be44c3c4bf88e9c2",
+          "record": "generators/appliances_batch14a_preview_standard_v1/records/electric_fan/alternate_light.json"
+        }
+      ]
+    }
+  ]
+}

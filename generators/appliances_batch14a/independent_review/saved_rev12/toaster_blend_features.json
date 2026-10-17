@@ -1,0 +1,29 @@
+{
+  "source": "/workspace/scratch/a456259dbd5d/lowpoly_batch14a/experiments/normal12/assets/toaster/toaster.blend",
+  "sha256": "1e5a0e399e405bd20bb4dd0ba76e1e73642afcd4dc594b87d69c4bb6f2385dd3",
+  "checks": {
+    "side_outer": [
+      0.07900000363588333,
+      0.0,
+      0.11999999731779099
+    ],
+    "side_inner": [
+      0.07700000703334808,
+      0.0,
+      0.11999999731779099
+    ],
+    "side_wall_thickness_m": 0.001999996602535248,
+    "top_outer": [
+      0.0,
+      0.0,
+      0.21000000834465027
+    ],
+    "top_inner": [
+      0.0,
+      0.0,
+      0.20649999380111694
+    ],
+    "top_thickness_m": 0.003500014543533325
+  },
+  "method": "Independent saved geometry single-object opposing ray casts; dimensions in meters."
+}

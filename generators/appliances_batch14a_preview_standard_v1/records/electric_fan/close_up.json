@@ -1,0 +1,111 @@
+{
+  "asset": "electric_fan",
+  "view": "close_up",
+  "input_repo_path": "assets/electric_fan/electric_fan.glb",
+  "input_sha256": "ec7b3faa77535401268f245e7b7f27d1935ed5624989008b6849894188bd80ad",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "e21d5116a9b161684edbf7f884abac4b21f2b29087c07d20ef4834b8213ea67b",
+  "closeup_magnification_vs_full_fit": 2.1497668656970266,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch14a/generators/preview_standard_v1/repo/assets/electric_fan/close_up.jpg",
+  "output_sha256": "9da1c2075b09b4da44a3c308e2d018ec43961ee378153350fdcf13270be5bf68",
+  "bytes": 238411,
+  "elapsed_seconds": 682.9210359069984,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 2.4154589107683204,
+  "source_bounds": [
+    [
+      -0.1730000078678131,
+      -0.16099999845027924,
+      0.0
+    ],
+    [
+      0.1730000078678131,
+      0.16700001060962677,
+      0.828000009059906
+    ]
+  ],
+  "camera_location": [
+    4.3643574714660645,
+    -8.735960960388184,
+    3.7643041610717773
+  ],
+  "camera_rotation": [
+    1.3508085012435913,
+    2.1722380338928815e-08,
+    0.46364763379096985
+  ],
+  "ortho_scale": 1.1775362491607666,
+  "focus": {
+    "direction": [
+      1,
+      -2,
+      0.5
+    ],
+    "target_m": [
+      0,
+      0,
+      0.655
+    ],
+    "span_m": 0.39,
+    "purpose": "Open guard wires, seven solid pitched blades and central hub"
+  },
+  "focus_projected_width_height": [
+    0.7781418263912201,
+    2.025142729282379
+  ],
+  "full_object_fit": false,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        -3.6766879558563232,
+        -3.714594602584839,
+        4.699156284332275
+      ],
+      "rotation": [
+        0.9210361838340759,
+        7.325411388592329e-09,
+        -0.7668341398239136
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        3.651076555252075,
+        -2.5587358474731445,
+        2.059485673904419
+      ],
+      "rotation": [
+        1.2807865142822266,
+        -8.664991213436224e-08,
+        0.9516881108283997
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        2.5764365196228027,
+        2.752821683883667,
+        4.432775497436523
+      ],
+      "rotation": [
+        0.7883183360099792,
+        7.873256890889024e-08,
+        2.3706283569335938
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": null,
+  "floor_hidden": false,
+  "diagnostic_only": false
+}

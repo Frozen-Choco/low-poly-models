@@ -1,0 +1,16 @@
+[
+  {
+    "id": "toaster",
+    "repo_path": "assets/appliances/toaster/toaster.glb",
+    "sha256": "8c215031ec9b3c822ba19f497d626d51c2a93e3e3fd3cd91f161a25815e6e46c",
+    "git_sha": null,
+    "provenance": "Original generic domestic appliances. Manufacturer morphology and metric dimensions; original geometry and PBR materials."
+  },
+  {
+    "id": "electric_fan",
+    "repo_path": "assets/appliances/electric_fan/electric_fan.glb",
+    "sha256": "ec7b3faa77535401268f245e7b7f27d1935ed5624989008b6849894188bd80ad",
+    "git_sha": null,
+    "provenance": "Original generic domestic appliances. Manufacturer morphology and metric dimensions; original geometry and PBR materials."
+  }
+]

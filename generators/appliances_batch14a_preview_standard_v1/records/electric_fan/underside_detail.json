@@ -1,0 +1,115 @@
+{
+  "asset": "electric_fan",
+  "view": "underside_detail",
+  "input_repo_path": "assets/electric_fan/electric_fan.glb",
+  "input_sha256": "ec7b3faa77535401268f245e7b7f27d1935ed5624989008b6849894188bd80ad",
+  "input_git_sha": null,
+  "spec_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+  "renderer_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+  "detail_plan_sha256": "e21d5116a9b161684edbf7f884abac4b21f2b29087c07d20ef4834b8213ea67b",
+  "closeup_magnification_vs_full_fit": 3.34601048202849,
+  "blender_version": "4.3.2",
+  "output_path": "/workspace/scratch/a456259dbd5d/lowpoly_batch14a/generators/preview_standard_v1/repo/assets/electric_fan/underside_detail.jpg",
+  "output_sha256": "a70ee9de3883daf649d89c2c6100d85454b825fb95983af67255f2982104e32d",
+  "bytes": 237720,
+  "elapsed_seconds": 560.9228312040068,
+  "sample_ceiling": 512,
+  "adaptive_threshold": 0.005,
+  "render_only_normalization": 2.4154589107683204,
+  "source_bounds": [
+    [
+      -0.1730000078678131,
+      -0.16099999845027924,
+      0.0
+    ],
+    [
+      0.1730000078678131,
+      0.16700001060962677,
+      0.828000009059906
+    ]
+  ],
+  "camera_location": [
+    4.454354286193848,
+    9.1430082321167,
+    2.337730646133423
+  ],
+  "camera_rotation": [
+    1.4815908670425415,
+    -1.2746131972107833e-07,
+    2.677945137023926
+  ],
+  "ortho_scale": 0.7548308968544006,
+  "focus": {
+    "direction": [
+      1,
+      2,
+      0.2
+    ],
+    "target_m": [
+      0,
+      0.1,
+      0.599
+    ],
+    "span_m": 0.25,
+    "purpose": "Motor mount, head tilt trunnion, stem and guard clearance"
+  },
+  "focus_projected_width_height": [
+    0.7781418859958649,
+    2.0205376744270325
+  ],
+  "full_object_fit": false,
+  "lights": [
+    {
+      "name": "Key",
+      "location": [
+        5.38701868057251,
+        -0.29393434524536133,
+        4.4487152099609375
+      ],
+      "rotation": [
+        0.9701570272445679,
+        -5.241480494078132e-08,
+        1.5351336002349854
+      ],
+      "energy": 500.0,
+      "size": 4.0
+    },
+    {
+      "name": "Fill",
+      "location": [
+        -0.09684345126152039,
+        4.5497307777404785,
+        1.539047122001648
+      ],
+      "rotation": [
+        1.3967747688293457,
+        7.267210833106219e-08,
+        -3.1315135955810547
+      ],
+      "energy": 300.0,
+      "size": 4.0
+    },
+    {
+      "name": "Rim",
+      "location": [
+        -3.542912721633911,
+        0.8198678493499756,
+        4.5742950439453125
+      ],
+      "rotation": [
+        0.7531662583351135,
+        -1.4597343067634938e-07,
+        -1.828288197517395
+      ],
+      "energy": 450.0,
+      "size": 3.0
+    }
+  ],
+  "fixed_background_srgb": [
+    184,
+    184,
+    184
+  ],
+  "floor_hidden": true,
+  "diagnostic_only": false
+}

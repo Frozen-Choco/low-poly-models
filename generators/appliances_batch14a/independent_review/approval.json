@@ -1,0 +1,37 @@
+{
+  "decision": "PASS",
+  "gate": "independent_saved_shape_and_diagnostic_gate",
+  "source_revisions": {
+    "toaster": 12,
+    "electric_fan": 3
+  },
+  "files": [
+    {
+      "path": "lowpoly_batch14a/assets/toaster/toaster.blend",
+      "sha256": "1e5a0e399e405bd20bb4dd0ba76e1e73642afcd4dc594b87d69c4bb6f2385dd3",
+      "bytes": 251206
+    },
+    {
+      "path": "lowpoly_batch14a/assets/toaster/toaster.glb",
+      "sha256": "8c215031ec9b3c822ba19f497d626d51c2a93e3e3fd3cd91f161a25815e6e46c",
+      "bytes": 743964
+    },
+    {
+      "path": "lowpoly_batch14a/assets/electric_fan/electric_fan.blend",
+      "sha256": "1af55fa92e77f832dfc6c838d0157fa7038dcfcde83ff2cd2ab3c1fd4974164c",
+      "bytes": 447143
+    },
+    {
+      "path": "lowpoly_batch14a/assets/electric_fan/electric_fan.glb",
+      "sha256": "ec7b3faa77535401268f245e7b7f27d1935ed5624989008b6849894188bd80ad",
+      "bytes": 1131864
+    }
+  ],
+  "individual_approvals": {
+    "toaster_shape_approval.json": "b6111fa989d09e9a93efef5549e20660b834c314bdf052f3d856105582b0358f",
+    "electric_fan_shape_approval.json": "630cae5c9da7d7265f50cd9d541a9da41f91c41a4257201fd130c5979309f8f6"
+  },
+  "source_reproduction_sha256": "63812eb501679bd5af53d2c11303f702c619001f46e8607b536972d0fb31c0d1",
+  "blocking_findings": [],
+  "authorizes": "Exact4source files approved for frozen canonical photography only. Final photography and lean release acceptance are separate. No publication."
+}

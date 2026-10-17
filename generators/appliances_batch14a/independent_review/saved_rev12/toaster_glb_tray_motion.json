@@ -1,0 +1,43 @@
+{
+  "source": "/workspace/scratch/a456259dbd5d/lowpoly_batch14a/experiments/normal12/assets/toaster/toaster.glb",
+  "sha256": "8c215031ec9b3c822ba19f497d626d51c2a93e3e3fd3cd91f161a25815e6e46c",
+  "moving_parts": [
+    "Crumb tray pan",
+    "Crumb tray rear grip",
+    "Crumb tray connecting tang"
+  ],
+  "poses": 49,
+  "translations_y_mm": [
+    0,
+    240
+  ],
+  "collision_poses": [],
+  "permitted_opposed_deck_contacts": [],
+  "shell_downward_rays": [
+    {
+      "x_m": -0.037,
+      "hit": null
+    },
+    {
+      "x_m": 0.037,
+      "hit": null
+    },
+    {
+      "x_m": 0,
+      "hit": [
+        0.0,
+        0.0,
+        0.21000000834465027
+      ]
+    },
+    {
+      "x_m": 0.07,
+      "hit": [
+        0.07000000029802322,
+        0.0,
+        0.20379865169525146
+      ]
+    }
+  ],
+  "method": "Saved mesh drawer translation every5mm through240mm. Opposed coplanar chassis support allowed; every other surface intersection reported. Rays independently verify both real bread openings. Static visual assembly; no electrical/thermal simulation."
+}

@@ -1,0 +1,116 @@
+{
+  "decision": "PASS_SHAPE_GATE",
+  "asset": "toaster",
+  "revision": 12,
+  "files": [
+    {
+      "path": "lowpoly_batch14a/assets/toaster/toaster.blend",
+      "sha256": "1e5a0e399e405bd20bb4dd0ba76e1e73642afcd4dc594b87d69c4bb6f2385dd3",
+      "bytes": 251206
+    },
+    {
+      "path": "lowpoly_batch14a/assets/toaster/toaster.glb",
+      "sha256": "8c215031ec9b3c822ba19f497d626d51c2a93e3e3fd3cd91f161a25815e6e46c",
+      "bytes": 743964
+    }
+  ],
+  "views": [
+    {
+      "path": "lowpoly_batch14a/evidence/diagnostics_rev12/toaster/blend/front.png",
+      "sha256": "05ef9caa5d646e19c51b5d00977660e594c183ffb9575047f62903f1055106c8",
+      "original_resolution_viewed": true,
+      "review_method": "Individually viewed original1200px pixels"
+    },
+    {
+      "path": "lowpoly_batch14a/evidence/diagnostics_rev12/toaster/blend/back.png",
+      "sha256": "cb5d2efeece70eae579edd62839ee569269cbe0f636591c683f1aacd60cc0d0e",
+      "original_resolution_viewed": true,
+      "review_method": "Individually viewed original1200px pixels"
+    },
+    {
+      "path": "lowpoly_batch14a/evidence/diagnostics_rev12/toaster/blend/side.png",
+      "sha256": "3474ff7262efc1f0626a32650ce4bb1dec286ddd82cdd0005ea8712fab02d364",
+      "original_resolution_viewed": true,
+      "review_method": "Individually viewed original1200px pixels"
+    },
+    {
+      "path": "lowpoly_batch14a/evidence/diagnostics_rev12/toaster/blend/top.png",
+      "sha256": "19465fee1f4e6823194c1ef8b026d08b80216864ce8e5d40a1c46d7674cc55b3",
+      "original_resolution_viewed": true,
+      "review_method": "Individually viewed original1200px pixels"
+    },
+    {
+      "path": "lowpoly_batch14a/evidence/diagnostics_rev12/toaster/blend/underside.png",
+      "sha256": "7f36918e383f3a3b33e7cac34970b6e4012c281d2b72020d4cc3e49ba633ddf7",
+      "original_resolution_viewed": true,
+      "review_method": "Individually viewed original1200px pixels"
+    },
+    {
+      "path": "lowpoly_batch14a/evidence/diagnostics_rev12/toaster/blend/close_up.png",
+      "sha256": "bc6f711f67f731059638463c2fd5212adde2d853525e4f100af6b559da1d47ea",
+      "original_resolution_viewed": true,
+      "review_method": "Individually viewed original1200px pixels"
+    },
+    {
+      "path": "lowpoly_batch14a/evidence/diagnostics_rev12/toaster/blend/structure.png",
+      "sha256": "a28f43811b824bd2836839a69968db9a6c75539c3700edffd057db47825bac73",
+      "original_resolution_viewed": true,
+      "review_method": "Individually viewed original1200px pixels"
+    },
+    {
+      "path": "lowpoly_batch14a/evidence/diagnostics_rev12/toaster/glb/front.png",
+      "sha256": "f91283f59a31d1aebe3dbb527c6d42568584230cfe4abd3dec6972bbab0ddd14",
+      "original_resolution_viewed": true,
+      "review_method": "Individually viewed original1200px pixels"
+    },
+    {
+      "path": "lowpoly_batch14a/evidence/diagnostics_rev12/toaster/glb/back.png",
+      "sha256": "a6942be4985b9d4c18fa333a6820520d953aa2ac511732e5f70b6c6fba1c44b3",
+      "original_resolution_viewed": true,
+      "review_method": "Individually viewed original1200px pixels"
+    },
+    {
+      "path": "lowpoly_batch14a/evidence/diagnostics_rev12/toaster/glb/side.png",
+      "sha256": "0cfcdd47529560be6098f8633fd264c6e9b0d92922e4f820a62522a15d299182",
+      "original_resolution_viewed": true,
+      "review_method": "Individually viewed original1200px pixels"
+    },
+    {
+      "path": "lowpoly_batch14a/evidence/diagnostics_rev12/toaster/glb/top.png",
+      "sha256": "7d44d52e60eb69e80e1b92f03617cc1e55b769a89de7ed09a870496fe4e3276b",
+      "original_resolution_viewed": true,
+      "review_method": "Individually viewed original1200px pixels"
+    },
+    {
+      "path": "lowpoly_batch14a/evidence/diagnostics_rev12/toaster/glb/underside.png",
+      "sha256": "0d1ec26e03abb5ecae2cc9ac852565518485ac8ae2ec1e7171929336de86d2c0",
+      "original_resolution_viewed": true,
+      "review_method": "Individually viewed original1200px pixels"
+    },
+    {
+      "path": "lowpoly_batch14a/evidence/diagnostics_rev12/toaster/glb/close_up.png",
+      "sha256": "8a80bc9997000aaf46c845660f6f01864359d0fc7be27bc4b193927799efb913",
+      "original_resolution_viewed": true,
+      "review_method": "Individually viewed original1200px pixels"
+    },
+    {
+      "path": "lowpoly_batch14a/evidence/diagnostics_rev12/toaster/glb/structure.png",
+      "sha256": "0a16f3f944294e1ec5ff5c858cdcff545bd49432565dae00a21f9835b6a2c958",
+      "original_resolution_viewed": true,
+      "review_method": "Individually viewed original1200px pixels"
+    }
+  ],
+  "checks": [
+    "Both saved formats:87closed positive-volume manifold meshes,finite coordinates,zero degenerate/duplicate/self-intersecting faces",
+    "64direct-plane coplanar pairs are solely opposed-normal supporting contacts; exposed lens and bridge duplicates removed",
+    "Actual support bosses/legs/bridges/carriage linkage verified; mechanism is static and pop-up kinematics not claimed",
+    "Crumb tray actual49pose translation through240mm in both formats has zero fixed-part collision;pan fits real rear exit",
+    "Independent rays verify2mm shell walls,3.5mm top and two real bread openings",
+    "All14diagnostic views individually original1200px inspected; flat metal top no longer has spurious triangular shading",
+    "Blend/GLB bidirectional vertex-to-surface maximum1.54e-8m,materials agree exactly",
+    "Independent isolated source regeneration produces byte-identical GLB",
+    "Revision12 analytic shell loop normals remove revision11 rectangular side shading seam; exact oriented geometry,UVs,materials and all non-shell normals unchanged; all14final diagnostic images individually inspected at original1200px."
+  ],
+  "blocking_findings": [],
+  "authorizes": "Only exact listed source bytes may proceed to frozen canonical photography under parent CPU allocation. Final photographs and package require separate acceptance."
+}

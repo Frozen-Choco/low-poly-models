@@ -1,0 +1,58 @@
+{
+  "description": "2枚差しの金属トースター。実開口スロット、内側の支持枠、レバー、ダイヤル、パン屑トレイ。 全体寸法は約16.5×32.1×21.0cm。部品別に編集できる静的モデル。通電・加熱・送風は再現していません。",
+  "reference_dimensions_m": [
+    0.165,
+    0.31,
+    0.21
+  ],
+  "mechanism": "Static unpowered generic toaster. Separate tray and lever, no animation or thermal/electrical certification. Power cable beyond rear strain relief intentionally omitted.",
+  "id": "toaster",
+  "title_ja": "トースター",
+  "revision": 12,
+  "dimensions_m": [
+    0.16500000655651093,
+    0.3214999884366989,
+    0.21000000834465027
+  ],
+  "triangles": 25164,
+  "units": "meter",
+  "up_axis_blend": "Z",
+  "up_axis_glb": "Y",
+  "review_status": "Independent geometry, full canonical photography and exact source package gates passed",
+  "photography_status": "22 canonical views complete across 2 assets",
+  "files": {
+    "blend": {
+      "bytes": 251206,
+      "sha256": "1e5a0e399e405bd20bb4dd0ba76e1e73642afcd4dc594b87d69c4bb6f2385dd3"
+    },
+    "glb": {
+      "bytes": 743964,
+      "sha256": "8c215031ec9b3c822ba19f497d626d51c2a93e3e3fd3cd91f161a25815e6e46c"
+    }
+  },
+  "photography": {
+    "standard": "preview_standard_v1",
+    "views": [
+      "preview",
+      "back",
+      "front",
+      "rear",
+      "side",
+      "left",
+      "top",
+      "underside",
+      "close_up",
+      "underside_detail",
+      "alternate_light"
+    ],
+    "records": "../../../generators/appliances_batch14a_preview_standard_v1/records/toaster"
+  },
+  "independent_review": {
+    "technical_status": "approved",
+    "scope": "Independent saved geometry, canonical photography and exact source package acceptance. Static visual diorama appliances; no electrical machinery, heating/airflow simulation or safety certification.",
+    "report": "reviews/toaster_fan_integration/source_package_approval.json",
+    "report_sha256": "22aedd3b36343cc90c44756d404ab8868e06b44b40f726920c36d45fe6c9c1e1",
+    "source_manifest_sha256": "7a5c6ab7162b1d648dcb79c5244ec7488b9886f1336ce8d6a990c85fb1b71539",
+    "path_base": "repository root"
+  }
+}

@@ -1,0 +1,774 @@
+[
+  {
+    "source": "README.md",
+    "destination": "generators/appliances_batch14a/README.md",
+    "source_sha256": "1f07fac947323c9c9eed7344f9d1d1bb83d24bf7f3288a9848e3d9416c3f919a",
+    "source_bytes": 1822,
+    "sha256": "f0614fba4e0ae4438e0fd7959ac67ea3034e36d1581a568f3f52b0398eb6a8b7",
+    "bytes": 1977,
+    "transformation": "Final independent acceptance binding, repository asset paths, or usage documentation only. No model, photo, source code, render configuration, relocation map or immutable evidence bytes changed."
+  },
+  {
+    "source": "assets/appliances/electric_fan/alternate_light.jpg",
+    "destination": "assets/appliances/electric_fan/alternate_light.jpg",
+    "source_sha256": "a5fbdbe07a9da7aaba2a1b0878c8c92c59b40cfef12a5571be44c3c4bf88e9c2",
+    "source_bytes": 113428,
+    "sha256": "a5fbdbe07a9da7aaba2a1b0878c8c92c59b40cfef12a5571be44c3c4bf88e9c2",
+    "bytes": 113428
+  },
+  {
+    "source": "assets/appliances/electric_fan/back.jpg",
+    "destination": "assets/appliances/electric_fan/back.jpg",
+    "source_sha256": "57366c3ee4b58dd516f7b094db137c749b359f14bf92803f9d269019b8fb7546",
+    "source_bytes": 111434,
+    "sha256": "57366c3ee4b58dd516f7b094db137c749b359f14bf92803f9d269019b8fb7546",
+    "bytes": 111434
+  },
+  {
+    "source": "assets/appliances/electric_fan/close_up.jpg",
+    "destination": "assets/appliances/electric_fan/close_up.jpg",
+    "source_sha256": "9da1c2075b09b4da44a3c308e2d018ec43961ee378153350fdcf13270be5bf68",
+    "source_bytes": 238411,
+    "sha256": "9da1c2075b09b4da44a3c308e2d018ec43961ee378153350fdcf13270be5bf68",
+    "bytes": 238411
+  },
+  {
+    "source": "assets/appliances/electric_fan/electric_fan.blend",
+    "destination": "assets/appliances/electric_fan/electric_fan.blend",
+    "source_sha256": "1af55fa92e77f832dfc6c838d0157fa7038dcfcde83ff2cd2ab3c1fd4974164c",
+    "source_bytes": 447143,
+    "sha256": "1af55fa92e77f832dfc6c838d0157fa7038dcfcde83ff2cd2ab3c1fd4974164c",
+    "bytes": 447143
+  },
+  {
+    "source": "assets/appliances/electric_fan/electric_fan.glb",
+    "destination": "assets/appliances/electric_fan/electric_fan.glb",
+    "source_sha256": "ec7b3faa77535401268f245e7b7f27d1935ed5624989008b6849894188bd80ad",
+    "source_bytes": 1131864,
+    "sha256": "ec7b3faa77535401268f245e7b7f27d1935ed5624989008b6849894188bd80ad",
+    "bytes": 1131864
+  },
+  {
+    "source": "assets/appliances/electric_fan/front.jpg",
+    "destination": "assets/appliances/electric_fan/front.jpg",
+    "source_sha256": "31c194ad2190d699a76143c85bc32527e20c599d3fcf58692297798819ec4b41",
+    "source_bytes": 91597,
+    "sha256": "31c194ad2190d699a76143c85bc32527e20c599d3fcf58692297798819ec4b41",
+    "bytes": 91597
+  },
+  {
+    "source": "assets/appliances/electric_fan/left.jpg",
+    "destination": "assets/appliances/electric_fan/left.jpg",
+    "source_sha256": "ed52fe46676cc1252ec86d0d3d9c3b04ef64fde9fb4761024e150ae2b65ea0ee",
+    "source_bytes": 63355,
+    "sha256": "ed52fe46676cc1252ec86d0d3d9c3b04ef64fde9fb4761024e150ae2b65ea0ee",
+    "bytes": 63355
+  },
+  {
+    "source": "assets/appliances/electric_fan/metadata.json",
+    "destination": "assets/appliances/electric_fan/metadata.json",
+    "source_sha256": "ed6888d1fa3297eef06d1d412d18cc9e5a8e2aecccb8d1f5b7456a7c1f6098e2",
+    "source_bytes": 1718,
+    "sha256": "bacfe15cea28ee4a97f6ef313024a6f870867cba35824ac4ef7319a09e5c0f7d",
+    "bytes": 2277,
+    "transformation": "Final independent acceptance binding, repository asset paths, or usage documentation only. No model, photo, source code, render configuration, relocation map or immutable evidence bytes changed."
+  },
+  {
+    "source": "assets/appliances/electric_fan/preview.jpg",
+    "destination": "assets/appliances/electric_fan/preview.jpg",
+    "source_sha256": "d63d2b6b587fed919a4fb9fc6259baedc1b6399360208a4229deb22dff9e5182",
+    "source_bytes": 115476,
+    "sha256": "d63d2b6b587fed919a4fb9fc6259baedc1b6399360208a4229deb22dff9e5182",
+    "bytes": 115476
+  },
+  {
+    "source": "assets/appliances/electric_fan/rear.jpg",
+    "destination": "assets/appliances/electric_fan/rear.jpg",
+    "source_sha256": "249cc9fcffff5a00ed65a23cabcb79bdcc643803147cabe75ff8b1c4c12e3c7b",
+    "source_bytes": 87579,
+    "sha256": "249cc9fcffff5a00ed65a23cabcb79bdcc643803147cabe75ff8b1c4c12e3c7b",
+    "bytes": 87579
+  },
+  {
+    "source": "assets/appliances/electric_fan/side.jpg",
+    "destination": "assets/appliances/electric_fan/side.jpg",
+    "source_sha256": "008fd01741d9abe16ce6eccfbea74de8a31700fe8db303d4e672ac0957a39b03",
+    "source_bytes": 63342,
+    "sha256": "008fd01741d9abe16ce6eccfbea74de8a31700fe8db303d4e672ac0957a39b03",
+    "bytes": 63342
+  },
+  {
+    "source": "assets/appliances/electric_fan/top.jpg",
+    "destination": "assets/appliances/electric_fan/top.jpg",
+    "source_sha256": "57412ed3e982b8d4f46773aedbaf8556a699089abbab13aab112f8d03302e000",
+    "source_bytes": 148463,
+    "sha256": "57412ed3e982b8d4f46773aedbaf8556a699089abbab13aab112f8d03302e000",
+    "bytes": 148463
+  },
+  {
+    "source": "assets/appliances/electric_fan/underside.jpg",
+    "destination": "assets/appliances/electric_fan/underside.jpg",
+    "source_sha256": "0fb03878156db69099427a7330f7959b0960f9060f52ac6122bc601767ea95dc",
+    "source_bytes": 116266,
+    "sha256": "0fb03878156db69099427a7330f7959b0960f9060f52ac6122bc601767ea95dc",
+    "bytes": 116266
+  },
+  {
+    "source": "assets/appliances/electric_fan/underside_detail.jpg",
+    "destination": "assets/appliances/electric_fan/underside_detail.jpg",
+    "source_sha256": "a70ee9de3883daf649d89c2c6100d85454b825fb95983af67255f2982104e32d",
+    "source_bytes": 237720,
+    "sha256": "a70ee9de3883daf649d89c2c6100d85454b825fb95983af67255f2982104e32d",
+    "bytes": 237720
+  },
+  {
+    "source": "assets/appliances/toaster/alternate_light.jpg",
+    "destination": "assets/appliances/toaster/alternate_light.jpg",
+    "source_sha256": "403a4a42069d286a46a69dd2a0c74f96ef002855aa94f124bcf1d7fe1e141a8a",
+    "source_bytes": 163861,
+    "sha256": "403a4a42069d286a46a69dd2a0c74f96ef002855aa94f124bcf1d7fe1e141a8a",
+    "bytes": 163861
+  },
+  {
+    "source": "assets/appliances/toaster/back.jpg",
+    "destination": "assets/appliances/toaster/back.jpg",
+    "source_sha256": "9130cefb4c740e27f51b042271c6003fa7f4abda8e8c72be6da342dd0da04f6c",
+    "source_bytes": 153609,
+    "sha256": "9130cefb4c740e27f51b042271c6003fa7f4abda8e8c72be6da342dd0da04f6c",
+    "bytes": 153609
+  },
+  {
+    "source": "assets/appliances/toaster/close_up.jpg",
+    "destination": "assets/appliances/toaster/close_up.jpg",
+    "source_sha256": "d6921358e7df14f4e981f3de572a2f50547144293086478ab49d557721456dff",
+    "source_bytes": 191937,
+    "sha256": "d6921358e7df14f4e981f3de572a2f50547144293086478ab49d557721456dff",
+    "bytes": 191937
+  },
+  {
+    "source": "assets/appliances/toaster/front.jpg",
+    "destination": "assets/appliances/toaster/front.jpg",
+    "source_sha256": "dc6a81db865a083f2fe94b2c9d573ba91ba9a4f9cb264aca5a306a7316d2cf95",
+    "source_bytes": 117442,
+    "sha256": "dc6a81db865a083f2fe94b2c9d573ba91ba9a4f9cb264aca5a306a7316d2cf95",
+    "bytes": 117442
+  },
+  {
+    "source": "assets/appliances/toaster/left.jpg",
+    "destination": "assets/appliances/toaster/left.jpg",
+    "source_sha256": "8cd0c242b415474e696faab9e296ff54bee5b71a9efdf6df047c17cd5d6f53d2",
+    "source_bytes": 91213,
+    "sha256": "8cd0c242b415474e696faab9e296ff54bee5b71a9efdf6df047c17cd5d6f53d2",
+    "bytes": 91213
+  },
+  {
+    "source": "assets/appliances/toaster/metadata.json",
+    "destination": "assets/appliances/toaster/metadata.json",
+    "source_sha256": "72bbf308d84841b1b39aee6c30f37caa51dc8e911c9ea1c0140e5fa3932b1783",
+    "source_bytes": 1641,
+    "sha256": "81d8dd1933118fc0868e68cf03c61cb979ec4daca0f0834a8133847cb8c694e6",
+    "bytes": 2200,
+    "transformation": "Final independent acceptance binding, repository asset paths, or usage documentation only. No model, photo, source code, render configuration, relocation map or immutable evidence bytes changed."
+  },
+  {
+    "source": "assets/appliances/toaster/preview.jpg",
+    "destination": "assets/appliances/toaster/preview.jpg",
+    "source_sha256": "94f6289dd2809e3fae6f691a211c9a51d3984f6076debb5f246aa464a9cc4be1",
+    "source_bytes": 156644,
+    "sha256": "94f6289dd2809e3fae6f691a211c9a51d3984f6076debb5f246aa464a9cc4be1",
+    "bytes": 156644
+  },
+  {
+    "source": "assets/appliances/toaster/rear.jpg",
+    "destination": "assets/appliances/toaster/rear.jpg",
+    "source_sha256": "748f610e8648078319c998a23c26640b217305519e42065a92a9792975e3a287",
+    "source_bytes": 113492,
+    "sha256": "748f610e8648078319c998a23c26640b217305519e42065a92a9792975e3a287",
+    "bytes": 113492
+  },
+  {
+    "source": "assets/appliances/toaster/side.jpg",
+    "destination": "assets/appliances/toaster/side.jpg",
+    "source_sha256": "852a3fff0fc0650b069bbd7bf20a4a8f851952f5255572deceff24eecf0b476e",
+    "source_bytes": 90633,
+    "sha256": "852a3fff0fc0650b069bbd7bf20a4a8f851952f5255572deceff24eecf0b476e",
+    "bytes": 90633
+  },
+  {
+    "source": "assets/appliances/toaster/toaster.blend",
+    "destination": "assets/appliances/toaster/toaster.blend",
+    "source_sha256": "1e5a0e399e405bd20bb4dd0ba76e1e73642afcd4dc594b87d69c4bb6f2385dd3",
+    "source_bytes": 251206,
+    "sha256": "1e5a0e399e405bd20bb4dd0ba76e1e73642afcd4dc594b87d69c4bb6f2385dd3",
+    "bytes": 251206
+  },
+  {
+    "source": "assets/appliances/toaster/toaster.glb",
+    "destination": "assets/appliances/toaster/toaster.glb",
+    "source_sha256": "8c215031ec9b3c822ba19f497d626d51c2a93e3e3fd3cd91f161a25815e6e46c",
+    "source_bytes": 743964,
+    "sha256": "8c215031ec9b3c822ba19f497d626d51c2a93e3e3fd3cd91f161a25815e6e46c",
+    "bytes": 743964
+  },
+  {
+    "source": "assets/appliances/toaster/top.jpg",
+    "destination": "assets/appliances/toaster/top.jpg",
+    "source_sha256": "70eb7461eab5bb12d12275dbd1d5230e8267606f1dd0d546ebb66b4a985712e9",
+    "source_bytes": 167487,
+    "sha256": "70eb7461eab5bb12d12275dbd1d5230e8267606f1dd0d546ebb66b4a985712e9",
+    "bytes": 167487
+  },
+  {
+    "source": "assets/appliances/toaster/underside.jpg",
+    "destination": "assets/appliances/toaster/underside.jpg",
+    "source_sha256": "6e3389aa848aa34e34a82a126da1afbe2098e39fbb5a23297eeaa8c2e46c584a",
+    "source_bytes": 87016,
+    "sha256": "6e3389aa848aa34e34a82a126da1afbe2098e39fbb5a23297eeaa8c2e46c584a",
+    "bytes": 87016
+  },
+  {
+    "source": "assets/appliances/toaster/underside_detail.jpg",
+    "destination": "assets/appliances/toaster/underside_detail.jpg",
+    "source_sha256": "544132bf66173888bcc1c37a434da5809151addd8f9f28aa4aef1b21bc080c3e",
+    "source_bytes": 125192,
+    "sha256": "544132bf66173888bcc1c37a434da5809151addd8f9f28aa4aef1b21bc080c3e",
+    "bytes": 125192
+  },
+  {
+    "source": "catalog.json",
+    "destination": "generators/appliances_batch14a/catalog.json",
+    "source_sha256": "c0830c15f8ebf159197f28fa3254771a8360b30320fb12d3eae29fc6ee430ac5",
+    "source_bytes": 2328,
+    "sha256": "b34214d58855975f4d8b4c23367104e01180086980d991b45822a72f3f9c92a6",
+    "bytes": 3993,
+    "transformation": "Final independent acceptance binding, repository asset paths, or usage documentation only. No model, photo, source code, render configuration, relocation map or immutable evidence bytes changed."
+  },
+  {
+    "source": "generators/appliances_batch14a/configs/attachments.json",
+    "destination": "generators/appliances_batch14a/configs/attachments.json",
+    "source_sha256": "5acecd531e946f118436affbb87054834880868ca4c008ada85a2dbbb4b9b88b",
+    "source_bytes": 2499,
+    "sha256": "5acecd531e946f118436affbb87054834880868ca4c008ada85a2dbbb4b9b88b",
+    "bytes": 2499
+  },
+  {
+    "source": "generators/appliances_batch14a/docs/reference-and-design.md",
+    "destination": "generators/appliances_batch14a/docs/reference-and-design.md",
+    "source_sha256": "cd27de0d9d85655ed2589fa96ad464806dd7ad0941d4dbf5193e845412a25851",
+    "source_bytes": 6327,
+    "sha256": "cd27de0d9d85655ed2589fa96ad464806dd7ad0941d4dbf5193e845412a25851",
+    "bytes": 6327
+  },
+  {
+    "source": "generators/appliances_batch14a/evidence/photography_validation.json",
+    "destination": "generators/appliances_batch14a/evidence/photography_validation.json",
+    "source_sha256": "960e06d9027b1df6b6286da9111d05b27175a22e8557e41bc1cd4c9864809fb6",
+    "source_bytes": 9224,
+    "sha256": "960e06d9027b1df6b6286da9111d05b27175a22e8557e41bc1cd4c9864809fb6",
+    "bytes": 9224
+  },
+  {
+    "source": "generators/appliances_batch14a/evidence/saved_validation.json",
+    "destination": "generators/appliances_batch14a/evidence/saved_validation.json",
+    "source_sha256": "c5d9bc04bc245949928b7db5b9888861c8c31abb0abda159de718ddfa7c763c8",
+    "source_bytes": 133222,
+    "sha256": "c5d9bc04bc245949928b7db5b9888861c8c31abb0abda159de718ddfa7c763c8",
+    "bytes": 133222
+  },
+  {
+    "source": "generators/appliances_batch14a/evidence/source_reproduction.json",
+    "destination": "generators/appliances_batch14a/evidence/source_reproduction.json",
+    "source_sha256": "63812eb501679bd5af53d2c11303f702c619001f46e8607b536972d0fb31c0d1",
+    "source_bytes": 1392,
+    "sha256": "63812eb501679bd5af53d2c11303f702c619001f46e8607b536972d0fb31c0d1",
+    "bytes": 1392
+  },
+  {
+    "source": "generators/appliances_batch14a/independent_review/approval.json",
+    "destination": "generators/appliances_batch14a/independent_review/approval.json",
+    "source_sha256": "36c1712f87e105b4b7746ff286494f7c3876836619c42b8c89fdbbeb125420ef",
+    "source_bytes": 1446,
+    "sha256": "36c1712f87e105b4b7746ff286494f7c3876836619c42b8c89fdbbeb125420ef",
+    "bytes": 1446
+  },
+  {
+    "source": "generators/appliances_batch14a/independent_review/audit_coplanar.py",
+    "destination": "generators/appliances_batch14a/independent_review/audit_coplanar.py",
+    "source_sha256": "6e98dde1cda3c7c53e9483ba736a7d47327b8c6e4fe54fd5edda4e35da5ae119",
+    "source_bytes": 3245,
+    "sha256": "6e98dde1cda3c7c53e9483ba736a7d47327b8c6e4fe54fd5edda4e35da5ae119",
+    "bytes": 3245
+  },
+  {
+    "source": "generators/appliances_batch14a/independent_review/audit_fan_sweep.py",
+    "destination": "generators/appliances_batch14a/independent_review/audit_fan_sweep.py",
+    "source_sha256": "510072e93d5d26551ff25a7b19dc9ad5ac3e6308305dda67accf1e5928a54545",
+    "source_bytes": 2045,
+    "sha256": "510072e93d5d26551ff25a7b19dc9ad5ac3e6308305dda67accf1e5928a54545",
+    "bytes": 2045
+  },
+  {
+    "source": "generators/appliances_batch14a/independent_review/audit_features.py",
+    "destination": "generators/appliances_batch14a/independent_review/audit_features.py",
+    "source_sha256": "1e63a5eaf783124834398ad103961e3562fe1c27ce5d2ae6e3c54a970eee9f4d",
+    "source_bytes": 1818,
+    "sha256": "1e63a5eaf783124834398ad103961e3562fe1c27ce5d2ae6e3c54a970eee9f4d",
+    "bytes": 1818
+  },
+  {
+    "source": "generators/appliances_batch14a/independent_review/audit_toaster_motion.py",
+    "destination": "generators/appliances_batch14a/independent_review/audit_toaster_motion.py",
+    "source_sha256": "afa969e0932ba6475d2e6751e6f2e9c6b87a22bfe5818094fb2baf53f497b57c",
+    "source_bytes": 2973,
+    "sha256": "afa969e0932ba6475d2e6751e6f2e9c6b87a22bfe5818094fb2baf53f497b57c",
+    "bytes": 2973
+  },
+  {
+    "source": "generators/appliances_batch14a/independent_review/canonical_full_sets.json",
+    "destination": "generators/appliances_batch14a/independent_review/canonical_full_sets.json",
+    "source_sha256": "ac7cecdcfdc671f68620b88578c686896e9e03d5b111dc03f9ca6f050a69921f",
+    "source_bytes": 12640,
+    "sha256": "ac7cecdcfdc671f68620b88578c686896e9e03d5b111dc03f9ca6f050a69921f",
+    "bytes": 12640
+  },
+  {
+    "source": "generators/appliances_batch14a/independent_review/checklist.md",
+    "destination": "generators/appliances_batch14a/independent_review/checklist.md",
+    "source_sha256": "e931de66ae06657123957c7572448e4c7d30d90285e823e5aa6a885b7d3036d5",
+    "source_bytes": 2321,
+    "sha256": "e931de66ae06657123957c7572448e4c7d30d90285e823e5aa6a885b7d3036d5",
+    "bytes": 2321
+  },
+  {
+    "source": "generators/appliances_batch14a/independent_review/compare_formats.py",
+    "destination": "generators/appliances_batch14a/independent_review/compare_formats.py",
+    "source_sha256": "da14f372792dde4e073b9de30d2c2afdd5405e69e4f4774816c2d4ab862671da",
+    "source_bytes": 1596,
+    "sha256": "da14f372792dde4e073b9de30d2c2afdd5405e69e4f4774816c2d4ab862671da",
+    "bytes": 1596
+  },
+  {
+    "source": "generators/appliances_batch14a/independent_review/compare_normal_change.py",
+    "destination": "generators/appliances_batch14a/independent_review/compare_normal_change.py",
+    "source_sha256": "f274f48ee0d4e31fa51d22620030546ea804bbb85546e82d3c6f7da4ebb57c76",
+    "source_bytes": 2969,
+    "sha256": "f274f48ee0d4e31fa51d22620030546ea804bbb85546e82d3c6f7da4ebb57c76",
+    "bytes": 2969
+  },
+  {
+    "source": "generators/appliances_batch14a/independent_review/electric_fan_shape_approval.json",
+    "destination": "generators/appliances_batch14a/independent_review/electric_fan_shape_approval.json",
+    "source_sha256": "630cae5c9da7d7265f50cd9d541a9da41f91c41a4257201fd130c5979309f8f6",
+    "source_bytes": 5661,
+    "sha256": "630cae5c9da7d7265f50cd9d541a9da41f91c41a4257201fd130c5979309f8f6",
+    "bytes": 5661
+  },
+  {
+    "source": "generators/appliances_batch14a/independent_review/gate.md",
+    "destination": "generators/appliances_batch14a/independent_review/gate.md",
+    "source_sha256": "88708cc0ba098fc58526514f5ed7c9cf1abf2a079cde0f41a3dd925039fe4027",
+    "source_bytes": 4652,
+    "sha256": "88708cc0ba098fc58526514f5ed7c9cf1abf2a079cde0f41a3dd925039fe4027",
+    "bytes": 4652
+  },
+  {
+    "source": "generators/appliances_batch14a/independent_review/inspect_saved.py",
+    "destination": "generators/appliances_batch14a/independent_review/inspect_saved.py",
+    "source_sha256": "2df8bfdff1c264ffe97ea66f3c81336cecba85fb7f65c188b69f9db0b07ad0a5",
+    "source_bytes": 3667,
+    "sha256": "2df8bfdff1c264ffe97ea66f3c81336cecba85fb7f65c188b69f9db0b07ad0a5",
+    "bytes": 3667
+  },
+  {
+    "source": "generators/appliances_batch14a/independent_review/primary-source-review.md",
+    "destination": "generators/appliances_batch14a/independent_review/primary-source-review.md",
+    "source_sha256": "afb8eb6cae0585e85c43f6da73f02bf0479999623f6ee9e0362bad419ff47fed",
+    "source_bytes": 1871,
+    "sha256": "afb8eb6cae0585e85c43f6da73f02bf0479999623f6ee9e0362bad419ff47fed",
+    "bytes": 1871
+  },
+  {
+    "source": "generators/appliances_batch14a/independent_review/saved_rev12/toaster_blend_direct_planes.json",
+    "destination": "generators/appliances_batch14a/independent_review/saved_rev12/toaster_blend_direct_planes.json",
+    "source_sha256": "e0b7a411eb716bf772d149742c0209f6715a3c83662b6634b9b724d2be5f57c2",
+    "source_bytes": 24165,
+    "sha256": "e0b7a411eb716bf772d149742c0209f6715a3c83662b6634b9b724d2be5f57c2",
+    "bytes": 24165
+  },
+  {
+    "source": "generators/appliances_batch14a/independent_review/saved_rev12/toaster_blend_features.json",
+    "destination": "generators/appliances_batch14a/independent_review/saved_rev12/toaster_blend_features.json",
+    "source_sha256": "69407afe6b072ceb245092865ddea54f15d34fd581fcdb432f24728afa3853f6",
+    "source_bytes": 738,
+    "sha256": "69407afe6b072ceb245092865ddea54f15d34fd581fcdb432f24728afa3853f6",
+    "bytes": 738
+  },
+  {
+    "source": "generators/appliances_batch14a/independent_review/saved_rev12/toaster_blend_tray_motion.json",
+    "destination": "generators/appliances_batch14a/independent_review/saved_rev12/toaster_blend_tray_motion.json",
+    "source_sha256": "1c436ec155a2f61b39c9aa223d7f7aeb7b012834cb03578fe24393c694c21b5c",
+    "source_bytes": 1058,
+    "sha256": "1c436ec155a2f61b39c9aa223d7f7aeb7b012834cb03578fe24393c694c21b5c",
+    "bytes": 1058
+  },
+  {
+    "source": "generators/appliances_batch14a/independent_review/saved_rev12/toaster_format_comparison.json",
+    "destination": "generators/appliances_batch14a/independent_review/saved_rev12/toaster_format_comparison.json",
+    "source_sha256": "c5e27d34c34f9c8352fe9d29974a67ab61dd12dc63864e6c7f435197da5196af",
+    "source_bytes": 18121,
+    "sha256": "c5e27d34c34f9c8352fe9d29974a67ab61dd12dc63864e6c7f435197da5196af",
+    "bytes": 18121
+  },
+  {
+    "source": "generators/appliances_batch14a/independent_review/saved_rev12/toaster_glb_direct_planes.json",
+    "destination": "generators/appliances_batch14a/independent_review/saved_rev12/toaster_glb_direct_planes.json",
+    "source_sha256": "6907d061fd20a1f09c39a652b0c8a70f8005657d70defca39100d7a3581beb9a",
+    "source_bytes": 24161,
+    "sha256": "6907d061fd20a1f09c39a652b0c8a70f8005657d70defca39100d7a3581beb9a",
+    "bytes": 24161
+  },
+  {
+    "source": "generators/appliances_batch14a/independent_review/saved_rev12/toaster_glb_features.json",
+    "destination": "generators/appliances_batch14a/independent_review/saved_rev12/toaster_glb_features.json",
+    "source_sha256": "d031d530df76de9cfb97042f0b94ef4aa4143e340f703a39cd623626634d050c",
+    "source_bytes": 736,
+    "sha256": "d031d530df76de9cfb97042f0b94ef4aa4143e340f703a39cd623626634d050c",
+    "bytes": 736
+  },
+  {
+    "source": "generators/appliances_batch14a/independent_review/saved_rev12/toaster_glb_tray_motion.json",
+    "destination": "generators/appliances_batch14a/independent_review/saved_rev12/toaster_glb_tray_motion.json",
+    "source_sha256": "6fc14af6ce816b55bd199bc91fa180ac1fdee9f70645f6ec6592a24eb8ac2ad0",
+    "source_bytes": 1056,
+    "sha256": "6fc14af6ce816b55bd199bc91fa180ac1fdee9f70645f6ec6592a24eb8ac2ad0",
+    "bytes": 1056
+  },
+  {
+    "source": "generators/appliances_batch14a/independent_review/saved_rev12/toaster_normal_change.json",
+    "destination": "generators/appliances_batch14a/independent_review/saved_rev12/toaster_normal_change.json",
+    "source_sha256": "4e0d8d2ef5a30d4cc24f50a2a259717484ed22e7313f8ce5213dffcb33b8fa2d",
+    "source_bytes": 12425,
+    "sha256": "4e0d8d2ef5a30d4cc24f50a2a259717484ed22e7313f8ce5213dffcb33b8fa2d",
+    "bytes": 12425
+  },
+  {
+    "source": "generators/appliances_batch14a/independent_review/saved_rev3/electric_fan_blend_direct_planes.json",
+    "destination": "generators/appliances_batch14a/independent_review/saved_rev3/electric_fan_blend_direct_planes.json",
+    "source_sha256": "252a616b55a85fb431f63044adcca8bb2f77352cfbc3f90a40863bd42e698433",
+    "source_bytes": 89625,
+    "sha256": "252a616b55a85fb431f63044adcca8bb2f77352cfbc3f90a40863bd42e698433",
+    "bytes": 89625
+  },
+  {
+    "source": "generators/appliances_batch14a/independent_review/saved_rev3/electric_fan_blend_features.json",
+    "destination": "generators/appliances_batch14a/independent_review/saved_rev3/electric_fan_blend_features.json",
+    "source_sha256": "b2df935354faff36fd507a3afb5dee80f716c0bdf09e3dfcbde057c148474c02",
+    "source_bytes": 2824,
+    "sha256": "b2df935354faff36fd507a3afb5dee80f716c0bdf09e3dfcbde057c148474c02",
+    "bytes": 2824
+  },
+  {
+    "source": "generators/appliances_batch14a/independent_review/saved_rev3/electric_fan_blend_sweep.json",
+    "destination": "generators/appliances_batch14a/independent_review/saved_rev3/electric_fan_blend_sweep.json",
+    "source_sha256": "c94b829e1fc8f2b556e2a7e02c52487a70daf8aea278ed8a85c90e153c4465cb",
+    "source_bytes": 696,
+    "sha256": "c94b829e1fc8f2b556e2a7e02c52487a70daf8aea278ed8a85c90e153c4465cb",
+    "bytes": 696
+  },
+  {
+    "source": "generators/appliances_batch14a/independent_review/saved_rev3/electric_fan_format_comparison.json",
+    "destination": "generators/appliances_batch14a/independent_review/saved_rev3/electric_fan_format_comparison.json",
+    "source_sha256": "53029760110fa888fa1e9a81fea4b5835d6f7545d4a01594e8e6b9c5e33cbbd6",
+    "source_bytes": 24953,
+    "sha256": "53029760110fa888fa1e9a81fea4b5835d6f7545d4a01594e8e6b9c5e33cbbd6",
+    "bytes": 24953
+  },
+  {
+    "source": "generators/appliances_batch14a/independent_review/saved_rev3/electric_fan_glb_direct_planes.json",
+    "destination": "generators/appliances_batch14a/independent_review/saved_rev3/electric_fan_glb_direct_planes.json",
+    "source_sha256": "d88e03bd85988c975d7bf8ed487b06f80140fdba80247bc9063475be3db7c235",
+    "source_bytes": 89623,
+    "sha256": "d88e03bd85988c975d7bf8ed487b06f80140fdba80247bc9063475be3db7c235",
+    "bytes": 89623
+  },
+  {
+    "source": "generators/appliances_batch14a/independent_review/saved_rev3/electric_fan_glb_features.json",
+    "destination": "generators/appliances_batch14a/independent_review/saved_rev3/electric_fan_glb_features.json",
+    "source_sha256": "35319f4c64f7766f986b39e38b55d703a08c8bd8a99eabc7548ad9bf9675dacc",
+    "source_bytes": 2822,
+    "sha256": "35319f4c64f7766f986b39e38b55d703a08c8bd8a99eabc7548ad9bf9675dacc",
+    "bytes": 2822
+  },
+  {
+    "source": "generators/appliances_batch14a/independent_review/saved_rev3/electric_fan_glb_sweep.json",
+    "destination": "generators/appliances_batch14a/independent_review/saved_rev3/electric_fan_glb_sweep.json",
+    "source_sha256": "e92f7f870fcaa7c643771150d79f09870b8d3a73c03f228a134de7a4247f6be3",
+    "source_bytes": 694,
+    "sha256": "e92f7f870fcaa7c643771150d79f09870b8d3a73c03f228a134de7a4247f6be3",
+    "bytes": 694
+  },
+  {
+    "source": "generators/appliances_batch14a/independent_review/source_reproduction.json",
+    "destination": "generators/appliances_batch14a/independent_review/source_reproduction.json",
+    "source_sha256": "63812eb501679bd5af53d2c11303f702c619001f46e8607b536972d0fb31c0d1",
+    "source_bytes": 1392,
+    "sha256": "63812eb501679bd5af53d2c11303f702c619001f46e8607b536972d0fb31c0d1",
+    "bytes": 1392
+  },
+  {
+    "source": "generators/appliances_batch14a/independent_review/toaster_shape_approval.json",
+    "destination": "generators/appliances_batch14a/independent_review/toaster_shape_approval.json",
+    "source_sha256": "b6111fa989d09e9a93efef5549e20660b834c314bdf052f3d856105582b0358f",
+    "source_bytes": 5900,
+    "sha256": "b6111fa989d09e9a93efef5549e20660b834c314bdf052f3d856105582b0358f",
+    "bytes": 5900
+  },
+  {
+    "source": "generators/appliances_batch14a/independent_review/verify_reproduction.py",
+    "destination": "generators/appliances_batch14a/independent_review/verify_reproduction.py",
+    "source_sha256": "89b17c4424b3bb7bb57ffae9fb30dc4749b28c698815a28c47a298f6c8782569",
+    "source_bytes": 2451,
+    "sha256": "89b17c4424b3bb7bb57ffae9fb30dc4749b28c698815a28c47a298f6c8782569",
+    "bytes": 2451
+  },
+  {
+    "source": "generators/appliances_batch14a/reference/sources.json",
+    "destination": "generators/appliances_batch14a/reference/sources.json",
+    "source_sha256": "b05b5ad2980ad243ee9f1028afbe600bc436154364272c32cab7c12855b2657f",
+    "source_bytes": 1017,
+    "sha256": "b05b5ad2980ad243ee9f1028afbe600bc436154364272c32cab7c12855b2657f",
+    "bytes": 1017
+  },
+  {
+    "source": "generators/appliances_batch14a/scripts/build_assets.py",
+    "destination": "generators/appliances_batch14a/scripts/build_assets.py",
+    "source_sha256": "6d5ed1c62aa929dbdac3e29f40c3ddead39714a40a60f769e5dbdf8b0d36cfa4",
+    "source_bytes": 16579,
+    "sha256": "6d5ed1c62aa929dbdac3e29f40c3ddead39714a40a60f769e5dbdf8b0d36cfa4",
+    "bytes": 16579
+  },
+  {
+    "source": "generators/appliances_batch14a/scripts/validate_saved.py",
+    "destination": "generators/appliances_batch14a/scripts/validate_saved.py",
+    "source_sha256": "e36c76018c104d6816b5fc2cf010b1f71e40dc7698c9302390212388eacf56f1",
+    "source_bytes": 1815,
+    "sha256": "e36c76018c104d6816b5fc2cf010b1f71e40dc7698c9302390212388eacf56f1",
+    "bytes": 1815
+  },
+  {
+    "source": "generators/appliances_batch14a_preview_standard_v1/detail_targets.json",
+    "destination": "generators/appliances_batch14a_preview_standard_v1/detail_targets.json",
+    "source_sha256": "e21d5116a9b161684edbf7f884abac4b21f2b29087c07d20ef4834b8213ea67b",
+    "source_bytes": 1082,
+    "sha256": "e21d5116a9b161684edbf7f884abac4b21f2b29087c07d20ef4834b8213ea67b",
+    "bytes": 1082
+  },
+  {
+    "source": "generators/appliances_batch14a_preview_standard_v1/inputs.json",
+    "destination": "generators/appliances_batch14a_preview_standard_v1/inputs.json",
+    "source_sha256": "ce35354454de7c8a5d5ef47a408e40b0acfdc050464161f8aeeb4869f7a34a99",
+    "source_bytes": 684,
+    "sha256": "ce35354454de7c8a5d5ef47a408e40b0acfdc050464161f8aeeb4869f7a34a99",
+    "bytes": 684
+  },
+  {
+    "source": "generators/appliances_batch14a_preview_standard_v1/records/electric_fan/alternate_light.json",
+    "destination": "generators/appliances_batch14a_preview_standard_v1/records/electric_fan/alternate_light.json",
+    "source_sha256": "4a589dd4bf9f8bc95aacc2109fb80e100436b770eb2069790c80e16cdee906bf",
+    "source_bytes": 2536,
+    "sha256": "4a589dd4bf9f8bc95aacc2109fb80e100436b770eb2069790c80e16cdee906bf",
+    "bytes": 2536
+  },
+  {
+    "source": "generators/appliances_batch14a_preview_standard_v1/records/electric_fan/back.json",
+    "destination": "generators/appliances_batch14a_preview_standard_v1/records/electric_fan/back.json",
+    "source_sha256": "bc784b486f37c5358edc530b24152aab2e59dc3a269fc576561f50c7d04fecd5",
+    "source_bytes": 2527,
+    "sha256": "bc784b486f37c5358edc530b24152aab2e59dc3a269fc576561f50c7d04fecd5",
+    "bytes": 2527
+  },
+  {
+    "source": "generators/appliances_batch14a_preview_standard_v1/records/electric_fan/close_up.json",
+    "destination": "generators/appliances_batch14a_preview_standard_v1/records/electric_fan/close_up.json",
+    "source_sha256": "e0bc72c56d2bf0d3b4f0dbd112d4c52a1008268ed4b4356c7b2a23a2fd754363",
+    "source_bytes": 2753,
+    "sha256": "e0bc72c56d2bf0d3b4f0dbd112d4c52a1008268ed4b4356c7b2a23a2fd754363",
+    "bytes": 2753
+  },
+  {
+    "source": "generators/appliances_batch14a_preview_standard_v1/records/electric_fan/front.json",
+    "destination": "generators/appliances_batch14a_preview_standard_v1/records/electric_fan/front.json",
+    "source_sha256": "51ba914a8ced4cb5bbbfd2659d8976ee21ee80ad3960ef55cb3745de24194cbb",
+    "source_bytes": 2467,
+    "sha256": "51ba914a8ced4cb5bbbfd2659d8976ee21ee80ad3960ef55cb3745de24194cbb",
+    "bytes": 2467
+  },
+  {
+    "source": "generators/appliances_batch14a_preview_standard_v1/records/electric_fan/left.json",
+    "destination": "generators/appliances_batch14a_preview_standard_v1/records/electric_fan/left.json",
+    "source_sha256": "7a997a9dffbf2300bda25459b9e8fcdfb240408cf12b095fb5491d09cd14dd30",
+    "source_bytes": 2500,
+    "sha256": "7a997a9dffbf2300bda25459b9e8fcdfb240408cf12b095fb5491d09cd14dd30",
+    "bytes": 2500
+  },
+  {
+    "source": "generators/appliances_batch14a_preview_standard_v1/records/electric_fan/preview.json",
+    "destination": "generators/appliances_batch14a_preview_standard_v1/records/electric_fan/preview.json",
+    "source_sha256": "b93a0577e547298ef7202ade3d0a5277fe57ca339a7acfd9148c7de9c7f24809",
+    "source_bytes": 2545,
+    "sha256": "b93a0577e547298ef7202ade3d0a5277fe57ca339a7acfd9148c7de9c7f24809",
+    "bytes": 2545
+  },
+  {
+    "source": "generators/appliances_batch14a_preview_standard_v1/records/electric_fan/rear.json",
+    "destination": "generators/appliances_batch14a_preview_standard_v1/records/electric_fan/rear.json",
+    "source_sha256": "bb61d1de62c76bc3a280c21cbaf52a969e2e3fe98891d190780b3f67ebc56599",
+    "source_bytes": 2493,
+    "sha256": "bb61d1de62c76bc3a280c21cbaf52a969e2e3fe98891d190780b3f67ebc56599",
+    "bytes": 2493
+  },
+  {
+    "source": "generators/appliances_batch14a_preview_standard_v1/records/electric_fan/side.json",
+    "destination": "generators/appliances_batch14a_preview_standard_v1/records/electric_fan/side.json",
+    "source_sha256": "a33bdea7bc68629e102f3919bcdbd3fed0ac89ad60c5261c2ab0a5f47a275cd3",
+    "source_bytes": 2493,
+    "sha256": "a33bdea7bc68629e102f3919bcdbd3fed0ac89ad60c5261c2ab0a5f47a275cd3",
+    "bytes": 2493
+  },
+  {
+    "source": "generators/appliances_batch14a_preview_standard_v1/records/electric_fan/top.json",
+    "destination": "generators/appliances_batch14a_preview_standard_v1/records/electric_fan/top.json",
+    "source_sha256": "92408449ac23c69eec274aa306f3b9d29e29aa0cfdf4ec0bd4a6d92aa8f11e8c",
+    "source_bytes": 2475,
+    "sha256": "92408449ac23c69eec274aa306f3b9d29e29aa0cfdf4ec0bd4a6d92aa8f11e8c",
+    "bytes": 2475
+  },
+  {
+    "source": "generators/appliances_batch14a_preview_standard_v1/records/electric_fan/underside.json",
+    "destination": "generators/appliances_batch14a_preview_standard_v1/records/electric_fan/underside.json",
+    "source_sha256": "f5f37d9bbf6e141df5753e0deff683c758eac98c2364ef97eca165f17a666da4",
+    "source_bytes": 2583,
+    "sha256": "f5f37d9bbf6e141df5753e0deff683c758eac98c2364ef97eca165f17a666da4",
+    "bytes": 2583
+  },
+  {
+    "source": "generators/appliances_batch14a_preview_standard_v1/records/electric_fan/underside_detail.json",
+    "destination": "generators/appliances_batch14a_preview_standard_v1/records/electric_fan/underside_detail.json",
+    "source_sha256": "8b4fd8e1f1d11e92b0b3b8c130d895304ac6da50eb153a3ca2602213b312720f",
+    "source_bytes": 2792,
+    "sha256": "8b4fd8e1f1d11e92b0b3b8c130d895304ac6da50eb153a3ca2602213b312720f",
+    "bytes": 2792
+  },
+  {
+    "source": "generators/appliances_batch14a_preview_standard_v1/records/toaster/alternate_light.json",
+    "destination": "generators/appliances_batch14a_preview_standard_v1/records/toaster/alternate_light.json",
+    "source_sha256": "a062a7cf15f21fda19965fda27a107f30a8ac41ec1afdab0bd948b3c79679505",
+    "source_bytes": 2534,
+    "sha256": "a062a7cf15f21fda19965fda27a107f30a8ac41ec1afdab0bd948b3c79679505",
+    "bytes": 2534
+  },
+  {
+    "source": "generators/appliances_batch14a_preview_standard_v1/records/toaster/back.json",
+    "destination": "generators/appliances_batch14a_preview_standard_v1/records/toaster/back.json",
+    "source_sha256": "9c167515c103aaa8e9913d6e1b6ec1174ef2d7cb183dd9904c8ee741291e26d7",
+    "source_bytes": 2508,
+    "sha256": "9c167515c103aaa8e9913d6e1b6ec1174ef2d7cb183dd9904c8ee741291e26d7",
+    "bytes": 2508
+  },
+  {
+    "source": "generators/appliances_batch14a_preview_standard_v1/records/toaster/close_up.json",
+    "destination": "generators/appliances_batch14a_preview_standard_v1/records/toaster/close_up.json",
+    "source_sha256": "07711db987233e773b504ba10846a30816ebe0b1ef41cd99ab1494e40378e94f",
+    "source_bytes": 2738,
+    "sha256": "07711db987233e773b504ba10846a30816ebe0b1ef41cd99ab1494e40378e94f",
+    "bytes": 2738
+  },
+  {
+    "source": "generators/appliances_batch14a_preview_standard_v1/records/toaster/front.json",
+    "destination": "generators/appliances_batch14a_preview_standard_v1/records/toaster/front.json",
+    "source_sha256": "5ddf43b01737cf5755619e2fd0d9f93a2fa26e33a41342414ce34a2dff03fcad",
+    "source_bytes": 2491,
+    "sha256": "5ddf43b01737cf5755619e2fd0d9f93a2fa26e33a41342414ce34a2dff03fcad",
+    "bytes": 2491
+  },
+  {
+    "source": "generators/appliances_batch14a_preview_standard_v1/records/toaster/left.json",
+    "destination": "generators/appliances_batch14a_preview_standard_v1/records/toaster/left.json",
+    "source_sha256": "e0bea63c1d2e1f9aa9eb6acc6ae350496fe001e971b9cffb5c886b6737dd7779",
+    "source_bytes": 2514,
+    "sha256": "e0bea63c1d2e1f9aa9eb6acc6ae350496fe001e971b9cffb5c886b6737dd7779",
+    "bytes": 2514
+  },
+  {
+    "source": "generators/appliances_batch14a_preview_standard_v1/records/toaster/preview.json",
+    "destination": "generators/appliances_batch14a_preview_standard_v1/records/toaster/preview.json",
+    "source_sha256": "efa217994077e1261a73bcc09feab4b72d331e0703826cd7f78740242f07e891",
+    "source_bytes": 2530,
+    "sha256": "efa217994077e1261a73bcc09feab4b72d331e0703826cd7f78740242f07e891",
+    "bytes": 2530
+  },
+  {
+    "source": "generators/appliances_batch14a_preview_standard_v1/records/toaster/rear.json",
+    "destination": "generators/appliances_batch14a_preview_standard_v1/records/toaster/rear.json",
+    "source_sha256": "47bcd2b23d0d8d1746308c3e15487a8dd73001e5fd0091fba14327ad65dd193a",
+    "source_bytes": 2523,
+    "sha256": "47bcd2b23d0d8d1746308c3e15487a8dd73001e5fd0091fba14327ad65dd193a",
+    "bytes": 2523
+  },
+  {
+    "source": "generators/appliances_batch14a_preview_standard_v1/records/toaster/side.json",
+    "destination": "generators/appliances_batch14a_preview_standard_v1/records/toaster/side.json",
+    "source_sha256": "1a8676e0a4adf8785db771ae6eda99b0854f3472d55697a278f03448e7599d90",
+    "source_bytes": 2509,
+    "sha256": "1a8676e0a4adf8785db771ae6eda99b0854f3472d55697a278f03448e7599d90",
+    "bytes": 2509
+  },
+  {
+    "source": "generators/appliances_batch14a_preview_standard_v1/records/toaster/top.json",
+    "destination": "generators/appliances_batch14a_preview_standard_v1/records/toaster/top.json",
+    "source_sha256": "c723e634893764b4247883fdd37fbb10a9c1efbc492731200b1a2af262c85a8b",
+    "source_bytes": 2406,
+    "sha256": "c723e634893764b4247883fdd37fbb10a9c1efbc492731200b1a2af262c85a8b",
+    "bytes": 2406
+  },
+  {
+    "source": "generators/appliances_batch14a_preview_standard_v1/records/toaster/underside.json",
+    "destination": "generators/appliances_batch14a_preview_standard_v1/records/toaster/underside.json",
+    "source_sha256": "66a75b3a7c4474d5a2c3dcf2c0fce28dfb3cfab8e1cd57e042b349157a1561de",
+    "source_bytes": 2579,
+    "sha256": "66a75b3a7c4474d5a2c3dcf2c0fce28dfb3cfab8e1cd57e042b349157a1561de",
+    "bytes": 2579
+  },
+  {
+    "source": "generators/appliances_batch14a_preview_standard_v1/records/toaster/underside_detail.json",
+    "destination": "generators/appliances_batch14a_preview_standard_v1/records/toaster/underside_detail.json",
+    "source_sha256": "91f2a7b15129a4c02f2ae49f4459a69a260b2fb79819c217fa93d7f65d012768",
+    "source_bytes": 2766,
+    "sha256": "91f2a7b15129a4c02f2ae49f4459a69a260b2fb79819c217fa93d7f65d012768",
+    "bytes": 2766
+  },
+  {
+    "source": "generators/appliances_batch14a_preview_standard_v1/relocation.json",
+    "destination": "generators/appliances_batch14a_preview_standard_v1/relocation.json",
+    "source_sha256": "1dc30fd4b1a76e866061e465b4aa07e29961ed074c39e5328af46284c4aa3887",
+    "source_bytes": 7611,
+    "sha256": "1dc30fd4b1a76e866061e465b4aa07e29961ed074c39e5328af46284c4aa3887",
+    "bytes": 7611
+  },
+  {
+    "source": "generators/appliances_batch14a_preview_standard_v1/render.py",
+    "destination": "generators/appliances_batch14a_preview_standard_v1/render.py",
+    "source_sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+    "source_bytes": 8516,
+    "sha256": "cec9ceebeba2d4b8d8bad84837c11c03f589b6d35ca93af9bf551add8cdf699d",
+    "bytes": 8516
+  },
+  {
+    "source": "generators/appliances_batch14a_preview_standard_v1/standard.json",
+    "destination": "generators/appliances_batch14a_preview_standard_v1/standard.json",
+    "source_sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+    "source_bytes": 3145,
+    "sha256": "380cc10ae7c4592c2720bc15ed02c8ae8708e08aad5d5c636ed9f5673cd5d6fa",
+    "bytes": 3145
+  }
+]

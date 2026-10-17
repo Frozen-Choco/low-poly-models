@@ -1,0 +1,100 @@
+[
+  {
+    "id": "toaster",
+    "title_ja": "トースター",
+    "category": "appliances",
+    "description": "2枚差しの金属トースター。実開口スロット、内側の支持枠、レバー、ダイヤル、パン屑トレイ。 全体寸法は約16.5×32.1×21.0cm。部品別に編集できる静的モデル。通電・加熱・送風は再現していません。",
+    "units": "meter",
+    "up_axis_blend": "Z",
+    "up_axis_glb": "Y",
+    "front_blend": "-Y",
+    "origin": "lowest support at ground plane",
+    "triangles": 25164,
+    "dimensions_m": [
+      0.16500000655651093,
+      0.3214999884366989,
+      0.21000000834465027
+    ],
+    "blend_bytes": 251206,
+    "glb_bytes": 743964,
+    "validated": true,
+    "geometry_validated": true,
+    "status": "Independent geometry, full canonical photography and exact source package gates passed",
+    "photography": {
+      "standard": "preview_standard_v1",
+      "views": [
+        "preview",
+        "back",
+        "front",
+        "rear",
+        "side",
+        "left",
+        "top",
+        "underside",
+        "close_up",
+        "underside_detail",
+        "alternate_light"
+      ]
+    },
+    "independent_review": {
+      "technical_status": "approved",
+      "scope": "Independent saved geometry, canonical photography and exact source package acceptance. Static visual diorama appliances; no electrical machinery, heating/airflow simulation or safety certification.",
+      "report": "reviews/toaster_fan_integration/source_package_approval.json",
+      "report_sha256": "22aedd3b36343cc90c44756d404ab8868e06b44b40f726920c36d45fe6c9c1e1",
+      "source_manifest_sha256": "7a5c6ab7162b1d648dcb79c5244ec7488b9886f1336ce8d6a990c85fb1b71539",
+      "path_base": "repository root"
+    },
+    "asset_path": "assets/appliances/toaster",
+    "blend_sha256": "1e5a0e399e405bd20bb4dd0ba76e1e73642afcd4dc594b87d69c4bb6f2385dd3",
+    "glb_sha256": "8c215031ec9b3c822ba19f497d626d51c2a93e3e3fd3cd91f161a25815e6e46c"
+  },
+  {
+    "id": "electric_fan",
+    "title_ja": "扇風機",
+    "category": "appliances",
+    "description": "7枚羽根の床置き扇風機。実厚の開いたガード、ピッチ付き羽根、支柱、首振りつまみと台座。 全体寸法は約34.6×32.8×82.8cm。部品別に編集できる静的モデル。通電・加熱・送風は再現していません。",
+    "units": "meter",
+    "up_axis_blend": "Z",
+    "up_axis_glb": "Y",
+    "front_blend": "-Y",
+    "origin": "lowest support at ground plane",
+    "triangles": 36896,
+    "dimensions_m": [
+      0.3460000157356262,
+      0.328000009059906,
+      0.828000009059906
+    ],
+    "blend_bytes": 447143,
+    "glb_bytes": 1131864,
+    "validated": true,
+    "geometry_validated": true,
+    "status": "Independent geometry, full canonical photography and exact source package gates passed",
+    "photography": {
+      "standard": "preview_standard_v1",
+      "views": [
+        "preview",
+        "back",
+        "front",
+        "rear",
+        "side",
+        "left",
+        "top",
+        "underside",
+        "close_up",
+        "underside_detail",
+        "alternate_light"
+      ]
+    },
+    "independent_review": {
+      "technical_status": "approved",
+      "scope": "Independent saved geometry, canonical photography and exact source package acceptance. Static visual diorama appliances; no electrical machinery, heating/airflow simulation or safety certification.",
+      "report": "reviews/toaster_fan_integration/source_package_approval.json",
+      "report_sha256": "22aedd3b36343cc90c44756d404ab8868e06b44b40f726920c36d45fe6c9c1e1",
+      "source_manifest_sha256": "7a5c6ab7162b1d648dcb79c5244ec7488b9886f1336ce8d6a990c85fb1b71539",
+      "path_base": "repository root"
+    },
+    "asset_path": "assets/appliances/electric_fan",
+    "blend_sha256": "1af55fa92e77f832dfc6c838d0157fa7038dcfcde83ff2cd2ab3c1fd4974164c",
+    "glb_sha256": "ec7b3faa77535401268f245e7b7f27d1935ed5624989008b6849894188bd80ad"
+  }
+]

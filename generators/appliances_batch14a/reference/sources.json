@@ -1,0 +1,40 @@
+{
+  "checked_date": "2026-10-17",
+  "toaster": {
+    "url": "https://russellhobbs.jp/product/13766jp",
+    "model": "13766JP",
+    "dimensions_m": [
+      0.31,
+      0.165,
+      0.21
+    ],
+    "materials": [
+      "chrome-plated steel",
+      "polypropylene"
+    ],
+    "images": [
+      "https://russellhobbs.jp/wp-content/uploads/2018/04/new_logo13766jp.jpg",
+      "https://russellhobbs.jp/wp-content/uploads/2018/04/13766jp-slot-1.jpg"
+    ]
+  },
+  "electric_fan": {
+    "url": "https://www.irisohyama.co.jp/products/electrical-appliances/seasonal-appliances/tower-fan-fan/living-fan/living-fan",
+    "model": "LFA-307-W",
+    "dimensions_m": [
+      0.345,
+      0.34,
+      0.965
+    ],
+    "blade_diameter_m": 0.3,
+    "blade_count": 7,
+    "materials": [
+      "PP",
+      "ABS",
+      "steel"
+    ],
+    "images": [
+      "https://www.irisohyama.co.jp/products/web-catalog/img/items/104102/item_001.jpg",
+      "https://www.irisohyama.co.jp/products/web-catalog/img/items/104102/item_003.jpg"
+    ]
+  }
+}

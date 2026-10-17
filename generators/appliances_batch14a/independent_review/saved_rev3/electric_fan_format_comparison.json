@@ -1,0 +1,784 @@
+{
+  "asset": "electric_fan",
+  "source_hashes": {
+    "blend": "1af55fa92e77f832dfc6c838d0157fa7038dcfcde83ff2cd2ab3c1fd4974164c",
+    "glb": "ec7b3faa77535401268f245e7b7f27d1935ed5624989008b6849894188bd80ad"
+  },
+  "poses": [
+    {
+      "frame": 1,
+      "missing_names": [],
+      "objects": [
+        {
+          "name": "Base moulded cover",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 768,
+          "triangles_glb": 768
+        },
+        {
+          "name": "Base rubber foot 0",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Base rubber foot 1",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Base rubber foot 2",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Base rubber foot 3",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Base speed button 0",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Base speed button 1",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Base speed button 2",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Base speed button 3",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Base weighted steel plate",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 384,
+          "triangles_glb": 384
+        },
+        {
+          "name": "Column joint collar",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Column lower socket",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Column steel core",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Column upper sleeve",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Column white sleeve",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Front guard centre badge",
+          "max_bidirectional_vertex_to_surface_distance_m": 5.960464477539063e-08,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Front guard hoop 0.08",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 1024,
+          "triangles_glb": 1024
+        },
+        {
+          "name": "Front guard hoop 0.125",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 1024,
+          "triangles_glb": 1024
+        },
+        {
+          "name": "Front guard hoop 0.168",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 1024,
+          "triangles_glb": 1024
+        },
+        {
+          "name": "Front guard spoke 0",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Front guard spoke 1",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Front guard spoke 10",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Front guard spoke 11",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Front guard spoke 12",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Front guard spoke 13",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Front guard spoke 14",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Front guard spoke 15",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Front guard spoke 16",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Front guard spoke 17",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Front guard spoke 18",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Front guard spoke 19",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Front guard spoke 2",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Front guard spoke 20",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Front guard spoke 21",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Front guard spoke 22",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Front guard spoke 23",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Front guard spoke 24",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Front guard spoke 25",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Front guard spoke 26",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Front guard spoke 27",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Front guard spoke 28",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Front guard spoke 29",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Front guard spoke 3",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Front guard spoke 30",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Front guard spoke 31",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Front guard spoke 32",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Front guard spoke 33",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Front guard spoke 34",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Front guard spoke 35",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Front guard spoke 36",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Front guard spoke 37",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Front guard spoke 38",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Front guard spoke 39",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Front guard spoke 4",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Front guard spoke 5",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Front guard spoke 6",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Front guard spoke 7",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Front guard spoke 8",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Front guard spoke 9",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Guard retaining rim -0.014",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 1024,
+          "triangles_glb": 1024
+        },
+        {
+          "name": "Guard retaining rim 0.014",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 1024,
+          "triangles_glb": 1024
+        },
+        {
+          "name": "Guard rim clip 0",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 44,
+          "triangles_glb": 44
+        },
+        {
+          "name": "Guard rim clip 1",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 44,
+          "triangles_glb": 44
+        },
+        {
+          "name": "Guard rim clip 2",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 44,
+          "triangles_glb": 44
+        },
+        {
+          "name": "Guard rim clip 3",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 44,
+          "triangles_glb": 44
+        },
+        {
+          "name": "Head tilt axle",
+          "max_bidirectional_vertex_to_surface_distance_m": 5.963374150042e-08,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Motor casing",
+          "max_bidirectional_vertex_to_surface_distance_m": 6.143906006172983e-08,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Motor shaft",
+          "max_bidirectional_vertex_to_surface_distance_m": 5.972094641037984e-08,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Neck head carrier",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Oscillation selector cap",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Oscillation selector stem",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Rear base strain relief",
+          "max_bidirectional_vertex_to_surface_distance_m": 1.5017125321037383e-08,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Rear guard hoop 0.08",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 1024,
+          "triangles_glb": 1024
+        },
+        {
+          "name": "Rear guard hoop 0.125",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 1024,
+          "triangles_glb": 1024
+        },
+        {
+          "name": "Rear guard hoop 0.168",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 1024,
+          "triangles_glb": 1024
+        },
+        {
+          "name": "Rear guard mounting boss",
+          "max_bidirectional_vertex_to_surface_distance_m": 5.972094641037984e-08,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Rear guard spoke 0",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Rear guard spoke 1",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Rear guard spoke 10",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Rear guard spoke 11",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Rear guard spoke 12",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Rear guard spoke 13",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Rear guard spoke 14",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Rear guard spoke 15",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Rear guard spoke 16",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Rear guard spoke 17",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Rear guard spoke 18",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Rear guard spoke 19",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Rear guard spoke 2",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Rear guard spoke 20",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Rear guard spoke 21",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Rear guard spoke 22",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Rear guard spoke 23",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Rear guard spoke 24",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Rear guard spoke 25",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Rear guard spoke 26",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Rear guard spoke 27",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Rear guard spoke 28",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Rear guard spoke 29",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Rear guard spoke 3",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Rear guard spoke 30",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Rear guard spoke 31",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Rear guard spoke 32",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Rear guard spoke 33",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Rear guard spoke 34",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Rear guard spoke 35",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Rear guard spoke 36",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Rear guard spoke 37",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Rear guard spoke 38",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Rear guard spoke 39",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Rear guard spoke 4",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Rear guard spoke 5",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Rear guard spoke 6",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Rear guard spoke 7",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Rear guard spoke 8",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Rear guard spoke 9",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 80,
+          "triangles_glb": 80
+        },
+        {
+          "name": "Rear motor cap",
+          "max_bidirectional_vertex_to_surface_distance_m": 5.960464477539063e-08,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Rotor blade 1",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 116,
+          "triangles_glb": 116
+        },
+        {
+          "name": "Rotor blade 2",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 116,
+          "triangles_glb": 116
+        },
+        {
+          "name": "Rotor blade 3",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 116,
+          "triangles_glb": 116
+        },
+        {
+          "name": "Rotor blade 4",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 116,
+          "triangles_glb": 116
+        },
+        {
+          "name": "Rotor blade 5",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 116,
+          "triangles_glb": 116
+        },
+        {
+          "name": "Rotor blade 6",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 116,
+          "triangles_glb": 116
+        },
+        {
+          "name": "Rotor blade 7",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 116,
+          "triangles_glb": 116
+        },
+        {
+          "name": "Rotor hub",
+          "max_bidirectional_vertex_to_surface_distance_m": 5.986600370988526e-08,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Rotor spindle cap",
+          "max_bidirectional_vertex_to_surface_distance_m": 5.963374150042e-08,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Tilt pivot cap -1",
+          "max_bidirectional_vertex_to_surface_distance_m": 1.6763806343078613e-08,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Tilt pivot cap 1",
+          "max_bidirectional_vertex_to_surface_distance_m": 1.6763806343078613e-08,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        }
+      ],
+      "max_distance_m": 6.143906006172983e-08
+    }
+  ]
+}

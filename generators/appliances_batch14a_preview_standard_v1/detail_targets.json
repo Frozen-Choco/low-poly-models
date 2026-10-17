@@ -1,0 +1,62 @@
+{
+  "toaster": {
+    "close_up": {
+      "direction": [
+        1,
+        -2,
+        1.7
+      ],
+      "target_m": [
+        0,
+        -0.065,
+        0.163
+      ],
+      "span_m": 0.23,
+      "purpose": "Real open bread apertures, interior cage and lever guide"
+    },
+    "underside_detail": {
+      "direction": [
+        1,
+        1,
+        -1.5
+      ],
+      "target_m": [
+        0,
+        0.05,
+        0.025
+      ],
+      "span_m": 0.24,
+      "purpose": "Feet, tray exit, rear tray grip and base thickness"
+    }
+  },
+  "electric_fan": {
+    "close_up": {
+      "direction": [
+        1,
+        -2,
+        0.5
+      ],
+      "target_m": [
+        0,
+        0,
+        0.655
+      ],
+      "span_m": 0.39,
+      "purpose": "Open guard wires, seven solid pitched blades and central hub"
+    },
+    "underside_detail": {
+      "direction": [
+        1,
+        2,
+        0.2
+      ],
+      "target_m": [
+        0,
+        0.1,
+        0.599
+      ],
+      "span_m": 0.25,
+      "purpose": "Motor mount, head tilt trunnion, stem and guard clearance"
+    }
+  }
+}

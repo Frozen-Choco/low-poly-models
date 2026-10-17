@@ -1,0 +1,58 @@
+{
+  "description": "7枚羽根の床置き扇風機。実厚の開いたガード、ピッチ付き羽根、支柱、首振りつまみと台座。 全体寸法は約34.6×32.8×82.8cm。部品別に編集できる静的モデル。通電・加熱・送風は再現していません。",
+  "reference_dimensions_m": [
+    0.345,
+    0.34,
+    0.965
+  ],
+  "mechanism": "Fixed-height static generic fan. Rotor parts separately editable; clearance must accommodate full rotation. Tilt and oscillation represented mechanically but not rigged. Spiral grille generalized to radial wires; cable beyond strain relief omitted.",
+  "id": "electric_fan",
+  "title_ja": "扇風機",
+  "revision": 3,
+  "dimensions_m": [
+    0.3460000157356262,
+    0.328000009059906,
+    0.828000009059906
+  ],
+  "triangles": 36896,
+  "units": "meter",
+  "up_axis_blend": "Z",
+  "up_axis_glb": "Y",
+  "review_status": "Independent geometry, full canonical photography and exact source package gates passed",
+  "photography_status": "22 canonical views complete across 2 assets",
+  "files": {
+    "blend": {
+      "bytes": 447143,
+      "sha256": "1af55fa92e77f832dfc6c838d0157fa7038dcfcde83ff2cd2ab3c1fd4974164c"
+    },
+    "glb": {
+      "bytes": 1131864,
+      "sha256": "ec7b3faa77535401268f245e7b7f27d1935ed5624989008b6849894188bd80ad"
+    }
+  },
+  "photography": {
+    "standard": "preview_standard_v1",
+    "views": [
+      "preview",
+      "back",
+      "front",
+      "rear",
+      "side",
+      "left",
+      "top",
+      "underside",
+      "close_up",
+      "underside_detail",
+      "alternate_light"
+    ],
+    "records": "../../../generators/appliances_batch14a_preview_standard_v1/records/electric_fan"
+  },
+  "independent_review": {
+    "technical_status": "approved",
+    "scope": "Independent saved geometry, canonical photography and exact source package acceptance. Static visual diorama appliances; no electrical machinery, heating/airflow simulation or safety certification.",
+    "report": "reviews/toaster_fan_integration/source_package_approval.json",
+    "report_sha256": "22aedd3b36343cc90c44756d404ab8868e06b44b40f726920c36d45fe6c9c1e1",
+    "source_manifest_sha256": "7a5c6ab7162b1d648dcb79c5244ec7488b9886f1336ce8d6a990c85fb1b71539",
+    "path_base": "repository root"
+  }
+}

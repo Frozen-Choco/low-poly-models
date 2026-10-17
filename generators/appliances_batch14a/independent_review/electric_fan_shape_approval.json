@@ -1,0 +1,114 @@
+{
+  "decision": "PASS_SHAPE_GATE",
+  "asset": "electric_fan",
+  "revision": 3,
+  "files": [
+    {
+      "path": "lowpoly_batch14a/assets/electric_fan/electric_fan.blend",
+      "sha256": "1af55fa92e77f832dfc6c838d0157fa7038dcfcde83ff2cd2ab3c1fd4974164c",
+      "bytes": 447143
+    },
+    {
+      "path": "lowpoly_batch14a/assets/electric_fan/electric_fan.glb",
+      "sha256": "ec7b3faa77535401268f245e7b7f27d1935ed5624989008b6849894188bd80ad",
+      "bytes": 1131864
+    }
+  ],
+  "views": [
+    {
+      "path": "lowpoly_batch14a/evidence/diagnostics_rev3/electric_fan/blend/front.png",
+      "sha256": "92d206474857702f681a8eedf51be2a73c93aeca9a2fcdc8d554d67599bbff0e",
+      "original_resolution_viewed": true,
+      "review_method": "Individually viewed original1200px pixels"
+    },
+    {
+      "path": "lowpoly_batch14a/evidence/diagnostics_rev3/electric_fan/blend/back.png",
+      "sha256": "6ecc19b864da63e58113af55add45378a3801daa4c7a1840c63ecf321f9afed7",
+      "original_resolution_viewed": true,
+      "review_method": "Individually viewed original1200px pixels"
+    },
+    {
+      "path": "lowpoly_batch14a/evidence/diagnostics_rev3/electric_fan/blend/side.png",
+      "sha256": "3a1d4095f77eb7195bbd27a7c4ec2702327196b5afcb210d2649dee2b1db8705",
+      "original_resolution_viewed": true,
+      "review_method": "Individually viewed original1200px pixels"
+    },
+    {
+      "path": "lowpoly_batch14a/evidence/diagnostics_rev3/electric_fan/blend/top.png",
+      "sha256": "5bc04e2de239e4673dd9038eaa55b3d47cb3c119721b0b858f13a37b7c950ca1",
+      "original_resolution_viewed": true,
+      "review_method": "Individually viewed original1200px pixels"
+    },
+    {
+      "path": "lowpoly_batch14a/evidence/diagnostics_rev3/electric_fan/blend/underside.png",
+      "sha256": "d65969c149cf02a4d51f4240665dd71bd8aa9ddad30f9e0c3786b9871fd3bdaa",
+      "original_resolution_viewed": true,
+      "review_method": "Individually viewed original1200px pixels"
+    },
+    {
+      "path": "lowpoly_batch14a/evidence/diagnostics_rev3/electric_fan/blend/close_up.png",
+      "sha256": "cbf4a0a46b53de7e6185928f273dd8933a3b554d26eaf5b84f3aef390d06ccf2",
+      "original_resolution_viewed": true,
+      "review_method": "Individually viewed original1200px pixels"
+    },
+    {
+      "path": "lowpoly_batch14a/evidence/diagnostics_rev3/electric_fan/blend/structure.png",
+      "sha256": "9b3a9d127c44ee10405debb016266c06fa538dd8763c6e59e92e9dca4a9545d2",
+      "original_resolution_viewed": true,
+      "review_method": "Individually viewed original1200px pixels"
+    },
+    {
+      "path": "lowpoly_batch14a/evidence/diagnostics_rev3/electric_fan/glb/front.png",
+      "sha256": "6f8ef5a2d6776fb8f7eafbeab8d7614ea25805375a21f38e00b9cd1bf6b08a27",
+      "original_resolution_viewed": true,
+      "review_method": "Individually viewed original1200px pixels"
+    },
+    {
+      "path": "lowpoly_batch14a/evidence/diagnostics_rev3/electric_fan/glb/back.png",
+      "sha256": "a1ae618ed18c10a6ec3fe51a4a2b6ca8067f9018f0b144007d2e5e8d59d5fd7f",
+      "original_resolution_viewed": true,
+      "review_method": "Individually viewed original1200px pixels"
+    },
+    {
+      "path": "lowpoly_batch14a/evidence/diagnostics_rev3/electric_fan/glb/side.png",
+      "sha256": "a1faa494afa2e3c9c8ea5e8a6a282064a8ddf98d02e5fb5be9b7f7aa4b565611",
+      "original_resolution_viewed": true,
+      "review_method": "Individually viewed original1200px pixels"
+    },
+    {
+      "path": "lowpoly_batch14a/evidence/diagnostics_rev3/electric_fan/glb/top.png",
+      "sha256": "a4bbdffa74958e95c5385094a75a5398aac0990a0984fdbb59202e0af523decb",
+      "original_resolution_viewed": true,
+      "review_method": "Individually viewed original1200px pixels"
+    },
+    {
+      "path": "lowpoly_batch14a/evidence/diagnostics_rev3/electric_fan/glb/underside.png",
+      "sha256": "8208df8277ad6cdb0fe145ab0d2030bf4ed787722811c5241d507ea394f7e2f0",
+      "original_resolution_viewed": true,
+      "review_method": "Individually viewed original1200px pixels"
+    },
+    {
+      "path": "lowpoly_batch14a/evidence/diagnostics_rev3/electric_fan/glb/close_up.png",
+      "sha256": "a3101a3ca4ffdcf9b32abc23958b5a08c61f32f588abd05527e81c659597baa6",
+      "original_resolution_viewed": true,
+      "review_method": "Individually viewed original1200px pixels"
+    },
+    {
+      "path": "lowpoly_batch14a/evidence/diagnostics_rev3/electric_fan/glb/structure.png",
+      "sha256": "31f7cd8a134ace12e7c7085b07eb35744a02114835aef3f308d77e174c3a15da",
+      "original_resolution_viewed": true,
+      "review_method": "Individually viewed original1200px pixels"
+    }
+  ],
+  "checks": [
+    "Both saved formats:128closed positive-volume manifold meshes,finite coordinates,zero degenerate/duplicate/self-intersecting faces",
+    "250direct-plane coplanar pairs are solely opposed-normal concealed foot/base seating contacts",
+    "All remaining cross-object intersections classified as guard welds/clip engagements,coaxial embedded shafts or fastening/support joints; column now behind cage",
+    "Seven pitched solid blades clear all fixed parts in180independent rotation samples per format; radial/axial envelope remains inside cage",
+    "All14diagnostic views individually original1200px inspected,including rear neck and underside",
+    "Blend/GLB bidirectional vertex-to-surface maximum6.15e-8m,materials agree",
+    "Independent isolated source regeneration produces byte-identical GLB"
+  ],
+  "blocking_findings": [],
+  "authorizes": "Only exact listed source bytes may proceed to frozen canonical photography under parent CPU allocation. Final photographs and package require separate acceptance."
+}

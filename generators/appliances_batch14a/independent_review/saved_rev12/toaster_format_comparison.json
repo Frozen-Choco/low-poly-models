@@ -1,0 +1,538 @@
+{
+  "asset": "toaster",
+  "source_hashes": {
+    "blend": "1e5a0e399e405bd20bb4dd0ba76e1e73642afcd4dc594b87d69c4bb6f2385dd3",
+    "glb": "8c215031ec9b3c822ba19f497d626d51c2a93e3e3fd3cd91f161a25815e6e46c"
+  },
+  "poses": [
+    {
+      "frame": 1,
+      "missing_names": [],
+      "objects": [
+        {
+          "name": "Bread cage end plate (-0.037, -0.092)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Bread cage end plate (-0.037, 0.092)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Bread cage end plate (0.037, -0.092)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Bread cage end plate (0.037, 0.092)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Bread cage vertical wire (-0.037, -1, -0.068)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 28,
+          "triangles_glb": 28
+        },
+        {
+          "name": "Bread cage vertical wire (-0.037, -1, 0)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 28,
+          "triangles_glb": 28
+        },
+        {
+          "name": "Bread cage vertical wire (-0.037, -1, 0.068)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 28,
+          "triangles_glb": 28
+        },
+        {
+          "name": "Bread cage vertical wire (-0.037, 1, -0.068)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 28,
+          "triangles_glb": 28
+        },
+        {
+          "name": "Bread cage vertical wire (-0.037, 1, 0)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 28,
+          "triangles_glb": 28
+        },
+        {
+          "name": "Bread cage vertical wire (-0.037, 1, 0.068)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 28,
+          "triangles_glb": 28
+        },
+        {
+          "name": "Bread cage vertical wire (0.037, -1, -0.068)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 28,
+          "triangles_glb": 28
+        },
+        {
+          "name": "Bread cage vertical wire (0.037, -1, 0)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 28,
+          "triangles_glb": 28
+        },
+        {
+          "name": "Bread cage vertical wire (0.037, -1, 0.068)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 28,
+          "triangles_glb": 28
+        },
+        {
+          "name": "Bread cage vertical wire (0.037, 1, -0.068)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 28,
+          "triangles_glb": 28
+        },
+        {
+          "name": "Bread cage vertical wire (0.037, 1, 0)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 28,
+          "triangles_glb": 28
+        },
+        {
+          "name": "Bread cage vertical wire (0.037, 1, 0.068)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 28,
+          "triangles_glb": 28
+        },
+        {
+          "name": "Bread carrier floor -0.037",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Bread carrier floor 0.037",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Bread centering rail (-0.037, -1)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 28,
+          "triangles_glb": 28
+        },
+        {
+          "name": "Bread centering rail (-0.037, 1)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 28,
+          "triangles_glb": 28
+        },
+        {
+          "name": "Bread centering rail (0.037, -1)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 28,
+          "triangles_glb": 28
+        },
+        {
+          "name": "Bread centering rail (0.037, 1)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 28,
+          "triangles_glb": 28
+        },
+        {
+          "name": "Browning dial",
+          "max_bidirectional_vertex_to_surface_distance_m": 7.450580596923828e-09,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Browning dial spindle",
+          "max_bidirectional_vertex_to_surface_distance_m": 1.5359765015432458e-08,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Cage bridge above tray -0.092",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Cage bridge above tray 0.092",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Cage outer support (-0.0718, -0.092)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Cage outer support (-0.0718, 0.092)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Cage outer support (0.0718, -0.092)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Cage outer support (0.0718, 0.092)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Carrier connecting crossbar",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Carrier lift link",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Chassis support boss (-0.06, -0.108)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Chassis support boss (-0.06, 0.108)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Chassis support boss (0.06, -0.108)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Chassis support boss (0.06, 0.108)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Cold heater ribbon (-0.018, 0.053)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Cold heater ribbon (-0.018, 0.075)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Cold heater ribbon (-0.018, 0.097)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Cold heater ribbon (-0.018, 0.119)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Cold heater ribbon (-0.018, 0.141)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Cold heater ribbon (-0.018, 0.163)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Cold heater ribbon (-0.018, 0.179)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Cold heater ribbon (-0.056, 0.053)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Cold heater ribbon (-0.056, 0.075)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Cold heater ribbon (-0.056, 0.097)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Cold heater ribbon (-0.056, 0.119)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Cold heater ribbon (-0.056, 0.141)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Cold heater ribbon (-0.056, 0.163)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Cold heater ribbon (-0.056, 0.179)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Cold heater ribbon (0.018, 0.053)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Cold heater ribbon (0.018, 0.075)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Cold heater ribbon (0.018, 0.097)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Cold heater ribbon (0.018, 0.119)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Cold heater ribbon (0.018, 0.141)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Cold heater ribbon (0.018, 0.163)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Cold heater ribbon (0.018, 0.179)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Cold heater ribbon (0.056, 0.053)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Cold heater ribbon (0.056, 0.075)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Cold heater ribbon (0.056, 0.097)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Cold heater ribbon (0.056, 0.119)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Cold heater ribbon (0.056, 0.141)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Cold heater ribbon (0.056, 0.163)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Cold heater ribbon (0.056, 0.179)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Continuous chrome shell",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 632,
+          "triangles_glb": 632
+        },
+        {
+          "name": "Crumb tray connecting tang",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Crumb tray pan",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Crumb tray rear grip",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Dial raised index",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Foot (-0.056, -0.108)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Foot (-0.056, 0.108)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Foot (0.056, -0.108)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Foot (0.056, 0.108)",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Function button 0.012",
+          "max_bidirectional_vertex_to_surface_distance_m": 3.725290298461914e-09,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Function button 0.037",
+          "max_bidirectional_vertex_to_surface_distance_m": 3.725290298461914e-09,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Lever guide rail",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Lever horizontal stem",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Lever slider",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Lever thumb pad",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Mica heating panel -0.018",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Mica heating panel -0.056",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Mica heating panel 0.018",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Mica heating panel 0.056",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Moulded base",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 600,
+          "triangles_glb": 600
+        },
+        {
+          "name": "Rear cable strain relief",
+          "max_bidirectional_vertex_to_surface_distance_m": 1.862645149230957e-09,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        },
+        {
+          "name": "Steel chassis deck",
+          "max_bidirectional_vertex_to_surface_distance_m": 0.0,
+          "triangles_blend": 300,
+          "triangles_glb": 300
+        },
+        {
+          "name": "Unlit status lens",
+          "max_bidirectional_vertex_to_surface_distance_m": 3.725290298461914e-09,
+          "triangles_blend": 764,
+          "triangles_glb": 764
+        }
+      ],
+      "max_distance_m": 1.5359765015432458e-08
+    }
+  ]
+}

@@ -1,0 +1,466 @@
+{
+  "decision": "PASS",
+  "old_sha256": "d1990d5b183193d8264dca0d4caf0343599ed4f3e8440cf1099bfc87410e3fd9",
+  "candidate_sha256": "8c215031ec9b3c822ba19f497d626d51c2a93e3e3fd3cd91f161a25815e6e46c",
+  "checks": [
+    "All named scene transforms and materials identical",
+    "Every oriented triangle with position and UV matches exactly; all non-shell normals also match exactly",
+    "Only shell split normals changed; previous8\u20139degree side-border discontinuities are absent"
+  ],
+  "meshes": [
+    {
+      "object": "Foot (-0.056, -0.108)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Foot (-0.056, 0.108)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Foot (0.056, -0.108)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Foot (0.056, 0.108)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Moulded base",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Chassis support boss (-0.06, -0.108)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Chassis support boss (-0.06, 0.108)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Chassis support boss (0.06, -0.108)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Chassis support boss (0.06, 0.108)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Continuous chrome shell",
+      "geometry_uv_material_exact": true,
+      "normals_exact": false
+    },
+    {
+      "object": "Steel chassis deck",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Crumb tray pan",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Crumb tray rear grip",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Crumb tray connecting tang",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Mica heating panel -0.056",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Cold heater ribbon (-0.056, 0.053)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Cold heater ribbon (-0.056, 0.075)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Cold heater ribbon (-0.056, 0.097)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Cold heater ribbon (-0.056, 0.119)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Cold heater ribbon (-0.056, 0.141)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Cold heater ribbon (-0.056, 0.163)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Cold heater ribbon (-0.056, 0.179)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Mica heating panel -0.018",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Cold heater ribbon (-0.018, 0.053)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Cold heater ribbon (-0.018, 0.075)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Cold heater ribbon (-0.018, 0.097)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Cold heater ribbon (-0.018, 0.119)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Cold heater ribbon (-0.018, 0.141)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Cold heater ribbon (-0.018, 0.163)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Cold heater ribbon (-0.018, 0.179)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Mica heating panel 0.018",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Cold heater ribbon (0.018, 0.053)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Cold heater ribbon (0.018, 0.075)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Cold heater ribbon (0.018, 0.097)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Cold heater ribbon (0.018, 0.119)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Cold heater ribbon (0.018, 0.141)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Cold heater ribbon (0.018, 0.163)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Cold heater ribbon (0.018, 0.179)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Mica heating panel 0.056",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Cold heater ribbon (0.056, 0.053)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Cold heater ribbon (0.056, 0.075)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Cold heater ribbon (0.056, 0.097)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Cold heater ribbon (0.056, 0.119)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Cold heater ribbon (0.056, 0.141)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Cold heater ribbon (0.056, 0.163)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Cold heater ribbon (0.056, 0.179)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Bread carrier floor -0.037",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Bread cage end plate (-0.037, -0.092)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Bread cage end plate (-0.037, 0.092)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Bread centering rail (-0.037, -1)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Bread cage vertical wire (-0.037, -1, -0.068)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Bread cage vertical wire (-0.037, -1, 0)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Bread cage vertical wire (-0.037, -1, 0.068)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Bread centering rail (-0.037, 1)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Bread cage vertical wire (-0.037, 1, -0.068)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Bread cage vertical wire (-0.037, 1, 0)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Bread cage vertical wire (-0.037, 1, 0.068)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Bread carrier floor 0.037",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Bread cage end plate (0.037, -0.092)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Bread cage end plate (0.037, 0.092)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Bread centering rail (0.037, -1)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Bread cage vertical wire (0.037, -1, -0.068)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Bread cage vertical wire (0.037, -1, 0)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Bread cage vertical wire (0.037, -1, 0.068)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Bread centering rail (0.037, 1)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Bread cage vertical wire (0.037, 1, -0.068)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Bread cage vertical wire (0.037, 1, 0)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Bread cage vertical wire (0.037, 1, 0.068)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Cage bridge above tray -0.092",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Cage outer support (-0.0718, -0.092)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Cage outer support (0.0718, -0.092)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Cage bridge above tray 0.092",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Cage outer support (-0.0718, 0.092)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Cage outer support (0.0718, 0.092)",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Lever guide rail",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Carrier connecting crossbar",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Carrier lift link",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Lever slider",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Lever horizontal stem",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Lever thumb pad",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Browning dial spindle",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Browning dial",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Dial raised index",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Function button 0.012",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Function button 0.037",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Unlit status lens",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    },
+    {
+      "object": "Rear cable strain relief",
+      "geometry_uv_material_exact": true,
+      "normals_exact": true
+    }
+  ],
+  "unexpected_side_split_discontinuities_above1degree": [],
+  "intentional_bottom_cut_sharp_edges": [
+    {
+      "position": [
+        0.079,
+        -0.07,
+        0.1085
+      ],
+      "angle": 90.0
+    },
+    {
+      "position": [
+        -0.079,
+        -0.07,
+        -0.1085
+      ],
+      "angle": 90.0
+    }
+  ]
+}

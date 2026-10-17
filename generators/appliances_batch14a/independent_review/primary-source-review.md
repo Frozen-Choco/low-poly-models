@@ -1,0 +1,9 @@
+# Independent primary-source review,2026-10-17
+
+## Pop-up toaster
+Reviewed manufacturer product page https://russellhobbs.jp/product/13766jp independently. Model13766JP is310×165×210mm, made of chrome-plated steel and polypropylene. Chrome plating is not a claim of chromium alloy steel. Two bread slots, vertical lift lever, browning dial, cancel/frozen controls and a sliding crumb tray are documented. Maximum bread165×26×120mm. Viewed manufacturer hero and close slot photographs downloaded by production and matched against the official image URLs. They show rounded metal enclosure, dark foot/base assembly, two genuinely open cavities and interior bread-guide wires. Shell thickness, fastening dimensions and simplified heater/carriage construction are generic design choices rather than manufacturer drawings. No claim of operating electrical or thermal simulation.
+
+## Pedestal fan
+Reviewed official LFA-307-W page https://www.irisohyama.co.jp/products/electrical-appliances/seasonal-appliances/tower-fan-fan/living-fan/living-fan independently. Manufacturer lists345×340×480–965mm,PP/ABS/steel,300mm diameter with7blades, automatic horizontal oscillation and manual vertical adjustment. Viewed downloaded tall and short-height front photos. The production filename fan-back.jpg actually contains the short-height FRONT view; it cannot establish rear connections. Production was notified. Rear housing, joint/fastener dimensions and fixed-height simplification must be separately supported or explicitly generic. Product support page https://www.irisohyama.co.jp/products/support/4967576663779 currently says no matching support information; no manual inferred.
+
+The product photographs are research-only and excluded from final lean payload. These models are generic visual assets, not exact branded reproductions or safety/manufacturing certification.

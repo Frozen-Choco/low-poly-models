@@ -47,7 +47,9 @@
     "bed",
     "sofa",
     "frying_pan",
-    "cooking_pot"
+    "cooking_pot",
+    "toaster",
+    "electric_fan"
   ],
   "pending_assets": [],
   "scope": "Current canonical asset photographs only; historical generator evidence retained."

@@ -1,6 +1,6 @@
 # Low-poly diorama models
 
-現実世界のジオラマに配置するための、形状の自然さと素材の違いを保った、軽量なオリジナル小物集です。現在43モデル。目標は合計1,000モデルです。
+現実世界のジオラマに配置するための、形状の自然さと素材の違いを保った、軽量なオリジナル小物集です。現在45モデル。目標は合計1,000モデルです。
 
 ## 制作基準
 
@@ -222,7 +222,7 @@ generators/batch02bにある旧回収ボックスの生成・検証内容は履�
 
 [材質修正の根拠・生成手順](generators/apple_material_revision/README.md) · [統一撮影基準](generators/preview_standard_v1/README.md)
 
-確認画像を1,200×1,200、共通の背景・照明・露出・画面内比率で統一しました。材質そのものの明暗差は保持します。現在公開している全43モデルの現行確認画像は、この共通基準に統一しています。履歴用の比較・機構検証画像は別管理です。
+確認画像を1,200×1,200、共通の背景・照明・露出・画面内比率で統一しました。材質そのものの明暗差は保持します。現在公開している全45モデルの現行確認画像は、この共通基準に統一しています。履歴用の比較・機構検証画像は別管理です。
 
 ## 追加モデル：スツール・バケツ・掛け時計
 
@@ -404,3 +404,21 @@ GLB・編集用Blend・1,200×1,200の共通撮影画像を同梱しています
 [GLB](assets/kitchen/cooking_pot/cooking_pot.glb) · [Blend](assets/kitchen/cooking_pot/cooking_pot.blend) · [メタデータ](assets/kitchen/cooking_pot/metadata.json)
 
 [資料・再生成手順](generators/cookware_batch13a/README.md) · [レビューと配布情報](docs/reviewed-cookware.md)
+
+## トースター・扇風機
+
+独立レビュー済みのトースターと扇風機を追加。開口スロット・レバー・パン屑トレイや、7枚羽根・開いたガード・支柱・台座を部品別に編集できる静的モデルです。通電・加熱・送風は再現していません。
+
+### トースター
+
+![トースター](assets/appliances/toaster/preview.jpg)
+
+[GLB](assets/appliances/toaster/toaster.glb) · [Blend](assets/appliances/toaster/toaster.blend) · [メタデータ](assets/appliances/toaster/metadata.json)
+
+### 扇風機
+
+![扇風機](assets/appliances/electric_fan/preview.jpg)
+
+[GLB](assets/appliances/electric_fan/electric_fan.glb) · [Blend](assets/appliances/electric_fan/electric_fan.blend) · [メタデータ](assets/appliances/electric_fan/metadata.json)
+
+[資料・再生成手順](generators/appliances_batch14a/README.md) · [レビューと配布情報](docs/reviewed-toaster-fan.md)

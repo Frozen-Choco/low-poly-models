@@ -1,0 +1,1095 @@
+{
+  "source": "/workspace/scratch/a456259dbd5d/lowpoly_batch14a/experiments/normal12/assets/toaster/toaster.blend",
+  "sha256": "1e5a0e399e405bd20bb4dd0ba76e1e73642afcd4dc594b87d69c4bb6f2385dd3",
+  "positive_area_coplanar_pairs": [
+    {
+      "a": [
+        "Moulded base",
+        356
+      ],
+      "b": [
+        "Cage bridge above tray -0.092",
+        2
+      ],
+      "overlap_area_m2": 4.999986737974638e-06,
+      "triangle_average_location": [
+        0.07500000298023224,
+        -0.06591666738192241,
+        0.039866936703523
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Moulded base",
+        356
+      ],
+      "b": [
+        "Cage bridge above tray -0.092",
+        3
+      ],
+      "overlap_area_m2": 4.999986737974638e-06,
+      "triangle_average_location": [
+        0.07500000298023224,
+        -0.06674999992052714,
+        0.03953360393643379
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Moulded base",
+        357
+      ],
+      "b": [
+        "Cage bridge above tray 0.092",
+        2
+      ],
+      "overlap_area_m2": 4.999986737974638e-06,
+      "triangle_average_location": [
+        0.07500000298023224,
+        0.06674999992052714,
+        0.04131720960140228
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Moulded base",
+        357
+      ],
+      "b": [
+        "Cage bridge above tray 0.092",
+        3
+      ],
+      "overlap_area_m2": 4.999986737974638e-06,
+      "triangle_average_location": [
+        0.07500000298023224,
+        0.06591666738192241,
+        0.04098387683431307
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Moulded base",
+        358
+      ],
+      "b": [
+        "Cage bridge above tray -0.092",
+        6
+      ],
+      "overlap_area_m2": 4.999986737974638e-06,
+      "triangle_average_location": [
+        -0.07500000298023224,
+        -0.06674999992052714,
+        0.039866936703523
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Moulded base",
+        358
+      ],
+      "b": [
+        "Cage bridge above tray -0.092",
+        7
+      ],
+      "overlap_area_m2": 4.999986737974638e-06,
+      "triangle_average_location": [
+        -0.07500000298023224,
+        -0.06591666738192241,
+        0.03953360393643379
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Moulded base",
+        359
+      ],
+      "b": [
+        "Cage bridge above tray 0.092",
+        6
+      ],
+      "overlap_area_m2": 4.999986737974638e-06,
+      "triangle_average_location": [
+        -0.07500000298023224,
+        0.06591666738192241,
+        0.04131720960140228
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Moulded base",
+        359
+      ],
+      "b": [
+        "Cage bridge above tray 0.092",
+        7
+      ],
+      "overlap_area_m2": 4.999986737974638e-06,
+      "triangle_average_location": [
+        -0.07500000298023224,
+        0.06674999992052714,
+        0.04098387683431307
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Steel chassis deck",
+        4
+      ],
+      "b": [
+        "Crumb tray pan",
+        298
+      ],
+      "overlap_area_m2": 0.0048720968762048025,
+      "triangle_average_location": [
+        -0.0009499999384085337,
+        0.034633332242568336,
+        0.036500001326203346
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Steel chassis deck",
+        4
+      ],
+      "b": [
+        "Crumb tray pan",
+        299
+      ],
+      "overlap_area_m2": 0.006423383435684844,
+      "triangle_average_location": [
+        -0.02355000004172325,
+        0.006866664936145146,
+        0.036500001326203346
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Steel chassis deck",
+        5
+      ],
+      "b": [
+        "Crumb tray pan",
+        298
+      ],
+      "overlap_area_m2": 0.006423383435684844,
+      "triangle_average_location": [
+        0.02355000004172325,
+        -0.006866664936145146,
+        0.036500001326203346
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Steel chassis deck",
+        5
+      ],
+      "b": [
+        "Crumb tray pan",
+        299
+      ],
+      "overlap_area_m2": 0.004872096876204807,
+      "triangle_average_location": [
+        0.0009499999384085337,
+        -0.034633332242568336,
+        0.036500001326203346
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (-0.037, -0.092)",
+        8
+      ],
+      "b": [
+        "Bread centering rail (-0.037, -1)",
+        16
+      ],
+      "overlap_area_m2": 1.3255156411373648e-07,
+      "triangle_average_location": [
+        -0.04657238659759363,
+        -0.09099999815225601,
+        0.14944428329666457
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (-0.037, -0.092)",
+        8
+      ],
+      "b": [
+        "Bread centering rail (-0.037, -1)",
+        17
+      ],
+      "overlap_area_m2": 1.3255156411373648e-07,
+      "triangle_average_location": [
+        -0.0470276145885388,
+        -0.09099999815225601,
+        0.14944428329666457
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (-0.037, -0.092)",
+        8
+      ],
+      "b": [
+        "Bread centering rail (-0.037, -1)",
+        18
+      ],
+      "overlap_area_m2": 1.3255156411373648e-07,
+      "triangle_average_location": [
+        -0.0470276145885388,
+        -0.09099999815225601,
+        0.14898905282219252
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (-0.037, -0.092)",
+        8
+      ],
+      "b": [
+        "Bread centering rail (-0.037, -1)",
+        19
+      ],
+      "overlap_area_m2": 1.3255156411373648e-07,
+      "triangle_average_location": [
+        -0.04657238659759363,
+        -0.09099999815225601,
+        0.14898905282219252
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (-0.037, -0.092)",
+        8
+      ],
+      "b": [
+        "Bread centering rail (-0.037, -1)",
+        20
+      ],
+      "overlap_area_m2": 6.399978256244054e-07,
+      "triangle_average_location": [
+        -0.046800000593066216,
+        -0.09099999815225601,
+        0.1493500011662642
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (-0.037, -0.092)",
+        8
+      ],
+      "b": [
+        "Bread centering rail (-0.037, -1)",
+        21
+      ],
+      "overlap_area_m2": 6.399978256244054e-07,
+      "triangle_average_location": [
+        -0.046800000593066216,
+        -0.09099999815225601,
+        0.14908333495259285
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (-0.037, -0.092)",
+        9
+      ],
+      "b": [
+        "Bread centering rail (-0.037, 1)",
+        16
+      ],
+      "overlap_area_m2": 1.3255134589940099e-07,
+      "triangle_average_location": [
+        -0.026972386054694653,
+        -0.09099999815225601,
+        0.12501094738642374
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (-0.037, -0.092)",
+        9
+      ],
+      "b": [
+        "Bread centering rail (-0.037, 1)",
+        17
+      ],
+      "overlap_area_m2": 1.3255134589940099e-07,
+      "triangle_average_location": [
+        -0.02742761466652155,
+        -0.09099999815225601,
+        0.12501094738642374
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (-0.037, -0.092)",
+        9
+      ],
+      "b": [
+        "Bread centering rail (-0.037, 1)",
+        18
+      ],
+      "overlap_area_m2": 1.3255134589940099e-07,
+      "triangle_average_location": [
+        -0.02742761466652155,
+        -0.09099999815225601,
+        0.1245557169119517
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (-0.037, -0.092)",
+        9
+      ],
+      "b": [
+        "Bread centering rail (-0.037, 1)",
+        19
+      ],
+      "overlap_area_m2": 1.3255134589940099e-07,
+      "triangle_average_location": [
+        -0.026972386054694653,
+        -0.09099999815225601,
+        0.1245557169119517
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (-0.037, -0.092)",
+        9
+      ],
+      "b": [
+        "Bread centering rail (-0.037, 1)",
+        20
+      ],
+      "overlap_area_m2": 6.399993157379935e-07,
+      "triangle_average_location": [
+        -0.0272000003606081,
+        -0.09099999815225601,
+        0.12491666525602341
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Bread cage end plate (-0.037, -0.092)",
+        9
+      ],
+      "b": [
+        "Bread centering rail (-0.037, 1)",
+        21
+      ],
+      "overlap_area_m2": 6.399993157379935e-07,
+      "triangle_average_location": [
+        -0.0272000003606081,
+        -0.09099999815225601,
+        0.12464999904235204
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Bread cage end plate (0.037, -0.092)",
+        8
+      ],
+      "b": [
+        "Bread centering rail (0.037, -1)",
+        16
+      ],
+      "overlap_area_m2": 1.3255134589918414e-07,
+      "triangle_average_location": [
+        0.02742761466652155,
+        -0.09099999815225601,
+        0.14944428329666457
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (0.037, -0.092)",
+        8
+      ],
+      "b": [
+        "Bread centering rail (0.037, -1)",
+        17
+      ],
+      "overlap_area_m2": 1.3255134589940099e-07,
+      "triangle_average_location": [
+        0.026972386054694653,
+        -0.09099999815225601,
+        0.14944428329666457
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (0.037, -0.092)",
+        8
+      ],
+      "b": [
+        "Bread centering rail (0.037, -1)",
+        18
+      ],
+      "overlap_area_m2": 1.3255134589940099e-07,
+      "triangle_average_location": [
+        0.026972386054694653,
+        -0.09099999815225601,
+        0.14898905282219252
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (0.037, -0.092)",
+        8
+      ],
+      "b": [
+        "Bread centering rail (0.037, -1)",
+        19
+      ],
+      "overlap_area_m2": 1.3255134589940099e-07,
+      "triangle_average_location": [
+        0.02742761466652155,
+        -0.09099999815225601,
+        0.14898905282219252
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (0.037, -0.092)",
+        8
+      ],
+      "b": [
+        "Bread centering rail (0.037, -1)",
+        20
+      ],
+      "overlap_area_m2": 6.399993157379935e-07,
+      "triangle_average_location": [
+        0.0272000003606081,
+        -0.09099999815225601,
+        0.1493500011662642
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Bread cage end plate (0.037, -0.092)",
+        8
+      ],
+      "b": [
+        "Bread centering rail (0.037, -1)",
+        21
+      ],
+      "overlap_area_m2": 6.399993157379935e-07,
+      "triangle_average_location": [
+        0.0272000003606081,
+        -0.09099999815225601,
+        0.14908333495259285
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Bread cage end plate (0.037, -0.092)",
+        9
+      ],
+      "b": [
+        "Bread centering rail (0.037, 1)",
+        16
+      ],
+      "overlap_area_m2": 1.3255156411373648e-07,
+      "triangle_average_location": [
+        0.0470276145885388,
+        -0.09099999815225601,
+        0.12501094738642374
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (0.037, -0.092)",
+        9
+      ],
+      "b": [
+        "Bread centering rail (0.037, 1)",
+        17
+      ],
+      "overlap_area_m2": 1.3255156411373648e-07,
+      "triangle_average_location": [
+        0.04657238659759363,
+        -0.09099999815225601,
+        0.12501094738642374
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (0.037, -0.092)",
+        9
+      ],
+      "b": [
+        "Bread centering rail (0.037, 1)",
+        18
+      ],
+      "overlap_area_m2": 1.3255156411373648e-07,
+      "triangle_average_location": [
+        0.04657238659759363,
+        -0.09099999815225601,
+        0.1245557169119517
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (0.037, -0.092)",
+        9
+      ],
+      "b": [
+        "Bread centering rail (0.037, 1)",
+        19
+      ],
+      "overlap_area_m2": 1.3255156411373648e-07,
+      "triangle_average_location": [
+        0.0470276145885388,
+        -0.09099999815225601,
+        0.1245557169119517
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (0.037, -0.092)",
+        9
+      ],
+      "b": [
+        "Bread centering rail (0.037, 1)",
+        20
+      ],
+      "overlap_area_m2": 6.399978256244054e-07,
+      "triangle_average_location": [
+        0.046800000593066216,
+        -0.09099999815225601,
+        0.12491666525602341
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (0.037, -0.092)",
+        9
+      ],
+      "b": [
+        "Bread centering rail (0.037, 1)",
+        21
+      ],
+      "overlap_area_m2": 6.399978256239718e-07,
+      "triangle_average_location": [
+        0.046800000593066216,
+        -0.09099999815225601,
+        0.12464999904235204
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (-0.037, 0.092)",
+        0
+      ],
+      "b": [
+        "Bread centering rail (-0.037, 1)",
+        22
+      ],
+      "overlap_area_m2": 1.3255040151594066e-07,
+      "triangle_average_location": [
+        -0.026878105166057747,
+        0.09099999815225601,
+        0.14921666805942854
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (-0.037, 0.092)",
+        0
+      ],
+      "b": [
+        "Bread centering rail (-0.037, 1)",
+        23
+      ],
+      "overlap_area_m2": 1.3254338737667126e-07,
+      "triangle_average_location": [
+        -0.0272000003606081,
+        0.09099999815225601,
+        0.14889477069179216
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (-0.037, 0.092)",
+        0
+      ],
+      "b": [
+        "Bread centering rail (-0.037, 1)",
+        24
+      ],
+      "overlap_area_m2": 1.3255040151594066e-07,
+      "triangle_average_location": [
+        -0.027521895555158455,
+        0.09099999815225601,
+        0.14921666805942854
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (-0.037, 0.092)",
+        0
+      ],
+      "b": [
+        "Bread centering rail (-0.037, 1)",
+        25
+      ],
+      "overlap_area_m2": 1.3254338737667126e-07,
+      "triangle_average_location": [
+        -0.0272000003606081,
+        0.09099999815225601,
+        0.1495385654270649
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (-0.037, 0.092)",
+        0
+      ],
+      "b": [
+        "Bread centering rail (-0.037, 1)",
+        26
+      ],
+      "overlap_area_m2": 6.400082186441836e-07,
+      "triangle_average_location": [
+        -0.027105719471971195,
+        0.09099999815225601,
+        0.14912238592902818
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (-0.037, 0.092)",
+        0
+      ],
+      "b": [
+        "Bread centering rail (-0.037, 1)",
+        27
+      ],
+      "overlap_area_m2": 6.400082186441836e-07,
+      "triangle_average_location": [
+        -0.027294281249245007,
+        0.09099999815225601,
+        0.14931095018982887
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (-0.037, 0.092)",
+        1
+      ],
+      "b": [
+        "Bread centering rail (-0.037, -1)",
+        22
+      ],
+      "overlap_area_m2": 1.3254934783102357e-07,
+      "triangle_average_location": [
+        -0.04647810570895672,
+        0.09099999815225601,
+        0.12478333214918773
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (-0.037, 0.092)",
+        1
+      ],
+      "b": [
+        "Bread centering rail (-0.037, -1)",
+        23
+      ],
+      "overlap_area_m2": 1.3254338737667126e-07,
+      "triangle_average_location": [
+        -0.046800000593066216,
+        0.09099999815225601,
+        0.12446143478155136
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (-0.037, 0.092)",
+        1
+      ],
+      "b": [
+        "Bread centering rail (-0.037, -1)",
+        24
+      ],
+      "overlap_area_m2": 1.3254934783102357e-07,
+      "triangle_average_location": [
+        -0.04712189547717571,
+        0.09099999815225601,
+        0.12478333214918773
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (-0.037, 0.092)",
+        1
+      ],
+      "b": [
+        "Bread centering rail (-0.037, -1)",
+        25
+      ],
+      "overlap_area_m2": 1.3254338737667126e-07,
+      "triangle_average_location": [
+        -0.046800000593066216,
+        0.09099999815225601,
+        0.1251052295168241
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (-0.037, 0.092)",
+        1
+      ],
+      "b": [
+        "Bread centering rail (-0.037, -1)",
+        26
+      ],
+      "overlap_area_m2": 6.400082186441836e-07,
+      "triangle_average_location": [
+        -0.046705719704429306,
+        0.09099999815225601,
+        0.12468905001878738
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (-0.037, 0.092)",
+        1
+      ],
+      "b": [
+        "Bread centering rail (-0.037, -1)",
+        27
+      ],
+      "overlap_area_m2": 6.400082186441836e-07,
+      "triangle_average_location": [
+        -0.046894281481703125,
+        0.09099999815225601,
+        0.12487761427958806
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (0.037, 0.092)",
+        0
+      ],
+      "b": [
+        "Bread centering rail (0.037, 1)",
+        22
+      ],
+      "overlap_area_m2": 1.3254934783102357e-07,
+      "triangle_average_location": [
+        0.04712189547717571,
+        0.09099999815225601,
+        0.14921666805942854
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (0.037, 0.092)",
+        0
+      ],
+      "b": [
+        "Bread centering rail (0.037, 1)",
+        23
+      ],
+      "overlap_area_m2": 1.3254338737667126e-07,
+      "triangle_average_location": [
+        0.046800000593066216,
+        0.09099999815225601,
+        0.14889477069179216
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (0.037, 0.092)",
+        0
+      ],
+      "b": [
+        "Bread centering rail (0.037, 1)",
+        24
+      ],
+      "overlap_area_m2": 1.3254934783102357e-07,
+      "triangle_average_location": [
+        0.04647810570895672,
+        0.09099999815225601,
+        0.14921666805942854
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (0.037, 0.092)",
+        0
+      ],
+      "b": [
+        "Bread centering rail (0.037, 1)",
+        25
+      ],
+      "overlap_area_m2": 1.3254338737667126e-07,
+      "triangle_average_location": [
+        0.046800000593066216,
+        0.09099999815225601,
+        0.1495385654270649
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (0.037, 0.092)",
+        0
+      ],
+      "b": [
+        "Bread centering rail (0.037, 1)",
+        26
+      ],
+      "overlap_area_m2": 6.400082186441836e-07,
+      "triangle_average_location": [
+        0.046894281481703125,
+        0.09099999815225601,
+        0.14912238592902818
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (0.037, 0.092)",
+        0
+      ],
+      "b": [
+        "Bread centering rail (0.037, 1)",
+        27
+      ],
+      "overlap_area_m2": 6.400082186441836e-07,
+      "triangle_average_location": [
+        0.046705719704429306,
+        0.09099999815225601,
+        0.14931095018982887
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (0.037, 0.092)",
+        1
+      ],
+      "b": [
+        "Bread centering rail (0.037, -1)",
+        22
+      ],
+      "overlap_area_m2": 1.3255040151594066e-07,
+      "triangle_average_location": [
+        0.027521895555158455,
+        0.09099999815225601,
+        0.12478333214918773
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (0.037, 0.092)",
+        1
+      ],
+      "b": [
+        "Bread centering rail (0.037, -1)",
+        23
+      ],
+      "overlap_area_m2": 1.3254338737667126e-07,
+      "triangle_average_location": [
+        0.0272000003606081,
+        0.09099999815225601,
+        0.12446143478155136
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (0.037, 0.092)",
+        1
+      ],
+      "b": [
+        "Bread centering rail (0.037, -1)",
+        24
+      ],
+      "overlap_area_m2": 1.3255040151594066e-07,
+      "triangle_average_location": [
+        0.026878105166057747,
+        0.09099999815225601,
+        0.12478333214918773
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (0.037, 0.092)",
+        1
+      ],
+      "b": [
+        "Bread centering rail (0.037, -1)",
+        25
+      ],
+      "overlap_area_m2": 1.3254338737667126e-07,
+      "triangle_average_location": [
+        0.0272000003606081,
+        0.09099999815225601,
+        0.1251052295168241
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (0.037, 0.092)",
+        1
+      ],
+      "b": [
+        "Bread centering rail (0.037, -1)",
+        26
+      ],
+      "overlap_area_m2": 6.400082186441836e-07,
+      "triangle_average_location": [
+        0.027294281249245007,
+        0.09099999815225601,
+        0.12468905001878738
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Bread cage end plate (0.037, 0.092)",
+        1
+      ],
+      "b": [
+        "Bread centering rail (0.037, -1)",
+        27
+      ],
+      "overlap_area_m2": 6.400082186441836e-07,
+      "triangle_average_location": [
+        0.027105719471971195,
+        0.09099999815225601,
+        0.12487761427958806
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Browning dial",
+        136
+      ],
+      "b": [
+        "Dial raised index",
+        8
+      ],
+      "overlap_area_m2": 2.1473796510743364e-06,
+      "triangle_average_location": [
+        -0.03104602638632059,
+        -0.14900000393390656,
+        0.06487935843567054
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Browning dial",
+        136
+      ],
+      "b": [
+        "Dial raised index",
+        9
+      ],
+      "overlap_area_m2": 6.944106210289092e-07,
+      "triangle_average_location": [
+        -0.03084602610518535,
+        -0.14900000393390656,
+        0.06401269199947517
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Browning dial",
+        139
+      ],
+      "b": [
+        "Dial raised index",
+        8
+      ],
+      "overlap_area_m2": 5.067790554996341e-07,
+      "triangle_average_location": [
+        -0.02810000100483497,
+        -0.14900000393390656,
+        0.061933333054184914
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Browning dial",
+        139
+      ],
+      "b": [
+        "Dial raised index",
+        9
+      ],
+      "overlap_area_m2": 2.4189160656424126e-06,
+      "triangle_average_location": [
+        -0.02790000072369973,
+        -0.14900000393390656,
+        0.06106666661798954
+      ],
+      "normal_dot": -0.9999999403953552
+    }
+  ],
+  "method": "Direct unoriented-plane grouped triangle pairs, including shared vertices, same mesh and opposite normals; exact 2D polygon clipping; area threshold1e-12m\u00b2, plane tolerance1e-7m."
+}

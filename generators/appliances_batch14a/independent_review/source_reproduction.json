@@ -1,0 +1,23 @@
+{
+  "decision": "PASS",
+  "method": "Independent isolated source copy, fresh Blender process,1thread; exact semantic GLB equivalence. Byte equality or exact oriented geometry/material equality checked per asset.",
+  "script_sha256": "6d5ed1c62aa929dbdac3e29f40c3ddead39714a40a60f769e5dbdf8b0d36cfa4",
+  "results": [
+    {
+      "asset": "toaster",
+      "delivered_sha256": "8c215031ec9b3c822ba19f497d626d51c2a93e3e3fd3cd91f161a25815e6e46c",
+      "regenerated_sha256": "8c215031ec9b3c822ba19f497d626d51c2a93e3e3fd3cd91f161a25815e6e46c",
+      "byte_identical": true,
+      "exact_geometry_material_equivalence": true,
+      "checks": "Identical named scene graph/transforms/extras/materials and all vertex position, normal, UV arrays; exact oriented triangle multiset with winding preserved. Index ordering and buffer sharing ignored only."
+    },
+    {
+      "asset": "electric_fan",
+      "delivered_sha256": "ec7b3faa77535401268f245e7b7f27d1935ed5624989008b6849894188bd80ad",
+      "regenerated_sha256": "ec7b3faa77535401268f245e7b7f27d1935ed5624989008b6849894188bd80ad",
+      "byte_identical": true,
+      "exact_geometry_material_equivalence": true,
+      "checks": "Identical named scene graph/transforms/extras/materials and all vertex position, normal, UV arrays; exact oriented triangle multiset with winding preserved. Index ordering and buffer sharing ignored only."
+    }
+  ]
+}

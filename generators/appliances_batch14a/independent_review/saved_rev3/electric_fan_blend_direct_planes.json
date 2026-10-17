@@ -1,0 +1,4257 @@
+{
+  "source": "/workspace/scratch/a456259dbd5d/lowpoly_batch14a/assets/electric_fan/electric_fan.blend",
+  "sha256": "1af55fa92e77f832dfc6c838d0157fa7038dcfcde83ff2cd2ab3c1fd4974164c",
+  "positive_area_coplanar_pairs": [
+    {
+      "a": [
+        "Base rubber foot 0",
+        94
+      ],
+      "b": [
+        "Base weighted steel plate",
+        8
+      ],
+      "overlap_area_m2": 1.7444847407247624e-07,
+      "triangle_average_location": [
+        0.07627055297295253,
+        0.08492385720213254,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        95
+      ],
+      "b": [
+        "Base weighted steel plate",
+        8
+      ],
+      "overlap_area_m2": 1.7444847407247624e-07,
+      "triangle_average_location": [
+        0.07464842001597087,
+        0.08492385720213254,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        96
+      ],
+      "b": [
+        "Base weighted steel plate",
+        8
+      ],
+      "overlap_area_m2": 1.7444944022670938e-07,
+      "triangle_average_location": [
+        0.07308156043291092,
+        0.08450401822725932,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        97
+      ],
+      "b": [
+        "Base weighted steel plate",
+        8
+      ],
+      "overlap_area_m2": 6.368377182845372e-08,
+      "triangle_average_location": [
+        0.07167675097783406,
+        0.0836929517487685,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        97
+      ],
+      "b": [
+        "Base weighted steel plate",
+        9
+      ],
+      "overlap_area_m2": 1.1076545529094609e-07,
+      "triangle_average_location": [
+        0.06806513046224912,
+        0.08665693302949269,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        98
+      ],
+      "b": [
+        "Base weighted steel plate",
+        9
+      ],
+      "overlap_area_m2": 1.744492271193998e-07,
+      "triangle_average_location": [
+        0.0669181098540624,
+        0.08550991242130597,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        99
+      ],
+      "b": [
+        "Base weighted steel plate",
+        8
+      ],
+      "overlap_area_m2": 1.3669206200750059e-07,
+      "triangle_average_location": [
+        0.06971866389115651,
+        0.08114112168550491,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        99
+      ],
+      "b": [
+        "Base weighted steel plate",
+        9
+      ],
+      "overlap_area_m2": 3.77573782192088e-08,
+      "triangle_average_location": [
+        0.06610704337557156,
+        0.08410510296622913,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        100
+      ],
+      "b": [
+        "Base weighted steel plate",
+        8
+      ],
+      "overlap_area_m2": 1.7444847407247624e-07,
+      "triangle_average_location": [
+        0.0692988249162833,
+        0.07957426210244496,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        101
+      ],
+      "b": [
+        "Base weighted steel plate",
+        8
+      ],
+      "overlap_area_m2": 1.7444847407247624e-07,
+      "triangle_average_location": [
+        0.0692988249162833,
+        0.0779521291454633,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        102
+      ],
+      "b": [
+        "Base weighted steel plate",
+        8
+      ],
+      "overlap_area_m2": 1.7444944022670938e-07,
+      "triangle_average_location": [
+        0.06971866389115651,
+        0.07638526956240337,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        103
+      ],
+      "b": [
+        "Base weighted steel plate",
+        8
+      ],
+      "overlap_area_m2": 1.744492271193998e-07,
+      "triangle_average_location": [
+        0.07052973036964734,
+        0.07498046010732651,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        104
+      ],
+      "b": [
+        "Base weighted steel plate",
+        7
+      ],
+      "overlap_area_m2": 1.744492271193998e-07,
+      "triangle_average_location": [
+        0.07498046010732651,
+        0.07052973036964734,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        105
+      ],
+      "b": [
+        "Base weighted steel plate",
+        7
+      ],
+      "overlap_area_m2": 1.7444944022670938e-07,
+      "triangle_average_location": [
+        0.07638526956240337,
+        0.06971866389115651,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        106
+      ],
+      "b": [
+        "Base weighted steel plate",
+        7
+      ],
+      "overlap_area_m2": 1.7444847407247624e-07,
+      "triangle_average_location": [
+        0.0779521291454633,
+        0.0692988249162833,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        107
+      ],
+      "b": [
+        "Base weighted steel plate",
+        7
+      ],
+      "overlap_area_m2": 1.7444847407247624e-07,
+      "triangle_average_location": [
+        0.07957426210244496,
+        0.0692988249162833,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        108
+      ],
+      "b": [
+        "Base weighted steel plate",
+        6
+      ],
+      "overlap_area_m2": 3.77573782192088e-08,
+      "triangle_average_location": [
+        0.08410510296622913,
+        0.06610704337557156,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        108
+      ],
+      "b": [
+        "Base weighted steel plate",
+        7
+      ],
+      "overlap_area_m2": 1.3669206200750059e-07,
+      "triangle_average_location": [
+        0.08114112168550491,
+        0.06971866389115651,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        109
+      ],
+      "b": [
+        "Base weighted steel plate",
+        6
+      ],
+      "overlap_area_m2": 1.744492271193998e-07,
+      "triangle_average_location": [
+        0.08550991242130597,
+        0.0669181098540624,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        110
+      ],
+      "b": [
+        "Base weighted steel plate",
+        6
+      ],
+      "overlap_area_m2": 1.1076545529094609e-07,
+      "triangle_average_location": [
+        0.08665693302949269,
+        0.06806513046224912,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        110
+      ],
+      "b": [
+        "Base weighted steel plate",
+        7
+      ],
+      "overlap_area_m2": 6.368377182845372e-08,
+      "triangle_average_location": [
+        0.0836929517487685,
+        0.07167675097783406,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        111
+      ],
+      "b": [
+        "Base weighted steel plate",
+        7
+      ],
+      "overlap_area_m2": 1.7444944022670938e-07,
+      "triangle_average_location": [
+        0.08450401822725932,
+        0.07308156043291092,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        112
+      ],
+      "b": [
+        "Base weighted steel plate",
+        7
+      ],
+      "overlap_area_m2": 1.7444847407247624e-07,
+      "triangle_average_location": [
+        0.08492385720213254,
+        0.07464842001597087,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        113
+      ],
+      "b": [
+        "Base weighted steel plate",
+        7
+      ],
+      "overlap_area_m2": 1.7444847407247624e-07,
+      "triangle_average_location": [
+        0.08492385720213254,
+        0.07627055297295253,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        114
+      ],
+      "b": [
+        "Base weighted steel plate",
+        7
+      ],
+      "overlap_area_m2": 1.7444944022670938e-07,
+      "triangle_average_location": [
+        0.08450401822725932,
+        0.07783741255601247,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        115
+      ],
+      "b": [
+        "Base weighted steel plate",
+        7
+      ],
+      "overlap_area_m2": 1.744492271193998e-07,
+      "triangle_average_location": [
+        0.0836929517487685,
+        0.07924222201108932,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        116
+      ],
+      "b": [
+        "Base weighted steel plate",
+        8
+      ],
+      "overlap_area_m2": 1.744492271193998e-07,
+      "triangle_average_location": [
+        0.07924222201108932,
+        0.0836929517487685,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        117
+      ],
+      "b": [
+        "Base weighted steel plate",
+        8
+      ],
+      "overlap_area_m2": 1.7444944022670938e-07,
+      "triangle_average_location": [
+        0.07783741255601247,
+        0.08450401822725932,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        118
+      ],
+      "b": [
+        "Base weighted steel plate",
+        8
+      ],
+      "overlap_area_m2": 1.3777374584522661e-06,
+      "triangle_average_location": [
+        0.0754594864944617,
+        0.08487069730957349,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        119
+      ],
+      "b": [
+        "Base weighted steel plate",
+        8
+      ],
+      "overlap_area_m2": 1.2582747070392915e-06,
+      "triangle_average_location": [
+        0.07240573565165202,
+        0.0840524472296238,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        119
+      ],
+      "b": [
+        "Base weighted steel plate",
+        9
+      ],
+      "overlap_area_m2": 1.194585510139258e-07,
+      "triangle_average_location": [
+        0.06879411513606708,
+        0.087016428510348,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        120
+      ],
+      "b": [
+        "Base weighted steel plate",
+        8
+      ],
+      "overlap_area_m2": 6.219364344374999e-07,
+      "triangle_average_location": [
+        0.07017023488879204,
+        0.08181694646676381,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        120
+      ],
+      "b": [
+        "Base weighted steel plate",
+        9
+      ],
+      "overlap_area_m2": 7.557967414959822e-07,
+      "triangle_average_location": [
+        0.06655861437320709,
+        0.08478092774748802,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        121
+      ],
+      "b": [
+        "Base weighted steel plate",
+        8
+      ],
+      "overlap_area_m2": 1.3777374584522661e-06,
+      "triangle_average_location": [
+        0.06935198480884235,
+        0.07876319562395413,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        122
+      ],
+      "b": [
+        "Base weighted steel plate",
+        8
+      ],
+      "overlap_area_m2": 1.3777332580527836e-06,
+      "triangle_average_location": [
+        0.07017023488879204,
+        0.07570944478114446,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        123
+      ],
+      "b": [
+        "Base weighted steel plate",
+        7
+      ],
+      "overlap_area_m2": 1.377733175933482e-06,
+      "triangle_average_location": [
+        0.07570944478114446,
+        0.07017023488879204,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        124
+      ],
+      "b": [
+        "Base weighted steel plate",
+        7
+      ],
+      "overlap_area_m2": 1.3777374584522661e-06,
+      "triangle_average_location": [
+        0.07876319562395413,
+        0.06935198480884235,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        125
+      ],
+      "b": [
+        "Base weighted steel plate",
+        6
+      ],
+      "overlap_area_m2": 7.557967865449812e-07,
+      "triangle_average_location": [
+        0.08478092774748802,
+        0.06655861437320709,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        125
+      ],
+      "b": [
+        "Base weighted steel plate",
+        7
+      ],
+      "overlap_area_m2": 6.219364715078024e-07,
+      "triangle_average_location": [
+        0.08181694646676381,
+        0.07017023488879204,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        126
+      ],
+      "b": [
+        "Base weighted steel plate",
+        6
+      ],
+      "overlap_area_m2": 1.194585438936413e-07,
+      "triangle_average_location": [
+        0.087016428510348,
+        0.06879411513606708,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        126
+      ],
+      "b": [
+        "Base weighted steel plate",
+        7
+      ],
+      "overlap_area_m2": 1.2582746320402745e-06,
+      "triangle_average_location": [
+        0.0840524472296238,
+        0.07240573565165202,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        127
+      ],
+      "b": [
+        "Base weighted steel plate",
+        7
+      ],
+      "overlap_area_m2": 1.3777374584522661e-06,
+      "triangle_average_location": [
+        0.08487069730957349,
+        0.0754594864944617,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        128
+      ],
+      "b": [
+        "Base weighted steel plate",
+        7
+      ],
+      "overlap_area_m2": 1.3777332580527836e-06,
+      "triangle_average_location": [
+        0.0840524472296238,
+        0.07851323733727138,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        129
+      ],
+      "b": [
+        "Base weighted steel plate",
+        8
+      ],
+      "overlap_area_m2": 1.377733175933482e-06,
+      "triangle_average_location": [
+        0.07851323733727138,
+        0.0840524472296238,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        130
+      ],
+      "b": [
+        "Base weighted steel plate",
+        8
+      ],
+      "overlap_area_m2": 1.0372623052793396e-05,
+      "triangle_average_location": [
+        0.07398647318283717,
+        0.08426055560509364,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        130
+      ],
+      "b": [
+        "Base weighted steel plate",
+        9
+      ],
+      "overlap_area_m2": 9.234467057727666e-08,
+      "triangle_average_location": [
+        0.07037485266725223,
+        0.08722453688581784,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        131
+      ],
+      "b": [
+        "Base weighted steel plate",
+        8
+      ],
+      "overlap_area_m2": 1.0183134812700913e-05,
+      "triangle_average_location": [
+        0.06996212651332219,
+        0.08023620893557866,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        131
+      ],
+      "b": [
+        "Base weighted steel plate",
+        9
+      ],
+      "overlap_area_m2": 2.818322869086419e-07,
+      "triangle_average_location": [
+        0.06635050599773724,
+        0.08320019021630287,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        132
+      ],
+      "b": [
+        "Base weighted steel plate",
+        7
+      ],
+      "overlap_area_m2": 5.232495904936019e-06,
+      "triangle_average_location": [
+        0.07473884895443916,
+        0.07143513982494672,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        132
+      ],
+      "b": [
+        "Base weighted steel plate",
+        8
+      ],
+      "overlap_area_m2": 5.232495904936019e-06,
+      "triangle_average_location": [
+        0.07143513982494672,
+        0.07473884895443916,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        133
+      ],
+      "b": [
+        "Base weighted steel plate",
+        6
+      ],
+      "overlap_area_m2": 2.818323037071562e-07,
+      "triangle_average_location": [
+        0.08320019021630287,
+        0.06635050599773724,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        133
+      ],
+      "b": [
+        "Base weighted steel plate",
+        7
+      ],
+      "overlap_area_m2": 1.0183135419663083e-05,
+      "triangle_average_location": [
+        0.08023620893557866,
+        0.06996212651332219,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        134
+      ],
+      "b": [
+        "Base weighted steel plate",
+        6
+      ],
+      "overlap_area_m2": 9.234466507310538e-08,
+      "triangle_average_location": [
+        0.08722453688581784,
+        0.07037485266725223,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        134
+      ],
+      "b": [
+        "Base weighted steel plate",
+        7
+      ],
+      "overlap_area_m2": 1.0372622434536884e-05,
+      "triangle_average_location": [
+        0.08426055560509364,
+        0.07398647318283717,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        135
+      ],
+      "b": [
+        "Base weighted steel plate",
+        7
+      ],
+      "overlap_area_m2": 5.232495904936019e-06,
+      "triangle_average_location": [
+        0.08278754229346912,
+        0.07948383316397667,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        135
+      ],
+      "b": [
+        "Base weighted steel plate",
+        8
+      ],
+      "overlap_area_m2": 5.232495904936019e-06,
+      "triangle_average_location": [
+        0.07948383316397667,
+        0.08278754229346912,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        136
+      ],
+      "b": [
+        "Base weighted steel plate",
+        8
+      ],
+      "overlap_area_m2": 6.738293602461497e-05,
+      "triangle_average_location": [
+        0.07251345987121265,
+        0.08170922224720319,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        136
+      ],
+      "b": [
+        "Base weighted steel plate",
+        9
+      ],
+      "overlap_area_m2": 2.6372794954343873e-07,
+      "triangle_average_location": [
+        0.0689018393556277,
+        0.0846732035279274,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        137
+      ],
+      "b": [
+        "Base weighted steel plate",
+        6
+      ],
+      "overlap_area_m2": 1.0911040617626183e-07,
+      "triangle_average_location": [
+        0.08064885685841243,
+        0.06782351930936177,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        137
+      ],
+      "b": [
+        "Base weighted steel plate",
+        7
+      ],
+      "overlap_area_m2": 5.626310957228915e-05,
+      "triangle_average_location": [
+        0.07768487557768822,
+        0.07143513982494672,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        137
+      ],
+      "b": [
+        "Base weighted steel plate",
+        8
+      ],
+      "overlap_area_m2": 1.1274443995692995e-05,
+      "triangle_average_location": [
+        0.07438116644819577,
+        0.07473884895443916,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        138
+      ],
+      "b": [
+        "Base weighted steel plate",
+        6
+      ],
+      "overlap_area_m2": 6.898965429968582e-08,
+      "triangle_average_location": [
+        0.08575152357419331,
+        0.07292618602514267,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        138
+      ],
+      "b": [
+        "Base weighted steel plate",
+        7
+      ],
+      "overlap_area_m2": 5.630323032416486e-05,
+      "triangle_average_location": [
+        0.08278754229346912,
+        0.07653780654072762,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        138
+      ],
+      "b": [
+        "Base weighted steel plate",
+        8
+      ],
+      "overlap_area_m2": 1.1274443995692995e-05,
+      "triangle_average_location": [
+        0.07948383316397667,
+        0.07984151567022006,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        139
+      ],
+      "b": [
+        "Base weighted steel plate",
+        6
+      ],
+      "overlap_area_m2": 8.562788906792476e-08,
+      "triangle_average_location": [
+        0.08172717690467834,
+        0.07184786597887675,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        139
+      ],
+      "b": [
+        "Base weighted steel plate",
+        7
+      ],
+      "overlap_area_m2": 9.010992407647647e-05,
+      "triangle_average_location": [
+        0.07876319562395413,
+        0.0754594864944617,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 0",
+        139
+      ],
+      "b": [
+        "Base weighted steel plate",
+        8
+      ],
+      "overlap_area_m2": 0.00011274443995692995,
+      "triangle_average_location": [
+        0.0754594864944617,
+        0.07876319562395413,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        94
+      ],
+      "b": [
+        "Base weighted steel plate",
+        23
+      ],
+      "overlap_area_m2": 1.7444847407247624e-07,
+      "triangle_average_location": [
+        -0.07464842001597087,
+        0.08492385720213254,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        95
+      ],
+      "b": [
+        "Base weighted steel plate",
+        23
+      ],
+      "overlap_area_m2": 1.7444847407247624e-07,
+      "triangle_average_location": [
+        -0.07627055297295253,
+        0.08492385720213254,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        96
+      ],
+      "b": [
+        "Base weighted steel plate",
+        23
+      ],
+      "overlap_area_m2": 1.7444944022670938e-07,
+      "triangle_average_location": [
+        -0.07783741255601247,
+        0.08450401822725932,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        97
+      ],
+      "b": [
+        "Base weighted steel plate",
+        23
+      ],
+      "overlap_area_m2": 1.744492271193998e-07,
+      "triangle_average_location": [
+        -0.07924222201108932,
+        0.0836929517487685,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        98
+      ],
+      "b": [
+        "Base weighted steel plate",
+        24
+      ],
+      "overlap_area_m2": 1.744492271193998e-07,
+      "triangle_average_location": [
+        -0.0836929517487685,
+        0.07924222201108932,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        99
+      ],
+      "b": [
+        "Base weighted steel plate",
+        24
+      ],
+      "overlap_area_m2": 1.7444944022670938e-07,
+      "triangle_average_location": [
+        -0.08450401822725932,
+        0.07783741255601247,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        100
+      ],
+      "b": [
+        "Base weighted steel plate",
+        24
+      ],
+      "overlap_area_m2": 1.7444847407247624e-07,
+      "triangle_average_location": [
+        -0.08492385720213254,
+        0.07627055297295253,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        101
+      ],
+      "b": [
+        "Base weighted steel plate",
+        24
+      ],
+      "overlap_area_m2": 1.7444847407247624e-07,
+      "triangle_average_location": [
+        -0.08492385720213254,
+        0.07464842001597087,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        102
+      ],
+      "b": [
+        "Base weighted steel plate",
+        24
+      ],
+      "overlap_area_m2": 1.7444944022670938e-07,
+      "triangle_average_location": [
+        -0.08450401822725932,
+        0.07308156043291092,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        103
+      ],
+      "b": [
+        "Base weighted steel plate",
+        24
+      ],
+      "overlap_area_m2": 6.368377182845372e-08,
+      "triangle_average_location": [
+        -0.0836929517487685,
+        0.07167675097783406,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        103
+      ],
+      "b": [
+        "Base weighted steel plate",
+        25
+      ],
+      "overlap_area_m2": 1.1076545529094609e-07,
+      "triangle_average_location": [
+        -0.08665693302949269,
+        0.06806513046224912,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        104
+      ],
+      "b": [
+        "Base weighted steel plate",
+        25
+      ],
+      "overlap_area_m2": 1.744492271193998e-07,
+      "triangle_average_location": [
+        -0.08550991242130597,
+        0.0669181098540624,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        105
+      ],
+      "b": [
+        "Base weighted steel plate",
+        24
+      ],
+      "overlap_area_m2": 1.3669206200750059e-07,
+      "triangle_average_location": [
+        -0.08114112168550491,
+        0.06971866389115651,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        105
+      ],
+      "b": [
+        "Base weighted steel plate",
+        25
+      ],
+      "overlap_area_m2": 3.77573782192088e-08,
+      "triangle_average_location": [
+        -0.08410510296622913,
+        0.06610704337557156,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        106
+      ],
+      "b": [
+        "Base weighted steel plate",
+        24
+      ],
+      "overlap_area_m2": 1.7444847407247624e-07,
+      "triangle_average_location": [
+        -0.07957426210244496,
+        0.0692988249162833,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        107
+      ],
+      "b": [
+        "Base weighted steel plate",
+        24
+      ],
+      "overlap_area_m2": 1.7444847407247624e-07,
+      "triangle_average_location": [
+        -0.0779521291454633,
+        0.0692988249162833,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        108
+      ],
+      "b": [
+        "Base weighted steel plate",
+        24
+      ],
+      "overlap_area_m2": 1.7444944022670938e-07,
+      "triangle_average_location": [
+        -0.07638526956240337,
+        0.06971866389115651,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        109
+      ],
+      "b": [
+        "Base weighted steel plate",
+        24
+      ],
+      "overlap_area_m2": 1.744492271193998e-07,
+      "triangle_average_location": [
+        -0.07498046010732651,
+        0.07052973036964734,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        110
+      ],
+      "b": [
+        "Base weighted steel plate",
+        23
+      ],
+      "overlap_area_m2": 1.744492271193998e-07,
+      "triangle_average_location": [
+        -0.07052973036964734,
+        0.07498046010732651,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        111
+      ],
+      "b": [
+        "Base weighted steel plate",
+        23
+      ],
+      "overlap_area_m2": 1.7444944022670938e-07,
+      "triangle_average_location": [
+        -0.06971866389115651,
+        0.07638526956240337,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        112
+      ],
+      "b": [
+        "Base weighted steel plate",
+        23
+      ],
+      "overlap_area_m2": 1.7444847407247624e-07,
+      "triangle_average_location": [
+        -0.0692988249162833,
+        0.0779521291454633,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        113
+      ],
+      "b": [
+        "Base weighted steel plate",
+        23
+      ],
+      "overlap_area_m2": 1.7444847407247624e-07,
+      "triangle_average_location": [
+        -0.0692988249162833,
+        0.07957426210244496,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        114
+      ],
+      "b": [
+        "Base weighted steel plate",
+        22
+      ],
+      "overlap_area_m2": 3.77573782192088e-08,
+      "triangle_average_location": [
+        -0.06610704337557156,
+        0.08410510296622913,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        114
+      ],
+      "b": [
+        "Base weighted steel plate",
+        23
+      ],
+      "overlap_area_m2": 1.3669206200750059e-07,
+      "triangle_average_location": [
+        -0.06971866389115651,
+        0.08114112168550491,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        115
+      ],
+      "b": [
+        "Base weighted steel plate",
+        22
+      ],
+      "overlap_area_m2": 1.744492271193998e-07,
+      "triangle_average_location": [
+        -0.0669181098540624,
+        0.08550991242130597,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        116
+      ],
+      "b": [
+        "Base weighted steel plate",
+        22
+      ],
+      "overlap_area_m2": 1.1076545529094609e-07,
+      "triangle_average_location": [
+        -0.06806513046224912,
+        0.08665693302949269,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        116
+      ],
+      "b": [
+        "Base weighted steel plate",
+        23
+      ],
+      "overlap_area_m2": 6.368377182845372e-08,
+      "triangle_average_location": [
+        -0.07167675097783406,
+        0.0836929517487685,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        117
+      ],
+      "b": [
+        "Base weighted steel plate",
+        23
+      ],
+      "overlap_area_m2": 1.7444944022670938e-07,
+      "triangle_average_location": [
+        -0.07308156043291092,
+        0.08450401822725932,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        118
+      ],
+      "b": [
+        "Base weighted steel plate",
+        23
+      ],
+      "overlap_area_m2": 1.3777374584522661e-06,
+      "triangle_average_location": [
+        -0.0754594864944617,
+        0.08487069730957349,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        119
+      ],
+      "b": [
+        "Base weighted steel plate",
+        23
+      ],
+      "overlap_area_m2": 1.3777332580527836e-06,
+      "triangle_average_location": [
+        -0.07851323733727138,
+        0.0840524472296238,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        120
+      ],
+      "b": [
+        "Base weighted steel plate",
+        24
+      ],
+      "overlap_area_m2": 1.377733175933482e-06,
+      "triangle_average_location": [
+        -0.0840524472296238,
+        0.07851323733727138,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        121
+      ],
+      "b": [
+        "Base weighted steel plate",
+        24
+      ],
+      "overlap_area_m2": 1.3777374584522661e-06,
+      "triangle_average_location": [
+        -0.08487069730957349,
+        0.0754594864944617,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        122
+      ],
+      "b": [
+        "Base weighted steel plate",
+        24
+      ],
+      "overlap_area_m2": 1.2582747070392915e-06,
+      "triangle_average_location": [
+        -0.0840524472296238,
+        0.07240573565165202,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        122
+      ],
+      "b": [
+        "Base weighted steel plate",
+        25
+      ],
+      "overlap_area_m2": 1.194585510139258e-07,
+      "triangle_average_location": [
+        -0.087016428510348,
+        0.06879411513606708,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        123
+      ],
+      "b": [
+        "Base weighted steel plate",
+        24
+      ],
+      "overlap_area_m2": 6.219364344374999e-07,
+      "triangle_average_location": [
+        -0.08181694646676381,
+        0.07017023488879204,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        123
+      ],
+      "b": [
+        "Base weighted steel plate",
+        25
+      ],
+      "overlap_area_m2": 7.557967414959822e-07,
+      "triangle_average_location": [
+        -0.08478092774748802,
+        0.06655861437320709,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        124
+      ],
+      "b": [
+        "Base weighted steel plate",
+        24
+      ],
+      "overlap_area_m2": 1.3777374584522661e-06,
+      "triangle_average_location": [
+        -0.07876319562395413,
+        0.06935198480884235,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        125
+      ],
+      "b": [
+        "Base weighted steel plate",
+        24
+      ],
+      "overlap_area_m2": 1.3777332580527836e-06,
+      "triangle_average_location": [
+        -0.07570944478114446,
+        0.07017023488879204,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        126
+      ],
+      "b": [
+        "Base weighted steel plate",
+        23
+      ],
+      "overlap_area_m2": 1.377733175933482e-06,
+      "triangle_average_location": [
+        -0.07017023488879204,
+        0.07570944478114446,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        127
+      ],
+      "b": [
+        "Base weighted steel plate",
+        23
+      ],
+      "overlap_area_m2": 1.3777374584522661e-06,
+      "triangle_average_location": [
+        -0.06935198480884235,
+        0.07876319562395413,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        128
+      ],
+      "b": [
+        "Base weighted steel plate",
+        22
+      ],
+      "overlap_area_m2": 7.557967865449812e-07,
+      "triangle_average_location": [
+        -0.06655861437320709,
+        0.08478092774748802,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        128
+      ],
+      "b": [
+        "Base weighted steel plate",
+        23
+      ],
+      "overlap_area_m2": 6.219364715078024e-07,
+      "triangle_average_location": [
+        -0.07017023488879204,
+        0.08181694646676381,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        129
+      ],
+      "b": [
+        "Base weighted steel plate",
+        22
+      ],
+      "overlap_area_m2": 1.194585438936413e-07,
+      "triangle_average_location": [
+        -0.06879411513606708,
+        0.087016428510348,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        129
+      ],
+      "b": [
+        "Base weighted steel plate",
+        23
+      ],
+      "overlap_area_m2": 1.2582746320402745e-06,
+      "triangle_average_location": [
+        -0.07240573565165202,
+        0.0840524472296238,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        130
+      ],
+      "b": [
+        "Base weighted steel plate",
+        23
+      ],
+      "overlap_area_m2": 1.0464967723371106e-05,
+      "triangle_average_location": [
+        -0.07693249980608623,
+        0.08426055560509364,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        131
+      ],
+      "b": [
+        "Base weighted steel plate",
+        24
+      ],
+      "overlap_area_m2": 1.0464967099610423e-05,
+      "triangle_average_location": [
+        -0.08426055560509364,
+        0.07693249980608623,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        132
+      ],
+      "b": [
+        "Base weighted steel plate",
+        24
+      ],
+      "overlap_area_m2": 9.827086908346418e-06,
+      "triangle_average_location": [
+        -0.08278754229346912,
+        0.07143513982494672,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        132
+      ],
+      "b": [
+        "Base weighted steel plate",
+        25
+      ],
+      "overlap_area_m2": 6.379049015247523e-07,
+      "triangle_average_location": [
+        -0.08575152357419331,
+        0.06782351930936177,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        133
+      ],
+      "b": [
+        "Base weighted steel plate",
+        24
+      ],
+      "overlap_area_m2": 1.0464967723371106e-05,
+      "triangle_average_location": [
+        -0.0772901823123296,
+        0.06996212651332219,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        134
+      ],
+      "b": [
+        "Base weighted steel plate",
+        23
+      ],
+      "overlap_area_m2": 1.0464967099610423e-05,
+      "triangle_average_location": [
+        -0.06996212651332219,
+        0.0772901823123296,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        135
+      ],
+      "b": [
+        "Base weighted steel plate",
+        22
+      ],
+      "overlap_area_m2": 6.379049015247523e-07,
+      "triangle_average_location": [
+        -0.06782351930936177,
+        0.08575152357419331,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        135
+      ],
+      "b": [
+        "Base weighted steel plate",
+        23
+      ],
+      "overlap_area_m2": 9.827086908346418e-06,
+      "triangle_average_location": [
+        -0.07143513982494672,
+        0.08278754229346912,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        136
+      ],
+      "b": [
+        "Base weighted steel plate",
+        23
+      ],
+      "overlap_area_m2": 3.3823331987078986e-05,
+      "triangle_average_location": [
+        -0.07840551311771075,
+        0.08170922224720319,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        136
+      ],
+      "b": [
+        "Base weighted steel plate",
+        24
+      ],
+      "overlap_area_m2": 3.3823331987078986e-05,
+      "triangle_average_location": [
+        -0.08170922224720319,
+        0.07840551311771075,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        137
+      ],
+      "b": [
+        "Base weighted steel plate",
+        24
+      ],
+      "overlap_area_m2": 6.764666397415797e-05,
+      "triangle_average_location": [
+        -0.07984151567022006,
+        0.07143513982494672,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        138
+      ],
+      "b": [
+        "Base weighted steel plate",
+        23
+      ],
+      "overlap_area_m2": 6.764666397415797e-05,
+      "triangle_average_location": [
+        -0.07143513982494672,
+        0.07984151567022006,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        139
+      ],
+      "b": [
+        "Base weighted steel plate",
+        23
+      ],
+      "overlap_area_m2": 0.00010146999596123696,
+      "triangle_average_location": [
+        -0.0754594864944617,
+        0.07876319562395413,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 1",
+        139
+      ],
+      "b": [
+        "Base weighted steel plate",
+        24
+      ],
+      "overlap_area_m2": 0.00010146999596123696,
+      "triangle_average_location": [
+        -0.07876319562395413,
+        0.0754594864944617,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        94
+      ],
+      "b": [
+        "Base weighted steel plate",
+        39
+      ],
+      "overlap_area_m2": 1.7444847407247624e-07,
+      "triangle_average_location": [
+        -0.0779521291454633,
+        -0.0692988249162833,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        95
+      ],
+      "b": [
+        "Base weighted steel plate",
+        39
+      ],
+      "overlap_area_m2": 1.7444847407247624e-07,
+      "triangle_average_location": [
+        -0.07957426210244496,
+        -0.0692988249162833,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        96
+      ],
+      "b": [
+        "Base weighted steel plate",
+        38
+      ],
+      "overlap_area_m2": 3.77573782192088e-08,
+      "triangle_average_location": [
+        -0.08410510296622913,
+        -0.06610704337557156,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        96
+      ],
+      "b": [
+        "Base weighted steel plate",
+        39
+      ],
+      "overlap_area_m2": 1.3669206200750059e-07,
+      "triangle_average_location": [
+        -0.08114112168550491,
+        -0.06971866389115651,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        97
+      ],
+      "b": [
+        "Base weighted steel plate",
+        38
+      ],
+      "overlap_area_m2": 1.744492271193998e-07,
+      "triangle_average_location": [
+        -0.08550991242130597,
+        -0.0669181098540624,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        98
+      ],
+      "b": [
+        "Base weighted steel plate",
+        38
+      ],
+      "overlap_area_m2": 1.1076545529094609e-07,
+      "triangle_average_location": [
+        -0.08665693302949269,
+        -0.06806513046224912,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        98
+      ],
+      "b": [
+        "Base weighted steel plate",
+        39
+      ],
+      "overlap_area_m2": 6.368377182845372e-08,
+      "triangle_average_location": [
+        -0.0836929517487685,
+        -0.07167675097783406,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        99
+      ],
+      "b": [
+        "Base weighted steel plate",
+        39
+      ],
+      "overlap_area_m2": 1.7444944022670938e-07,
+      "triangle_average_location": [
+        -0.08450401822725932,
+        -0.07308156043291092,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        100
+      ],
+      "b": [
+        "Base weighted steel plate",
+        39
+      ],
+      "overlap_area_m2": 1.7444847407247624e-07,
+      "triangle_average_location": [
+        -0.08492385720213254,
+        -0.07464842001597087,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        101
+      ],
+      "b": [
+        "Base weighted steel plate",
+        39
+      ],
+      "overlap_area_m2": 1.7444847407247624e-07,
+      "triangle_average_location": [
+        -0.08492385720213254,
+        -0.07627055297295253,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        102
+      ],
+      "b": [
+        "Base weighted steel plate",
+        39
+      ],
+      "overlap_area_m2": 1.7444944022670938e-07,
+      "triangle_average_location": [
+        -0.08450401822725932,
+        -0.07783741255601247,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        103
+      ],
+      "b": [
+        "Base weighted steel plate",
+        39
+      ],
+      "overlap_area_m2": 1.744492271193998e-07,
+      "triangle_average_location": [
+        -0.0836929517487685,
+        -0.07924222201108932,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        104
+      ],
+      "b": [
+        "Base weighted steel plate",
+        40
+      ],
+      "overlap_area_m2": 1.744492271193998e-07,
+      "triangle_average_location": [
+        -0.07924222201108932,
+        -0.0836929517487685,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        105
+      ],
+      "b": [
+        "Base weighted steel plate",
+        40
+      ],
+      "overlap_area_m2": 1.7444944022670938e-07,
+      "triangle_average_location": [
+        -0.07783741255601247,
+        -0.08450401822725932,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        106
+      ],
+      "b": [
+        "Base weighted steel plate",
+        40
+      ],
+      "overlap_area_m2": 1.7444847407247624e-07,
+      "triangle_average_location": [
+        -0.07627055297295253,
+        -0.08492385720213254,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        107
+      ],
+      "b": [
+        "Base weighted steel plate",
+        40
+      ],
+      "overlap_area_m2": 1.7444847407247624e-07,
+      "triangle_average_location": [
+        -0.07464842001597087,
+        -0.08492385720213254,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        108
+      ],
+      "b": [
+        "Base weighted steel plate",
+        40
+      ],
+      "overlap_area_m2": 1.7444944022670938e-07,
+      "triangle_average_location": [
+        -0.07308156043291092,
+        -0.08450401822725932,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        109
+      ],
+      "b": [
+        "Base weighted steel plate",
+        40
+      ],
+      "overlap_area_m2": 6.368377182845372e-08,
+      "triangle_average_location": [
+        -0.07167675097783406,
+        -0.0836929517487685,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        109
+      ],
+      "b": [
+        "Base weighted steel plate",
+        41
+      ],
+      "overlap_area_m2": 1.1076545529094609e-07,
+      "triangle_average_location": [
+        -0.06806513046224912,
+        -0.08665693302949269,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        110
+      ],
+      "b": [
+        "Base weighted steel plate",
+        41
+      ],
+      "overlap_area_m2": 1.744492271193998e-07,
+      "triangle_average_location": [
+        -0.0669181098540624,
+        -0.08550991242130597,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        111
+      ],
+      "b": [
+        "Base weighted steel plate",
+        40
+      ],
+      "overlap_area_m2": 1.3669206200750059e-07,
+      "triangle_average_location": [
+        -0.06971866389115651,
+        -0.08114112168550491,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        111
+      ],
+      "b": [
+        "Base weighted steel plate",
+        41
+      ],
+      "overlap_area_m2": 3.77573782192088e-08,
+      "triangle_average_location": [
+        -0.06610704337557156,
+        -0.08410510296622913,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        112
+      ],
+      "b": [
+        "Base weighted steel plate",
+        40
+      ],
+      "overlap_area_m2": 1.7444847407247624e-07,
+      "triangle_average_location": [
+        -0.0692988249162833,
+        -0.07957426210244496,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        113
+      ],
+      "b": [
+        "Base weighted steel plate",
+        40
+      ],
+      "overlap_area_m2": 1.7444847407247624e-07,
+      "triangle_average_location": [
+        -0.0692988249162833,
+        -0.0779521291454633,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        114
+      ],
+      "b": [
+        "Base weighted steel plate",
+        40
+      ],
+      "overlap_area_m2": 1.7444944022670938e-07,
+      "triangle_average_location": [
+        -0.06971866389115651,
+        -0.07638526956240337,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        115
+      ],
+      "b": [
+        "Base weighted steel plate",
+        40
+      ],
+      "overlap_area_m2": 1.744492271193998e-07,
+      "triangle_average_location": [
+        -0.07052973036964734,
+        -0.07498046010732651,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        116
+      ],
+      "b": [
+        "Base weighted steel plate",
+        39
+      ],
+      "overlap_area_m2": 1.744492271193998e-07,
+      "triangle_average_location": [
+        -0.07498046010732651,
+        -0.07052973036964734,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        117
+      ],
+      "b": [
+        "Base weighted steel plate",
+        39
+      ],
+      "overlap_area_m2": 1.7444944022670938e-07,
+      "triangle_average_location": [
+        -0.07638526956240337,
+        -0.06971866389115651,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        118
+      ],
+      "b": [
+        "Base weighted steel plate",
+        39
+      ],
+      "overlap_area_m2": 1.3777374584522661e-06,
+      "triangle_average_location": [
+        -0.07876319562395413,
+        -0.06935198480884235,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        119
+      ],
+      "b": [
+        "Base weighted steel plate",
+        38
+      ],
+      "overlap_area_m2": 7.557967865449812e-07,
+      "triangle_average_location": [
+        -0.08478092774748802,
+        -0.06655861437320709,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        119
+      ],
+      "b": [
+        "Base weighted steel plate",
+        39
+      ],
+      "overlap_area_m2": 6.219364715078024e-07,
+      "triangle_average_location": [
+        -0.08181694646676381,
+        -0.07017023488879204,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        120
+      ],
+      "b": [
+        "Base weighted steel plate",
+        38
+      ],
+      "overlap_area_m2": 1.194585438936413e-07,
+      "triangle_average_location": [
+        -0.087016428510348,
+        -0.06879411513606708,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        120
+      ],
+      "b": [
+        "Base weighted steel plate",
+        39
+      ],
+      "overlap_area_m2": 1.2582746320402745e-06,
+      "triangle_average_location": [
+        -0.0840524472296238,
+        -0.07240573565165202,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        121
+      ],
+      "b": [
+        "Base weighted steel plate",
+        39
+      ],
+      "overlap_area_m2": 1.3777374584522661e-06,
+      "triangle_average_location": [
+        -0.08487069730957349,
+        -0.0754594864944617,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        122
+      ],
+      "b": [
+        "Base weighted steel plate",
+        39
+      ],
+      "overlap_area_m2": 1.3777332580527836e-06,
+      "triangle_average_location": [
+        -0.0840524472296238,
+        -0.07851323733727138,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        123
+      ],
+      "b": [
+        "Base weighted steel plate",
+        40
+      ],
+      "overlap_area_m2": 1.377733175933482e-06,
+      "triangle_average_location": [
+        -0.07851323733727138,
+        -0.0840524472296238,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        124
+      ],
+      "b": [
+        "Base weighted steel plate",
+        40
+      ],
+      "overlap_area_m2": 1.3777374584522661e-06,
+      "triangle_average_location": [
+        -0.0754594864944617,
+        -0.08487069730957349,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        125
+      ],
+      "b": [
+        "Base weighted steel plate",
+        40
+      ],
+      "overlap_area_m2": 1.2582747070392915e-06,
+      "triangle_average_location": [
+        -0.07240573565165202,
+        -0.0840524472296238,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        125
+      ],
+      "b": [
+        "Base weighted steel plate",
+        41
+      ],
+      "overlap_area_m2": 1.194585510139258e-07,
+      "triangle_average_location": [
+        -0.06879411513606708,
+        -0.087016428510348,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        126
+      ],
+      "b": [
+        "Base weighted steel plate",
+        40
+      ],
+      "overlap_area_m2": 6.219364344374999e-07,
+      "triangle_average_location": [
+        -0.07017023488879204,
+        -0.08181694646676381,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        126
+      ],
+      "b": [
+        "Base weighted steel plate",
+        41
+      ],
+      "overlap_area_m2": 7.557967414959822e-07,
+      "triangle_average_location": [
+        -0.06655861437320709,
+        -0.08478092774748802,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        127
+      ],
+      "b": [
+        "Base weighted steel plate",
+        40
+      ],
+      "overlap_area_m2": 1.3777374584522661e-06,
+      "triangle_average_location": [
+        -0.06935198480884235,
+        -0.07876319562395413,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        128
+      ],
+      "b": [
+        "Base weighted steel plate",
+        40
+      ],
+      "overlap_area_m2": 1.3777332580527836e-06,
+      "triangle_average_location": [
+        -0.07017023488879204,
+        -0.07570944478114446,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        129
+      ],
+      "b": [
+        "Base weighted steel plate",
+        39
+      ],
+      "overlap_area_m2": 1.377733175933482e-06,
+      "triangle_average_location": [
+        -0.07570944478114446,
+        -0.07017023488879204,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        130
+      ],
+      "b": [
+        "Base weighted steel plate",
+        38
+      ],
+      "overlap_area_m2": 2.818323037071562e-07,
+      "triangle_average_location": [
+        -0.08320019021630287,
+        -0.06635050599773724,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        130
+      ],
+      "b": [
+        "Base weighted steel plate",
+        39
+      ],
+      "overlap_area_m2": 1.0183135419663083e-05,
+      "triangle_average_location": [
+        -0.08023620893557866,
+        -0.06996212651332219,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        131
+      ],
+      "b": [
+        "Base weighted steel plate",
+        38
+      ],
+      "overlap_area_m2": 9.234466507310538e-08,
+      "triangle_average_location": [
+        -0.08722453688581784,
+        -0.07037485266725223,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        131
+      ],
+      "b": [
+        "Base weighted steel plate",
+        39
+      ],
+      "overlap_area_m2": 1.0372622434536884e-05,
+      "triangle_average_location": [
+        -0.08426055560509364,
+        -0.07398647318283717,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        132
+      ],
+      "b": [
+        "Base weighted steel plate",
+        39
+      ],
+      "overlap_area_m2": 5.232495904936019e-06,
+      "triangle_average_location": [
+        -0.08278754229346912,
+        -0.07948383316397667,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        132
+      ],
+      "b": [
+        "Base weighted steel plate",
+        40
+      ],
+      "overlap_area_m2": 5.232495904936019e-06,
+      "triangle_average_location": [
+        -0.07948383316397667,
+        -0.08278754229346912,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        133
+      ],
+      "b": [
+        "Base weighted steel plate",
+        40
+      ],
+      "overlap_area_m2": 1.0372623052793396e-05,
+      "triangle_average_location": [
+        -0.07398647318283717,
+        -0.08426055560509364,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        133
+      ],
+      "b": [
+        "Base weighted steel plate",
+        41
+      ],
+      "overlap_area_m2": 9.234467057727666e-08,
+      "triangle_average_location": [
+        -0.07037485266725223,
+        -0.08722453688581784,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        134
+      ],
+      "b": [
+        "Base weighted steel plate",
+        40
+      ],
+      "overlap_area_m2": 1.0183134812700913e-05,
+      "triangle_average_location": [
+        -0.06996212651332219,
+        -0.08023620893557866,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        134
+      ],
+      "b": [
+        "Base weighted steel plate",
+        41
+      ],
+      "overlap_area_m2": 2.818322869086419e-07,
+      "triangle_average_location": [
+        -0.06635050599773724,
+        -0.08320019021630287,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        135
+      ],
+      "b": [
+        "Base weighted steel plate",
+        39
+      ],
+      "overlap_area_m2": 5.232495904936019e-06,
+      "triangle_average_location": [
+        -0.07473884895443916,
+        -0.07143513982494672,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        135
+      ],
+      "b": [
+        "Base weighted steel plate",
+        40
+      ],
+      "overlap_area_m2": 5.232495904936019e-06,
+      "triangle_average_location": [
+        -0.07143513982494672,
+        -0.07473884895443916,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        136
+      ],
+      "b": [
+        "Base weighted steel plate",
+        38
+      ],
+      "overlap_area_m2": 2.6372794954343873e-07,
+      "triangle_average_location": [
+        -0.0846732035279274,
+        -0.0689018393556277,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        136
+      ],
+      "b": [
+        "Base weighted steel plate",
+        39
+      ],
+      "overlap_area_m2": 6.738293602461497e-05,
+      "triangle_average_location": [
+        -0.08170922224720319,
+        -0.07251345987121265,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        137
+      ],
+      "b": [
+        "Base weighted steel plate",
+        39
+      ],
+      "overlap_area_m2": 1.1274443995692995e-05,
+      "triangle_average_location": [
+        -0.07984151567022006,
+        -0.07948383316397667,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        137
+      ],
+      "b": [
+        "Base weighted steel plate",
+        40
+      ],
+      "overlap_area_m2": 5.630323032416486e-05,
+      "triangle_average_location": [
+        -0.07653780654072762,
+        -0.08278754229346912,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        137
+      ],
+      "b": [
+        "Base weighted steel plate",
+        41
+      ],
+      "overlap_area_m2": 6.898965429968582e-08,
+      "triangle_average_location": [
+        -0.07292618602514267,
+        -0.08575152357419331,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        138
+      ],
+      "b": [
+        "Base weighted steel plate",
+        39
+      ],
+      "overlap_area_m2": 1.1274443995692995e-05,
+      "triangle_average_location": [
+        -0.07473884895443916,
+        -0.07438116644819577,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        138
+      ],
+      "b": [
+        "Base weighted steel plate",
+        40
+      ],
+      "overlap_area_m2": 5.626310957228915e-05,
+      "triangle_average_location": [
+        -0.07143513982494672,
+        -0.07768487557768822,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        138
+      ],
+      "b": [
+        "Base weighted steel plate",
+        41
+      ],
+      "overlap_area_m2": 1.0911040617626183e-07,
+      "triangle_average_location": [
+        -0.06782351930936177,
+        -0.08064885685841243,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        139
+      ],
+      "b": [
+        "Base weighted steel plate",
+        39
+      ],
+      "overlap_area_m2": 0.00011274443995692995,
+      "triangle_average_location": [
+        -0.07876319562395413,
+        -0.0754594864944617,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        139
+      ],
+      "b": [
+        "Base weighted steel plate",
+        40
+      ],
+      "overlap_area_m2": 9.010992407647647e-05,
+      "triangle_average_location": [
+        -0.0754594864944617,
+        -0.07876319562395413,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 2",
+        139
+      ],
+      "b": [
+        "Base weighted steel plate",
+        41
+      ],
+      "overlap_area_m2": 8.562788906792476e-08,
+      "triangle_average_location": [
+        -0.07184786597887675,
+        -0.08172717690467834,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        94
+      ],
+      "b": [
+        "Base weighted steel plate",
+        56
+      ],
+      "overlap_area_m2": 1.7444847407247624e-07,
+      "triangle_average_location": [
+        0.07957426210244496,
+        -0.0692988249162833,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        95
+      ],
+      "b": [
+        "Base weighted steel plate",
+        56
+      ],
+      "overlap_area_m2": 1.7444847407247624e-07,
+      "triangle_average_location": [
+        0.0779521291454633,
+        -0.0692988249162833,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        96
+      ],
+      "b": [
+        "Base weighted steel plate",
+        56
+      ],
+      "overlap_area_m2": 1.7444944022670938e-07,
+      "triangle_average_location": [
+        0.07638526956240337,
+        -0.06971866389115651,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        97
+      ],
+      "b": [
+        "Base weighted steel plate",
+        56
+      ],
+      "overlap_area_m2": 1.744492271193998e-07,
+      "triangle_average_location": [
+        0.07498046010732651,
+        -0.07052973036964734,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        98
+      ],
+      "b": [
+        "Base weighted steel plate",
+        55
+      ],
+      "overlap_area_m2": 1.744492271193998e-07,
+      "triangle_average_location": [
+        0.07052973036964734,
+        -0.07498046010732651,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        99
+      ],
+      "b": [
+        "Base weighted steel plate",
+        55
+      ],
+      "overlap_area_m2": 1.7444944022670938e-07,
+      "triangle_average_location": [
+        0.06971866389115651,
+        -0.07638526956240337,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        100
+      ],
+      "b": [
+        "Base weighted steel plate",
+        55
+      ],
+      "overlap_area_m2": 1.7444847407247624e-07,
+      "triangle_average_location": [
+        0.0692988249162833,
+        -0.0779521291454633,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        101
+      ],
+      "b": [
+        "Base weighted steel plate",
+        55
+      ],
+      "overlap_area_m2": 1.7444847407247624e-07,
+      "triangle_average_location": [
+        0.0692988249162833,
+        -0.07957426210244496,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        102
+      ],
+      "b": [
+        "Base weighted steel plate",
+        54
+      ],
+      "overlap_area_m2": 3.77573782192088e-08,
+      "triangle_average_location": [
+        0.06610704337557156,
+        -0.08410510296622913,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        102
+      ],
+      "b": [
+        "Base weighted steel plate",
+        55
+      ],
+      "overlap_area_m2": 1.3669206200750059e-07,
+      "triangle_average_location": [
+        0.06971866389115651,
+        -0.08114112168550491,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        103
+      ],
+      "b": [
+        "Base weighted steel plate",
+        54
+      ],
+      "overlap_area_m2": 1.744492271193998e-07,
+      "triangle_average_location": [
+        0.0669181098540624,
+        -0.08550991242130597,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        104
+      ],
+      "b": [
+        "Base weighted steel plate",
+        54
+      ],
+      "overlap_area_m2": 1.1076545529094609e-07,
+      "triangle_average_location": [
+        0.06806513046224912,
+        -0.08665693302949269,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        104
+      ],
+      "b": [
+        "Base weighted steel plate",
+        55
+      ],
+      "overlap_area_m2": 6.368377182845372e-08,
+      "triangle_average_location": [
+        0.07167675097783406,
+        -0.0836929517487685,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        105
+      ],
+      "b": [
+        "Base weighted steel plate",
+        55
+      ],
+      "overlap_area_m2": 1.7444944022670938e-07,
+      "triangle_average_location": [
+        0.07308156043291092,
+        -0.08450401822725932,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        106
+      ],
+      "b": [
+        "Base weighted steel plate",
+        55
+      ],
+      "overlap_area_m2": 1.7444847407247624e-07,
+      "triangle_average_location": [
+        0.07464842001597087,
+        -0.08492385720213254,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        107
+      ],
+      "b": [
+        "Base weighted steel plate",
+        55
+      ],
+      "overlap_area_m2": 1.7444847407247624e-07,
+      "triangle_average_location": [
+        0.07627055297295253,
+        -0.08492385720213254,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        108
+      ],
+      "b": [
+        "Base weighted steel plate",
+        55
+      ],
+      "overlap_area_m2": 1.7444944022670938e-07,
+      "triangle_average_location": [
+        0.07783741255601247,
+        -0.08450401822725932,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        109
+      ],
+      "b": [
+        "Base weighted steel plate",
+        55
+      ],
+      "overlap_area_m2": 1.744492271193998e-07,
+      "triangle_average_location": [
+        0.07924222201108932,
+        -0.0836929517487685,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        110
+      ],
+      "b": [
+        "Base weighted steel plate",
+        56
+      ],
+      "overlap_area_m2": 1.744492271193998e-07,
+      "triangle_average_location": [
+        0.0836929517487685,
+        -0.07924222201108932,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        111
+      ],
+      "b": [
+        "Base weighted steel plate",
+        56
+      ],
+      "overlap_area_m2": 1.7444944022670938e-07,
+      "triangle_average_location": [
+        0.08450401822725932,
+        -0.07783741255601247,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        112
+      ],
+      "b": [
+        "Base weighted steel plate",
+        56
+      ],
+      "overlap_area_m2": 1.7444847407247624e-07,
+      "triangle_average_location": [
+        0.08492385720213254,
+        -0.07627055297295253,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        113
+      ],
+      "b": [
+        "Base weighted steel plate",
+        56
+      ],
+      "overlap_area_m2": 1.7444847407247624e-07,
+      "triangle_average_location": [
+        0.08492385720213254,
+        -0.07464842001597087,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        114
+      ],
+      "b": [
+        "Base weighted steel plate",
+        56
+      ],
+      "overlap_area_m2": 1.7444944022670938e-07,
+      "triangle_average_location": [
+        0.08450401822725932,
+        -0.07308156043291092,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        115
+      ],
+      "b": [
+        "Base weighted steel plate",
+        56
+      ],
+      "overlap_area_m2": 6.368377182845372e-08,
+      "triangle_average_location": [
+        0.0836929517487685,
+        -0.07167675097783406,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        115
+      ],
+      "b": [
+        "Base weighted steel plate",
+        57
+      ],
+      "overlap_area_m2": 1.1076545529094609e-07,
+      "triangle_average_location": [
+        0.08665693302949269,
+        -0.06806513046224912,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        116
+      ],
+      "b": [
+        "Base weighted steel plate",
+        57
+      ],
+      "overlap_area_m2": 1.744492271193998e-07,
+      "triangle_average_location": [
+        0.08550991242130597,
+        -0.0669181098540624,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        117
+      ],
+      "b": [
+        "Base weighted steel plate",
+        56
+      ],
+      "overlap_area_m2": 1.3669206200750059e-07,
+      "triangle_average_location": [
+        0.08114112168550491,
+        -0.06971866389115651,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        117
+      ],
+      "b": [
+        "Base weighted steel plate",
+        57
+      ],
+      "overlap_area_m2": 3.77573782192088e-08,
+      "triangle_average_location": [
+        0.08410510296622913,
+        -0.06610704337557156,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        118
+      ],
+      "b": [
+        "Base weighted steel plate",
+        56
+      ],
+      "overlap_area_m2": 1.3777374584522661e-06,
+      "triangle_average_location": [
+        0.07876319562395413,
+        -0.06935198480884235,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        119
+      ],
+      "b": [
+        "Base weighted steel plate",
+        56
+      ],
+      "overlap_area_m2": 1.3777332580527836e-06,
+      "triangle_average_location": [
+        0.07570944478114446,
+        -0.07017023488879204,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        120
+      ],
+      "b": [
+        "Base weighted steel plate",
+        55
+      ],
+      "overlap_area_m2": 1.377733175933482e-06,
+      "triangle_average_location": [
+        0.07017023488879204,
+        -0.07570944478114446,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        121
+      ],
+      "b": [
+        "Base weighted steel plate",
+        55
+      ],
+      "overlap_area_m2": 1.3777374584522661e-06,
+      "triangle_average_location": [
+        0.06935198480884235,
+        -0.07876319562395413,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        122
+      ],
+      "b": [
+        "Base weighted steel plate",
+        54
+      ],
+      "overlap_area_m2": 7.557967865449812e-07,
+      "triangle_average_location": [
+        0.06655861437320709,
+        -0.08478092774748802,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        122
+      ],
+      "b": [
+        "Base weighted steel plate",
+        55
+      ],
+      "overlap_area_m2": 6.219364715078024e-07,
+      "triangle_average_location": [
+        0.07017023488879204,
+        -0.08181694646676381,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        123
+      ],
+      "b": [
+        "Base weighted steel plate",
+        54
+      ],
+      "overlap_area_m2": 1.194585438936413e-07,
+      "triangle_average_location": [
+        0.06879411513606708,
+        -0.087016428510348,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        123
+      ],
+      "b": [
+        "Base weighted steel plate",
+        55
+      ],
+      "overlap_area_m2": 1.2582746320402745e-06,
+      "triangle_average_location": [
+        0.07240573565165202,
+        -0.0840524472296238,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        124
+      ],
+      "b": [
+        "Base weighted steel plate",
+        55
+      ],
+      "overlap_area_m2": 1.3777374584522661e-06,
+      "triangle_average_location": [
+        0.0754594864944617,
+        -0.08487069730957349,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        125
+      ],
+      "b": [
+        "Base weighted steel plate",
+        55
+      ],
+      "overlap_area_m2": 1.3777332580527836e-06,
+      "triangle_average_location": [
+        0.07851323733727138,
+        -0.0840524472296238,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        126
+      ],
+      "b": [
+        "Base weighted steel plate",
+        56
+      ],
+      "overlap_area_m2": 1.377733175933482e-06,
+      "triangle_average_location": [
+        0.0840524472296238,
+        -0.07851323733727138,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        127
+      ],
+      "b": [
+        "Base weighted steel plate",
+        56
+      ],
+      "overlap_area_m2": 1.3777374584522661e-06,
+      "triangle_average_location": [
+        0.08487069730957349,
+        -0.0754594864944617,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        128
+      ],
+      "b": [
+        "Base weighted steel plate",
+        56
+      ],
+      "overlap_area_m2": 1.2582747070392915e-06,
+      "triangle_average_location": [
+        0.0840524472296238,
+        -0.07240573565165202,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        128
+      ],
+      "b": [
+        "Base weighted steel plate",
+        57
+      ],
+      "overlap_area_m2": 1.194585510139258e-07,
+      "triangle_average_location": [
+        0.087016428510348,
+        -0.06879411513606708,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        129
+      ],
+      "b": [
+        "Base weighted steel plate",
+        56
+      ],
+      "overlap_area_m2": 6.219364344374999e-07,
+      "triangle_average_location": [
+        0.08181694646676381,
+        -0.07017023488879204,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        129
+      ],
+      "b": [
+        "Base weighted steel plate",
+        57
+      ],
+      "overlap_area_m2": 7.557967414959822e-07,
+      "triangle_average_location": [
+        0.08478092774748802,
+        -0.06655861437320709,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        130
+      ],
+      "b": [
+        "Base weighted steel plate",
+        56
+      ],
+      "overlap_area_m2": 1.0464967723371106e-05,
+      "triangle_average_location": [
+        0.0772901823123296,
+        -0.06996212651332219,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        131
+      ],
+      "b": [
+        "Base weighted steel plate",
+        55
+      ],
+      "overlap_area_m2": 1.0464967099610423e-05,
+      "triangle_average_location": [
+        0.06996212651332219,
+        -0.0772901823123296,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        132
+      ],
+      "b": [
+        "Base weighted steel plate",
+        54
+      ],
+      "overlap_area_m2": 6.379049015247523e-07,
+      "triangle_average_location": [
+        0.06782351930936177,
+        -0.08575152357419331,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        132
+      ],
+      "b": [
+        "Base weighted steel plate",
+        55
+      ],
+      "overlap_area_m2": 9.827086908346418e-06,
+      "triangle_average_location": [
+        0.07143513982494672,
+        -0.08278754229346912,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        133
+      ],
+      "b": [
+        "Base weighted steel plate",
+        55
+      ],
+      "overlap_area_m2": 1.0464967723371106e-05,
+      "triangle_average_location": [
+        0.07693249980608623,
+        -0.08426055560509364,
+        0.00800000037997961
+      ],
+      "normal_dot": -0.9999999403953552
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        134
+      ],
+      "b": [
+        "Base weighted steel plate",
+        56
+      ],
+      "overlap_area_m2": 1.0464967099610423e-05,
+      "triangle_average_location": [
+        0.08426055560509364,
+        -0.07693249980608623,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        135
+      ],
+      "b": [
+        "Base weighted steel plate",
+        56
+      ],
+      "overlap_area_m2": 9.827086908346418e-06,
+      "triangle_average_location": [
+        0.08278754229346912,
+        -0.07143513982494672,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        135
+      ],
+      "b": [
+        "Base weighted steel plate",
+        57
+      ],
+      "overlap_area_m2": 6.379049015247523e-07,
+      "triangle_average_location": [
+        0.08575152357419331,
+        -0.06782351930936177,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        136
+      ],
+      "b": [
+        "Base weighted steel plate",
+        55
+      ],
+      "overlap_area_m2": 3.3823331987078986e-05,
+      "triangle_average_location": [
+        0.07251345987121265,
+        -0.07581716900070508,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        136
+      ],
+      "b": [
+        "Base weighted steel plate",
+        56
+      ],
+      "overlap_area_m2": 3.3823331987078986e-05,
+      "triangle_average_location": [
+        0.07581716900070508,
+        -0.07251345987121265,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        137
+      ],
+      "b": [
+        "Base weighted steel plate",
+        55
+      ],
+      "overlap_area_m2": 6.764666397415797e-05,
+      "triangle_average_location": [
+        0.07438116644819577,
+        -0.08278754229346912,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        138
+      ],
+      "b": [
+        "Base weighted steel plate",
+        56
+      ],
+      "overlap_area_m2": 6.764666397415797e-05,
+      "triangle_average_location": [
+        0.08278754229346912,
+        -0.07438116644819577,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        139
+      ],
+      "b": [
+        "Base weighted steel plate",
+        55
+      ],
+      "overlap_area_m2": 0.00010146999596123696,
+      "triangle_average_location": [
+        0.0754594864944617,
+        -0.07876319562395413,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    },
+    {
+      "a": [
+        "Base rubber foot 3",
+        139
+      ],
+      "b": [
+        "Base weighted steel plate",
+        56
+      ],
+      "overlap_area_m2": 0.00010146999596123696,
+      "triangle_average_location": [
+        0.07876319562395413,
+        -0.0754594864944617,
+        0.00800000037997961
+      ],
+      "normal_dot": -1.0
+    }
+  ],
+  "method": "Direct unoriented-plane grouped triangle pairs, including shared vertices, same mesh and opposite normals; exact 2D polygon clipping; area threshold1e-12m\u00b2, plane tolerance1e-7m."
+}
